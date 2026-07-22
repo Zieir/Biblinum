@@ -1,0 +1,46 @@
+{
+    "metadata": {
+        "title": "RECUEIL DES TRAVAUX CHIMIQUES",
+        "title_complement": "Suivi des recherches sur la cause, la nature et le traitement de LA FIÈVRE JAUNE",
+        "volume_number": "",
+        "authors": "FREIRE, Domingos",
+        "publisher": "Imprimerie de Molarinho",
+        "publication_place": "RIO DE JANEIRO",
+        "date": "1880",
+        "identifier": "http://gallica.bnf.fr/ark:/12148/bpt6k91738p",
+        "iiif_manifest": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k91738p/manifest.json"
+    },
+    "langue": "fr (French)",
+    "_annotations": {
+        "metadata.title": {
+            "lisibilite": "Lisible"
+        },
+        "metadata.title_complement": {
+            "lisibilite": "Lisible"
+        },
+        "metadata.volume_number": {
+            "lisibilite": "Non lisible",
+            "cause": "absent"
+        },
+        "metadata.authors": {
+            "lisibilite": "Lisible"
+        },
+        "metadata.publisher": {
+            "lisibilite": "Lisible",
+            "correction": "Imprimerie de Molarinho"
+        },
+        "metadata.publication_place": {
+            "lisibilite": "Non lisible",
+            "cause": "recouvert"
+        },
+        "metadata.date": {
+            "lisibilite": "Non lisible",
+            "cause": "recouvert",
+            "correction": "1880"
+        },
+        "langue": {
+            "lisibilite": "Lisible"
+        }
+    },
+    "ark": "bpt6k91738p"
+}

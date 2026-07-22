@@ -1,0 +1,48 @@
+{
+    "metadata": {
+        "title": "RECHERCHES SUR LES MODIFICATIONS MOLÉCULAIRES",
+        "title_complement": "OU ÉTATS ISALLOTROPIQUES DE LA MATIÈRE AMYLACÉE",
+        "volume_number": "",
+        "authors": "BÉCHAMP, A.",
+        "publisher": "",
+        "publication_place": "",
+        "date": "",
+        "identifier": "http://gallica.bnf.fr/ark:/12148/bpt6k916957",
+        "iiif_manifest": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k916957/manifest.json"
+    },
+    "langue": "fr (French)",
+    "_annotations": {
+        "metadata.title": {
+            "lisibilite": "Lisible"
+        },
+        "metadata.title_complement": {
+            "lisibilite": "Lisible"
+        },
+        "metadata.volume_number": {
+            "lisibilite": "Non lisible",
+            "cause": "absent"
+        },
+        "metadata.authors": {
+            "lisibilite": "Lisible",
+            "correction": "BÉCHAMP, A."
+        },
+        "metadata.publisher": {
+            "lisibilite": "Non lisible",
+            "cause": "absent",
+            "correction": ""
+        },
+        "metadata.publication_place": {
+            "lisibilite": "Non lisible",
+            "cause": "absent"
+        },
+        "metadata.date": {
+            "lisibilite": "Non lisible",
+            "cause": "absent",
+            "correction": ""
+        },
+        "langue": {
+            "lisibilite": "Lisible"
+        }
+    },
+    "ark": "bpt6k916957"
+}

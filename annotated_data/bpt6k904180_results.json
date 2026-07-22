@@ -1,0 +1,46 @@
+{
+    "metadata": {
+        "title": "TABLES FORMING AN APPENDIX TO W. DITTMAR'S MANUAL OF QUALITATIVE CHEMICAL ANALYSIS",
+        "title_complement": "",
+        "volume_number": "",
+        "authors": "Dittmar, W.",
+        "publisher": "EDMONSTON AND DOUGLAS",
+        "publication_place": "EDINBURGH",
+        "date": "1876",
+        "identifier": "http://gallica.bnf.fr/ark:/12148/bpt6k904180",
+        "iiif_manifest": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k904180/manifest.json"
+    },
+    "langue": "en (English)",
+    "_annotations": {
+        "metadata.title": {
+            "lisibilite": "Lisible",
+            "correction": "TABLES FORMING AN APPENDIX TO W. DITTMAR'S MANUAL OF QUALITATIVE CHEMICAL ANALYSIS"
+        },
+        "metadata.title_complement": {
+            "lisibilite": "Non lisible",
+            "cause": "absent",
+            "correction": ""
+        },
+        "metadata.volume_number": {
+            "lisibilite": "Non lisible",
+            "cause": "absent"
+        },
+        "metadata.authors": {
+            "lisibilite": "Non lisible",
+            "cause": "absent"
+        },
+        "metadata.publisher": {
+            "lisibilite": "Lisible"
+        },
+        "metadata.publication_place": {
+            "lisibilite": "Lisible"
+        },
+        "metadata.date": {
+            "lisibilite": "Lisible"
+        },
+        "langue": {
+            "lisibilite": "Lisible"
+        }
+    },
+    "ark": "bpt6k904180"
+}

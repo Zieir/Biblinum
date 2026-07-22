@@ -1,0 +1,45 @@
+{
+    "metadata": {
+        "title": "ÉTUDES SUR LA SURSATURATION",
+        "title_complement": "",
+        "volume_number": "",
+        "authors": "VIOLLETTE, Charles",
+        "publisher": "GAUTHIER-VILLARS; QUARRÉ",
+        "publication_place": "PARIS; LILLE",
+        "date": "1867",
+        "identifier": "http://gallica.bnf.fr/ark:/12148/bpt6k91931t",
+        "iiif_manifest": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k91931t/manifest.json"
+    },
+    "langue": "fr (French)",
+    "_annotations": {
+        "metadata.title": {
+            "lisibilite": "Lisible"
+        },
+        "metadata.title_complement": {
+            "lisibilite": "Non lisible",
+            "cause": "absent"
+        },
+        "metadata.volume_number": {
+            "lisibilite": "Non lisible",
+            "cause": "absent"
+        },
+        "metadata.authors": {
+            "lisibilite": "Lisible"
+        },
+        "metadata.publisher": {
+            "lisibilite": "Lisible",
+            "correction": "GAUTHIER-VILLARS; QUARRÉ"
+        },
+        "metadata.publication_place": {
+            "lisibilite": "Lisible",
+            "correction": "PARIS; LILLE"
+        },
+        "metadata.date": {
+            "lisibilite": "Lisible"
+        },
+        "langue": {
+            "lisibilite": "Lisible"
+        }
+    },
+    "ark": "bpt6k91931t"
+}

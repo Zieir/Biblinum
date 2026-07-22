@@ -1,0 +1,44 @@
+{
+    "metadata": {
+        "title": "ÉTUDES DE CHIMIE ORGANIQUE",
+        "title_complement": "faites en vue des applications physiologiques et médicales",
+        "volume_number": "PREMIÈRE PARTIE",
+        "authors": "Millon, M. E.",
+        "publisher": "",
+        "publication_place": "",
+        "date": "",
+        "identifier": "http://gallica.bnf.fr/ark:/12148/bpt6k83734k",
+        "iiif_manifest": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k83734k/manifest.json"
+    },
+    "_annotations": {
+        "metadata.title": {
+            "lisibilite": "Lisible"
+        },
+        "metadata.title_complement": {
+            "lisibilite": "Lisible"
+        },
+        "metadata.volume_number": {
+            "lisibilite": "Lisible"
+        },
+        "metadata.authors": {
+            "lisibilite": "Lisible"
+        },
+        "metadata.publisher": {
+            "lisibilite": "Non lisible",
+            "cause": "absent"
+        },
+        "metadata.publication_place": {
+            "lisibilite": "Non lisible",
+            "cause": "absent"
+        },
+        "metadata.date": {
+            "lisibilite": "Non lisible",
+            "cause": "absent"
+        },
+        "langue": {
+            "lisibilite": "Lisible"
+        }
+    },
+    "langue": "fr (French)",
+    "ark": "bpt6k83734k"
+}

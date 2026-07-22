@@ -1,0 +1,46 @@
+{
+    "metadata": {
+        "title": "Jac. Berzelius",
+        "title_complement": "RESEANTECKNINGAR ",
+        "volume_number": "",
+        "authors": "Berzelius, Jac.",
+        "publisher": "P. A. NORSTEDT & SÖNER",
+        "publication_place": "STOCKHOLM",
+        "date": "",
+        "identifier": "http://gallica.bnf.fr/ark:/12148/bpt6k90104g",
+        "iiif_manifest": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k90104g/manifest.json"
+    },
+    "langue": "sv (Swedish)",
+    "_annotations": {
+        "metadata.title": {
+            "lisibilite": "Lisible",
+            "correction": "Jac. Berzelius"
+        },
+        "metadata.title_complement": {
+            "lisibilite": "Lisible",
+            "correction": "RESEANTECKNINGAR "
+        },
+        "metadata.volume_number": {
+            "lisibilite": "Non lisible",
+            "cause": "absent"
+        },
+        "metadata.authors": {
+            "lisibilite": "Lisible"
+        },
+        "metadata.publisher": {
+            "lisibilite": "Lisible"
+        },
+        "metadata.publication_place": {
+            "lisibilite": "Lisible"
+        },
+        "metadata.date": {
+            "lisibilite": "Non lisible",
+            "cause": "absent"
+        },
+        "langue": {
+            "lisibilite": "Lisible"
+        },
+        "_note": "A revoir"
+    },
+    "ark": "bpt6k90104g"
+}

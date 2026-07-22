@@ -1,0 +1,41 @@
+{
+    "metadata": {
+        "title": "CHEMICAL RECREATIONS",
+        "title_complement": "A Popular Manual of Experimental Chemistry",
+        "volume_number": "SECOND DIVISION",
+        "authors": "GRIFFIN, John Joseph",
+        "publisher": "John Joseph Griffin and Richard Griffin and Co.",
+        "publication_place": "London",
+        "date": "1860",
+        "identifier": "http://gallica.bnf.fr/ark:/12148/bpt6k906532",
+        "iiif_manifest": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k906532/manifest.json"
+    },
+    "langue": "en (English)",
+    "_annotations": {
+        "metadata.title": {
+            "lisibilite": "Lisible"
+        },
+        "metadata.title_complement": {
+            "lisibilite": "Lisible"
+        },
+        "metadata.volume_number": {
+            "lisibilite": "Lisible"
+        },
+        "metadata.authors": {
+            "lisibilite": "Lisible"
+        },
+        "metadata.publisher": {
+            "lisibilite": "Lisible"
+        },
+        "metadata.publication_place": {
+            "lisibilite": "Lisible"
+        },
+        "metadata.date": {
+            "lisibilite": "Lisible"
+        },
+        "langue": {
+            "lisibilite": "Lisible"
+        }
+    },
+    "ark": "bpt6k906532"
+}

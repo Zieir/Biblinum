@@ -1,0 +1,43 @@
+{
+    "metadata": {
+        "title": "THÈSES",
+        "title_complement": "présentées à la faculté des sciences de Paris pour obtenir le grade de docteur ès sciences physiques",
+        "volume_number": "",
+        "authors": "CLOËZ, François-Stanislas",
+        "publisher": "Gauthier-Villars, imprimeur-libraire",
+        "publication_place": "Paris",
+        "date": "1866",
+        "identifier": "http://gallica.bnf.fr/ark:/12148/bpt6k91781t",
+        "iiif_manifest": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k91781t/manifest.json"
+    },
+    "langue": "fr (French)",
+    "_annotations": {
+        "metadata.title": {
+            "lisibilite": "Lisible"
+        },
+        "metadata.title_complement": {
+            "lisibilite": "Lisible"
+        },
+        "metadata.volume_number": {
+            "lisibilite": "Non lisible",
+            "cause": "absent"
+        },
+        "metadata.authors": {
+            "lisibilite": "Lisible",
+            "correction": "CLOËZ, François-Stanislas"
+        },
+        "metadata.publisher": {
+            "lisibilite": "Lisible"
+        },
+        "metadata.publication_place": {
+            "lisibilite": "Lisible"
+        },
+        "metadata.date": {
+            "lisibilite": "Lisible"
+        },
+        "langue": {
+            "lisibilite": "Lisible"
+        }
+    },
+    "ark": "bpt6k91781t"
+}

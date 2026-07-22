@@ -1,0 +1,49 @@
+{
+    "metadata": {
+        "title": "LEÇONS DE GÉOMÉTRIE ANALYTIQUE",
+        "title_complement": "",
+        "volume_number": "",
+        "authors": "",
+        "publisher": "",
+        "publication_place": "",
+        "date": "",
+        "identifier": "http://gallica.bnf.fr/ark:/12148/bpt6k90343x",
+        "iiif_manifest": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k90343x/manifest.json"
+    },
+    "langue": "fr (French)",
+    "_annotations": {
+        "metadata.title": {
+            "lisibilite": "Lisible",
+            "correction": "LEÇONS DE GÉOMÉTRIE ANALYTIQUE"
+        },
+        "metadata.title_complement": {
+            "lisibilite": "Non lisible",
+            "cause": "absent",
+            "correction": ""
+        },
+        "metadata.volume_number": {
+            "lisibilite": "Non lisible",
+            "cause": "absent"
+        },
+        "metadata.authors": {
+            "lisibilite": "Non lisible",
+            "cause": "absent"
+        },
+        "metadata.publisher": {
+            "lisibilite": "Non lisible",
+            "cause": "absent"
+        },
+        "metadata.publication_place": {
+            "lisibilite": "Non lisible",
+            "cause": "absent"
+        },
+        "metadata.date": {
+            "lisibilite": "Non lisible",
+            "cause": "absent"
+        },
+        "langue": {
+            "lisibilite": "Lisible"
+        }
+    },
+    "ark": "bpt6k90343x"
+}

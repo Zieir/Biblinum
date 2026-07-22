@@ -1,0 +1,47 @@
+{
+    "metadata": {
+        "title": "ŒUVRES COMPLÈTES",
+        "title_complement": "d'AUGUSTIN CAUCHY",
+        "volume_number": "",
+        "authors": "CAUCHY, Augustin",
+        "publisher": "",
+        "publication_place": "",
+        "date": "",
+        "identifier": "http://gallica.bnf.fr/ark:/12148/bpt6k90188b",
+        "iiif_manifest": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k90188b/manifest.json"
+    },
+    "langue": "fr (French)",
+    "_annotations": {
+        "metadata.title": {
+            "lisibilite": "Lisible",
+            "correction": "ŒUVRES COMPLÈTES"
+        },
+        "metadata.title_complement": {
+            "lisibilite": "Lisible",
+            "correction": "d'AUGUSTIN CAUCHY"
+        },
+        "metadata.volume_number": {
+            "lisibilite": "Non lisible",
+            "cause": "absent"
+        },
+        "metadata.authors": {
+            "lisibilite": "Lisible"
+        },
+        "metadata.publisher": {
+            "lisibilite": "Non lisible",
+            "cause": "absent"
+        },
+        "metadata.publication_place": {
+            "lisibilite": "Non lisible",
+            "cause": "absent"
+        },
+        "metadata.date": {
+            "lisibilite": "Non lisible",
+            "cause": "absent"
+        },
+        "langue": {
+            "lisibilite": "Lisible"
+        }
+    },
+    "ark": "bpt6k90188b"
+}

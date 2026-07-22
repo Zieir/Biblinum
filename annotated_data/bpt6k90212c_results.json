@@ -1,0 +1,46 @@
+{
+    "metadata": {
+        "title": "ŒUVRES",
+        "title_complement": "de LAGUERRE",
+        "volume_number": "",
+        "authors": "LAGUERRE",
+        "publisher": "",
+        "publication_place": "",
+        "date": "",
+        "identifier": "http://gallica.bnf.fr/ark:/12148/bpt6k90212c",
+        "iiif_manifest": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k90212c/manifest.json"
+    },
+    "langue": "fr (French)",
+    "_annotations": {
+        "metadata.title": {
+            "lisibilite": "Lisible"
+        },
+        "metadata.title_complement": {
+            "lisibilite": "Lisible",
+            "correction": "de LAGUERRE"
+        },
+        "metadata.volume_number": {
+            "lisibilite": "Non lisible",
+            "cause": "absent"
+        },
+        "metadata.authors": {
+            "lisibilite": "Lisible"
+        },
+        "metadata.publisher": {
+            "lisibilite": "Non lisible",
+            "cause": "absent"
+        },
+        "metadata.publication_place": {
+            "lisibilite": "Non lisible",
+            "cause": "absent"
+        },
+        "metadata.date": {
+            "lisibilite": "Non lisible",
+            "cause": "absent"
+        },
+        "langue": {
+            "lisibilite": "Lisible"
+        }
+    },
+    "ark": "bpt6k90212c"
+}

@@ -1,0 +1,44 @@
+{
+    "metadata": {
+        "title": "RECHERCHES SUR LE NITRATE D'URANIUM",
+        "title_complement": "MÉMOIRE D'ENSEMBLE",
+        "volume_number": "",
+        "authors": "ŒCHSNER DE CONINCK",
+        "publisher": "Imprimerie Gustave Firmin et Montane",
+        "publication_place": "Montpellier",
+        "date": "",
+        "identifier": "http://gallica.bnf.fr/ark:/12148/bpt6k91831j",
+        "iiif_manifest": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k91831j/manifest.json"
+    },
+    "langue": "fr (French)",
+    "_annotations": {
+        "metadata.title": {
+            "lisibilite": "Lisible"
+        },
+        "metadata.title_complement": {
+            "lisibilite": "Lisible"
+        },
+        "metadata.volume_number": {
+            "lisibilite": "Non lisible",
+            "cause": "absent"
+        },
+        "metadata.authors": {
+            "lisibilite": "Lisible",
+            "correction": "ŒCHSNER DE CONINCK"
+        },
+        "metadata.publisher": {
+            "lisibilite": "Lisible"
+        },
+        "metadata.publication_place": {
+            "lisibilite": "Lisible"
+        },
+        "metadata.date": {
+            "lisibilite": "Non lisible",
+            "cause": "absent"
+        },
+        "langue": {
+            "lisibilite": "Lisible"
+        }
+    },
+    "ark": "bpt6k91831j"
+}

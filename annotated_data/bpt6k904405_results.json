@@ -1,0 +1,49 @@
+{
+    "metadata": {
+        "title": "CONFÉRENCES Faites au laboratoire de M. FRIEDEL",
+        "title_complement": "1888 - 1889",
+        "volume_number": "",
+        "authors": "",
+        "publisher": "",
+        "publication_place": "PARIS",
+        "date": "",
+        "identifier": "http://gallica.bnf.fr/ark:/12148/bpt6k904405",
+        "iiif_manifest": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k904405/manifest.json"
+    },
+    "langue": "fr (French)",
+    "_annotations": {
+        "metadata.title": {
+            "lisibilite": "Lisible",
+            "correction": "CONFÉRENCES Faites au laboratoire de M. FRIEDEL"
+        },
+        "metadata.title_complement": {
+            "lisibilite": "Lisible",
+            "correction": "1888 - 1889"
+        },
+        "metadata.volume_number": {
+            "lisibilite": "Non lisible",
+            "cause": "absent"
+        },
+        "metadata.authors": {
+            "lisibilite": "Non lisible",
+            "cause": "absent"
+        },
+        "metadata.publisher": {
+            "lisibilite": "Non lisible",
+            "cause": "absent",
+            "correction": ""
+        },
+        "metadata.publication_place": {
+            "lisibilite": "Lisible"
+        },
+        "metadata.date": {
+            "lisibilite": "Non lisible",
+            "cause": "absent",
+            "correction": ""
+        },
+        "langue": {
+            "lisibilite": "Lisible"
+        }
+    },
+    "ark": "bpt6k904405"
+}

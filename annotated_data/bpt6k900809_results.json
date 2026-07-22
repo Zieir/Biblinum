@@ -1,0 +1,42 @@
+{
+    "metadata": {
+        "title": "A MANUAL OF THE CHEMISTRY OF THE CARBON COMPOUNDS",
+        "title_complement": "ORGANIC CHEMISTRY",
+        "volume_number": "",
+        "authors": "SCHORLEMMER, C.",
+        "publisher": "MACMILLAN AND CO.",
+        "publication_place": "London",
+        "date": "1874",
+        "identifier": "http://gallica.bnf.fr/ark:/12148/bpt6k900809",
+        "iiif_manifest": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k900809/manifest.json"
+    },
+    "langue": "en (English)",
+    "_annotations": {
+        "metadata.title": {
+            "lisibilite": "Lisible"
+        },
+        "metadata.title_complement": {
+            "lisibilite": "Lisible"
+        },
+        "metadata.volume_number": {
+            "lisibilite": "Non lisible",
+            "cause": "absent"
+        },
+        "metadata.authors": {
+            "lisibilite": "Lisible"
+        },
+        "metadata.publisher": {
+            "lisibilite": "Lisible"
+        },
+        "metadata.publication_place": {
+            "lisibilite": "Lisible"
+        },
+        "metadata.date": {
+            "lisibilite": "Lisible"
+        },
+        "langue": {
+            "lisibilite": "Lisible"
+        }
+    },
+    "ark": "bpt6k900809"
+}

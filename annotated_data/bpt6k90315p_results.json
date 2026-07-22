@@ -1,0 +1,47 @@
+{
+    "metadata": {
+        "title": "Mémoires de J.-B. Boussingault",
+        "title_complement": "",
+        "volume_number": "TOME QUATRIÈME",
+        "authors": "BOUSSINGAULT, J.-B.",
+        "publisher": "",
+        "publication_place": "",
+        "date": "",
+        "identifier": "http://gallica.bnf.fr/ark:/12148/bpt6k90315p",
+        "iiif_manifest": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k90315p/manifest.json"
+    },
+    "langue": "fr (French)",
+    "_annotations": {
+        "metadata.title": {
+            "lisibilite": "Lisible",
+            "correction": "Mémoires de J.-B. Boussingault"
+        },
+        "metadata.title_complement": {
+            "lisibilite": "Non lisible",
+            "cause": "absent"
+        },
+        "metadata.volume_number": {
+            "lisibilite": "Lisible"
+        },
+        "metadata.authors": {
+            "lisibilite": "Lisible"
+        },
+        "metadata.publisher": {
+            "lisibilite": "Non lisible",
+            "cause": "absent",
+            "correction": ""
+        },
+        "metadata.publication_place": {
+            "lisibilite": "Non lisible",
+            "cause": "absent"
+        },
+        "metadata.date": {
+            "lisibilite": "Non lisible",
+            "cause": "absent"
+        },
+        "langue": {
+            "lisibilite": "Lisible"
+        }
+    },
+    "ark": "bpt6k90315p"
+}

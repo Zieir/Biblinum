@@ -1,0 +1,44 @@
+{
+    "metadata": {
+        "title": "ANSICHTEN ÜBER DIE AUFGABE DER CHEMIE UND ÜBER DIE GRUNDBESTANDTHEILE DER KÖRPER BEI DEN BEDEUTENDEREN CHEMIKERN VON GEBER BIS G. E. STAHL",
+        "title_complement": "DIE ENTDECKUNG DER ZUSAMMENSETZUNG DES WASSERS",
+        "volume_number": "",
+        "authors": "KOPP, HERMANN",
+        "publisher": "FRIEDRICH VIEWEG UND SOHN",
+        "publication_place": "BRAUNSCHWEIG",
+        "date": "1875",
+        "identifier": "http://gallica.bnf.fr/ark:/12148/bpt6k905126",
+        "iiif_manifest": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k905126/manifest.json"
+    },
+    "langue": "de (German)",
+    "_annotations": {
+        "metadata.title": {
+            "lisibilite": "Lisible"
+        },
+        "metadata.title_complement": {
+            "lisibilite": "Lisible"
+        },
+        "metadata.volume_number": {
+            "lisibilite": "Non lisible",
+            "cause": "absent"
+        },
+        "metadata.authors": {
+            "lisibilite": "Non lisible",
+            "cause": "recouvert"
+        },
+        "metadata.publisher": {
+            "lisibilite": "Lisible"
+        },
+        "metadata.publication_place": {
+            "lisibilite": "Lisible"
+        },
+        "metadata.date": {
+            "lisibilite": "Non lisible",
+            "cause": "qualite"
+        },
+        "langue": {
+            "lisibilite": "Lisible"
+        }
+    },
+    "ark": "bpt6k905126"
+}

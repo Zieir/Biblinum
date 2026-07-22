@@ -1,0 +1,44 @@
+{
+    "metadata": {
+        "title": "MÉTALLURGIE DU PLATINE",
+        "title_complement": "ET DES MÉTAUX QUI L'ACCOMPAGNENT",
+        "volume_number": "",
+        "authors": "SAINTE-CLAIRE-DEVILLE, H. ; DEBRAY, H.",
+        "publisher": "DUNOD, ÉDITEUR",
+        "publication_place": "PARIS",
+        "date": "1861",
+        "identifier": "http://gallica.bnf.fr/ark:/12148/bpt6k90901n",
+        "iiif_manifest": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k90901n/manifest.json"
+    },
+    "langue": "fr (French)",
+    "_annotations": {
+        "metadata.title": {
+            "lisibilite": "Lisible"
+        },
+        "metadata.title_complement": {
+            "lisibilite": "Lisible"
+        },
+        "metadata.volume_number": {
+            "lisibilite": "Non lisible",
+            "cause": "absent"
+        },
+        "metadata.authors": {
+            "lisibilite": "Non lisible",
+            "cause": "qualite",
+            "correction": "SAINTE-CLAIRE-DEVILLE, H. ; DEBRAY, H."
+        },
+        "metadata.publisher": {
+            "lisibilite": "Lisible"
+        },
+        "metadata.publication_place": {
+            "lisibilite": "Lisible"
+        },
+        "metadata.date": {
+            "lisibilite": "Lisible"
+        },
+        "langue": {
+            "lisibilite": "Lisible"
+        }
+    },
+    "ark": "bpt6k90901n"
+}

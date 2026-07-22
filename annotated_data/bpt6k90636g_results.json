@@ -1,0 +1,41 @@
+{
+    "metadata": {
+        "title": "GRUNDRISS DER CHEMIE",
+        "title_complement": "ORGANISCHE CHEMIE",
+        "volume_number": "ZWEITER THEIL",
+        "authors": "Fittig, Rudolph",
+        "publisher": "VERLAG VON DUNCKER & HUMBLOT",
+        "publication_place": "LEIPZIG",
+        "date": "1872",
+        "identifier": "http://gallica.bnf.fr/ark:/12148/bpt6k90636g",
+        "iiif_manifest": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k90636g/manifest.json"
+    },
+    "langue": "de (German)",
+    "_annotations": {
+        "metadata.title": {
+            "lisibilite": "Lisible"
+        },
+        "metadata.title_complement": {
+            "lisibilite": "Lisible"
+        },
+        "metadata.volume_number": {
+            "lisibilite": "Lisible"
+        },
+        "metadata.authors": {
+            "lisibilite": "Lisible"
+        },
+        "metadata.publisher": {
+            "lisibilite": "Lisible"
+        },
+        "metadata.publication_place": {
+            "lisibilite": "Lisible"
+        },
+        "metadata.date": {
+            "lisibilite": "Lisible"
+        },
+        "langue": {
+            "lisibilite": "Lisible"
+        }
+    },
+    "ark": "bpt6k90636g"
+}

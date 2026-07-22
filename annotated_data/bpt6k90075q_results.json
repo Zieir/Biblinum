@@ -1,0 +1,42 @@
+{
+    "metadata": {
+        "title": "TRAITÉ PRATIQUE D'ANALYSE CHIMIQUE",
+        "title_complement": "TABLES SERVANT, DANS LES ANALYSES, A CALCULER LA QUANTITÉ D'UNE SUBSTANCE D'APRÈS CELLE QUI A ÉTÉ TROUVÉE D'UNE AUTRE SUBSTANCE",
+        "volume_number": "TOME SECOND",
+        "authors": "ROSE, Henri",
+        "publisher": "J.B. BAILLIÈRE",
+        "publication_place": "PARIS",
+        "date": "1843",
+        "identifier": "http://gallica.bnf.fr/ark:/12148/bpt6k90075q",
+        "iiif_manifest": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k90075q/manifest.json"
+    },
+    "langue": "fr (French)",
+    "_annotations": {
+        "metadata.title": {
+            "lisibilite": "Non lisible",
+            "cause": "recouvert"
+        },
+        "metadata.title_complement": {
+            "lisibilite": "Lisible"
+        },
+        "metadata.volume_number": {
+            "lisibilite": "Lisible"
+        },
+        "metadata.authors": {
+            "lisibilite": "Lisible"
+        },
+        "metadata.publisher": {
+            "lisibilite": "Lisible"
+        },
+        "metadata.publication_place": {
+            "lisibilite": "Lisible"
+        },
+        "metadata.date": {
+            "lisibilite": "Lisible"
+        },
+        "langue": {
+            "lisibilite": "Lisible"
+        }
+    },
+    "ark": "bpt6k90075q"
+}

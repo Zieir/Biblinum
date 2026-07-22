@@ -1,0 +1,50 @@
+{
+    "metadata": {
+        "title": "ЖИЗНЬ И ДѢЯТЕЛЬНОСТЬ Жизнь и Дѣятельность Николая Александровича Меншуткина",
+        "title_complement": "",
+        "volume_number": "",
+        "authors": "МЕНШУТКИНЪ, Николай Александрович",
+        "publisher": "Типографія М. Фроловой",
+        "publication_place": "С.-Петербургъ",
+        "date": "1908",
+        "identifier": "http://gallica.bnf.fr/ark:/12148/bpt6k900197",
+        "iiif_manifest": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k900197/manifest.json"
+    },
+    "langue": "ru (Russian)",
+    "_annotations": {
+        "metadata.title": {
+            "lisibilite": "Lisible",
+            "correction": "ЖИЗНЬ И ДѢЯТЕЛЬНОСТЬ Жизнь и Дѣятельность Николая Александровича Меншуткина"
+        },
+        "metadata.title_complement": {
+            "lisibilite": "Non lisible",
+            "cause": "absent"
+        },
+        "metadata.volume_number": {
+            "lisibilite": "Non lisible",
+            "cause": "absent"
+        },
+        "metadata.authors": {
+            "lisibilite": "Lisible"
+        },
+        "metadata.publisher": {
+            "lisibilite": "Non lisible",
+            "cause": "qualite",
+            "correction": "Типографія М. Фроловой"
+        },
+        "metadata.publication_place": {
+            "lisibilite": "Non lisible",
+            "cause": "qualite",
+            "correction": "С.-Петербургъ"
+        },
+        "metadata.date": {
+            "lisibilite": "Non lisible",
+            "cause": "qualite",
+            "correction": "1908"
+        },
+        "langue": {
+            "lisibilite": "Lisible"
+        }
+    },
+    "ark": "bpt6k900197"
+}

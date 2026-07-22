@@ -1,0 +1,42 @@
+{
+    "metadata": {
+        "title": "TRAITÉ DE CHIMIE ANATOMIQUE",
+        "title_complement": "ET PHYSIOLOGIQUE NORMALE ET PATHOLOGIQUE OU DES PRINCIPES IMMÉDIATS NORMAUX ET MORBIDES QUI CONSTITUENT LE CORPS DE L'HOMME ET DES MAMMIFÈRES",
+        "volume_number": "Tome TROISIEME",
+        "authors": "ROBIN, Charles ; VERDEUIL, F.",
+        "publisher": "J.-B. BAILLIÈRE",
+        "publication_place": "PARIS",
+        "date": "1853",
+        "identifier": "http://gallica.bnf.fr/ark:/12148/bpt6k90062c",
+        "iiif_manifest": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k90062c/manifest.json"
+    },
+    "langue": "fr (French)",
+    "_annotations": {
+        "metadata.title": {
+            "lisibilite": "Lisible"
+        },
+        "metadata.title_complement": {
+            "lisibilite": "Lisible"
+        },
+        "metadata.volume_number": {
+            "lisibilite": "Lisible",
+            "correction": "Tome TROISIEME"
+        },
+        "metadata.authors": {
+            "lisibilite": "Lisible"
+        },
+        "metadata.publisher": {
+            "lisibilite": "Lisible"
+        },
+        "metadata.publication_place": {
+            "lisibilite": "Lisible"
+        },
+        "metadata.date": {
+            "lisibilite": "Lisible"
+        },
+        "langue": {
+            "lisibilite": "Lisible"
+        }
+    },
+    "ark": "bpt6k90062c"
+}

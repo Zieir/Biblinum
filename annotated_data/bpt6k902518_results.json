@@ -1,0 +1,45 @@
+{
+    "metadata": {
+        "title": "VADE MECUM DU FABRICANT",
+        "title_complement": "DE PRODUITS CHIMIQUES",
+        "volume_number": "",
+        "authors": "LUNGE, G.",
+        "publisher": "BAUDRY & Cie",
+        "publication_place": "PARIS",
+        "date": "",
+        "identifier": "http://gallica.bnf.fr/ark:/12148/bpt6k902518",
+        "iiif_manifest": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k902518/manifest.json"
+    },
+    "langue": "fr (French)",
+    "_annotations": {
+        "metadata.title": {
+            "lisibilite": "Lisible"
+        },
+        "metadata.title_complement": {
+            "lisibilite": "Lisible"
+        },
+        "metadata.volume_number": {
+            "lisibilite": "Non lisible",
+            "cause": "absent"
+        },
+        "metadata.authors": {
+            "lisibilite": "Lisible"
+        },
+        "metadata.publisher": {
+            "lisibilite": "Non lisible",
+            "cause": "qualite",
+            "correction": "BAUDRY & Cie"
+        },
+        "metadata.publication_place": {
+            "lisibilite": "Lisible"
+        },
+        "metadata.date": {
+            "lisibilite": "Non lisible",
+            "cause": "absent"
+        },
+        "langue": {
+            "lisibilite": "Lisible"
+        }
+    },
+    "ark": "bpt6k902518"
+}

@@ -1,0 +1,15 @@
+{
+    "processing_time_seconds": 2.5,
+    "metadata": {
+        "title": "DICTIONNAIRE DES ARTS ET MANUFACTURES",
+        "title_complement": "DE L'AGRICULTURE, DES MINES, ETC.",
+        "volume_number": "H-Z",
+        "authors": "LABOULAYE, M. Ch.",
+        "publisher": "LIBRAIRIE DU DICTIONNAIRE DES ARTS ET MANUFACTURES",
+        "publication_place": "PARIS",
+        "date": "1870",
+        "identifier": "http://gallica.bnf.fr/ark:/12148/bpt6k905215",
+        "iiif_manifest": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k905215/manifest.json"
+    },
+    "ark": "bpt6k905215"
+}

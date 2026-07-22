@@ -1,0 +1,48 @@
+{
+    "metadata": {
+        "title": "QUÍMICA",
+        "title_complement": "",
+        "volume_number": "PARTE I",
+        "authors": "ARATA, Pedro N.",
+        "publisher": "LIBRERIA DAXTER ALIONKRAI",
+        "publication_place": "BUENOS AIRES",
+        "date": "",
+        "identifier": "http://gallica.bnf.fr/ark:/12148/bpt6k90162n",
+        "iiif_manifest": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k90162n/manifest.json"
+    },
+    "langue": "es (Spanish)",
+    "_annotations": {
+        "metadata.title": {
+            "lisibilite": "Lisible"
+        },
+        "metadata.title_complement": {
+            "lisibilite": "Non lisible",
+            "cause": "absent"
+        },
+        "metadata.volume_number": {
+            "lisibilite": "Non lisible",
+            "cause": "qualite"
+        },
+        "metadata.authors": {
+            "lisibilite": "Non lisible",
+            "cause": "qualite"
+        },
+        "metadata.publisher": {
+            "lisibilite": "Non lisible",
+            "cause": "qualite"
+        },
+        "metadata.publication_place": {
+            "lisibilite": "Non lisible",
+            "cause": "qualite"
+        },
+        "metadata.date": {
+            "lisibilite": "Non lisible",
+            "cause": "absent"
+        },
+        "langue": {
+            "lisibilite": "Lisible"
+        },
+        "_note": "A revoir - publisher"
+    },
+    "ark": "bpt6k90162n"
+}

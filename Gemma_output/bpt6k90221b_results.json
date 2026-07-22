@@ -1,0 +1,15 @@
+{
+    "processing_time_seconds": 3.79,
+    "metadata": {
+        "title": "Œuvres",
+        "title_complement": "",
+        "volume_number": "TOME IV",
+        "authors": "Hermite, Charles",
+        "publisher": "Gauthier-Villars et Cie",
+        "publication_place": "Paris",
+        "date": "1917",
+        "identifier": "http://gallica.bnf.fr/ark:/12148/bpt6k90221b",
+        "iiif_manifest": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k90221b/manifest.json"
+    },
+    "ark": "bpt6k90221b"
+}

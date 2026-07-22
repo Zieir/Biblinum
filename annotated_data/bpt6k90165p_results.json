@@ -1,0 +1,41 @@
+{
+    "metadata": {
+        "title": "APUNTES DE QUÍMICA",
+        "title_complement": "QUÍMICA ORGÁNICA : INTRODUCCION Y SÉRIE GRASA",
+        "volume_number": "SEGUNDA PARTE",
+        "authors": "ARATA, Pedro N.",
+        "publisher": "TALLERES DE PUBLICACIONES DEL MUSEO",
+        "publication_place": "LA PLATA",
+        "date": "1893",
+        "identifier": "http://gallica.bnf.fr/ark:/12148/bpt6k90165p",
+        "iiif_manifest": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k90165p/manifest.json"
+    },
+    "langue": "es (Spanish)",
+    "_annotations": {
+        "metadata.title": {
+            "lisibilite": "Lisible"
+        },
+        "metadata.title_complement": {
+            "lisibilite": "Lisible"
+        },
+        "metadata.volume_number": {
+            "lisibilite": "Lisible"
+        },
+        "metadata.authors": {
+            "lisibilite": "Lisible"
+        },
+        "metadata.publisher": {
+            "lisibilite": "Lisible"
+        },
+        "metadata.publication_place": {
+            "lisibilite": "Lisible"
+        },
+        "metadata.date": {
+            "lisibilite": "Lisible"
+        },
+        "langue": {
+            "lisibilite": "Lisible"
+        }
+    },
+    "ark": "bpt6k90165p"
+}

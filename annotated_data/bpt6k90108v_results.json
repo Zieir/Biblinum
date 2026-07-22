@@ -1,0 +1,43 @@
+{
+    "metadata": {
+        "title": "JAC. BERZELIUS BREV",
+        "title_complement": "BREVväXLING MELLAN BERZELIUS OCH WILHELM HISINGER (1804—1842)",
+        "volume_number": "VIII",
+        "authors": "SÖDERBAUM, H. G.",
+        "publisher": "KUNGL. SVENSKA VETENSKAPSAKADEMIEN",
+        "publication_place": "",
+        "date": "",
+        "identifier": "http://gallica.bnf.fr/ark:/12148/bpt6k90108v",
+        "iiif_manifest": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k90108v/manifest.json"
+    },
+    "langue": "sv (Swedish)",
+    "_annotations": {
+        "metadata.title": {
+            "lisibilite": "Lisible"
+        },
+        "metadata.title_complement": {
+            "lisibilite": "Lisible"
+        },
+        "metadata.volume_number": {
+            "lisibilite": "Lisible"
+        },
+        "metadata.authors": {
+            "lisibilite": "Lisible"
+        },
+        "metadata.publisher": {
+            "lisibilite": "Lisible"
+        },
+        "metadata.publication_place": {
+            "lisibilite": "Non lisible",
+            "cause": "absent"
+        },
+        "metadata.date": {
+            "lisibilite": "Non lisible",
+            "cause": "absent"
+        },
+        "langue": {
+            "lisibilite": "Lisible"
+        }
+    },
+    "ark": "bpt6k90108v"
+}

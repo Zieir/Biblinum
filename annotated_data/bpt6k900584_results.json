@@ -1,0 +1,42 @@
+{
+    "metadata": {
+        "title": "LEÇONS DE CHIMIE",
+        "title_complement": "PROPOSÉES AUX ÉLÈVES DE L'ÉCOLE SAINTE-BARBE QUI SE PRÉPARENT A L'ÉCOLE POLYTECHNIQUE",
+        "volume_number": "",
+        "authors": "RICHE, M. Alfred",
+        "publisher": "LIBRAIRIE DE FIRMIN DIDOT FRÈRES, FILS ET Cie",
+        "publication_place": "PARIS",
+        "date": "1864",
+        "identifier": "http://gallica.bnf.fr/ark:/12148/bpt6k900584",
+        "iiif_manifest": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k900584/manifest.json"
+    },
+    "langue": "fr (French)",
+    "_annotations": {
+        "metadata.title": {
+            "lisibilite": "Lisible"
+        },
+        "metadata.title_complement": {
+            "lisibilite": "Lisible"
+        },
+        "metadata.volume_number": {
+            "lisibilite": "Non lisible",
+            "cause": "absent"
+        },
+        "metadata.authors": {
+            "lisibilite": "Lisible"
+        },
+        "metadata.publisher": {
+            "lisibilite": "Lisible"
+        },
+        "metadata.publication_place": {
+            "lisibilite": "Lisible"
+        },
+        "metadata.date": {
+            "lisibilite": "Lisible"
+        },
+        "langue": {
+            "lisibilite": "Lisible"
+        }
+    },
+    "ark": "bpt6k900584"
+}

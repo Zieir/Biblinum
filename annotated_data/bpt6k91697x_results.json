@@ -1,0 +1,41 @@
+{
+    "metadata": {
+        "title": "CHIMIE VÉGÉTALE ET AGRICOLE",
+        "title_complement": "RECHERCHES GÉNÉRALES SUR LA VÉGÉTATION ACTIONS CHIMIQUES DE LA LUMIÈRE",
+        "volume_number": "TOME DEUXIÈME",
+        "authors": "BERTHELOT, M.",
+        "publisher": "MASSON ET Cie ; LIBRAIRIE GAUTHIER-VILLARS",
+        "publication_place": "PARIS",
+        "date": "1899",
+        "identifier": "http://gallica.bnf.fr/ark:/12148/bpt6k91697x",
+        "iiif_manifest": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k91697x/manifest.json"
+    },
+    "langue": "fr (French)",
+    "_annotations": {
+        "metadata.title": {
+            "lisibilite": "Lisible"
+        },
+        "metadata.title_complement": {
+            "lisibilite": "Lisible"
+        },
+        "metadata.volume_number": {
+            "lisibilite": "Lisible"
+        },
+        "metadata.authors": {
+            "lisibilite": "Lisible"
+        },
+        "metadata.publisher": {
+            "lisibilite": "Lisible"
+        },
+        "metadata.publication_place": {
+            "lisibilite": "Lisible"
+        },
+        "metadata.date": {
+            "lisibilite": "Lisible"
+        },
+        "langue": {
+            "lisibilite": "Lisible"
+        }
+    },
+    "ark": "bpt6k91697x"
+}

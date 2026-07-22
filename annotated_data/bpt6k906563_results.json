@@ -1,0 +1,49 @@
+{
+    "metadata": {
+        "title": "Bosquejos de la Historia de la Química desde sus albores hasta el periodo de la Síntesis Orgánica",
+        "title_complement": "Marcelino Berthelot, su vida y su obra",
+        "volume_number": "",
+        "authors": "GUGGIARI, Pedro Bruno",
+        "publisher": "La Colmena S. A.",
+        "publication_place": "Asunción",
+        "date": "1920",
+        "identifier": "http://gallica.bnf.fr/ark:/12148/bpt6k906563",
+        "iiif_manifest": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k906563/manifest.json"
+    },
+    "langue": "es (Spanish)",
+    "_annotations": {
+        "metadata.title": {
+            "lisibilite": "Lisible",
+            "correction": "Bosquejos de la Historia de la Química desde sus albores hasta el periodo de la Síntesis Orgánica"
+        },
+        "metadata.title_complement": {
+            "lisibilite": "Non lisible",
+            "cause": "qualite",
+            "correction": "Marcelino Berthelot, su vida y su obra"
+        },
+        "metadata.volume_number": {
+            "lisibilite": "Non lisible",
+            "cause": "absent"
+        },
+        "metadata.authors": {
+            "lisibilite": "Lisible"
+        },
+        "metadata.publisher": {
+            "lisibilite": "Non lisible",
+            "cause": "qualite"
+        },
+        "metadata.publication_place": {
+            "lisibilite": "Non lisible",
+            "cause": "qualite"
+        },
+        "metadata.date": {
+            "lisibilite": "Non lisible",
+            "cause": "qualite",
+            "correction": "1920"
+        },
+        "langue": {
+            "lisibilite": "Lisible"
+        }
+    },
+    "ark": "bpt6k906563"
+}

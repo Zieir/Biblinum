@@ -1,0 +1,42 @@
+{
+    "metadata": {
+        "title": "PLATTNER'S MANUAL",
+        "title_complement": "QUALITATIVE AND QUANTITATIVE ANALYSIS WITH THE BLOWPIPE",
+        "volume_number": "",
+        "authors": "RICHTER, Th.",
+        "publisher": "D. VAN NOSTRAND",
+        "publication_place": "NEW YORK",
+        "date": "1875",
+        "identifier": "http://gallica.bnf.fr/ark:/12148/bpt6k90066r",
+        "iiif_manifest": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k90066r/manifest.json"
+    },
+    "langue": "en (English)",
+    "_annotations": {
+        "metadata.title": {
+            "lisibilite": "Lisible"
+        },
+        "metadata.title_complement": {
+            "lisibilite": "Lisible"
+        },
+        "metadata.volume_number": {
+            "lisibilite": "Non lisible",
+            "cause": "absent"
+        },
+        "metadata.authors": {
+            "lisibilite": "Lisible"
+        },
+        "metadata.publisher": {
+            "lisibilite": "Lisible"
+        },
+        "metadata.publication_place": {
+            "lisibilite": "Lisible"
+        },
+        "metadata.date": {
+            "lisibilite": "Lisible"
+        },
+        "langue": {
+            "lisibilite": "Lisible"
+        }
+    },
+    "ark": "bpt6k90066r"
+}

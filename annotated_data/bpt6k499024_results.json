@@ -1,0 +1,42 @@
+{
+    "metadata": {
+        "title": "REVUE DE PHYSIQUE ET DE CHIMIE",
+        "title_complement": "ET DE LEURS APPLICATIONS INDUSTRIELLES",
+        "volume_number": "CINQUIÈME ANNÉE",
+        "authors": "CH. Lauth",
+        "publisher": "OCTAVE DOIN",
+        "publication_place": "PARIS",
+        "date": "1901",
+        "identifier": "http://gallica.bnf.fr/ark:/12148/bpt6k499024",
+        "iiif_manifest": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k499024/manifest.json"
+    },
+    "_annotations": {
+        "metadata.title": {
+            "lisibilite": "Lisible"
+        },
+        "metadata.title_complement": {
+            "lisibilite": "Lisible"
+        },
+        "metadata.volume_number": {
+            "lisibilite": "Lisible"
+        },
+        "metadata.authors": {
+            "lisibilite": "Lisible",
+            "correction": "CH. Lauth"
+        },
+        "metadata.publisher": {
+            "lisibilite": "Lisible"
+        },
+        "metadata.publication_place": {
+            "lisibilite": "Lisible"
+        },
+        "metadata.date": {
+            "lisibilite": "Lisible"
+        },
+        "langue": {
+            "lisibilite": "Lisible"
+        }
+    },
+    "langue": "fr (French)",
+    "ark": "bpt6k499024"
+}

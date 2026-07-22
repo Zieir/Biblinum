@@ -1,0 +1,42 @@
+{
+    "metadata": {
+        "title": "LIQUÉFACTION DE L'OXYGÈNE",
+        "title_complement": "LA LIQUÉFACTION ET LA SOLIDIFICATION DE L'HYDROGÈNE ET SUR LES THÉORIES DES CHANGEMENTS DES CORPS",
+        "volume_number": "",
+        "authors": "PICTET, Raoul",
+        "publisher": "J. SANDOZ",
+        "publication_place": "GENÈVE",
+        "date": "1878",
+        "identifier": "http://gallica.bnf.fr/ark:/12148/bpt6k90047g",
+        "iiif_manifest": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k90047g/manifest.json"
+    },
+    "langue": "fr (French)",
+    "_annotations": {
+        "metadata.title": {
+            "lisibilite": "Lisible"
+        },
+        "metadata.title_complement": {
+            "lisibilite": "Lisible"
+        },
+        "metadata.volume_number": {
+            "lisibilite": "Lisible"
+        },
+        "metadata.authors": {
+            "lisibilite": "Non lisible",
+            "cause": "recouvert"
+        },
+        "metadata.publisher": {
+            "lisibilite": "Lisible"
+        },
+        "metadata.publication_place": {
+            "lisibilite": "Lisible"
+        },
+        "metadata.date": {
+            "lisibilite": "Lisible"
+        },
+        "langue": {
+            "lisibilite": "Lisible"
+        }
+    },
+    "ark": "bpt6k90047g"
+}

@@ -1,0 +1,47 @@
+{
+    "metadata": {
+        "title": "TRAITÉ DE CHIMIE ÉLÉMENTAIRE",
+        "title_complement": "",
+        "volume_number": "",
+        "authors": "",
+        "publisher": "",
+        "publication_place": "PARIS",
+        "date": "",
+        "identifier": "http://gallica.bnf.fr/ark:/12148/bpt6k902320",
+        "iiif_manifest": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k902320/manifest.json"
+    },
+    "langue": "fr (French)",
+    "_annotations": {
+        "metadata.title": {
+            "lisibilite": "Lisible"
+        },
+        "metadata.title_complement": {
+            "lisibilite": "Non lisible",
+            "cause": "absent"
+        },
+        "metadata.volume_number": {
+            "lisibilite": "Non lisible",
+            "cause": "absent"
+        },
+        "metadata.authors": {
+            "lisibilite": "Non lisible",
+            "cause": "absent"
+        },
+        "metadata.publisher": {
+            "lisibilite": "Non lisible",
+            "cause": "absent",
+            "correction": ""
+        },
+        "metadata.publication_place": {
+            "lisibilite": "Lisible"
+        },
+        "metadata.date": {
+            "lisibilite": "Non lisible",
+            "cause": "absent"
+        },
+        "langue": {
+            "lisibilite": "Lisible"
+        }
+    },
+    "ark": "bpt6k902320"
+}

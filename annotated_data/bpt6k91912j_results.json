@@ -1,0 +1,42 @@
+{
+    "metadata": {
+        "title": "TREATISE ON CHEMISTRY",
+        "title_complement": "THE CHEMISTRY OF THE HYDROCARBONS AND THEIR DERIVATIVES. OR ORGANIC CHEMISTRY",
+        "volume_number": "VOLUME III. PART I.",
+        "authors": "ROSCOE, H. E. ; SCHORLEMMER, C.",
+        "publisher": "MACMILLAN AND CO.",
+        "publication_place": "London",
+        "date": "1881",
+        "identifier": "http://gallica.bnf.fr/ark:/12148/bpt6k91912j",
+        "iiif_manifest": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k91912j/manifest.json"
+    },
+    "langue": "en (English)",
+    "_annotations": {
+        "metadata.title": {
+            "lisibilite": "Lisible"
+        },
+        "metadata.title_complement": {
+            "lisibilite": "Lisible",
+            "correction": "THE CHEMISTRY OF THE HYDROCARBONS AND THEIR DERIVATIVES. OR ORGANIC CHEMISTRY"
+        },
+        "metadata.volume_number": {
+            "lisibilite": "Lisible"
+        },
+        "metadata.authors": {
+            "lisibilite": "Lisible"
+        },
+        "metadata.publisher": {
+            "lisibilite": "Lisible"
+        },
+        "metadata.publication_place": {
+            "lisibilite": "Lisible"
+        },
+        "metadata.date": {
+            "lisibilite": "Lisible"
+        },
+        "langue": {
+            "lisibilite": "Lisible"
+        }
+    },
+    "ark": "bpt6k91912j"
+}

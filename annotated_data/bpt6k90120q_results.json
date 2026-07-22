@@ -1,0 +1,41 @@
+{
+    "metadata": {
+        "title": "A DICTIONARY OF APPLIED CHEMISTRY",
+        "title_complement": "",
+        "volume_number": "VOL. VI.",
+        "authors": "Thorpe, Sir Edward",
+        "publisher": "LONGMANS, GREEN AND CO. LTD.",
+        "publication_place": "LONDON",
+        "date": "1926",
+        "identifier": "http://gallica.bnf.fr/ark:/12148/bpt6k90120q",
+        "iiif_manifest": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k90120q/manifest.json"
+    },
+    "langue": "en (English)",
+    "_annotations": {
+        "metadata.title": {
+            "lisibilite": "Lisible"
+        },
+        "metadata.title_complement": {
+            "lisibilite": "Lisible"
+        },
+        "metadata.volume_number": {
+            "lisibilite": "Lisible"
+        },
+        "metadata.authors": {
+            "lisibilite": "Lisible"
+        },
+        "metadata.publisher": {
+            "lisibilite": "Lisible"
+        },
+        "metadata.publication_place": {
+            "lisibilite": "Lisible"
+        },
+        "metadata.date": {
+            "lisibilite": "Lisible"
+        },
+        "langue": {
+            "lisibilite": "Lisible"
+        }
+    },
+    "ark": "bpt6k90120q"
+}

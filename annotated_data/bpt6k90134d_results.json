@@ -1,0 +1,43 @@
+{
+    "metadata": {
+        "title": "RECHERCHES",
+        "title_complement": "SUR LES RAPPORTS RÉCIPROQUES DES POIDS ATOMIQUES",
+        "volume_number": "",
+        "authors": "STAS,  J.-S.",
+        "publisher": "M. HAYEZ, IMPRIMEUR DE L'ACADÉMIE ROYALE DE BELGIQUE",
+        "publication_place": "BRUXELLES",
+        "date": "1860",
+        "identifier": "http://gallica.bnf.fr/ark:/12148/bpt6k90134d",
+        "iiif_manifest": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k90134d/manifest.json"
+    },
+    "langue": "fr (French)",
+    "_annotations": {
+        "metadata.title": {
+            "lisibilite": "Lisible"
+        },
+        "metadata.title_complement": {
+            "lisibilite": "Lisible"
+        },
+        "metadata.volume_number": {
+            "lisibilite": "Non lisible",
+            "cause": "absent"
+        },
+        "metadata.authors": {
+            "lisibilite": "Lisible",
+            "correction": "STAS,  J.-S."
+        },
+        "metadata.publisher": {
+            "lisibilite": "Lisible"
+        },
+        "metadata.publication_place": {
+            "lisibilite": "Lisible"
+        },
+        "metadata.date": {
+            "lisibilite": "Lisible"
+        },
+        "langue": {
+            "lisibilite": "Lisible"
+        }
+    },
+    "ark": "bpt6k90134d"
+}

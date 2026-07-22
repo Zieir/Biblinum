@@ -1,0 +1,15 @@
+{
+    "processing_time_seconds": 2.01,
+    "metadata": {
+        "title": "Œuvres",
+        "title_complement": "Complètes",
+        "volume_number": "Tome XIV",
+        "authors": "Cauchy, Augustin",
+        "publisher": "Gauthier-Villars",
+        "publication_place": "Paris",
+        "date": "1938",
+        "identifier": "http://gallica.bnf.fr/ark:/12148/bpt6k90206f",
+        "iiif_manifest": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k90206f/manifest.json"
+    },
+    "ark": "bpt6k90206f"
+}

@@ -1,0 +1,43 @@
+{
+    "metadata": {
+        "title": "PRINCIPLES OF CHEMICAL PHILOSOPHY",
+        "title_complement": "",
+        "volume_number": "",
+        "authors": "COOKE, Josiah P., Jr.",
+        "publisher": "MACMILLAN & CO.",
+        "publication_place": "LONDON",
+        "date": "1874",
+        "identifier": "http://gallica.bnf.fr/ark:/12148/bpt6k904060",
+        "iiif_manifest": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k904060/manifest.json"
+    },
+    "langue": "en (English)",
+    "_annotations": {
+        "metadata.title": {
+            "lisibilite": "Lisible"
+        },
+        "metadata.title_complement": {
+            "lisibilite": "Non lisible",
+            "cause": "absent"
+        },
+        "metadata.volume_number": {
+            "lisibilite": "Non lisible",
+            "cause": "absent"
+        },
+        "metadata.authors": {
+            "lisibilite": "Lisible"
+        },
+        "metadata.publisher": {
+            "lisibilite": "Lisible"
+        },
+        "metadata.publication_place": {
+            "lisibilite": "Lisible"
+        },
+        "metadata.date": {
+            "lisibilite": "Lisible"
+        },
+        "langue": {
+            "lisibilite": "Lisible"
+        }
+    },
+    "ark": "bpt6k904060"
+}

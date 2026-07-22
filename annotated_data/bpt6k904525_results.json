@@ -1,0 +1,43 @@
+{
+    "metadata": {
+        "title": "LEÇONS DE CHIMIE ÉLÉMENTAIRE",
+        "title_complement": "APPLIQUÉE AUX ARTS INDUSTRIELS",
+        "volume_number": "III",
+        "authors": "GIRARDIN, J.",
+        "publisher": "G. MASSON, ÉDITEUR",
+        "publication_place": "PARIS",
+        "date": "1873",
+        "identifier": "http://gallica.bnf.fr/ark:/12148/bpt6k904525",
+        "iiif_manifest": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k904525/manifest.json"
+    },
+    "langue": "fr (French)",
+    "_annotations": {
+        "metadata.title": {
+            "lisibilite": "Lisible"
+        },
+        "metadata.title_complement": {
+            "lisibilite": "Lisible"
+        },
+        "metadata.volume_number": {
+            "lisibilite": "Lisible"
+        },
+        "metadata.authors": {
+            "lisibilite": "Lisible",
+            "correction": "GIRARDIN, J."
+        },
+        "metadata.publisher": {
+            "lisibilite": "Lisible"
+        },
+        "metadata.publication_place": {
+            "lisibilite": "Lisible"
+        },
+        "metadata.date": {
+            "lisibilite": "Lisible",
+            "correction": "1873"
+        },
+        "langue": {
+            "lisibilite": "Lisible"
+        }
+    },
+    "ark": "bpt6k904525"
+}

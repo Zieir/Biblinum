@@ -1,0 +1,43 @@
+{
+    "metadata": {
+        "title": "FUSION DU PLATINE ET DISSOCIATION",
+        "title_complement": "Mémoires de Sainte-Claire Deville, Debray, Troost, Hautefeuille, Isambert, Ditte, Joannis, Joly",
+        "volume_number": "VI",
+        "authors": "Sainte-Claire Deville ; Debray ; Troost",
+        "publisher": "Librairie Armand Colin",
+        "publication_place": "Paris",
+        "date": "",
+        "identifier": "http://gallica.bnf.fr/ark:/12148/bpt6k91939k",
+        "iiif_manifest": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k91939k/manifest.json"
+    },
+    "langue": "fr (French)",
+    "_annotations": {
+        "metadata.title": {
+            "lisibilite": "Lisible"
+        },
+        "metadata.title_complement": {
+            "lisibilite": "Lisible",
+            "correction": "Mémoires de Sainte-Claire Deville, Debray, Troost, Hautefeuille, Isambert, Ditte, Joannis, Joly"
+        },
+        "metadata.volume_number": {
+            "lisibilite": "Lisible"
+        },
+        "metadata.authors": {
+            "lisibilite": "Lisible"
+        },
+        "metadata.publisher": {
+            "lisibilite": "Lisible"
+        },
+        "metadata.publication_place": {
+            "lisibilite": "Lisible"
+        },
+        "metadata.date": {
+            "lisibilite": "Non lisible",
+            "cause": "absent"
+        },
+        "langue": {
+            "lisibilite": "Lisible"
+        }
+    },
+    "ark": "bpt6k91939k"
+}

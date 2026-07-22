@@ -1,0 +1,46 @@
+{
+    "metadata": {
+        "title": "MINNESFESTEN ÖFVER BERZELIUS",
+        "title_complement": "den 7 oktober 1898",
+        "volume_number": "",
+        "authors": "",
+        "publisher": "P. A. NORSTEDT & SÖNERS FÖRLAG",
+        "publication_place": "",
+        "date": "1898",
+        "identifier": "http://gallica.bnf.fr/ark:/12148/bpt6k905695",
+        "iiif_manifest": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k905695/manifest.json"
+    },
+    "langue": "sv (Swedish)",
+    "_annotations": {
+        "metadata.title": {
+            "lisibilite": "Lisible",
+            "correction": "MINNESFESTEN ÖFVER BERZELIUS"
+        },
+        "metadata.title_complement": {
+            "lisibilite": "Lisible",
+            "correction": "den 7 oktober 1898"
+        },
+        "metadata.volume_number": {
+            "lisibilite": "Non lisible",
+            "cause": "absent"
+        },
+        "metadata.authors": {
+            "lisibilite": "Non lisible",
+            "cause": "absent"
+        },
+        "metadata.publisher": {
+            "lisibilite": "Lisible"
+        },
+        "metadata.publication_place": {
+            "lisibilite": "Non lisible",
+            "cause": "absent"
+        },
+        "metadata.date": {
+            "lisibilite": "Lisible"
+        },
+        "langue": {
+            "lisibilite": "Lisible"
+        }
+    },
+    "ark": "bpt6k905695"
+}

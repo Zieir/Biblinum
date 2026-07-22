@@ -1,0 +1,42 @@
+{
+    "metadata": {
+        "title": "LE PRINCIPE DE CARNOT EST FAUX",
+        "title_complement": "CONFÉRENCE SUR LA THERMODYNAMIQUE",
+        "volume_number": "",
+        "authors": "VIGNAUD, Ernest",
+        "publisher": "IMPRIMERIE DE PAUL-ÉMILE CONI ET FILS",
+        "publication_place": "BUÉNOS-AYRES",
+        "date": "1889",
+        "identifier": "http://gallica.bnf.fr/ark:/12148/bpt6k837368",
+        "iiif_manifest": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k837368/manifest.json"
+    },
+    "_annotations": {
+        "metadata.title": {
+            "lisibilite": "Lisible"
+        },
+        "metadata.title_complement": {
+            "lisibilite": "Lisible"
+        },
+        "metadata.volume_number": {
+            "lisibilite": "Non lisible",
+            "cause": "absent"
+        },
+        "metadata.authors": {
+            "lisibilite": "Lisible"
+        },
+        "metadata.publisher": {
+            "lisibilite": "Lisible"
+        },
+        "metadata.publication_place": {
+            "lisibilite": "Lisible"
+        },
+        "metadata.date": {
+            "lisibilite": "Lisible"
+        },
+        "langue": {
+            "lisibilite": "Lisible"
+        }
+    },
+    "langue": "fr (French)",
+    "ark": "bpt6k837368"
+}

@@ -1,0 +1,42 @@
+{
+    "metadata": {
+        "title": "ON THE VALENCY OF THE CHEMICAL ATOMS",
+        "title_complement": "IN CONNECTION WITH THEOSOPHICAL CONCEPTIONS CONCERNING THEIR EXTERIOR FORM",
+        "volume_number": "",
+        "authors": "DE JONGH, A. C.",
+        "publisher": "THEOSOPHICAL PUBLISHING HOUSE",
+        "publication_place": "ADYAR, MADRAS, INDIA",
+        "date": "1914",
+        "identifier": "http://gallica.bnf.fr/ark:/12148/bpt6k917407",
+        "iiif_manifest": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k917407/manifest.json"
+    },
+    "langue": "en (English)",
+    "_annotations": {
+        "metadata.title": {
+            "lisibilite": "Lisible"
+        },
+        "metadata.title_complement": {
+            "lisibilite": "Lisible"
+        },
+        "metadata.volume_number": {
+            "lisibilite": "Non lisible",
+            "cause": "absent"
+        },
+        "metadata.authors": {
+            "lisibilite": "Lisible"
+        },
+        "metadata.publisher": {
+            "lisibilite": "Lisible"
+        },
+        "metadata.publication_place": {
+            "lisibilite": "Lisible"
+        },
+        "metadata.date": {
+            "lisibilite": "Lisible"
+        },
+        "langue": {
+            "lisibilite": "Lisible"
+        }
+    },
+    "ark": "bpt6k917407"
+}

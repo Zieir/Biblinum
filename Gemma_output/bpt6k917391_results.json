@@ -1,0 +1,15 @@
+{
+    "processing_time_seconds": 3.46,
+    "metadata": {
+        "title": "COURS DE CHIMIE",
+        "title_complement": "CHIMIE BIOLOGIQUE",
+        "volume_number": "TOME TROISIÈME",
+        "authors": "GAUTIER, Armando",
+        "publisher": "LIBRAIRIE E. SAVY",
+        "publication_place": "PARIS",
+        "date": "1902",
+        "identifier": "http://gallica.bnf.fr/ark:/12148/bpt6k917391",
+        "iiif_manifest": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k917391/manifest.json"
+    },
+    "ark": "bpt6k917391"
+}

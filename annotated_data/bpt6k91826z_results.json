@@ -1,0 +1,43 @@
+{
+    "metadata": {
+        "title": "Celebración del Centenário de MARCELIN BERTHELOT",
+        "title_complement": "EN VENEZUELA",
+        "volume_number": "",
+        "authors": "",
+        "publisher": "Lit. y Tip. del Comercio",
+        "publication_place": "CARACAS",
+        "date": "1927",
+        "identifier": "http://gallica.bnf.fr/ark:/12148/bpt6k91826z",
+        "iiif_manifest": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k91826z/manifest.json"
+    },
+    "langue": "es (Spanish)",
+    "_annotations": {
+        "metadata.title": {
+            "lisibilite": "Lisible"
+        },
+        "metadata.title_complement": {
+            "lisibilite": "Lisible"
+        },
+        "metadata.volume_number": {
+            "lisibilite": "Non lisible",
+            "cause": "absent"
+        },
+        "metadata.authors": {
+            "lisibilite": "Non lisible",
+            "cause": "absent"
+        },
+        "metadata.publisher": {
+            "lisibilite": "Lisible"
+        },
+        "metadata.publication_place": {
+            "lisibilite": "Lisible"
+        },
+        "metadata.date": {
+            "lisibilite": "Lisible"
+        },
+        "langue": {
+            "lisibilite": "Lisible"
+        }
+    },
+    "ark": "bpt6k91826z"
+}

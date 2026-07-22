@@ -1,0 +1,42 @@
+{
+    "metadata": {
+        "title": "DICTIONNAIRÈ DE CHIMIE INDUSTRIELLE",
+        "title_complement": "",
+        "volume_number": "TOME SECOND",
+        "authors": "Barreswil ; Aimé Girard",
+        "publisher": "Dezobry, Fr Tandou et Cie",
+        "publication_place": "Paris",
+        "date": "1862",
+        "identifier": "http://gallica.bnf.fr/ark:/12148/bpt6k90358z",
+        "iiif_manifest": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k90358z/manifest.json"
+    },
+    "langue": "fr (French)",
+    "_annotations": {
+        "metadata.title": {
+            "lisibilite": "Lisible"
+        },
+        "metadata.title_complement": {
+            "lisibilite": "Non lisible",
+            "cause": "absent"
+        },
+        "metadata.volume_number": {
+            "lisibilite": "Lisible"
+        },
+        "metadata.authors": {
+            "lisibilite": "Lisible"
+        },
+        "metadata.publisher": {
+            "lisibilite": "Lisible"
+        },
+        "metadata.publication_place": {
+            "lisibilite": "Lisible"
+        },
+        "metadata.date": {
+            "lisibilite": "Lisible"
+        },
+        "langue": {
+            "lisibilite": "Lisible"
+        }
+    },
+    "ark": "bpt6k90358z"
+}

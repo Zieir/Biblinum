@@ -1,0 +1,42 @@
+{
+    "metadata": {
+        "title": "CONFERENZE E DISCORSI SCIENTIFICI",
+        "title_complement": "(1877-1926)",
+        "volume_number": "",
+        "authors": "PATERNO, Emanuele",
+        "publisher": "PAOLO CREMONESE",
+        "publication_place": "ROMA",
+        "date": "1928",
+        "identifier": "http://gallica.bnf.fr/ark:/12148/bpt6k900464",
+        "iiif_manifest": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k900464/manifest.json"
+    },
+    "langue": "it (Italian)",
+    "_annotations": {
+        "metadata.title": {
+            "lisibilite": "Lisible"
+        },
+        "metadata.title_complement": {
+            "lisibilite": "Lisible"
+        },
+        "metadata.volume_number": {
+            "lisibilite": "Non lisible",
+            "cause": "absent"
+        },
+        "metadata.authors": {
+            "lisibilite": "Lisible"
+        },
+        "metadata.publisher": {
+            "lisibilite": "Lisible"
+        },
+        "metadata.publication_place": {
+            "lisibilite": "Lisible"
+        },
+        "metadata.date": {
+            "lisibilite": "Lisible"
+        },
+        "langue": {
+            "lisibilite": "Lisible"
+        }
+    },
+    "ark": "bpt6k900464"
+}

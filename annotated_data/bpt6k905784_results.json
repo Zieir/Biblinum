@@ -1,0 +1,45 @@
+{
+    "metadata": {
+        "title": "INTRODUCTION AU DICTIONNAIRE DE CHIMIE INDUSTRIELLE",
+        "title_complement": "",
+        "volume_number": "",
+        "authors": "Barreswil ; Aimé Girard",
+        "publisher": "Dezobry, F. Magdeleine et Cie",
+        "publication_place": "Paris",
+        "date": "1861",
+        "identifier": "http://gallica.bnf.fr/ark:/12148/bpt6k905784",
+        "iiif_manifest": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k905784/manifest.json"
+    },
+    "langue": "fr (French)",
+    "_annotations": {
+        "metadata.title": {
+            "lisibilite": "Lisible"
+        },
+        "metadata.title_complement": {
+            "lisibilite": "Non lisible",
+            "cause": "absent"
+        },
+        "metadata.volume_number": {
+            "lisibilite": "Non lisible",
+            "cause": "absent"
+        },
+        "metadata.authors": {
+            "lisibilite": "Lisible"
+        },
+        "metadata.publisher": {
+            "lisibilite": "Lisible",
+            "correction": "Dezobry, F. Magdeleine et Cie"
+        },
+        "metadata.publication_place": {
+            "lisibilite": "Lisible"
+        },
+        "metadata.date": {
+            "lisibilite": "Lisible",
+            "correction": "1861"
+        },
+        "langue": {
+            "lisibilite": "Lisible"
+        }
+    },
+    "ark": "bpt6k905784"
+}

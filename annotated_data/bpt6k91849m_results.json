@@ -1,0 +1,42 @@
+{
+    "metadata": {
+        "title": "LA DISCONTINUITÉ ET L'UNITÉ DE LA MATIERE",
+        "title_complement": "Conférences faites au Collège de France (Laboratoire de M. le professeur Ch. MOUREU) les 16 et 23 avril 1921",
+        "volume_number": "",
+        "authors": "LEPAPE, Adolphe",
+        "publisher": "IMPRIMERIE PAUL DUPONT",
+        "publication_place": "PARIS",
+        "date": "1922",
+        "identifier": "http://gallica.bnf.fr/ark:/12148/bpt6k91849m",
+        "iiif_manifest": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k91849m/manifest.json"
+    },
+    "langue": "fr (French)",
+    "_annotations": {
+        "metadata.title": {
+            "lisibilite": "Lisible"
+        },
+        "metadata.title_complement": {
+            "lisibilite": "Lisible"
+        },
+        "metadata.volume_number": {
+            "lisibilite": "Non lisible",
+            "cause": "absent"
+        },
+        "metadata.authors": {
+            "lisibilite": "Lisible"
+        },
+        "metadata.publisher": {
+            "lisibilite": "Lisible"
+        },
+        "metadata.publication_place": {
+            "lisibilite": "Lisible"
+        },
+        "metadata.date": {
+            "lisibilite": "Lisible"
+        },
+        "langue": {
+            "lisibilite": "Lisible"
+        }
+    },
+    "ark": "bpt6k91849m"
+}

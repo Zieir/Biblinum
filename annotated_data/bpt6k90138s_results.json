@@ -1,0 +1,43 @@
+{
+    "metadata": {
+        "title": "URE'S DICTIONARY ARTS, MANUFACTURES AND MINES",
+        "title_complement": "containing a clear exposition of their principles and practice",
+        "volume_number": "VOL. II",
+        "authors": "HUNT, Robert",
+        "publisher": "LONGMANS, GREEN, AND CO.",
+        "publication_place": "LONDON",
+        "date": "1867",
+        "identifier": "http://gallica.bnf.fr/ark:/12148/bpt6k90138s",
+        "iiif_manifest": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k90138s/manifest.json"
+    },
+    "langue": "en (English)",
+    "_annotations": {
+        "metadata.title": {
+            "lisibilite": "Lisible",
+            "correction": "URE'S DICTIONARY ARTS, MANUFACTURES AND MINES"
+        },
+        "metadata.title_complement": {
+            "lisibilite": "Lisible",
+            "correction": "containing a clear exposition of their principles and practice"
+        },
+        "metadata.volume_number": {
+            "lisibilite": "Lisible"
+        },
+        "metadata.authors": {
+            "lisibilite": "Lisible"
+        },
+        "metadata.publisher": {
+            "lisibilite": "Lisible"
+        },
+        "metadata.publication_place": {
+            "lisibilite": "Lisible"
+        },
+        "metadata.date": {
+            "lisibilite": "Lisible"
+        },
+        "langue": {
+            "lisibilite": "Lisible"
+        }
+    },
+    "ark": "bpt6k90138s"
+}

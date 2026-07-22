@@ -1,0 +1,43 @@
+{
+    "metadata": {
+        "title": "JAC. BERZELIUS BREV",
+        "title_complement": "Brevväxling mellan Berzelius och Johan Gottlieb Gahn (1804—1818)",
+        "volume_number": "IX",
+        "authors": "Söderbaum, H. G.",
+        "publisher": "Kungl. Svenska Vetenskapsakademien",
+        "publication_place": "",
+        "date": "",
+        "identifier": "http://gallica.bnf.fr/ark:/12148/bpt6k901096",
+        "iiif_manifest": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k901096/manifest.json"
+    },
+    "langue": "sv (Swedish)",
+    "_annotations": {
+        "metadata.title": {
+            "lisibilite": "Lisible"
+        },
+        "metadata.title_complement": {
+            "lisibilite": "Lisible"
+        },
+        "metadata.volume_number": {
+            "lisibilite": "Lisible"
+        },
+        "metadata.authors": {
+            "lisibilite": "Lisible"
+        },
+        "metadata.publisher": {
+            "lisibilite": "Lisible"
+        },
+        "metadata.publication_place": {
+            "lisibilite": "Non lisible",
+            "cause": "absent"
+        },
+        "metadata.date": {
+            "lisibilite": "Non lisible",
+            "cause": "absent"
+        },
+        "langue": {
+            "lisibilite": "Lisible"
+        }
+    },
+    "ark": "bpt6k901096"
+}

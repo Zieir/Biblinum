@@ -1,0 +1,15 @@
+{
+    "processing_time_seconds": 3.1,
+    "metadata": {
+        "title": "ŒUVRES COMPLÈTES",
+        "title_complement": "",
+        "volume_number": "TOME X",
+        "authors": "Cauchy, Augustin",
+        "publisher": "Gauthier-Villars et Fils",
+        "publication_place": "Paris",
+        "date": "1895",
+        "identifier": "http://gallica.bnf.fr/ark:/12148/bpt6k902022",
+        "iiif_manifest": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k902022/manifest.json"
+    },
+    "ark": "bpt6k902022"
+}

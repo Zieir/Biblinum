@@ -1,0 +1,44 @@
+{
+    "metadata": {
+        "title": "TRAITÉ DE CHIMIE",
+        "title_complement": "APPLIQUÉE AUX ARTS",
+        "volume_number": "TOME QUATRIÈME",
+        "authors": "DUMAS, M.",
+        "publisher": "BÉCHET JEUNE",
+        "publication_place": "PARIS",
+        "date": "1833",
+        "identifier": "http://gallica.bnf.fr/ark:/12148/bpt6k90628v",
+        "iiif_manifest": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k90628v/manifest.json"
+    },
+    "langue": "fr (French)",
+    "_annotations": {
+        "metadata.title": {
+            "lisibilite": "Lisible"
+        },
+        "metadata.title_complement": {
+            "lisibilite": "Lisible"
+        },
+        "metadata.volume_number": {
+            "lisibilite": "Lisible"
+        },
+        "metadata.authors": {
+            "lisibilite": "Lisible"
+        },
+        "metadata.publisher": {
+            "lisibilite": "Lisible"
+        },
+        "metadata.publication_place": {
+            "lisibilite": "Lisible"
+        },
+        "metadata.date": {
+            "lisibilite": "Non lisible",
+            "cause": "qualite",
+            "correction": "1833"
+        },
+        "langue": {
+            "lisibilite": "Lisible"
+        },
+        "_note": "The font for the date is confusing"
+    },
+    "ark": "bpt6k90628v"
+}

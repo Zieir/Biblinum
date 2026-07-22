@@ -1,0 +1,48 @@
+{
+    "metadata": {
+        "title": "SOURCE D'EAU",
+        "title_complement": "Notice chimique, médicale et topographique sur les propriétés",
+        "volume_number": "",
+        "authors": "",
+        "publisher": "",
+        "publication_place": "",
+        "date": "",
+        "identifier": "http://gallica.bnf.fr/ark:/12148/bpt6k91990b",
+        "iiif_manifest": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k91990b/manifest.json"
+    },
+    "langue": "fr (French)",
+    "_annotations": {
+        "metadata.title": {
+            "lisibilite": "Lisible"
+        },
+        "metadata.title_complement": {
+            "lisibilite": "Non lisible",
+            "cause": "qualite"
+        },
+        "metadata.volume_number": {
+            "lisibilite": "Non lisible",
+            "cause": "absent"
+        },
+        "metadata.authors": {
+            "lisibilite": "Non lisible",
+            "cause": "absent"
+        },
+        "metadata.publisher": {
+            "lisibilite": "Non lisible",
+            "cause": "absent"
+        },
+        "metadata.publication_place": {
+            "lisibilite": "Non lisible",
+            "cause": "absent"
+        },
+        "metadata.date": {
+            "lisibilite": "Non lisible",
+            "cause": "absent"
+        },
+        "langue": {
+            "lisibilite": "Lisible"
+        },
+        "_note": "TODO"
+    },
+    "ark": "bpt6k91990b"
+}

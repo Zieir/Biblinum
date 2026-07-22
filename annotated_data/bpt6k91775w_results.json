@@ -1,0 +1,43 @@
+{
+    "metadata": {
+        "title": "A SUPOSTA SALICILAGEM",
+        "title_complement": "DOS VINHOS PORTUGUESES NO BRASIL (1900-1902) MEMÓRIAS, NOTAS E DOCUMENTOS",
+        "volume_number": "",
+        "authors": "FERREIRA DA SILVA, A. J.",
+        "publisher": "IMPRESSA DA UNIVERSIDADE",
+        "publication_place": "COIMBRA",
+        "date": "1919",
+        "identifier": "http://gallica.bnf.fr/ark:/12148/bpt6k91775w",
+        "iiif_manifest": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k91775w/manifest.json"
+    },
+    "langue": "pt (Portuguese)",
+    "_annotations": {
+        "metadata.title": {
+            "lisibilite": "Lisible",
+            "correction": "A SUPOSTA SALICILAGEM"
+        },
+        "metadata.title_complement": {
+            "lisibilite": "Lisible"
+        },
+        "metadata.volume_number": {
+            "lisibilite": "Non lisible",
+            "cause": "absent"
+        },
+        "metadata.authors": {
+            "lisibilite": "Lisible"
+        },
+        "metadata.publisher": {
+            "lisibilite": "Lisible"
+        },
+        "metadata.publication_place": {
+            "lisibilite": "Lisible"
+        },
+        "metadata.date": {
+            "lisibilite": "Lisible"
+        },
+        "langue": {
+            "lisibilite": "Lisible"
+        }
+    },
+    "ark": "bpt6k91775w"
+}

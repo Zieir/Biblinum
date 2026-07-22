@@ -1,0 +1,42 @@
+{
+    "metadata": {
+        "title": "PRINCIPES DE LA CHIMIE",
+        "title_complement": "ÉTABLIS PAR LES EXPÉRIENCES; OU ESSAI SUR LES PROPORTIONS DÉFINIES DANS LA COMPOSITION DES CORPS",
+        "volume_number": "TOME SECOND",
+        "authors": "THOMSON, TH.",
+        "publisher": "CREVOT, LIBRAIRE-ÉDITEUR",
+        "publication_place": "Paris",
+        "date": "1825",
+        "identifier": "http://gallica.bnf.fr/ark:/12148/bpt6k90129t",
+        "iiif_manifest": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k90129t/manifest.json"
+    },
+    "langue": "fr (French)",
+    "_annotations": {
+        "metadata.title": {
+            "lisibilite": "Lisible"
+        },
+        "metadata.title_complement": {
+            "lisibilite": "Lisible"
+        },
+        "metadata.volume_number": {
+            "lisibilite": "Lisible"
+        },
+        "metadata.authors": {
+            "lisibilite": "Lisible",
+            "correction": "THOMSON, TH."
+        },
+        "metadata.publisher": {
+            "lisibilite": "Lisible"
+        },
+        "metadata.publication_place": {
+            "lisibilite": "Lisible"
+        },
+        "metadata.date": {
+            "lisibilite": "Lisible"
+        },
+        "langue": {
+            "lisibilite": "Lisible"
+        }
+    },
+    "ark": "bpt6k90129t"
+}

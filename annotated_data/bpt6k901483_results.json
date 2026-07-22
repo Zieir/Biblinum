@@ -1,0 +1,44 @@
+{
+    "metadata": {
+        "title": "THE DECENNIAL PUBLICATIONS",
+        "title_complement": "ISSUED IN COMMEMORATION OF THE COMPLETION OF THE FIRST TEN YEARS OF THE UNIVERSITY'S EXISTENCE",
+        "volume_number": "",
+        "authors": "CAPPS, Edward ; CUTTING, Starr Willard ; SALISBURY, Rollin D.",
+        "publisher": "Board of Trustees of the University",
+        "publication_place": "",
+        "date": "",
+        "identifier": "http://gallica.bnf.fr/ark:/12148/bpt6k901483",
+        "iiif_manifest": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k901483/manifest.json"
+    },
+    "langue": "en (English)",
+    "_annotations": {
+        "metadata.title": {
+            "lisibilite": "Lisible"
+        },
+        "metadata.title_complement": {
+            "lisibilite": "Lisible"
+        },
+        "metadata.volume_number": {
+            "lisibilite": "Non lisible",
+            "cause": "absent"
+        },
+        "metadata.authors": {
+            "lisibilite": "Lisible"
+        },
+        "metadata.publisher": {
+            "lisibilite": "Lisible"
+        },
+        "metadata.publication_place": {
+            "lisibilite": "Non lisible",
+            "cause": "absent"
+        },
+        "metadata.date": {
+            "lisibilite": "Non lisible",
+            "cause": "absent"
+        },
+        "langue": {
+            "lisibilite": "Lisible"
+        }
+    },
+    "ark": "bpt6k901483"
+}

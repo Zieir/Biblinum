@@ -1,0 +1,15 @@
+{
+    "processing_time_seconds": 2.33,
+    "metadata": {
+        "title": "PRINCIPES DE LA CHIMIE",
+        "title_complement": "ÉTABLIS PAR LES EXPÉRIENCES; OU ESSAI SUR LES PROPORTIONS DÉFINIES DANS LA COMPOSITION DES CORPS",
+        "volume_number": "TOME SECOND",
+        "authors": "THOMSON, Par",
+        "publisher": "CREVOT, LIBRAIRE-ÉDITEUR",
+        "publication_place": "Paris",
+        "date": "1825",
+        "identifier": "http://gallica.bnf.fr/ark:/12148/bpt6k90129t",
+        "iiif_manifest": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k90129t/manifest.json"
+    },
+    "ark": "bpt6k90129t"
+}

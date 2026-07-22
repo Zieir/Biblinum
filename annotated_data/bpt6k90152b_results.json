@@ -1,0 +1,44 @@
+{
+    "metadata": {
+        "title": "STATISTIQUE DES VOLUMES DES ÉQUIVALENTS CHIMIQUES",
+        "title_complement": "ET D'AUTRES DONNÉES RELATIVES A LEURS PROPRIÉTÉS PHYSIQUES SUIVIE D'UN MÉMOIRE SUR QUELQUES QUESTIONS MOLÉCULAIRES",
+        "volume_number": "",
+        "authors": "WEST, Gratien",
+        "publisher": "G. MASSON",
+        "publication_place": "PARIS",
+        "date": "1873",
+        "identifier": "http://gallica.bnf.fr/ark:/12148/bpt6k90152b",
+        "iiif_manifest": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k90152b/manifest.json"
+    },
+    "langue": "fr (French)",
+    "_annotations": {
+        "metadata.title": {
+            "lisibilite": "Lisible"
+        },
+        "metadata.title_complement": {
+            "lisibilite": "Lisible"
+        },
+        "metadata.volume_number": {
+            "lisibilite": "Non lisible",
+            "cause": "absent"
+        },
+        "metadata.authors": {
+            "lisibilite": "Non lisible",
+            "cause": "qualite",
+            "correction": "WEST, Gratien"
+        },
+        "metadata.publisher": {
+            "lisibilite": "Lisible"
+        },
+        "metadata.publication_place": {
+            "lisibilite": "Lisible"
+        },
+        "metadata.date": {
+            "lisibilite": "Lisible"
+        },
+        "langue": {
+            "lisibilite": "Lisible"
+        }
+    },
+    "ark": "bpt6k90152b"
+}

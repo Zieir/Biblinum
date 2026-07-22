@@ -1,0 +1,50 @@
+{
+    "metadata": {
+        "title": "MEMENTO DU CHIMISTE",
+        "title_complement": "ANCIEN AGENDA DU CHIMISTE",
+        "volume_number": "",
+        "authors": "HALLER, A. ; GIRARD, CH.",
+        "publisher": "H. DUNOD et E. PINAT",
+        "publication_place": "",
+        "date": "",
+        "identifier": "http://gallica.bnf.fr/ark:/12148/bpt6k91811x",
+        "iiif_manifest": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k91811x/manifest.json"
+    },
+    "langue": "fr (French)",
+    "_annotations": {
+        "metadata.title": {
+            "lisibilite": "Lisible"
+        },
+        "metadata.title_complement": {
+            "lisibilite": "Non lisible",
+            "cause": "qualite",
+            "correction": "ANCIEN AGENDA DU CHIMISTE"
+        },
+        "metadata.volume_number": {
+            "lisibilite": "Non lisible",
+            "cause": "absent"
+        },
+        "metadata.authors": {
+            "lisibilite": "Non lisible",
+            "cause": "qualite",
+            "correction": "HALLER, A. ; GIRARD, CH."
+        },
+        "metadata.publisher": {
+            "lisibilite": "Non lisible",
+            "cause": "qualite",
+            "correction": "H. DUNOD et E. PINAT"
+        },
+        "metadata.publication_place": {
+            "lisibilite": "Non lisible",
+            "cause": "absent"
+        },
+        "metadata.date": {
+            "lisibilite": "Non lisible",
+            "cause": "absent"
+        },
+        "langue": {
+            "lisibilite": "Lisible"
+        }
+    },
+    "ark": "bpt6k91811x"
+}

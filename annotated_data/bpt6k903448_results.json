@@ -1,0 +1,42 @@
+{
+    "metadata": {
+        "title": "DE LA LUMIÈRE",
+        "title_complement": "mémoire de Augustin Fresnel",
+        "volume_number": "V",
+        "authors": "Fresnel, Augustin",
+        "publisher": "Librairie Armand Colin",
+        "publication_place": "Paris",
+        "date": "1914",
+        "identifier": "http://gallica.bnf.fr/ark:/12148/bpt6k903448",
+        "iiif_manifest": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k903448/manifest.json"
+    },
+    "langue": "fr (French)",
+    "_annotations": {
+        "metadata.title": {
+            "lisibilite": "Lisible"
+        },
+        "metadata.title_complement": {
+            "lisibilite": "Lisible",
+            "correction": "mémoire de Augustin Fresnel"
+        },
+        "metadata.volume_number": {
+            "lisibilite": "Lisible"
+        },
+        "metadata.authors": {
+            "lisibilite": "Lisible"
+        },
+        "metadata.publisher": {
+            "lisibilite": "Lisible"
+        },
+        "metadata.publication_place": {
+            "lisibilite": "Lisible"
+        },
+        "metadata.date": {
+            "lisibilite": "Lisible"
+        },
+        "langue": {
+            "lisibilite": "Lisible"
+        }
+    },
+    "ark": "bpt6k903448"
+}

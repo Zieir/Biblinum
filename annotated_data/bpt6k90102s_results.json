@@ -1,0 +1,42 @@
+{
+    "metadata": {
+        "title": "Einführung in das Studium der Chemie",
+        "title_complement": "nach Vorlesungen gehalten am naturwissenschaftlichen Institut in Florenz",
+        "volume_number": "1. Band",
+        "authors": "Schiff, Hugo",
+        "publisher": "Verlag von Theobald Grieben",
+        "publication_place": "BERLIN",
+        "date": "1876",
+        "identifier": "http://gallica.bnf.fr/ark:/12148/bpt6k90102s",
+        "iiif_manifest": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k90102s/manifest.json"
+    },
+    "langue": "de (German)",
+    "_annotations": {
+        "metadata.title": {
+            "lisibilite": "Lisible"
+        },
+        "metadata.title_complement": {
+            "lisibilite": "Lisible"
+        },
+        "metadata.volume_number": {
+            "lisibilite": "Lisible"
+        },
+        "metadata.authors": {
+            "lisibilite": "Lisible"
+        },
+        "metadata.publisher": {
+            "lisibilite": "Lisible"
+        },
+        "metadata.publication_place": {
+            "lisibilite": "Lisible"
+        },
+        "metadata.date": {
+            "lisibilite": "Lisible"
+        },
+        "langue": {
+            "lisibilite": "Lisible"
+        },
+        "_note": "C'est aussi le 10 eme volume de Wssenchaftund Literatur"
+    },
+    "ark": "bpt6k90102s"
+}

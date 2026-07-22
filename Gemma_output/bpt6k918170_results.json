@@ -1,0 +1,15 @@
+{
+    "processing_time_seconds": 3.67,
+    "metadata": {
+        "title": "PHARMACOPÉE RAISONNÉE",
+        "title_complement": "TRAITÉ DE PHARMACIE PRATIQUE ET THÉORIQUE",
+        "volume_number": "TOME PREMIER",
+        "authors": "HENRY, N.-E. ; GUIBOURT, G.",
+        "publisher": "J.-S. CHAUDÉ",
+        "publication_place": "PARIS",
+        "date": "1834",
+        "identifier": "http://gallica.bnf.fr/ark:/12148/bpt6k918170",
+        "iiif_manifest": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k918170/manifest.json"
+    },
+    "ark": "bpt6k918170"
+}

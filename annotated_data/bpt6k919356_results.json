@@ -1,0 +1,44 @@
+{
+    "metadata": {
+        "title": "ESSAI SUR LA GARANCE",
+        "title_complement": "",
+        "volume_number": "",
+        "authors": "SACC",
+        "publisher": "VICTOR MASSON ET FILS",
+        "publication_place": "PARIS",
+        "date": "1861",
+        "identifier": "http://gallica.bnf.fr/ark:/12148/bpt6k919356",
+        "iiif_manifest": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k919356/manifest.json"
+    },
+    "langue": "fr (French)",
+    "_annotations": {
+        "metadata.title": {
+            "lisibilite": "Lisible"
+        },
+        "metadata.title_complement": {
+            "lisibilite": "Non lisible",
+            "cause": "absent"
+        },
+        "metadata.volume_number": {
+            "lisibilite": "Non lisible",
+            "cause": "absent"
+        },
+        "metadata.authors": {
+            "lisibilite": "Lisible",
+            "correction": "SACC"
+        },
+        "metadata.publisher": {
+            "lisibilite": "Lisible"
+        },
+        "metadata.publication_place": {
+            "lisibilite": "Lisible"
+        },
+        "metadata.date": {
+            "lisibilite": "Lisible"
+        },
+        "langue": {
+            "lisibilite": "Lisible"
+        }
+    },
+    "ark": "bpt6k919356"
+}

@@ -1,0 +1,42 @@
+{
+    "metadata": {
+        "title": "ЯВЛЕНІЕ АССОЦІАЦІИ",
+        "title_complement": "О МОЛЕКУЛАХЪ, ОБРАЗОВАННЫХЪ СОЕДИНЕНІЕМЪ ТОЖДЕСТВЕННЫХЪ ГРУППЪ",
+        "volume_number": "",
+        "authors": "Нурбатова, В. Я.",
+        "publisher": "Типо-литография М. П. Фролова",
+        "publication_place": "С.-ПЕТЕРБУРГЪ",
+        "date": "1908",
+        "identifier": "http://gallica.bnf.fr/ark:/12148/bpt6k90666d",
+        "iiif_manifest": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k90666d/manifest.json"
+    },
+    "langue": "ru (Russian)",
+    "_annotations": {
+        "metadata.title": {
+            "lisibilite": "Lisible"
+        },
+        "metadata.title_complement": {
+            "lisibilite": "Lisible"
+        },
+        "metadata.volume_number": {
+            "lisibilite": "Lisible"
+        },
+        "metadata.authors": {
+            "lisibilite": "Lisible"
+        },
+        "metadata.publisher": {
+            "lisibilite": "Lisible"
+        },
+        "metadata.publication_place": {
+            "lisibilite": "Lisible"
+        },
+        "metadata.date": {
+            "lisibilite": "Lisible"
+        },
+        "langue": {
+            "lisibilite": "Lisible"
+        },
+        "_note": "TODO"
+    },
+    "ark": "bpt6k90666d"
+}

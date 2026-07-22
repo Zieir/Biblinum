@@ -1,0 +1,42 @@
+{
+    "metadata": {
+        "title": "MANUAL OF ELEMENTARY CHEMISTRY",
+        "title_complement": "BEING A PRACTICAL CLASS-BOOK",
+        "volume_number": "",
+        "authors": "GLOVER, Robert Mortimer",
+        "publisher": "WILLIAM TEGG AND CO.",
+        "publication_place": "LONDON",
+        "date": "1855",
+        "identifier": "http://gallica.bnf.fr/ark:/12148/bpt6k904556",
+        "iiif_manifest": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k904556/manifest.json"
+    },
+    "langue": "en (English)",
+    "_annotations": {
+        "metadata.title": {
+            "lisibilite": "Lisible"
+        },
+        "metadata.title_complement": {
+            "lisibilite": "Lisible"
+        },
+        "metadata.volume_number": {
+            "lisibilite": "Non lisible",
+            "cause": "absent"
+        },
+        "metadata.authors": {
+            "lisibilite": "Lisible"
+        },
+        "metadata.publisher": {
+            "lisibilite": "Lisible"
+        },
+        "metadata.publication_place": {
+            "lisibilite": "Lisible"
+        },
+        "metadata.date": {
+            "lisibilite": "Lisible"
+        },
+        "langue": {
+            "lisibilite": "Lisible"
+        }
+    },
+    "ark": "bpt6k904556"
+}

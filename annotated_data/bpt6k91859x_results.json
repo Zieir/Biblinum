@@ -1,0 +1,50 @@
+{
+    "metadata": {
+        "title": "ÉTUDE STATISTIQUE, ÉCONOMIQUE ET CHIMIQUE SUR L'AGRICULTURE",
+        "title_complement": "DU PAYS DE CAUX",
+        "volume_number": "",
+        "authors": "",
+        "publisher": "",
+        "publication_place": "",
+        "date": "",
+        "identifier": "http://gallica.bnf.fr/ark:/12148/bpt6k91859x",
+        "iiif_manifest": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k91859x/manifest.json"
+    },
+    "langue": "fr (French)",
+    "_annotations": {
+        "metadata.title": {
+            "lisibilite": "Lisible",
+            "correction": "ÉTUDE STATISTIQUE, ÉCONOMIQUE ET CHIMIQUE SUR L'AGRICULTURE"
+        },
+        "metadata.title_complement": {
+            "lisibilite": "Lisible",
+            "correction": "DU PAYS DE CAUX"
+        },
+        "metadata.volume_number": {
+            "lisibilite": "Non lisible",
+            "cause": "absent"
+        },
+        "metadata.authors": {
+            "lisibilite": "Non lisible",
+            "cause": "absent"
+        },
+        "metadata.publisher": {
+            "lisibilite": "Non lisible",
+            "cause": "absent",
+            "correction": ""
+        },
+        "metadata.publication_place": {
+            "lisibilite": "Non lisible",
+            "cause": "absent",
+            "correction": ""
+        },
+        "metadata.date": {
+            "lisibilite": "Non lisible",
+            "cause": "absent"
+        },
+        "langue": {
+            "lisibilite": "Lisible"
+        }
+    },
+    "ark": "bpt6k91859x"
+}

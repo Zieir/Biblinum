@@ -1,0 +1,46 @@
+{
+    "metadata": {
+        "title": "JUBILEE",
+        "title_complement": "OF THE DISCOVERY OF MAUVE AND OF THE FOUNDATION OF THE COAL-TAR COLOUR INDUSTRY",
+        "volume_number": "",
+        "authors": "Perkin, W. H.",
+        "publisher": "",
+        "publication_place": "",
+        "date": "",
+        "identifier": "http://gallica.bnf.fr/ark:/12148/bpt6k905486",
+        "iiif_manifest": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k905486/manifest.json"
+    },
+    "langue": "en (English)",
+    "_annotations": {
+        "metadata.title": {
+            "lisibilite": "Lisible"
+        },
+        "metadata.title_complement": {
+            "lisibilite": "Lisible"
+        },
+        "metadata.volume_number": {
+            "lisibilite": "Non lisible",
+            "cause": "absent"
+        },
+        "metadata.authors": {
+            "lisibilite": "Lisible",
+            "correction": "Perkin, W. H."
+        },
+        "metadata.publisher": {
+            "lisibilite": "Non lisible",
+            "cause": "absent"
+        },
+        "metadata.publication_place": {
+            "lisibilite": "Non lisible",
+            "cause": "absent"
+        },
+        "metadata.date": {
+            "lisibilite": "Non lisible",
+            "cause": "absent"
+        },
+        "langue": {
+            "lisibilite": "Lisible"
+        }
+    },
+    "ark": "bpt6k905486"
+}

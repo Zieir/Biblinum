@@ -1,0 +1,43 @@
+{
+    "metadata": {
+        "title": "ŒUVRES DE LAGUERRE",
+        "title_complement": "ALGÈBRE. - CALCUL INTÉGRAL.",
+        "volume_number": "TOME I",
+        "authors": "Hermite, Ch. ; Poincaré, H. ; Rouché, E.",
+        "publisher": "CHELSEA PUBLISHING COMPANY",
+        "publication_place": "BRONX, NEW YORK",
+        "date": "",
+        "identifier": "http://gallica.bnf.fr/ark:/12148/bpt6k90210p",
+        "iiif_manifest": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k90210p/manifest.json"
+    },
+    "langue": "fr (French)",
+    "_annotations": {
+        "metadata.title": {
+            "lisibilite": "Lisible"
+        },
+        "metadata.title_complement": {
+            "lisibilite": "Lisible",
+            "correction": "ALGÈBRE. - CALCUL INTÉGRAL."
+        },
+        "metadata.volume_number": {
+            "lisibilite": "Lisible"
+        },
+        "metadata.authors": {
+            "lisibilite": "Lisible"
+        },
+        "metadata.publisher": {
+            "lisibilite": "Lisible"
+        },
+        "metadata.publication_place": {
+            "lisibilite": "Lisible"
+        },
+        "metadata.date": {
+            "lisibilite": "Non lisible",
+            "cause": "absent"
+        },
+        "langue": {
+            "lisibilite": "Lisible"
+        }
+    },
+    "ark": "bpt6k90210p"
+}

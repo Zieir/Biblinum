@@ -1,0 +1,42 @@
+{
+    "metadata": {
+        "title": "Leçons de Photométrie",
+        "title_complement": "Professées à L'Institut d'Optique Théorique et Appliquée",
+        "volume_number": "",
+        "authors": "Fabry, Charles",
+        "publisher": "Editions de la Revue d'Optique théorique et instrumentale",
+        "publication_place": "Paris",
+        "date": "1928",
+        "identifier": "http://gallica.bnf.fr/ark:/12148/bpt6k917736",
+        "iiif_manifest": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k917736/manifest.json"
+    },
+    "langue": "fr (French)",
+    "_annotations": {
+        "metadata.title": {
+            "lisibilite": "Lisible"
+        },
+        "metadata.title_complement": {
+            "lisibilite": "Lisible"
+        },
+        "metadata.volume_number": {
+            "lisibilite": "Non lisible",
+            "cause": "absent"
+        },
+        "metadata.authors": {
+            "lisibilite": "Lisible"
+        },
+        "metadata.publisher": {
+            "lisibilite": "Lisible"
+        },
+        "metadata.publication_place": {
+            "lisibilite": "Lisible"
+        },
+        "metadata.date": {
+            "lisibilite": "Lisible"
+        },
+        "langue": {
+            "lisibilite": "Lisible"
+        }
+    },
+    "ark": "bpt6k917736"
+}

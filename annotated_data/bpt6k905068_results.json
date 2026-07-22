@@ -1,0 +1,43 @@
+{
+    "metadata": {
+        "title": "Organischen Chemie",
+        "title_complement": "Chemie der Kohlenstoffverbindungen",
+        "volume_number": "",
+        "authors": "Kekulé, Aug.",
+        "publisher": "Ferdinand Enke",
+        "publication_place": "Stuttgart",
+        "date": "1880",
+        "identifier": "http://gallica.bnf.fr/ark:/12148/bpt6k905068",
+        "iiif_manifest": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k905068/manifest.json"
+    },
+    "langue": "de (German)",
+    "_annotations": {
+        "metadata.title": {
+            "lisibilite": "Non lisible",
+            "cause": "qualite"
+        },
+        "metadata.title_complement": {
+            "lisibilite": "Lisible"
+        },
+        "metadata.volume_number": {
+            "lisibilite": "Non lisible",
+            "cause": "absent"
+        },
+        "metadata.authors": {
+            "lisibilite": "Lisible"
+        },
+        "metadata.publisher": {
+            "lisibilite": "Lisible"
+        },
+        "metadata.publication_place": {
+            "lisibilite": "Lisible"
+        },
+        "metadata.date": {
+            "lisibilite": "Lisible"
+        },
+        "langue": {
+            "lisibilite": "Lisible"
+        }
+    },
+    "ark": "bpt6k905068"
+}

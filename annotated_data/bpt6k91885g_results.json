@@ -1,0 +1,43 @@
+{
+    "metadata": {
+        "title": "GRUNDRISS DER KOLLOIDCHEMIE",
+        "title_complement": "",
+        "volume_number": "ERSTE HÄLFTE",
+        "authors": "OSTWALD, Wo.",
+        "publisher": "VERLAG VON THEODOR STEINKOPFF",
+        "publication_place": "DRESDEN UND LEIPZIG",
+        "date": "1919",
+        "identifier": "http://gallica.bnf.fr/ark:/12148/bpt6k91885g",
+        "iiif_manifest": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k91885g/manifest.json"
+    },
+    "langue": "de (German)",
+    "_annotations": {
+        "metadata.title": {
+            "lisibilite": "Lisible"
+        },
+        "metadata.title_complement": {
+            "lisibilite": "Non lisible",
+            "cause": "absent"
+        },
+        "metadata.volume_number": {
+            "lisibilite": "Lisible"
+        },
+        "metadata.authors": {
+            "lisibilite": "Lisible",
+            "correction": "OSTWALD, Wo."
+        },
+        "metadata.publisher": {
+            "lisibilite": "Lisible"
+        },
+        "metadata.publication_place": {
+            "lisibilite": "Lisible"
+        },
+        "metadata.date": {
+            "lisibilite": "Lisible"
+        },
+        "langue": {
+            "lisibilite": "Lisible"
+        }
+    },
+    "ark": "bpt6k91885g"
+}

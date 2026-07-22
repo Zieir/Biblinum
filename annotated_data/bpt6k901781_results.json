@@ -1,0 +1,45 @@
+{
+    "metadata": {
+        "title": "ÉLÉMENTS DE CHIMIE",
+        "title_complement": "INORGANIQUE ET ORGANIQUE",
+        "volume_number": "",
+        "authors": "WÖHLER, F.",
+        "publisher": "EMILE MELLIER ; GRIMBLOT, Ve RAYBOIS ET COMP.",
+        "publication_place": "PARIS ; NANCY",
+        "date": "1858",
+        "identifier": "http://gallica.bnf.fr/ark:/12148/bpt6k901781",
+        "iiif_manifest": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k901781/manifest.json"
+    },
+    "langue": "fr (French)",
+    "_annotations": {
+        "metadata.title": {
+            "lisibilite": "Lisible"
+        },
+        "metadata.title_complement": {
+            "lisibilite": "Lisible"
+        },
+        "metadata.volume_number": {
+            "lisibilite": "Non lisible",
+            "cause": "absent"
+        },
+        "metadata.authors": {
+            "lisibilite": "Lisible"
+        },
+        "metadata.publisher": {
+            "lisibilite": "Lisible",
+            "correction": "EMILE MELLIER ; GRIMBLOT, Ve RAYBOIS ET COMP."
+        },
+        "metadata.publication_place": {
+            "lisibilite": "Lisible"
+        },
+        "metadata.date": {
+            "lisibilite": "Non lisible",
+            "cause": "qualite",
+            "correction": "1858"
+        },
+        "langue": {
+            "lisibilite": "Lisible"
+        }
+    },
+    "ark": "bpt6k901781"
+}

@@ -1,0 +1,44 @@
+{
+    "metadata": {
+        "title": "ESSAI CRITIQUE ET EXPÉRIMENTAL SUR LE SANG ",
+        "title_complement": "THÈSE SOUTENUE À L'ÉCOLE DE PHARMACIE DE PARIS, LE 5 JUILLET 1833",
+        "volume_number": "",
+        "authors": "BOUDET, Félix",
+        "publisher": "IMPRIMERIE ET FONDERIE DE FAIN",
+        "publication_place": "PARIS",
+        "date": "1833",
+        "identifier": "http://gallica.bnf.fr/ark:/12148/bpt6k91978g",
+        "iiif_manifest": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k91978g/manifest.json"
+    },
+    "langue": "fr (French)",
+    "_annotations": {
+        "metadata.title": {
+            "lisibilite": "Lisible",
+            "correction": "ESSAI CRITIQUE ET EXPÉRIMENTAL SUR LE SANG "
+        },
+        "metadata.title_complement": {
+            "lisibilite": "Lisible",
+            "correction": "THÈSE SOUTENUE À L'ÉCOLE DE PHARMACIE DE PARIS, LE 5 JUILLET 1833"
+        },
+        "metadata.volume_number": {
+            "lisibilite": "Non lisible",
+            "cause": "absent"
+        },
+        "metadata.authors": {
+            "lisibilite": "Lisible"
+        },
+        "metadata.publisher": {
+            "lisibilite": "Lisible"
+        },
+        "metadata.publication_place": {
+            "lisibilite": "Lisible"
+        },
+        "metadata.date": {
+            "lisibilite": "Lisible"
+        },
+        "langue": {
+            "lisibilite": "Lisible"
+        }
+    },
+    "ark": "bpt6k91978g"
+}

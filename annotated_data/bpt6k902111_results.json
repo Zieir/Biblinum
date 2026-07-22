@@ -1,0 +1,47 @@
+{
+    "metadata": {
+        "title": "VORLESUNGEN UBER DYNAMIK",
+        "title_complement": "",
+        "volume_number": "",
+        "authors": "JACOBI",
+        "publisher": "",
+        "publication_place": "",
+        "date": "",
+        "identifier": "http://gallica.bnf.fr/ark:/12148/bpt6k902111",
+        "iiif_manifest": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k902111/manifest.json"
+    },
+    "langue": "de (German)",
+    "_annotations": {
+        "metadata.title": {
+            "lisibilite": "Lisible"
+        },
+        "metadata.title_complement": {
+            "lisibilite": "Non lisible",
+            "cause": "absent"
+        },
+        "metadata.volume_number": {
+            "lisibilite": "Non lisible",
+            "cause": "absent"
+        },
+        "metadata.authors": {
+            "lisibilite": "Lisible"
+        },
+        "metadata.publisher": {
+            "lisibilite": "Non lisible",
+            "cause": "absent"
+        },
+        "metadata.publication_place": {
+            "lisibilite": "Non lisible",
+            "cause": "absent"
+        },
+        "metadata.date": {
+            "lisibilite": "Non lisible",
+            "cause": "absent"
+        },
+        "langue": {
+            "lisibilite": "Lisible",
+            "correction": "de (German)"
+        }
+    },
+    "ark": "bpt6k902111"
+}

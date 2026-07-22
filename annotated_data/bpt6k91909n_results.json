@@ -1,0 +1,44 @@
+{
+    "metadata": {
+        "title": "LES PRODUITS CHIMIQUES",
+        "title_complement": "A L'EXPOSITION UNIVERSELLE",
+        "volume_number": "",
+        "authors": "RICHE, Alfred",
+        "publisher": "IMPRIMERIE ARNOUS DE RIVIERE",
+        "publication_place": "PARIS",
+        "date": "1878",
+        "identifier": "http://gallica.bnf.fr/ark:/12148/bpt6k91909n",
+        "iiif_manifest": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k91909n/manifest.json"
+    },
+    "langue": "fr (French)",
+    "_annotations": {
+        "metadata.title": {
+            "lisibilite": "Lisible",
+            "correction": "LES PRODUITS CHIMIQUES"
+        },
+        "metadata.title_complement": {
+            "lisibilite": "Lisible"
+        },
+        "metadata.volume_number": {
+            "lisibilite": "Non lisible",
+            "cause": "absent"
+        },
+        "metadata.authors": {
+            "lisibilite": "Lisible",
+            "correction": "RICHE, Alfred"
+        },
+        "metadata.publisher": {
+            "lisibilite": "Lisible"
+        },
+        "metadata.publication_place": {
+            "lisibilite": "Lisible"
+        },
+        "metadata.date": {
+            "lisibilite": "Lisible"
+        },
+        "langue": {
+            "lisibilite": "Lisible"
+        }
+    },
+    "ark": "bpt6k91909n"
+}

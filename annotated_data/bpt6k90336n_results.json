@@ -1,0 +1,44 @@
+{
+    "metadata": {
+        "title": "La théorie de Maxwell",
+        "title_complement": "et les oscillations Hertziennes",
+        "volume_number": "",
+        "authors": "Poincaré, H.",
+        "publisher": "Georges CARRÉ & CNAUD",
+        "publication_place": "",
+        "date": "",
+        "identifier": "http://gallica.bnf.fr/ark:/12148/bpt6k90336n",
+        "iiif_manifest": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k90336n/manifest.json"
+    },
+    "langue": "fr (French)",
+    "_annotations": {
+        "metadata.title": {
+            "lisibilite": "Lisible"
+        },
+        "metadata.title_complement": {
+            "lisibilite": "Lisible"
+        },
+        "metadata.volume_number": {
+            "lisibilite": "Non lisible",
+            "cause": "absent"
+        },
+        "metadata.authors": {
+            "lisibilite": "Lisible"
+        },
+        "metadata.publisher": {
+            "lisibilite": "Lisible"
+        },
+        "metadata.publication_place": {
+            "lisibilite": "Non lisible",
+            "cause": "absent"
+        },
+        "metadata.date": {
+            "lisibilite": "Non lisible",
+            "cause": "absent"
+        },
+        "langue": {
+            "lisibilite": "Lisible"
+        }
+    },
+    "ark": "bpt6k90336n"
+}

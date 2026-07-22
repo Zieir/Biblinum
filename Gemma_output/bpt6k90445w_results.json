@@ -1,0 +1,15 @@
+{
+    "processing_time_seconds": 2.1,
+    "metadata": {
+        "title": "COURS DE CHIMIE",
+        "title_complement": "CHIMIE ORGANIQUE",
+        "volume_number": "TOME SECOND",
+        "authors": "GAUTIER, ARMAND",
+        "publisher": "LIBRAIRIE P SAVY",
+        "publication_place": "PARIS",
+        "date": "1887",
+        "identifier": "http://gallica.bnf.fr/ark:/12148/bpt6k90445w",
+        "iiif_manifest": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k90445w/manifest.json"
+    },
+    "ark": "bpt6k90445w"
+}

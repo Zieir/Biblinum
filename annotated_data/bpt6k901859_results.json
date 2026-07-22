@@ -1,0 +1,42 @@
+{
+    "metadata": {
+        "title": "Œuvres complètes",
+        "title_complement": "d'AUGUSTIN CAUCHY",
+        "volume_number": "Tome V",
+        "authors": "Cauchy, Augustin",
+        "publisher": "Gauthier-Villars",
+        "publication_place": "Paris",
+        "date": "1885",
+        "identifier": "http://gallica.bnf.fr/ark:/12148/bpt6k901859",
+        "iiif_manifest": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k901859/manifest.json"
+    },
+    "langue": "fr (French)",
+    "_annotations": {
+        "metadata.title": {
+            "lisibilite": "Lisible"
+        },
+        "metadata.title_complement": {
+            "lisibilite": "Lisible",
+            "correction": "d'AUGUSTIN CAUCHY"
+        },
+        "metadata.volume_number": {
+            "lisibilite": "Lisible"
+        },
+        "metadata.authors": {
+            "lisibilite": "Lisible"
+        },
+        "metadata.publisher": {
+            "lisibilite": "Lisible"
+        },
+        "metadata.publication_place": {
+            "lisibilite": "Lisible"
+        },
+        "metadata.date": {
+            "lisibilite": "Lisible"
+        },
+        "langue": {
+            "lisibilite": "Lisible"
+        }
+    },
+    "ark": "bpt6k901859"
+}

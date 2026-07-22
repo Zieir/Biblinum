@@ -1,0 +1,44 @@
+{
+    "metadata": {
+        "title": "CHIMIE PHOTOGRAPHIQUE",
+        "title_complement": "contenant les éléments de chimie expliquées par des exemples empruntés à la photographie; Les prcédés de photographie sur glace (Collodion sec ou humide et albuminé), sur papiers, sur plaques; La manière de préparer soi-même, d'essayer et d'employer tous les réactifs et d'utiliser les résidus, etc.;",
+        "volume_number": "",
+        "authors": "BARRESWIL ; DAVANNE",
+        "publisher": "MALLET-BACHELIER",
+        "publication_place": "PARIS",
+        "date": "",
+        "identifier": "http://gallica.bnf.fr/ark:/12148/bpt6k91691v",
+        "iiif_manifest": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k91691v/manifest.json"
+    },
+    "langue": "fr (French)",
+    "_annotations": {
+        "metadata.title": {
+            "lisibilite": "Lisible"
+        },
+        "metadata.title_complement": {
+            "lisibilite": "Lisible",
+            "correction": "contenant les éléments de chimie expliquées par des exemples empruntés à la photographie; Les prcédés de photographie sur glace (Collodion sec ou humide et albuminé), sur papiers, sur plaques; La manière de préparer soi-même, d'essayer et d'employer tous les réactifs et d'utiliser les résidus, etc.;"
+        },
+        "metadata.volume_number": {
+            "lisibilite": "Non lisible",
+            "cause": "absent"
+        },
+        "metadata.authors": {
+            "lisibilite": "Lisible"
+        },
+        "metadata.publisher": {
+            "lisibilite": "Lisible"
+        },
+        "metadata.publication_place": {
+            "lisibilite": "Lisible"
+        },
+        "metadata.date": {
+            "lisibilite": "Non lisible",
+            "cause": "absent"
+        },
+        "langue": {
+            "lisibilite": "Lisible"
+        }
+    },
+    "ark": "bpt6k91691v"
+}

@@ -1,0 +1,44 @@
+{
+    "metadata": {
+        "title": "CARL WILHELM SCHEELE",
+        "title_complement": "ETT MINNESBLAD PÅ HUNDRADE ÅRSDAGEN AF HANS DÖD",
+        "volume_number": "",
+        "authors": "CLEVE, P. T.",
+        "publisher": "M. BERKENS FÖRLAGSBOKHANDEL",
+        "publication_place": "",
+        "date": "",
+        "identifier": "http://gallica.bnf.fr/ark:/12148/bpt6k906056",
+        "iiif_manifest": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k906056/manifest.json"
+    },
+    "langue": "sv (Swedish)",
+    "_annotations": {
+        "metadata.title": {
+            "lisibilite": "Lisible"
+        },
+        "metadata.title_complement": {
+            "lisibilite": "Lisible"
+        },
+        "metadata.volume_number": {
+            "lisibilite": "Non lisible",
+            "cause": "absent"
+        },
+        "metadata.authors": {
+            "lisibilite": "Lisible"
+        },
+        "metadata.publisher": {
+            "lisibilite": "Lisible"
+        },
+        "metadata.publication_place": {
+            "lisibilite": "Non lisible",
+            "cause": "absent"
+        },
+        "metadata.date": {
+            "lisibilite": "Non lisible",
+            "cause": "absent"
+        },
+        "langue": {
+            "lisibilite": "Lisible"
+        }
+    },
+    "ark": "bpt6k906056"
+}

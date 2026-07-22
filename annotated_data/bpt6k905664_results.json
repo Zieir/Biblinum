@@ -1,0 +1,45 @@
+{
+    "metadata": {
+        "title": "Jubilé",
+        "title_complement": "de Monsieur le Professeur Amé Pictet",
+        "volume_number": "",
+        "authors": "",
+        "publisher": "Aula de L'Université",
+        "publication_place": "",
+        "date": "1927",
+        "identifier": "http://gallica.bnf.fr/ark:/12148/bpt6k905664",
+        "iiif_manifest": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k905664/manifest.json"
+    },
+    "langue": "fr (French)",
+    "_annotations": {
+        "metadata.title": {
+            "lisibilite": "Lisible"
+        },
+        "metadata.title_complement": {
+            "lisibilite": "Lisible"
+        },
+        "metadata.volume_number": {
+            "lisibilite": "Non lisible",
+            "cause": "absent"
+        },
+        "metadata.authors": {
+            "lisibilite": "Non lisible",
+            "cause": "absent"
+        },
+        "metadata.publisher": {
+            "lisibilite": "Lisible",
+            "correction": "Aula de L'Université"
+        },
+        "metadata.publication_place": {
+            "lisibilite": "Non lisible",
+            "cause": "absent"
+        },
+        "metadata.date": {
+            "lisibilite": "Lisible"
+        },
+        "langue": {
+            "lisibilite": "Lisible"
+        }
+    },
+    "ark": "bpt6k905664"
+}

@@ -1,0 +1,45 @@
+{
+    "metadata": {
+        "title": "COURS DE CHIMIE",
+        "title_complement": "CHIMIE BIOLOGIQUE",
+        "volume_number": "TOME TROISIÈME",
+        "authors": "GAUTIER, Armand",
+        "publisher": "LIBRAIRIE F. SAVY",
+        "publication_place": "PARIS",
+        "date": "1892",
+        "identifier": "http://gallica.bnf.fr/ark:/12148/bpt6k917391",
+        "iiif_manifest": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k917391/manifest.json"
+    },
+    "langue": "fr (French)",
+    "_annotations": {
+        "metadata.title": {
+            "lisibilite": "Lisible"
+        },
+        "metadata.title_complement": {
+            "lisibilite": "Lisible"
+        },
+        "metadata.volume_number": {
+            "lisibilite": "Lisible"
+        },
+        "metadata.authors": {
+            "lisibilite": "Lisible",
+            "correction": "GAUTIER, Armand"
+        },
+        "metadata.publisher": {
+            "lisibilite": "Non lisible",
+            "cause": "recouvert",
+            "correction": "LIBRAIRIE F. SAVY"
+        },
+        "metadata.publication_place": {
+            "lisibilite": "Lisible"
+        },
+        "metadata.date": {
+            "lisibilite": "Lisible",
+            "correction": "1892"
+        },
+        "langue": {
+            "lisibilite": "Lisible"
+        }
+    },
+    "ark": "bpt6k917391"
+}

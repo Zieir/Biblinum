@@ -1,0 +1,47 @@
+{
+    "metadata": {
+        "title": "ESTUDO",
+        "title_complement": "SOBRE AS CLASSIFICAÇÕES CHIMICAS DOS COMPOSTOS ORGANICOS",
+        "volume_number": "",
+        "authors": "",
+        "publisher": "",
+        "publication_place": "Paris",
+        "date": "",
+        "identifier": "http://gallica.bnf.fr/ark:/12148/bpt6k90429n",
+        "iiif_manifest": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k90429n/manifest.json"
+    },
+    "langue": "pt (Portuguese)",
+    "_annotations": {
+        "metadata.title": {
+            "lisibilite": "Lisible"
+        },
+        "metadata.title_complement": {
+            "lisibilite": "Lisible"
+        },
+        "metadata.volume_number": {
+            "lisibilite": "Non lisible",
+            "cause": "absent"
+        },
+        "metadata.authors": {
+            "lisibilite": "Non lisible",
+            "cause": "absent"
+        },
+        "metadata.publisher": {
+            "lisibilite": "Non lisible",
+            "cause": "absent",
+            "correction": ""
+        },
+        "metadata.publication_place": {
+            "lisibilite": "Lisible"
+        },
+        "metadata.date": {
+            "lisibilite": "Non lisible",
+            "cause": "manuscrit",
+            "correction": ""
+        },
+        "langue": {
+            "lisibilite": "Lisible"
+        }
+    },
+    "ark": "bpt6k90429n"
+}

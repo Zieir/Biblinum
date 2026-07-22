@@ -1,0 +1,45 @@
+{
+    "metadata": {
+        "title": "MANUAL OF CHEMISTRY",
+        "title_complement": "CONTAINING THE PRINCIPAL FACTS OF THE SCIENCE, ARRANGED IN THE ORDER IN WHICH THEY ARE DISCUSSED AND ILLUSTRATED IN THE LECTURES AT THE ROYAL INSTITUTION OF GREAT BRITAIN",
+        "volume_number": "VOL. II",
+        "authors": "Brande, William Thomas",
+        "publisher": "JOHN MURRAY",
+        "publication_place": "LONDON",
+        "date": "1821",
+        "identifier": "http://gallica.bnf.fr/ark:/12148/bpt6k90393g",
+        "iiif_manifest": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k90393g/manifest.json"
+    },
+    "langue": "en (English)",
+    "_annotations": {
+        "metadata.title": {
+            "lisibilite": "Lisible"
+        },
+        "metadata.title_complement": {
+            "lisibilite": "Lisible"
+        },
+        "metadata.volume_number": {
+            "lisibilite": "Lisible"
+        },
+        "metadata.authors": {
+            "lisibilite": "Non lisible",
+            "cause": "recouvert",
+            "correction": "Brande, William Thomas"
+        },
+        "metadata.publisher": {
+            "lisibilite": "Lisible"
+        },
+        "metadata.publication_place": {
+            "lisibilite": "Lisible"
+        },
+        "metadata.date": {
+            "lisibilite": "Non lisible",
+            "cause": "qualite",
+            "correction": "1821"
+        },
+        "langue": {
+            "lisibilite": "Lisible"
+        }
+    },
+    "ark": "bpt6k90393g"
+}

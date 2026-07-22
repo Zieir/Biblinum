@@ -1,0 +1,15 @@
+{
+    "processing_time_seconds": 2.12,
+    "metadata": {
+        "title": "Einführung in die Chemie",
+        "title_complement": "in leichtfasslicher Form",
+        "volume_number": "",
+        "authors": "Lassar-Cohn, Prof. Dr.",
+        "publisher": "Verlag von Leopold Vossa",
+        "publication_place": "Hamburg und Leipzig",
+        "date": "1899",
+        "identifier": "http://gallica.bnf.fr/ark:/12148/bpt6k90523v",
+        "iiif_manifest": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k90523v/manifest.json"
+    },
+    "ark": "bpt6k90523v"
+}

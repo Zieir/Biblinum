@@ -1,0 +1,44 @@
+{
+    "metadata": {
+        "title": "QUÍMICA ORGÁNICA",
+        "title_complement": "COMPUESTOS CÍCLICOS Y NO DERIVADOS",
+        "volume_number": "Tercera Parte",
+        "authors": "Arata, Pedro N.",
+        "publisher": "Taller de Publicaciones del Museo",
+        "publication_place": "",
+        "date": "1893",
+        "identifier": "http://gallica.bnf.fr/ark:/12148/bpt6k90167c",
+        "iiif_manifest": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k90167c/manifest.json"
+    },
+    "langue": "es (Spanish)",
+    "_annotations": {
+        "metadata.title": {
+            "lisibilite": "Lisible"
+        },
+        "metadata.title_complement": {
+            "lisibilite": "Lisible"
+        },
+        "metadata.volume_number": {
+            "lisibilite": "Lisible"
+        },
+        "metadata.authors": {
+            "lisibilite": "Lisible"
+        },
+        "metadata.publisher": {
+            "lisibilite": "Lisible"
+        },
+        "metadata.publication_place": {
+            "lisibilite": "Non lisible",
+            "cause": "absent"
+        },
+        "metadata.date": {
+            "lisibilite": "Non lisible",
+            "cause": "qualite",
+            "correction": "1893"
+        },
+        "langue": {
+            "lisibilite": "Lisible"
+        }
+    },
+    "ark": "bpt6k90167c"
+}

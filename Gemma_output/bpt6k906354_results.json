@@ -1,0 +1,15 @@
+{
+    "processing_time_seconds": 2.2,
+    "metadata": {
+        "title": "GRUNDRISS DER CHEMIE",
+        "title_complement": "UNORGANISCHE CHEMIE",
+        "volume_number": "ERSTER THEIL",
+        "authors": "FITTIG, DR. RUDOLPH",
+        "publisher": "VERLAG VON DUNCKER & HUMBLOT",
+        "publication_place": "LEIPZIG",
+        "date": "1871",
+        "identifier": "http://gallica.bnf.fr/ark:/12148/bpt6k906354",
+        "iiif_manifest": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k906354/manifest.json"
+    },
+    "ark": "bpt6k906354"
+}

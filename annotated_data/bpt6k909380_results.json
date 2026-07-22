@@ -1,0 +1,42 @@
+{
+    "metadata": {
+        "title": "Roscoe-Schorlemmer's AUSFÜHRLICHES LEHRBUCH DER CHEMIE",
+        "title_complement": "DIE KOHLENWASSERSTOFFE UND IHRE DERIVATE ODER ORGANISCHE CHEMIE",
+        "volume_number": "SECHSTER BAND VIERTER THEIL",
+        "authors": "BRÜHL, JUL. WILH. ; HJELT, EDVARD ; ASCHAN, OSSIAN",
+        "publisher": "FRIEDRICH VIEWEG UND SOHN",
+        "publication_place": "BRAUNSCHWEIG",
+        "date": "1898",
+        "identifier": "http://gallica.bnf.fr/ark:/12148/bpt6k909380",
+        "iiif_manifest": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k909380/manifest.json"
+    },
+    "langue": "de (German)",
+    "_annotations": {
+        "metadata.title": {
+            "lisibilite": "Lisible",
+            "correction": "Roscoe-Schorlemmer's AUSFÜHRLICHES LEHRBUCH DER CHEMIE"
+        },
+        "metadata.title_complement": {
+            "lisibilite": "Lisible"
+        },
+        "metadata.volume_number": {
+            "lisibilite": "Lisible"
+        },
+        "metadata.authors": {
+            "lisibilite": "Lisible"
+        },
+        "metadata.publisher": {
+            "lisibilite": "Lisible"
+        },
+        "metadata.publication_place": {
+            "lisibilite": "Lisible"
+        },
+        "metadata.date": {
+            "lisibilite": "Lisible"
+        },
+        "langue": {
+            "lisibilite": "Lisible"
+        }
+    },
+    "ark": "bpt6k909380"
+}

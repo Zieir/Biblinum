@@ -1,0 +1,43 @@
+{
+    "metadata": {
+        "title": "ETUDE DES DISSOLUTIONS AQUEUSES",
+        "title_complement": "FONDÉE SUR LES CHANGEMENTS DE LEURS POIDS SPÉCIFIQUES",
+        "volume_number": "",
+        "authors": "MENDELEEFF, D.",
+        "publisher": "",
+        "publication_place": "ST. PETERSBOURG",
+        "date": "1887",
+        "identifier": "http://gallica.bnf.fr/ark:/12148/bpt6k91870f",
+        "iiif_manifest": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k91870f/manifest.json"
+    },
+    "langue": "ru (Russian)",
+    "_annotations": {
+        "metadata.title": {
+            "lisibilite": "Lisible"
+        },
+        "metadata.title_complement": {
+            "lisibilite": "Lisible"
+        },
+        "metadata.volume_number": {
+            "lisibilite": "Non lisible",
+            "cause": "absent"
+        },
+        "metadata.authors": {
+            "lisibilite": "Lisible"
+        },
+        "metadata.publisher": {
+            "lisibilite": "Non lisible",
+            "cause": "absent"
+        },
+        "metadata.publication_place": {
+            "lisibilite": "Lisible"
+        },
+        "metadata.date": {
+            "lisibilite": "Lisible"
+        },
+        "langue": {
+            "lisibilite": "Lisible"
+        }
+    },
+    "ark": "bpt6k91870f"
+}

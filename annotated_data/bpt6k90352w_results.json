@@ -1,0 +1,45 @@
+{
+    "metadata": {
+        "title": "ONORANZE AL SENATORE PROFESSORE EMANUELE PATERNÒ",
+        "title_complement": "PEL SUO SETTANTACINQUESIMO ANNO",
+        "volume_number": "",
+        "authors": "",
+        "publisher": "Stab. Danesi",
+        "publication_place": "ROMA",
+        "date": "1923",
+        "identifier": "http://gallica.bnf.fr/ark:/12148/bpt6k90352w",
+        "iiif_manifest": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k90352w/manifest.json"
+    },
+    "langue": "it (Italian)",
+    "_annotations": {
+        "metadata.title": {
+            "lisibilite": "Lisible"
+        },
+        "metadata.title_complement": {
+            "lisibilite": "Lisible"
+        },
+        "metadata.volume_number": {
+            "lisibilite": "Non lisible",
+            "cause": "absent"
+        },
+        "metadata.authors": {
+            "lisibilite": "Non lisible",
+            "cause": "absent"
+        },
+        "metadata.publisher": {
+            "lisibilite": "Lisible",
+            "correction": "Stab. Danesi"
+        },
+        "metadata.publication_place": {
+            "lisibilite": "Lisible"
+        },
+        "metadata.date": {
+            "lisibilite": "Lisible"
+        },
+        "langue": {
+            "lisibilite": "Lisible",
+            "correction": "it (Italian)"
+        }
+    },
+    "ark": "bpt6k90352w"
+}

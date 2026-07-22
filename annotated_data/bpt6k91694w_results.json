@@ -1,0 +1,46 @@
+{
+    "metadata": {
+        "title": "CHYMIE EXPERIMENTALE",
+        "title_complement": "ET RAISONNEE",
+        "volume_number": "TOME III",
+        "authors": "",
+        "publisher": "",
+        "publication_place": "PARIS",
+        "date": "",
+        "identifier": "http://gallica.bnf.fr/ark:/12148/bpt6k91694w",
+        "iiif_manifest": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k91694w/manifest.json"
+    },
+    "langue": "fr (French)",
+    "_annotations": {
+        "metadata.title": {
+            "lisibilite": "Lisible",
+            "correction": "CHYMIE EXPERIMENTALE"
+        },
+        "metadata.title_complement": {
+            "lisibilite": "Lisible",
+            "correction": "ET RAISONNEE"
+        },
+        "metadata.volume_number": {
+            "lisibilite": "Lisible"
+        },
+        "metadata.authors": {
+            "lisibilite": "Non lisible",
+            "cause": "absent"
+        },
+        "metadata.publisher": {
+            "lisibilite": "Non lisible",
+            "cause": "absent"
+        },
+        "metadata.publication_place": {
+            "lisibilite": "Lisible"
+        },
+        "metadata.date": {
+            "lisibilite": "Non lisible",
+            "cause": "absent"
+        },
+        "langue": {
+            "lisibilite": "Lisible"
+        }
+    },
+    "ark": "bpt6k91694w"
+}

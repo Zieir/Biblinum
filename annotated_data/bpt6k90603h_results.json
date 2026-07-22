@@ -1,0 +1,44 @@
+{
+    "metadata": {
+        "title": "Cours de Chimie",
+        "title_complement": "",
+        "volume_number": "1re Leçon",
+        "authors": "Charpy, G.",
+        "publisher": "Ecole Polytechnique",
+        "publication_place": "",
+        "date": "1925",
+        "identifier": "http://gallica.bnf.fr/ark:/12148/bpt6k90603h",
+        "iiif_manifest": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k90603h/manifest.json"
+    },
+    "langue": "fr (French)",
+    "_annotations": {
+        "metadata.title": {
+            "lisibilite": "Lisible"
+        },
+        "metadata.title_complement": {
+            "lisibilite": "Non lisible",
+            "cause": "absent"
+        },
+        "metadata.volume_number": {
+            "lisibilite": "Lisible"
+        },
+        "metadata.authors": {
+            "lisibilite": "Lisible",
+            "correction": "Charpy, G."
+        },
+        "metadata.publisher": {
+            "lisibilite": "Lisible"
+        },
+        "metadata.publication_place": {
+            "lisibilite": "Non lisible",
+            "cause": "absent"
+        },
+        "metadata.date": {
+            "lisibilite": "Lisible"
+        },
+        "langue": {
+            "lisibilite": "Lisible"
+        }
+    },
+    "ark": "bpt6k90603h"
+}

@@ -1,0 +1,44 @@
+{
+    "metadata": {
+        "title": "SUR LA GÉNÉRATION DES FERMENTS",
+        "title_complement": "",
+        "volume_number": "",
+        "authors": "FREMY, E.",
+        "publisher": "G. MASSON",
+        "publication_place": "",
+        "date": "1875",
+        "identifier": "http://gallica.bnf.fr/ark:/12148/bpt6k90438m",
+        "iiif_manifest": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k90438m/manifest.json"
+    },
+    "langue": "fr (French)",
+    "_annotations": {
+        "metadata.title": {
+            "lisibilite": "Lisible"
+        },
+        "metadata.title_complement": {
+            "lisibilite": "Non lisible",
+            "cause": "absent"
+        },
+        "metadata.volume_number": {
+            "lisibilite": "Non lisible",
+            "cause": "absent"
+        },
+        "metadata.authors": {
+            "lisibilite": "Lisible"
+        },
+        "metadata.publisher": {
+            "lisibilite": "Lisible"
+        },
+        "metadata.publication_place": {
+            "lisibilite": "Non lisible",
+            "cause": "absent"
+        },
+        "metadata.date": {
+            "lisibilite": "Lisible"
+        },
+        "langue": {
+            "lisibilite": "Lisible"
+        }
+    },
+    "ark": "bpt6k90438m"
+}

@@ -1,0 +1,42 @@
+{
+    "metadata": {
+        "title": "ELEMENTS OF CHEMISTRY",
+        "title_complement": "THEORETICAL AND PRACTICAL",
+        "volume_number": "",
+        "authors": "REID, D. B.",
+        "publisher": "MACLACHLAN, STEWART & CO.",
+        "publication_place": "EDINBURGH",
+        "date": "1839",
+        "identifier": "http://gallica.bnf.fr/ark:/12148/bpt6k90051q",
+        "iiif_manifest": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k90051q/manifest.json"
+    },
+    "langue": "en (English)",
+    "_annotations": {
+        "metadata.title": {
+            "lisibilite": "Lisible"
+        },
+        "metadata.title_complement": {
+            "lisibilite": "Lisible"
+        },
+        "metadata.volume_number": {
+            "lisibilite": "Non lisible",
+            "cause": "absent"
+        },
+        "metadata.authors": {
+            "lisibilite": "Lisible"
+        },
+        "metadata.publisher": {
+            "lisibilite": "Lisible"
+        },
+        "metadata.publication_place": {
+            "lisibilite": "Lisible"
+        },
+        "metadata.date": {
+            "lisibilite": "Lisible"
+        },
+        "langue": {
+            "lisibilite": "Lisible"
+        }
+    },
+    "ark": "bpt6k90051q"
+}

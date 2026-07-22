@@ -1,0 +1,47 @@
+{
+    "metadata": {
+        "title": "CICLO DE CONFERENCIAS CONMEMORATIVAS CENTENARIO DEL NACIMIENTO DE BERTHELOT",
+        "title_complement": "organizadas por el Comité argentino constituido al efecto",
+        "volume_number": "",
+        "authors": "",
+        "publisher": "Coni",
+        "publication_place": "BUENOS AIRES",
+        "date": "1928",
+        "identifier": "http://gallica.bnf.fr/ark:/12148/bpt6k90559v",
+        "iiif_manifest": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k90559v/manifest.json"
+    },
+    "langue": "es (Spanish)",
+    "_annotations": {
+        "metadata.title": {
+            "lisibilite": "Lisible",
+            "correction": "CICLO DE CONFERENCIAS CONMEMORATIVAS CENTENARIO DEL NACIMIENTO DE BERTHELOT"
+        },
+        "metadata.title_complement": {
+            "lisibilite": "Lisible",
+            "correction": "organizadas por el Comité argentino constituido al efecto"
+        },
+        "metadata.volume_number": {
+            "lisibilite": "Non lisible",
+            "cause": "absent"
+        },
+        "metadata.authors": {
+            "lisibilite": "Non lisible",
+            "cause": "absent"
+        },
+        "metadata.publisher": {
+            "lisibilite": "Non lisible",
+            "cause": "qualite",
+            "correction": "Coni"
+        },
+        "metadata.publication_place": {
+            "lisibilite": "Lisible"
+        },
+        "metadata.date": {
+            "lisibilite": "Lisible"
+        },
+        "langue": {
+            "lisibilite": "Lisible"
+        }
+    },
+    "ark": "bpt6k90559v"
+}

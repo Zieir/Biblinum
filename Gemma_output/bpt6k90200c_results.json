@@ -1,0 +1,15 @@
+{
+    "processing_time_seconds": 2.0,
+    "metadata": {
+        "title": "ŒUVRES COMPLÈTES",
+        "title_complement": "",
+        "volume_number": "TOME VIII",
+        "authors": "Cauchy, Augustin",
+        "publisher": "Gauthier-Villars et Fils",
+        "publication_place": "Paris",
+        "date": "1890",
+        "identifier": "http://gallica.bnf.fr/ark:/12148/bpt6k90200c",
+        "iiif_manifest": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k90200c/manifest.json"
+    },
+    "ark": "bpt6k90200c"
+}

@@ -1,0 +1,42 @@
+{
+    "metadata": {
+        "title": "PREMIERS ÉLÉMENTS DU CALCUL INFINITÉSIMAL",
+        "title_complement": "A L'USAGE DES JEUNES GENS QUI SE DESTINENT A LA CARRIÈRE D'INGÉNIEUR",
+        "volume_number": "",
+        "authors": "SONNET, H.",
+        "publisher": "LIBRAIRIE HACHETTE ET Cie",
+        "publication_place": "PARIS",
+        "date": "1884",
+        "identifier": "http://gallica.bnf.fr/ark:/12148/bpt6k91919z",
+        "iiif_manifest": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k91919z/manifest.json"
+    },
+    "langue": "fr (French)",
+    "_annotations": {
+        "metadata.title": {
+            "lisibilite": "Lisible"
+        },
+        "metadata.title_complement": {
+            "lisibilite": "Lisible"
+        },
+        "metadata.volume_number": {
+            "lisibilite": "Non lisible",
+            "cause": "absent"
+        },
+        "metadata.authors": {
+            "lisibilite": "Lisible"
+        },
+        "metadata.publisher": {
+            "lisibilite": "Lisible"
+        },
+        "metadata.publication_place": {
+            "lisibilite": "Lisible"
+        },
+        "metadata.date": {
+            "lisibilite": "Lisible"
+        },
+        "langue": {
+            "lisibilite": "Lisible"
+        }
+    },
+    "ark": "bpt6k91919z"
+}

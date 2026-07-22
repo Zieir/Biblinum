@@ -1,0 +1,15 @@
+{
+    "processing_time_seconds": 2.76,
+    "metadata": {
+        "title": "TRAITÉ DE MÉCANIQUE",
+        "title_complement": "",
+        "volume_number": "TOME SECOND",
+        "authors": "Poisson, S. D.",
+        "publisher": "veuve COURCIER",
+        "publication_place": "PARIS",
+        "date": "1811",
+        "identifier": "http://gallica.bnf.fr/ark:/12148/bpt6k90338b",
+        "iiif_manifest": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k90338b/manifest.json"
+    },
+    "ark": "bpt6k90338b"
+}

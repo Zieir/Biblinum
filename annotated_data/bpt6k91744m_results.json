@@ -1,0 +1,46 @@
+{
+    "metadata": {
+        "title": "RAPPORT MÉTHODIQUE",
+        "title_complement": "SUR LES PROGRÈS DE LA CHIMIE ORGANIQUE PURE",
+        "volume_number": "",
+        "authors": "",
+        "publisher": "",
+        "publication_place": "",
+        "date": "1868",
+        "identifier": "http://gallica.bnf.fr/ark:/12148/bpt6k91744m",
+        "iiif_manifest": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k91744m/manifest.json"
+    },
+    "langue": "fr (French)",
+    "_annotations": {
+        "metadata.title": {
+            "lisibilite": "Lisible"
+        },
+        "metadata.title_complement": {
+            "lisibilite": "Lisible"
+        },
+        "metadata.volume_number": {
+            "lisibilite": "Non lisible",
+            "cause": "absent"
+        },
+        "metadata.authors": {
+            "lisibilite": "Non lisible",
+            "cause": "absent"
+        },
+        "metadata.publisher": {
+            "lisibilite": "Non lisible",
+            "cause": "absent"
+        },
+        "metadata.publication_place": {
+            "lisibilite": "Non lisible",
+            "cause": "absent"
+        },
+        "metadata.date": {
+            "lisibilite": "Lisible"
+        },
+        "langue": {
+            "lisibilite": "Lisible"
+        },
+        "_note": "Date really is 1869 but the book cover clearly says otherwise"
+    },
+    "ark": "bpt6k91744m"
+}

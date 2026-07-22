@@ -1,0 +1,44 @@
+{
+    "metadata": {
+        "title": "ANTON ROSING",
+        "title_complement": "BIOGRAPHIE",
+        "volume_number": "",
+        "authors": "ASBJÖRNSEN, P. Chr.",
+        "publisher": "IMPRIMERIE DE CHR. JOHNSEN",
+        "publication_place": "CHRISTIANIA",
+        "date": "1869",
+        "identifier": "http://gallica.bnf.fr/ark:/12148/bpt6k903506",
+        "iiif_manifest": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k903506/manifest.json"
+    },
+    "langue": "fr (French)",
+    "_annotations": {
+        "metadata.title": {
+            "lisibilite": "Lisible"
+        },
+        "metadata.title_complement": {
+            "lisibilite": "Lisible"
+        },
+        "metadata.volume_number": {
+            "lisibilite": "Non lisible",
+            "cause": "absent"
+        },
+        "metadata.authors": {
+            "lisibilite": "Non lisible",
+            "cause": "qualite",
+            "correction": "ASBJÖRNSEN, P. Chr."
+        },
+        "metadata.publisher": {
+            "lisibilite": "Lisible"
+        },
+        "metadata.publication_place": {
+            "lisibilite": "Lisible"
+        },
+        "metadata.date": {
+            "lisibilite": "Lisible"
+        },
+        "langue": {
+            "lisibilite": "Lisible"
+        }
+    },
+    "ark": "bpt6k903506"
+}

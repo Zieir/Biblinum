@@ -1,0 +1,45 @@
+{
+    "metadata": {
+        "title": "PHILOSOPHIE CHIMIQUE",
+        "title_complement": "OU VÉRITÉS FONDAMENTALES DE LA CHIMIE MODERNE, Disposées dans un nouvel ordre",
+        "volume_number": "",
+        "authors": "FOURCROY, A. F.",
+        "publisher": "CHEZ DU PONT IMPRIMEUR-LIBRAIRE",
+        "publication_place": "PARIS",
+        "date": "1795",
+        "identifier": "http://gallica.bnf.fr/ark:/12148/bpt6k90276m",
+        "iiif_manifest": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k90276m/manifest.json"
+    },
+    "langue": "fr (French)",
+    "_annotations": {
+        "metadata.title": {
+            "lisibilite": "Lisible"
+        },
+        "metadata.title_complement": {
+            "lisibilite": "Lisible"
+        },
+        "metadata.volume_number": {
+            "lisibilite": "Non lisible",
+            "cause": "absent"
+        },
+        "metadata.authors": {
+            "lisibilite": "Non lisible",
+            "cause": "recouvert",
+            "correction": "FOURCROY, A. F."
+        },
+        "metadata.publisher": {
+            "lisibilite": "Lisible"
+        },
+        "metadata.publication_place": {
+            "lisibilite": "Lisible"
+        },
+        "metadata.date": {
+            "lisibilite": "Lisible"
+        },
+        "langue": {
+            "lisibilite": "Lisible"
+        },
+        "_note": "Date : L'an 3 de la république est l'année (1974-1975) incohérence avec annotation  humaine"
+    },
+    "ark": "bpt6k90276m"
+}

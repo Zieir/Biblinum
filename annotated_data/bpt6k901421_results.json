@@ -1,0 +1,41 @@
+{
+    "metadata": {
+        "title": "DICTIONNAIRE DE CHIMIE INDUSTRIELLE",
+        "title_complement": "CONTENANT LES APPLICATIONS DE LA CHIMIE A L'INDUSTRIE, A LA MÉTALLURGIE, A L'AGRICULTURE, A LA PHARMACIE, A LA PYROTECHNIE ET AUX ARTS ET MÉTIERS",
+        "volume_number": "Tome deuxième",
+        "authors": "VILLON, A.-M. ; GUICHARD, P.",
+        "publisher": "BERNARD TIGNOL",
+        "publication_place": "PARIS",
+        "date": "",
+        "identifier": "http://gallica.bnf.fr/ark:/12148/bpt6k901421",
+        "iiif_manifest": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k901421/manifest.json"
+    },
+    "langue": "fr (French)",
+    "_annotations": {
+        "metadata.title": {
+            "lisibilite": "Lisible"
+        },
+        "metadata.title_complement": {
+            "lisibilite": "Lisible"
+        },
+        "metadata.volume_number": {
+            "lisibilite": "Lisible"
+        },
+        "metadata.authors": {
+            "lisibilite": "Lisible"
+        },
+        "metadata.publisher": {
+            "lisibilite": "Lisible"
+        },
+        "metadata.publication_place": {
+            "lisibilite": "Lisible"
+        },
+        "metadata.date": {
+            "lisibilite": "Lisible"
+        },
+        "langue": {
+            "lisibilite": "Lisible"
+        }
+    },
+    "ark": "bpt6k901421"
+}

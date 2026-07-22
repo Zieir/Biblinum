@@ -1,0 +1,44 @@
+{
+    "metadata": {
+        "title": "Œuvres COMPLÈTES",
+        "title_complement": " d'Augustin Cauchy",
+        "volume_number": "Tome XIV",
+        "authors": "Cauchy, Augustin",
+        "publisher": "Gauthier-Villars",
+        "publication_place": "Paris",
+        "date": "1938",
+        "identifier": "http://gallica.bnf.fr/ark:/12148/bpt6k90206f",
+        "iiif_manifest": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k90206f/manifest.json"
+    },
+    "langue": "fr (French)",
+    "_annotations": {
+        "metadata.title": {
+            "lisibilite": "Lisible",
+            "correction": "Œuvres COMPLÈTES"
+        },
+        "metadata.title_complement": {
+            "lisibilite": "Lisible",
+            "correction": " d'Augustin Cauchy"
+        },
+        "metadata.volume_number": {
+            "lisibilite": "Lisible"
+        },
+        "metadata.authors": {
+            "lisibilite": "Lisible"
+        },
+        "metadata.publisher": {
+            "lisibilite": "Lisible"
+        },
+        "metadata.publication_place": {
+            "lisibilite": "Lisible"
+        },
+        "metadata.date": {
+            "lisibilite": "Lisible"
+        },
+        "langue": {
+            "lisibilite": "Lisible"
+        },
+        "_note": "Date in roman numerals"
+    },
+    "ark": "bpt6k90206f"
+}

@@ -1,0 +1,44 @@
+{
+    "metadata": {
+        "title": "A MANUAL OF QUALITATIVE CHEMICAL ANALYSIS",
+        "title_complement": "",
+        "volume_number": "",
+        "authors": "DITTMAR, William",
+        "publisher": "EDMONSTON AND DOUGLAS",
+        "publication_place": "EDINBURGH",
+        "date": "1876",
+        "identifier": "http://gallica.bnf.fr/ark:/12148/bpt6k90258p",
+        "iiif_manifest": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k90258p/manifest.json"
+    },
+    "langue": "en (English)",
+    "_annotations": {
+        "metadata.title": {
+            "lisibilite": "Lisible"
+        },
+        "metadata.title_complement": {
+            "lisibilite": "Non lisible",
+            "cause": "absent"
+        },
+        "metadata.volume_number": {
+            "lisibilite": "Non lisible",
+            "cause": "absent"
+        },
+        "metadata.authors": {
+            "lisibilite": "Lisible"
+        },
+        "metadata.publisher": {
+            "lisibilite": "Non lisible",
+            "cause": "recouvert"
+        },
+        "metadata.publication_place": {
+            "lisibilite": "Lisible"
+        },
+        "metadata.date": {
+            "lisibilite": "Lisible"
+        },
+        "langue": {
+            "lisibilite": "Lisible"
+        }
+    },
+    "ark": "bpt6k90258p"
+}

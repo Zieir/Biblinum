@@ -1,0 +1,43 @@
+{
+    "metadata": {
+        "title": "DE L'ALLOTROPIE",
+        "title_complement": "ET DE L'ISOMÉRIE",
+        "volume_number": "",
+        "authors": "NAQUET, A.",
+        "publisher": "J.-B. BAILLIÈRE ET FILS",
+        "publication_place": "PARIS",
+        "date": "1860",
+        "identifier": "http://gallica.bnf.fr/ark:/12148/bpt6k90300n",
+        "iiif_manifest": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k90300n/manifest.json"
+    },
+    "langue": "fr (French)",
+    "_annotations": {
+        "metadata.title": {
+            "lisibilite": "Lisible",
+            "correction": "DE L'ALLOTROPIE"
+        },
+        "metadata.title_complement": {
+            "lisibilite": "Lisible"
+        },
+        "metadata.volume_number": {
+            "lisibilite": "Non lisible",
+            "cause": "absent"
+        },
+        "metadata.authors": {
+            "lisibilite": "Lisible"
+        },
+        "metadata.publisher": {
+            "lisibilite": "Lisible"
+        },
+        "metadata.publication_place": {
+            "lisibilite": "Lisible"
+        },
+        "metadata.date": {
+            "lisibilite": "Lisible"
+        },
+        "langue": {
+            "lisibilite": "Lisible"
+        }
+    },
+    "ark": "bpt6k90300n"
+}

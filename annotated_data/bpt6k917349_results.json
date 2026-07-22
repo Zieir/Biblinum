@@ -1,0 +1,45 @@
+{
+    "metadata": {
+        "title": "INSTRUCTION SUR LES PRÉCAUTIONS A PRENDRE POUR BIEN CONDUIRE L'APPAREIL SERVANT A EXTRAIRE LA GÉLATINE",
+        "title_complement": "DES OS DE LA VIANDE DE BOUCHERIE",
+        "volume_number": "",
+        "authors": "D'ARCET, M.",
+        "publisher": "",
+        "publication_place": "",
+        "date": "",
+        "identifier": "http://gallica.bnf.fr/ark:/12148/bpt6k917349",
+        "iiif_manifest": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k917349/manifest.json"
+    },
+    "langue": "fr (French)",
+    "_annotations": {
+        "metadata.title": {
+            "lisibilite": "Lisible"
+        },
+        "metadata.title_complement": {
+            "lisibilite": "Lisible"
+        },
+        "metadata.volume_number": {
+            "lisibilite": "Non lisible",
+            "cause": "absent"
+        },
+        "metadata.authors": {
+            "lisibilite": "Lisible"
+        },
+        "metadata.publisher": {
+            "lisibilite": "Non lisible",
+            "cause": "absent"
+        },
+        "metadata.publication_place": {
+            "lisibilite": "Non lisible",
+            "cause": "absent"
+        },
+        "metadata.date": {
+            "lisibilite": "Non lisible",
+            "cause": "absent"
+        },
+        "langue": {
+            "lisibilite": "Lisible"
+        }
+    },
+    "ark": "bpt6k917349"
+}

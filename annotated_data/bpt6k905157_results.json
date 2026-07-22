@@ -1,0 +1,42 @@
+{
+    "metadata": {
+        "title": "DIE ALCHEMIE",
+        "title_complement": "IN ÄLTERER UND NEUERER ZEIT. EIN BEITRAG ZUR CULTURGESCHICHTE",
+        "volume_number": "ERSTER THEIL",
+        "authors": "KOPP, HERMANN",
+        "publisher": "CARL WINTER'S UNIVERSITÄTSBUCHHANDLUNG",
+        "publication_place": "HEIDELBERG",
+        "date": "1886",
+        "identifier": "http://gallica.bnf.fr/ark:/12148/bpt6k905157",
+        "iiif_manifest": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k905157/manifest.json"
+    },
+    "langue": "de (German)",
+    "_annotations": {
+        "metadata.title": {
+            "lisibilite": "Lisible"
+        },
+        "metadata.title_complement": {
+            "lisibilite": "Non lisible",
+            "cause": "recouvert"
+        },
+        "metadata.volume_number": {
+            "lisibilite": "Lisible"
+        },
+        "metadata.authors": {
+            "lisibilite": "Lisible"
+        },
+        "metadata.publisher": {
+            "lisibilite": "Lisible"
+        },
+        "metadata.publication_place": {
+            "lisibilite": "Lisible"
+        },
+        "metadata.date": {
+            "lisibilite": "Lisible"
+        },
+        "langue": {
+            "lisibilite": "Lisible"
+        }
+    },
+    "ark": "bpt6k905157"
+}

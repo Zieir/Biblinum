@@ -1,0 +1,43 @@
+{
+    "metadata": {
+        "title": "Investigación Vinícola",
+        "title_complement": "INFORMES  presentados al ministro de agricultura",
+        "volume_number": "TOMO I—NÚM. 1",
+        "authors": "Arata, Pedro N. ; Isola, Ulises",
+        "publisher": "Officina meteorologica argentina",
+        "publication_place": "Buenos Aires",
+        "date": "1903",
+        "identifier": "http://gallica.bnf.fr/ark:/12148/bpt6k91688z",
+        "iiif_manifest": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k91688z/manifest.json"
+    },
+    "langue": "es (Spanish)",
+    "_annotations": {
+        "metadata.title": {
+            "lisibilite": "Lisible"
+        },
+        "metadata.title_complement": {
+            "lisibilite": "Lisible",
+            "correction": "INFORMES  presentados al ministro de agricultura"
+        },
+        "metadata.volume_number": {
+            "lisibilite": "Lisible"
+        },
+        "metadata.authors": {
+            "lisibilite": "Lisible"
+        },
+        "metadata.publisher": {
+            "lisibilite": "Lisible",
+            "correction": "Officina meteorologica argentina"
+        },
+        "metadata.publication_place": {
+            "lisibilite": "Lisible"
+        },
+        "metadata.date": {
+            "lisibilite": "Lisible"
+        },
+        "langue": {
+            "lisibilite": "Lisible"
+        }
+    },
+    "ark": "bpt6k91688z"
+}

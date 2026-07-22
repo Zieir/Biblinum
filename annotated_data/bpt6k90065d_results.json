@@ -1,0 +1,45 @@
+{
+    "metadata": {
+        "title": "Carl Friedrich Plattner's Probirkunst",
+        "title_complement": "mit dem Löthrohre oder vollständige Anleitung zu qualitativen und quantitativen Löthrohr-Untersuchungen",
+        "volume_number": "",
+        "authors": "Carl Friedrich Plattner ; Richter, Theodor",
+        "publisher": "Verlag von Johann Ambrosius Barth",
+        "publication_place": "Leipzig",
+        "date": "1865",
+        "identifier": "http://gallica.bnf.fr/ark:/12148/bpt6k90065d",
+        "iiif_manifest": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k90065d/manifest.json"
+    },
+    "langue": "de (German)",
+    "_annotations": {
+        "metadata.title": {
+            "lisibilite": "Non lisible",
+            "cause": "recouvert",
+            "correction": "Carl Friedrich Plattner's Probirkunst"
+        },
+        "metadata.title_complement": {
+            "lisibilite": "Lisible"
+        },
+        "metadata.volume_number": {
+            "lisibilite": "Non lisible",
+            "cause": "absent"
+        },
+        "metadata.authors": {
+            "lisibilite": "Lisible",
+            "correction": "Carl Friedrich Plattner ; Richter, Theodor"
+        },
+        "metadata.publisher": {
+            "lisibilite": "Lisible"
+        },
+        "metadata.publication_place": {
+            "lisibilite": "Lisible"
+        },
+        "metadata.date": {
+            "lisibilite": "Lisible"
+        },
+        "langue": {
+            "lisibilite": "Lisible"
+        }
+    },
+    "ark": "bpt6k90065d"
+}

@@ -1,0 +1,41 @@
+{
+    "metadata": {
+        "title": "TRAITÉ DE CHIMIE",
+        "title_complement": "GÉNÉRALE ET EXPÉRIMENTALE, AVEC LES APPLICATIONS AUX ARTS, A LA MÉDECINE ET A LA PHARMACIE",
+        "volume_number": "TOME PREMIER",
+        "authors": "BAUDRIMONT, A.",
+        "publisher": "J.-B. BAILLIÈRE",
+        "publication_place": "PARIS",
+        "date": "1844",
+        "identifier": "http://gallica.bnf.fr/ark:/12148/bpt6k90274x",
+        "iiif_manifest": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k90274x/manifest.json"
+    },
+    "langue": "fr (French)",
+    "_annotations": {
+        "metadata.title": {
+            "lisibilite": "Lisible"
+        },
+        "metadata.title_complement": {
+            "lisibilite": "Lisible"
+        },
+        "metadata.volume_number": {
+            "lisibilite": "Lisible"
+        },
+        "metadata.authors": {
+            "lisibilite": "Lisible"
+        },
+        "metadata.publisher": {
+            "lisibilite": "Lisible"
+        },
+        "metadata.publication_place": {
+            "lisibilite": "Lisible"
+        },
+        "metadata.date": {
+            "lisibilite": "Lisible"
+        },
+        "langue": {
+            "lisibilite": "Lisible"
+        }
+    },
+    "ark": "bpt6k90274x"
+}

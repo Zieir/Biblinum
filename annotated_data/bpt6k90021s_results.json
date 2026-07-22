@@ -1,0 +1,42 @@
+{
+    "metadata": {
+        "title": "ÉLÉMENTS DE CHIMIE",
+        "title_complement": "APPLIQUÉE A LA MÉDECINE ET AUX ARTS",
+        "volume_number": "TOME PREMIER",
+        "authors": "ORFILA, M.",
+        "publisher": "LIBRAIRIE DE CROCHARD",
+        "publication_place": "PARIS",
+        "date": "1835",
+        "identifier": "http://gallica.bnf.fr/ark:/12148/bpt6k90021s",
+        "iiif_manifest": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k90021s/manifest.json"
+    },
+    "langue": "fr (French)",
+    "_annotations": {
+        "metadata.title": {
+            "lisibilite": "Lisible"
+        },
+        "metadata.title_complement": {
+            "lisibilite": "Lisible"
+        },
+        "metadata.volume_number": {
+            "lisibilite": "Lisible"
+        },
+        "metadata.authors": {
+            "lisibilite": "Lisible"
+        },
+        "metadata.publisher": {
+            "lisibilite": "Lisible"
+        },
+        "metadata.publication_place": {
+            "lisibilite": "Lisible"
+        },
+        "metadata.date": {
+            "lisibilite": "Lisible",
+            "correction": "1835"
+        },
+        "langue": {
+            "lisibilite": "Lisible"
+        }
+    },
+    "ark": "bpt6k90021s"
+}

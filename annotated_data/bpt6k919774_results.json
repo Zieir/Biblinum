@@ -1,0 +1,43 @@
+{
+    "metadata": {
+        "title": "Chemisch-technische Untersuchungsmethoden",
+        "title_complement": "",
+        "volume_number": "Fünfter Band",
+        "authors": "Berl, Ernst",
+        "publisher": "Verlag von Julius Springer",
+        "publication_place": "Berlin",
+        "date": "1934",
+        "identifier": "http://gallica.bnf.fr/ark:/12148/bpt6k919774",
+        "iiif_manifest": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k919774/manifest.json"
+    },
+    "langue": "de (German)",
+    "_annotations": {
+        "metadata.title": {
+            "lisibilite": "Non lisible",
+            "cause": "recouvert"
+        },
+        "metadata.title_complement": {
+            "lisibilite": "Non lisible",
+            "cause": "absent"
+        },
+        "metadata.volume_number": {
+            "lisibilite": "Lisible"
+        },
+        "metadata.authors": {
+            "lisibilite": "Lisible"
+        },
+        "metadata.publisher": {
+            "lisibilite": "Lisible"
+        },
+        "metadata.publication_place": {
+            "lisibilite": "Lisible"
+        },
+        "metadata.date": {
+            "lisibilite": "Lisible"
+        },
+        "langue": {
+            "lisibilite": "Lisible"
+        }
+    },
+    "ark": "bpt6k919774"
+}

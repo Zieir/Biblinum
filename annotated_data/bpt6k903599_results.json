@@ -1,0 +1,43 @@
+{
+    "metadata": {
+        "title": "DICTIONNAIRE DE CHIMIE INDUSTRIELLE",
+        "title_complement": "",
+        "volume_number": "TOME TROISIÈME",
+        "authors": "BARRESWIL ; GIRARD, AIMÉ",
+        "publisher": "Fd TANDOU Et Cie, LIBRAIRES-ÉDITEURS",
+        "publication_place": "PARIS",
+        "date": "1864",
+        "identifier": "http://gallica.bnf.fr/ark:/12148/bpt6k903599",
+        "iiif_manifest": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k903599/manifest.json"
+    },
+    "langue": "fr (French)",
+    "_annotations": {
+        "metadata.title": {
+            "lisibilite": "Lisible"
+        },
+        "metadata.title_complement": {
+            "lisibilite": "Non lisible",
+            "cause": "absent"
+        },
+        "metadata.volume_number": {
+            "lisibilite": "Lisible"
+        },
+        "metadata.authors": {
+            "lisibilite": "Lisible"
+        },
+        "metadata.publisher": {
+            "lisibilite": "Lisible",
+            "correction": "Fd TANDOU Et Cie, LIBRAIRES-ÉDITEURS"
+        },
+        "metadata.publication_place": {
+            "lisibilite": "Lisible"
+        },
+        "metadata.date": {
+            "lisibilite": "Lisible"
+        },
+        "langue": {
+            "lisibilite": "Lisible"
+        }
+    },
+    "ark": "bpt6k903599"
+}

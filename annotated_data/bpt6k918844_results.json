@@ -1,0 +1,41 @@
+{
+    "metadata": {
+        "title": "PRÉCIS DE CHIMIE INDUSTRIELLE",
+        "title_complement": "A L'USAGE 1° DES ÉCOLES D'ARTS ET MANUFACTURES ET D'ARTS ET MÉTIERS 2° DES ÉCOLES PRÉPARATOIRES AUX PROFESSIONS INDUSTRIELLES 3° DES FABRICANTS ET DES AGRICULTEURS",
+        "volume_number": "TOME PREMIER",
+        "authors": "PAYEN, A. ; VINCENT, Camille",
+        "publisher": "LIBRAIRIE HACHETTE ET Cie",
+        "publication_place": "PARIS",
+        "date": "1877",
+        "identifier": "http://gallica.bnf.fr/ark:/12148/bpt6k918844",
+        "iiif_manifest": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k918844/manifest.json"
+    },
+    "langue": "fr (French)",
+    "_annotations": {
+        "metadata.title": {
+            "lisibilite": "Lisible"
+        },
+        "metadata.title_complement": {
+            "lisibilite": "Lisible"
+        },
+        "metadata.volume_number": {
+            "lisibilite": "Lisible"
+        },
+        "metadata.authors": {
+            "lisibilite": "Lisible"
+        },
+        "metadata.publisher": {
+            "lisibilite": "Lisible"
+        },
+        "metadata.publication_place": {
+            "lisibilite": "Lisible"
+        },
+        "metadata.date": {
+            "lisibilite": "Lisible"
+        },
+        "langue": {
+            "lisibilite": "Lisible"
+        }
+    },
+    "ark": "bpt6k918844"
+}

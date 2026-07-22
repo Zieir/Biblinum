@@ -1,0 +1,44 @@
+{
+    "metadata": {
+        "title": "STANISLAO CANNIZZARO",
+        "title_complement": "SCRITTI VARI E LETTERE INEDITE NEL CENTENARIO DELLA NASCITA",
+        "volume_number": "",
+        "authors": "",
+        "publisher": "Tip. Leonardo da Vinci",
+        "publication_place": "ROMA",
+        "date": "1926",
+        "identifier": "http://gallica.bnf.fr/ark:/12148/bpt6k903537",
+        "iiif_manifest": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k903537/manifest.json"
+    },
+    "langue": "it (Italian)",
+    "_annotations": {
+        "metadata.title": {
+            "lisibilite": "Lisible"
+        },
+        "metadata.title_complement": {
+            "lisibilite": "Lisible"
+        },
+        "metadata.volume_number": {
+            "lisibilite": "Non lisible",
+            "cause": "absent"
+        },
+        "metadata.authors": {
+            "lisibilite": "Non lisible",
+            "cause": "absent"
+        },
+        "metadata.publisher": {
+            "lisibilite": "Lisible",
+            "correction": "Tip. Leonardo da Vinci"
+        },
+        "metadata.publication_place": {
+            "lisibilite": "Lisible"
+        },
+        "metadata.date": {
+            "lisibilite": "Lisible"
+        },
+        "langue": {
+            "lisibilite": "Lisible"
+        }
+    },
+    "ark": "bpt6k903537"
+}

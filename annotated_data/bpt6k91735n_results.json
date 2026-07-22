@@ -1,0 +1,44 @@
+{
+    "metadata": {
+        "title": "RAPPORT",
+        "title_complement": "Sur la fabrication des Savons, sur leurs différentes espèces, suivant la nature des huiles et des alkalis qu'on emploie pour les fabriquer ; et sur les moyens d'en préparer par-tous, avec les diverses matières huileuses et alkaline, que la nature présente, suivant les localités",
+        "volume_number": "",
+        "authors": "DARCET ; LELIEVRE ; PELLETIER",
+        "publisher": "COMITÉ DE SANTÉ PUBLIC",
+        "publication_place": "",
+        "date": "",
+        "identifier": "http://gallica.bnf.fr/ark:/12148/bpt6k91735n",
+        "iiif_manifest": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k91735n/manifest.json"
+    },
+    "langue": "fr (French)",
+    "_annotations": {
+        "metadata.title": {
+            "lisibilite": "Lisible"
+        },
+        "metadata.title_complement": {
+            "lisibilite": "Lisible"
+        },
+        "metadata.volume_number": {
+            "lisibilite": "Non lisible",
+            "cause": "absent"
+        },
+        "metadata.authors": {
+            "lisibilite": "Lisible"
+        },
+        "metadata.publisher": {
+            "lisibilite": "Lisible"
+        },
+        "metadata.publication_place": {
+            "lisibilite": "Non lisible",
+            "cause": "absent"
+        },
+        "metadata.date": {
+            "lisibilite": "Non lisible",
+            "cause": "absent"
+        },
+        "langue": {
+            "lisibilite": "Lisible"
+        }
+    },
+    "ark": "bpt6k91735n"
+}

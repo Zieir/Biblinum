@@ -1,0 +1,44 @@
+{
+    "metadata": {
+        "title": "LA CHIMIE PHYSIQUE ET SES APPLICATIONS",
+        "title_complement": "huit leçons faites sur l'invitation de l'Université de Chicago, du 20 au 24 juin 1901",
+        "volume_number": "",
+        "authors": "VANT HOFF, J. H.",
+        "publisher": "LIBRAIRIE SCIENTIFIQUE A. HERMANN",
+        "publication_place": "PARIS",
+        "date": "1903",
+        "identifier": "http://gallica.bnf.fr/ark:/12148/bpt6k918368",
+        "iiif_manifest": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k918368/manifest.json"
+    },
+    "langue": "fr (French)",
+    "_annotations": {
+        "metadata.title": {
+            "lisibilite": "Lisible",
+            "correction": "LA CHIMIE PHYSIQUE ET SES APPLICATIONS"
+        },
+        "metadata.title_complement": {
+            "lisibilite": "Lisible",
+            "correction": "huit leçons faites sur l'invitation de l'Université de Chicago, du 20 au 24 juin 1901"
+        },
+        "metadata.volume_number": {
+            "lisibilite": "Non lisible",
+            "cause": "absent"
+        },
+        "metadata.authors": {
+            "lisibilite": "Lisible"
+        },
+        "metadata.publisher": {
+            "lisibilite": "Lisible"
+        },
+        "metadata.publication_place": {
+            "lisibilite": "Lisible"
+        },
+        "metadata.date": {
+            "lisibilite": "Lisible"
+        },
+        "langue": {
+            "lisibilite": "Lisible"
+        }
+    },
+    "ark": "bpt6k918368"
+}

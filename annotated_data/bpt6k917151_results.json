@@ -1,0 +1,44 @@
+{
+    "metadata": {
+        "title": "ÉLECTROCHIMIE",
+        "title_complement": "NOUVELLES RECHERCHES ÉLECTROLYTIQUES",
+        "volume_number": "",
+        "authors": "BOURGOIN, Edme",
+        "publisher": "ADRIEN BELAHAYE, LIBRAIRE-ÉDITEUR",
+        "publication_place": "PARIS",
+        "date": "1868",
+        "identifier": "http://gallica.bnf.fr/ark:/12148/bpt6k917151",
+        "iiif_manifest": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k917151/manifest.json"
+    },
+    "langue": "fr (French)",
+    "_annotations": {
+        "metadata.title": {
+            "lisibilite": "Lisible"
+        },
+        "metadata.title_complement": {
+            "lisibilite": "Lisible"
+        },
+        "metadata.volume_number": {
+            "lisibilite": "Non lisible",
+            "cause": "absent"
+        },
+        "metadata.authors": {
+            "lisibilite": "Lisible"
+        },
+        "metadata.publisher": {
+            "lisibilite": "Lisible"
+        },
+        "metadata.publication_place": {
+            "lisibilite": "Lisible"
+        },
+        "metadata.date": {
+            "lisibilite": "Non lisible",
+            "cause": "recouvert",
+            "correction": "1868"
+        },
+        "langue": {
+            "lisibilite": "Lisible"
+        }
+    },
+    "ark": "bpt6k917151"
+}

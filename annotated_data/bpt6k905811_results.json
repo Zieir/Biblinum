@@ -1,0 +1,47 @@
+{
+    "metadata": {
+        "title": "Briefe von Justus Liebig nach neuen Funden",
+        "title_complement": "",
+        "volume_number": "",
+        "authors": "LIEBIG, JUSTUS",
+        "publisher": "",
+        "publication_place": "",
+        "date": "",
+        "identifier": "http://gallica.bnf.fr/ark:/12148/bpt6k905811",
+        "iiif_manifest": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k905811/manifest.json"
+    },
+    "langue": "de (German)",
+    "_annotations": {
+        "metadata.title": {
+            "lisibilite": "Lisible",
+            "correction": "Briefe von Justus Liebig nach neuen Funden"
+        },
+        "metadata.title_complement": {
+            "lisibilite": "Lisible",
+            "correction": ""
+        },
+        "metadata.volume_number": {
+            "lisibilite": "Non lisible",
+            "cause": "absent"
+        },
+        "metadata.authors": {
+            "lisibilite": "Lisible"
+        },
+        "metadata.publisher": {
+            "lisibilite": "Non lisible",
+            "cause": "absent"
+        },
+        "metadata.publication_place": {
+            "lisibilite": "Non lisible",
+            "cause": "absent"
+        },
+        "metadata.date": {
+            "lisibilite": "Non lisible",
+            "cause": "absent"
+        },
+        "langue": {
+            "lisibilite": "Lisible"
+        }
+    },
+    "ark": "bpt6k905811"
+}

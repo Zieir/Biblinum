@@ -1,0 +1,42 @@
+{
+    "metadata": {
+        "title": "TABLES",
+        "title_complement": "FOR THE QUALITATIVE ANALYSIS OF SIMPLE AND COMPOUND SUBSTANCES BOTH IN THE DRY AND WET WAY",
+        "volume_number": "",
+        "authors": "VALENTIN, WM. GEO.",
+        "publisher": "J. & A. CHURCHILL",
+        "publication_place": "LONDON",
+        "date": "1876",
+        "identifier": "http://gallica.bnf.fr/ark:/12148/bpt6k83735x",
+        "iiif_manifest": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k83735x/manifest.json"
+    },
+    "_annotations": {
+        "metadata.title": {
+            "lisibilite": "Lisible"
+        },
+        "metadata.title_complement": {
+            "lisibilite": "Lisible"
+        },
+        "metadata.volume_number": {
+            "lisibilite": "Non lisible",
+            "cause": "absent"
+        },
+        "metadata.authors": {
+            "lisibilite": "Lisible"
+        },
+        "metadata.publisher": {
+            "lisibilite": "Lisible"
+        },
+        "metadata.publication_place": {
+            "lisibilite": "Lisible"
+        },
+        "metadata.date": {
+            "lisibilite": "Lisible"
+        },
+        "langue": {
+            "lisibilite": "Lisible"
+        }
+    },
+    "langue": "en (English)",
+    "ark": "bpt6k83735x"
+}

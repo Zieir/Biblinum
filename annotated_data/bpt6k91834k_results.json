@@ -1,0 +1,44 @@
+{
+    "metadata": {
+        "title": "DAS CHEMISCHE LABORATORIUM",
+        "title_complement": "DER UNIVERSITÄT CHRISTIANIA UND DIE DARIN AUSGEFÜHRTEN CHEMISCHEN UNTERSUCHUNGEN",
+        "volume_number": "",
+        "authors": "Strecker, Adolph",
+        "publisher": "Brögger & Christie",
+        "publication_place": "CHRISTIANIA",
+        "date": "1854",
+        "identifier": "http://gallica.bnf.fr/ark:/12148/bpt6k91834k",
+        "iiif_manifest": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k91834k/manifest.json"
+    },
+    "langue": "de (German)",
+    "_annotations": {
+        "metadata.title": {
+            "lisibilite": "Lisible"
+        },
+        "metadata.title_complement": {
+            "lisibilite": "Lisible"
+        },
+        "metadata.volume_number": {
+            "lisibilite": "Non lisible",
+            "cause": "absent"
+        },
+        "metadata.authors": {
+            "lisibilite": "Lisible",
+            "correction": "Strecker, Adolph"
+        },
+        "metadata.publisher": {
+            "lisibilite": "Lisible",
+            "correction": "Brögger & Christie"
+        },
+        "metadata.publication_place": {
+            "lisibilite": "Lisible"
+        },
+        "metadata.date": {
+            "lisibilite": "Lisible"
+        },
+        "langue": {
+            "lisibilite": "Lisible"
+        }
+    },
+    "ark": "bpt6k91834k"
+}

@@ -1,0 +1,46 @@
+{
+    "metadata": {
+        "title": "LEÇONS ÉLÉMENTAIRES DE CHIMIE MODERNE",
+        "title_complement": "",
+        "volume_number": "",
+        "authors": "WURTZ, M. AD.",
+        "publisher": "G. MASSON, ÉDITEUR",
+        "publication_place": "PARIS",
+        "date": "",
+        "identifier": "http://gallica.bnf.fr/ark:/12148/bpt6k90286x",
+        "iiif_manifest": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k90286x/manifest.json"
+    },
+    "langue": "fr (French)",
+    "_annotations": {
+        "metadata.title": {
+            "lisibilite": "Lisible",
+            "correction": "LEÇONS ÉLÉMENTAIRES DE CHIMIE MODERNE"
+        },
+        "metadata.title_complement": {
+            "lisibilite": "Non lisible",
+            "cause": "absent",
+            "correction": ""
+        },
+        "metadata.volume_number": {
+            "lisibilite": "Non lisible",
+            "cause": "absent"
+        },
+        "metadata.authors": {
+            "lisibilite": "Lisible"
+        },
+        "metadata.publisher": {
+            "lisibilite": "Lisible"
+        },
+        "metadata.publication_place": {
+            "lisibilite": "Lisible"
+        },
+        "metadata.date": {
+            "lisibilite": "Non lisible",
+            "cause": "absent"
+        },
+        "langue": {
+            "lisibilite": "Lisible"
+        }
+    },
+    "ark": "bpt6k90286x"
+}

@@ -1,0 +1,46 @@
+{
+    "metadata": {
+        "title": "LES MÉTAUX",
+        "title_complement": "SONT DES CORPS COMPOSÉS",
+        "volume_number": "",
+        "authors": "Tiffereau, C.-Théodore ; FRANCK",
+        "publisher": "Alfred Choisnet",
+        "publication_place": "VAUGIRARD",
+        "date": "1857",
+        "identifier": "http://gallica.bnf.fr/ark:/12148/bpt6k902816",
+        "iiif_manifest": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k902816/manifest.json"
+    },
+    "langue": "fr (French)",
+    "_annotations": {
+        "metadata.title": {
+            "lisibilite": "Lisible"
+        },
+        "metadata.title_complement": {
+            "lisibilite": "Lisible",
+            "correction": "SONT DES CORPS COMPOSÉS"
+        },
+        "metadata.volume_number": {
+            "lisibilite": "Lisible"
+        },
+        "metadata.authors": {
+            "lisibilite": "Lisible",
+            "correction": "Tiffereau, C.-Théodore ; FRANCK"
+        },
+        "metadata.publisher": {
+            "lisibilite": "Lisible",
+            "correction": "Alfred Choisnet"
+        },
+        "metadata.publication_place": {
+            "lisibilite": "Non lisible",
+            "cause": "qualite",
+            "correction": "VAUGIRARD"
+        },
+        "metadata.date": {
+            "lisibilite": "Lisible"
+        },
+        "langue": {
+            "lisibilite": "Lisible"
+        }
+    },
+    "ark": "bpt6k902816"
+}

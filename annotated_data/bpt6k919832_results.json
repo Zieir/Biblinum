@@ -1,0 +1,43 @@
+{
+    "metadata": {
+        "title": "TRAITÉ DE PHYSIQUE",
+        "title_complement": "THÉORIQUE ET EXPÉRIMENTALE AVEC LES APPLICATIONS A LA MÉTÉOROLOGIE ET AUX ARTS INDUSTRIELS",
+        "volume_number": "TOME SECOND",
+        "authors": "DAGUIN, P. A.",
+        "publisher": "ÉDOUARD PRIVAT ; DEZOBBY & E. MADELEINE",
+        "publication_place": "TOULOUSE ; PARIS",
+        "date": "1861",
+        "identifier": "http://gallica.bnf.fr/ark:/12148/bpt6k919832",
+        "iiif_manifest": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k919832/manifest.json"
+    },
+    "langue": "fr (French)",
+    "_annotations": {
+        "metadata.title": {
+            "lisibilite": "Lisible"
+        },
+        "metadata.title_complement": {
+            "lisibilite": "Lisible"
+        },
+        "metadata.volume_number": {
+            "lisibilite": "Lisible"
+        },
+        "metadata.authors": {
+            "lisibilite": "Lisible"
+        },
+        "metadata.publisher": {
+            "lisibilite": "Lisible"
+        },
+        "metadata.publication_place": {
+            "lisibilite": "Lisible"
+        },
+        "metadata.date": {
+            "lisibilite": "Non lisible",
+            "cause": "manuscrit",
+            "correction": "1861"
+        },
+        "langue": {
+            "lisibilite": "Lisible"
+        }
+    },
+    "ark": "bpt6k919832"
+}

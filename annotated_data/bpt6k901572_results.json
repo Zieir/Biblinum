@@ -1,0 +1,41 @@
+{
+    "metadata": {
+        "title": "A DICTIONARY OF CHEMISTRY",
+        "title_complement": "AND THE ALLIED BRANCHES OF OTHER SCIENCES",
+        "volume_number": "VOL. III",
+        "authors": "WATTS, Henry",
+        "publisher": "LONGMANS, GREEN, AND CO.",
+        "publication_place": "LONDON",
+        "date": "1873",
+        "identifier": "http://gallica.bnf.fr/ark:/12148/bpt6k901572",
+        "iiif_manifest": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k901572/manifest.json"
+    },
+    "langue": "en (English)",
+    "_annotations": {
+        "metadata.title": {
+            "lisibilite": "Lisible"
+        },
+        "metadata.title_complement": {
+            "lisibilite": "Lisible"
+        },
+        "metadata.volume_number": {
+            "lisibilite": "Lisible"
+        },
+        "metadata.authors": {
+            "lisibilite": "Lisible"
+        },
+        "metadata.publisher": {
+            "lisibilite": "Lisible"
+        },
+        "metadata.publication_place": {
+            "lisibilite": "Lisible"
+        },
+        "metadata.date": {
+            "lisibilite": "Lisible"
+        },
+        "langue": {
+            "lisibilite": "Lisible"
+        }
+    },
+    "ark": "bpt6k901572"
+}

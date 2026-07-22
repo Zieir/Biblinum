@@ -1,0 +1,45 @@
+{
+    "metadata": {
+        "title": "Einführung in die Chemie",
+        "title_complement": "in leichtfasslicher Form",
+        "volume_number": "",
+        "authors": "Lassar-Cohn",
+        "publisher": "Verlag von Leopold Voss",
+        "publication_place": "Hamburg und Leipzig",
+        "date": "1899",
+        "identifier": "http://gallica.bnf.fr/ark:/12148/bpt6k90523v",
+        "iiif_manifest": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k90523v/manifest.json"
+    },
+    "langue": "de (German)",
+    "_annotations": {
+        "metadata.title": {
+            "lisibilite": "Lisible"
+        },
+        "metadata.title_complement": {
+            "lisibilite": "Non lisible",
+            "cause": "recouvert"
+        },
+        "metadata.volume_number": {
+            "lisibilite": "Non lisible",
+            "cause": "absent"
+        },
+        "metadata.authors": {
+            "lisibilite": "Lisible",
+            "correction": "Lassar-Cohn"
+        },
+        "metadata.publisher": {
+            "lisibilite": "Lisible",
+            "correction": "Verlag von Leopold Voss"
+        },
+        "metadata.publication_place": {
+            "lisibilite": "Lisible"
+        },
+        "metadata.date": {
+            "lisibilite": "Lisible"
+        },
+        "langue": {
+            "lisibilite": "Lisible"
+        }
+    },
+    "ark": "bpt6k90523v"
+}

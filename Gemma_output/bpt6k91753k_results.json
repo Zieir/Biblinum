@@ -1,0 +1,15 @@
+{
+    "processing_time_seconds": 2.28,
+    "metadata": {
+        "title": "NOUVEAU COURS DE MINÉRALOGIE",
+        "title_complement": "CONTENANT LA DESCRIPTION DE TOUTES LES ESPÈCES MINÉRALES AVEC LEURS APPLICATIONS DIRECTES AUX ARTS",
+        "volume_number": "TOME SECOND",
+        "authors": "DELAFOSSE, M.",
+        "publisher": "LIBRAIRIE ENCYCLOPÉDIQUE DE RORET",
+        "publication_place": "PARIS",
+        "date": "1860",
+        "identifier": "http://gallica.bnf.fr/ark:/12148/bpt6k91753k",
+        "iiif_manifest": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k91753k/manifest.json"
+    },
+    "ark": "bpt6k91753k"
+}

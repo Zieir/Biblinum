@@ -1,0 +1,43 @@
+{
+    "metadata": {
+        "title": "NOTICE SUR LES TRAVAUX SCIENTIFIQUES",
+        "title_complement": "",
+        "volume_number": "",
+        "authors": "BERTHELOT, M. Daniel",
+        "publisher": "GAUTHIER-VILLARS ET Cie, EDITEURS",
+        "publication_place": "PARIS",
+        "date": "1917",
+        "identifier": "http://gallica.bnf.fr/ark:/12148/bpt6k903804",
+        "iiif_manifest": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k903804/manifest.json"
+    },
+    "langue": "fr (French)",
+    "_annotations": {
+        "metadata.title": {
+            "lisibilite": "Lisible"
+        },
+        "metadata.title_complement": {
+            "lisibilite": "Non lisible",
+            "cause": "absent"
+        },
+        "metadata.volume_number": {
+            "lisibilite": "Non lisible",
+            "cause": "absent"
+        },
+        "metadata.authors": {
+            "lisibilite": "Lisible"
+        },
+        "metadata.publisher": {
+            "lisibilite": "Lisible"
+        },
+        "metadata.publication_place": {
+            "lisibilite": "Lisible"
+        },
+        "metadata.date": {
+            "lisibilite": "Lisible"
+        },
+        "langue": {
+            "lisibilite": "Lisible"
+        }
+    },
+    "ark": "bpt6k903804"
+}

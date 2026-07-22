@@ -1,0 +1,42 @@
+{
+    "metadata": {
+        "title": "TRAITÉ DE CHIMIE GÉNÉRALE",
+        "title_complement": "NOTIONS ET PRINCIPES FONDAMENTAUX",
+        "volume_number": "",
+        "authors": "URBAIN, G. ; JOB, P. ; ALLARD, G.",
+        "publisher": "HERMANN & Cie, ÉDITEURS",
+        "publication_place": "PARIS",
+        "date": "1939",
+        "identifier": "http://gallica.bnf.fr/ark:/12148/bpt6k90146d",
+        "iiif_manifest": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k90146d/manifest.json"
+    },
+    "langue": "fr (French)",
+    "_annotations": {
+        "metadata.title": {
+            "lisibilite": "Lisible"
+        },
+        "metadata.title_complement": {
+            "lisibilite": "Lisible"
+        },
+        "metadata.volume_number": {
+            "lisibilite": "Non lisible",
+            "cause": "absent"
+        },
+        "metadata.authors": {
+            "lisibilite": "Lisible"
+        },
+        "metadata.publisher": {
+            "lisibilite": "Lisible"
+        },
+        "metadata.publication_place": {
+            "lisibilite": "Lisible"
+        },
+        "metadata.date": {
+            "lisibilite": "Lisible"
+        },
+        "langue": {
+            "lisibilite": "Lisible"
+        }
+    },
+    "ark": "bpt6k90146d"
+}

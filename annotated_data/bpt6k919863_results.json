@@ -1,0 +1,44 @@
+{
+    "metadata": {
+        "title": "DÉMONSTRATION EXPÉRIMENTALE SUR L'ALBUMINE",
+        "title_complement": "et sur les substances inorganiques qui l'accompagnent",
+        "volume_number": "",
+        "authors": "DENIS, P.-S.",
+        "publisher": "Imprimerie de C.-F. Denis",
+        "publication_place": "COMMERCY",
+        "date": "1839",
+        "identifier": "http://gallica.bnf.fr/ark:/12148/bpt6k919863",
+        "iiif_manifest": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k919863/manifest.json"
+    },
+    "langue": "fr (French)",
+    "_annotations": {
+        "metadata.title": {
+            "lisibilite": "Lisible"
+        },
+        "metadata.title_complement": {
+            "lisibilite": "Lisible"
+        },
+        "metadata.volume_number": {
+            "lisibilite": "Non lisible",
+            "cause": "absent"
+        },
+        "metadata.authors": {
+            "lisibilite": "Non lisible",
+            "cause": "qualite",
+            "correction": "DENIS, P.-S."
+        },
+        "metadata.publisher": {
+            "lisibilite": "Lisible"
+        },
+        "metadata.publication_place": {
+            "lisibilite": "Lisible"
+        },
+        "metadata.date": {
+            "lisibilite": "Lisible"
+        },
+        "langue": {
+            "lisibilite": "Lisible"
+        }
+    },
+    "ark": "bpt6k919863"
+}

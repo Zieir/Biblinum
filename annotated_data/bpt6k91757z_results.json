@@ -1,0 +1,43 @@
+{
+    "metadata": {
+        "title": "GUIDE DE L'ANALYSE CHIMIQUE",
+        "title_complement": "TABLEAUX D'ANALYSE QUALITATIVE",
+        "volume_number": "",
+        "authors": "WILL, Henri ; RISLER, Jean",
+        "publisher": "LABÉ",
+        "publication_place": "PARIS",
+        "date": "1858",
+        "identifier": "http://gallica.bnf.fr/ark:/12148/bpt6k91757z",
+        "iiif_manifest": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k91757z/manifest.json"
+    },
+    "langue": "fr (French)",
+    "_annotations": {
+        "metadata.title": {
+            "lisibilite": "Lisible"
+        },
+        "metadata.title_complement": {
+            "lisibilite": "Lisible"
+        },
+        "metadata.volume_number": {
+            "lisibilite": "Non lisible",
+            "cause": "absent"
+        },
+        "metadata.authors": {
+            "lisibilite": "Lisible",
+            "correction": "WILL, Henri ; RISLER, Jean"
+        },
+        "metadata.publisher": {
+            "lisibilite": "Lisible"
+        },
+        "metadata.publication_place": {
+            "lisibilite": "Lisible"
+        },
+        "metadata.date": {
+            "lisibilite": "Lisible"
+        },
+        "langue": {
+            "lisibilite": "Lisible"
+        }
+    },
+    "ark": "bpt6k91757z"
+}

@@ -1,0 +1,41 @@
+{
+    "metadata": {
+        "title": "ÉLÉMENS DE CHIMIE",
+        "title_complement": "APPLIQUÉE A LA MÉDECINE ET AUX ARTS",
+        "volume_number": "TOME SECOND",
+        "authors": "ORFILA, M.-P.",
+        "publisher": "CROCHARD",
+        "publication_place": "PARIS",
+        "date": "1819",
+        "identifier": "http://gallica.bnf.fr/ark:/12148/bpt6k900015",
+        "iiif_manifest": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k900015/manifest.json"
+    },
+    "_annotations": {
+        "metadata.title": {
+            "lisibilite": "Lisible"
+        },
+        "metadata.title_complement": {
+            "lisibilite": "Lisible"
+        },
+        "metadata.volume_number": {
+            "lisibilite": "Lisible"
+        },
+        "metadata.authors": {
+            "lisibilite": "Lisible"
+        },
+        "metadata.publisher": {
+            "lisibilite": "Lisible"
+        },
+        "metadata.publication_place": {
+            "lisibilite": "Lisible"
+        },
+        "metadata.date": {
+            "lisibilite": "Lisible"
+        },
+        "langue": {
+            "lisibilite": "Lisible"
+        }
+    },
+    "langue": "fr (French)",
+    "ark": "bpt6k900015"
+}

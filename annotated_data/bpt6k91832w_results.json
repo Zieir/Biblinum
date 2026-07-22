@@ -1,0 +1,43 @@
+{
+    "metadata": {
+        "title": "THÈSES",
+        "title_complement": "VÉRIFICATION EXPÉRIMENTALE DE LA RÉCIPROQUE DE LA LOI DE FARADAY SUR LA DÉCOMPOSITION DES ÉLECTROLYTES.PROPOSITIONS DE CHIMIE DONNÉES PAR LA FACULTÉ",
+        "volume_number": "",
+        "authors": "RENAULT, Bernard",
+        "publisher": "GAUTHIER-VILLARS, IMPRIMEUR-LIBRAIRE",
+        "publication_place": "PARIS",
+        "date": "1867",
+        "identifier": "http://gallica.bnf.fr/ark:/12148/bpt6k91832w",
+        "iiif_manifest": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k91832w/manifest.json"
+    },
+    "langue": "fr (French)",
+    "_annotations": {
+        "metadata.title": {
+            "lisibilite": "Lisible"
+        },
+        "metadata.title_complement": {
+            "lisibilite": "Lisible",
+            "correction": "VÉRIFICATION EXPÉRIMENTALE DE LA RÉCIPROQUE DE LA LOI DE FARADAY SUR LA DÉCOMPOSITION DES ÉLECTROLYTES.PROPOSITIONS DE CHIMIE DONNÉES PAR LA FACULTÉ"
+        },
+        "metadata.volume_number": {
+            "lisibilite": "Non lisible",
+            "cause": "absent"
+        },
+        "metadata.authors": {
+            "lisibilite": "Lisible"
+        },
+        "metadata.publisher": {
+            "lisibilite": "Lisible"
+        },
+        "metadata.publication_place": {
+            "lisibilite": "Lisible"
+        },
+        "metadata.date": {
+            "lisibilite": "Lisible"
+        },
+        "langue": {
+            "lisibilite": "Lisible"
+        }
+    },
+    "ark": "bpt6k91832w"
+}

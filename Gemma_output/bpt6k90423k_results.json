@@ -1,0 +1,15 @@
+{
+    "processing_time_seconds": 3.0,
+    "metadata": {
+        "title": "CATALOGUE OFFICIEL",
+        "title_complement": "EXPOSITION UNIVERSELLE INTERNATIONALE DE 1878, À PARIS",
+        "volume_number": "TOME I",
+        "authors": "",
+        "publisher": "IMPRIMERIE NATIONALE",
+        "publication_place": "PARIS",
+        "date": "1878",
+        "identifier": "http://gallica.bnf.fr/ark:/12148/bpt6k90423k",
+        "iiif_manifest": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k90423k/manifest.json"
+    },
+    "ark": "bpt6k90423k"
+}

@@ -1,0 +1,46 @@
+{
+    "metadata": {
+        "title": "Traité élémentaire de Chimie",
+        "title_complement": "Chimie minérale",
+        "volume_number": "",
+        "authors": "Haller, A. ; Muller, P. Th.",
+        "publisher": "Georges Carré & C. Naud",
+        "publication_place": "",
+        "date": "",
+        "identifier": "http://gallica.bnf.fr/ark:/12148/bpt6k90465h",
+        "iiif_manifest": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k90465h/manifest.json"
+    },
+    "langue": "fr (French)",
+    "_annotations": {
+        "metadata.title": {
+            "lisibilite": "Lisible"
+        },
+        "metadata.title_complement": {
+            "lisibilite": "Lisible"
+        },
+        "metadata.volume_number": {
+            "lisibilite": "Non lisible",
+            "cause": "absent"
+        },
+        "metadata.authors": {
+            "lisibilite": "Non lisible",
+            "cause": "qualite",
+            "correction": "Haller, A. ; Muller, P. Th."
+        },
+        "metadata.publisher": {
+            "lisibilite": "Lisible"
+        },
+        "metadata.publication_place": {
+            "lisibilite": "Non lisible",
+            "cause": "absent"
+        },
+        "metadata.date": {
+            "lisibilite": "Non lisible",
+            "cause": "absent"
+        },
+        "langue": {
+            "lisibilite": "Lisible"
+        }
+    },
+    "ark": "bpt6k90465h"
+}

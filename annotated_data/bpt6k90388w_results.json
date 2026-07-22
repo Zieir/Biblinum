@@ -1,0 +1,42 @@
+{
+    "metadata": {
+        "title": "A SELECT BIBLIOGRAPHY OF CHEMISTRY",
+        "title_complement": "1492-1902",
+        "volume_number": "SECOND SUPPLEMENT",
+        "authors": "Bolton, Henry Carrington",
+        "publisher": "Smithsonian Institution",
+        "publication_place": "City of Washington",
+        "date": "1904",
+        "identifier": "http://gallica.bnf.fr/ark:/12148/bpt6k90388w",
+        "iiif_manifest": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k90388w/manifest.json"
+    },
+    "langue": "en (English)",
+    "_annotations": {
+        "metadata.title": {
+            "lisibilite": "Lisible"
+        },
+        "metadata.title_complement": {
+            "lisibilite": "Lisible"
+        },
+        "metadata.volume_number": {
+            "lisibilite": "Lisible",
+            "correction": "SECOND SUPPLEMENT"
+        },
+        "metadata.authors": {
+            "lisibilite": "Lisible"
+        },
+        "metadata.publisher": {
+            "lisibilite": "Lisible"
+        },
+        "metadata.publication_place": {
+            "lisibilite": "Lisible"
+        },
+        "metadata.date": {
+            "lisibilite": "Lisible"
+        },
+        "langue": {
+            "lisibilite": "Lisible"
+        }
+    },
+    "ark": "bpt6k90388w"
+}

@@ -1,0 +1,44 @@
+{
+    "metadata": {
+        "title": "ANLEITUNG ZUR QUANTITATIVEN CHEMISCHEN ANALYSE",
+        "title_complement": "oder die Lehre von der Gewichtsbestimmung und Scheidung der in der Pharmacie, den Künsten, Gewerben und der Landwirthschaft häufiger vorkommenden Körper in einfachen und zusammengesetzten Verbindungen.",
+        "volume_number": "ERSTER BAND",
+        "authors": "FRESENIUS,  C. Remigius",
+        "publisher": "Friedrich Vieweg und Sohn",
+        "publication_place": "Braunschweig",
+        "date": "1875",
+        "identifier": "http://gallica.bnf.fr/ark:/12148/bpt6k90318q",
+        "iiif_manifest": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k90318q/manifest.json"
+    },
+    "langue": "de (German)",
+    "_annotations": {
+        "metadata.title": {
+            "lisibilite": "Lisible"
+        },
+        "metadata.title_complement": {
+            "lisibilite": "Non lisible",
+            "cause": "recouvert",
+            "correction": "oder die Lehre von der Gewichtsbestimmung und Scheidung der in der Pharmacie, den Künsten, Gewerben und der Landwirthschaft häufiger vorkommenden Körper in einfachen und zusammengesetzten Verbindungen."
+        },
+        "metadata.volume_number": {
+            "lisibilite": "Lisible"
+        },
+        "metadata.authors": {
+            "lisibilite": "Lisible",
+            "correction": "FRESENIUS,  C. Remigius"
+        },
+        "metadata.publisher": {
+            "lisibilite": "Lisible"
+        },
+        "metadata.publication_place": {
+            "lisibilite": "Lisible"
+        },
+        "metadata.date": {
+            "lisibilite": "Lisible"
+        },
+        "langue": {
+            "lisibilite": "Lisible"
+        }
+    },
+    "ark": "bpt6k90318q"
+}

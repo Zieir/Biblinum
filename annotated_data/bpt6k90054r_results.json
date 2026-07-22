@@ -1,0 +1,43 @@
+{
+    "metadata": {
+        "title": "A REVISION OF THE Atomic Weights of Sodium and Chlorine",
+        "title_complement": "",
+        "volume_number": "",
+        "authors": "Richards, Theodore William ; Wells, Roger Clark",
+        "publisher": "Carnegie Institution of Washington",
+        "publication_place": "Washington, D. C.",
+        "date": "1905",
+        "identifier": "http://gallica.bnf.fr/ark:/12148/bpt6k90054r",
+        "iiif_manifest": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k90054r/manifest.json"
+    },
+    "langue": "en (English)",
+    "_annotations": {
+        "metadata.title": {
+            "lisibilite": "Lisible"
+        },
+        "metadata.title_complement": {
+            "lisibilite": "Non lisible",
+            "cause": "absent"
+        },
+        "metadata.volume_number": {
+            "lisibilite": "Non lisible",
+            "cause": "absent"
+        },
+        "metadata.authors": {
+            "lisibilite": "Lisible"
+        },
+        "metadata.publisher": {
+            "lisibilite": "Lisible"
+        },
+        "metadata.publication_place": {
+            "lisibilite": "Lisible"
+        },
+        "metadata.date": {
+            "lisibilite": "Lisible"
+        },
+        "langue": {
+            "lisibilite": "Lisible"
+        }
+    },
+    "ark": "bpt6k90054r"
+}

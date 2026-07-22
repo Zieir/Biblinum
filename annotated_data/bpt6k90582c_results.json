@@ -1,0 +1,43 @@
+{
+    "metadata": {
+        "title": "LIEBIG",
+        "title_complement": "UND DIE BITTERSALZ- UND SALZ-SÄUREFABRIK ZU SALZHAUSEN (1824—1831)",
+        "volume_number": "",
+        "authors": "BEERL, Ernst",
+        "publisher": "VERLAG CHEMIE, G.M.B.H.",
+        "publication_place": "BERLIN",
+        "date": "1931",
+        "identifier": "http://gallica.bnf.fr/ark:/12148/bpt6k90582c",
+        "iiif_manifest": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k90582c/manifest.json"
+    },
+    "langue": "de (German)",
+    "_annotations": {
+        "metadata.title": {
+            "lisibilite": "Lisible"
+        },
+        "metadata.title_complement": {
+            "lisibilite": "Lisible"
+        },
+        "metadata.volume_number": {
+            "lisibilite": "Non lisible",
+            "cause": "absent"
+        },
+        "metadata.authors": {
+            "lisibilite": "Lisible",
+            "correction": "BEERL, Ernst"
+        },
+        "metadata.publisher": {
+            "lisibilite": "Lisible"
+        },
+        "metadata.publication_place": {
+            "lisibilite": "Lisible"
+        },
+        "metadata.date": {
+            "lisibilite": "Lisible"
+        },
+        "langue": {
+            "lisibilite": "Lisible"
+        }
+    },
+    "ark": "bpt6k90582c"
+}

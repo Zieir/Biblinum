@@ -1,0 +1,15 @@
+{
+    "processing_time_seconds": 2.52,
+    "metadata": {
+        "title": "NOUVEAU COURS DE MINÉRALOGIE",
+        "title_complement": "DESCRIPTION DE TOUTES LES ESPÈCES MINÉRALES AVEC LEURS APPLICATIONS DIRECTES AUX ARTS",
+        "volume_number": "TOME PREMIER",
+        "authors": "DELAFOSSE, M.",
+        "publisher": "LA LIBRAIRIE ENCYCLOPÉDIQUE DE RORET",
+        "publication_place": "PARIS",
+        "date": "1858",
+        "identifier": "http://gallica.bnf.fr/ark:/12148/bpt6k917527",
+        "iiif_manifest": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k917527/manifest.json"
+    },
+    "ark": "bpt6k917527"
+}

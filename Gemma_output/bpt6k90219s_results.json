@@ -1,0 +1,15 @@
+{
+    "processing_time_seconds": 3.12,
+    "metadata": {
+        "title": "ŒUVRES",
+        "title_complement": "",
+        "volume_number": "TOME II",
+        "authors": "HERMITE, Charles",
+        "publisher": "GAUTHIER-VILLARS",
+        "publication_place": "PARIS",
+        "date": "1908",
+        "identifier": "http://gallica.bnf.fr/ark:/12148/bpt6k90219s",
+        "iiif_manifest": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k90219s/manifest.json"
+    },
+    "ark": "bpt6k90219s"
+}

@@ -1,0 +1,43 @@
+{
+    "metadata": {
+        "title": "A SELECT BIBLIOGRAPHY OF CHEMISTRY",
+        "title_complement": "1492-1897",
+        "volume_number": "FIRST SUPPLEMENT",
+        "authors": "BOLTON, Henry Carrington",
+        "publisher": "SMITHSONIAN INSTITUTION",
+        "publication_place": "CITY OF WASHINGTON",
+        "date": "1899",
+        "identifier": "http://gallica.bnf.fr/ark:/12148/bpt6k903866",
+        "iiif_manifest": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k903866/manifest.json"
+    },
+    "langue": "en (English)",
+    "_annotations": {
+        "metadata.title": {
+            "lisibilite": "Non lisible",
+            "cause": "recouvert",
+            "correction": "A SELECT BIBLIOGRAPHY OF CHEMISTRY"
+        },
+        "metadata.title_complement": {
+            "lisibilite": "Lisible"
+        },
+        "metadata.volume_number": {
+            "lisibilite": "Lisible"
+        },
+        "metadata.authors": {
+            "lisibilite": "Lisible"
+        },
+        "metadata.publisher": {
+            "lisibilite": "Lisible"
+        },
+        "metadata.publication_place": {
+            "lisibilite": "Lisible"
+        },
+        "metadata.date": {
+            "lisibilite": "Lisible"
+        },
+        "langue": {
+            "lisibilite": "Lisible"
+        }
+    },
+    "ark": "bpt6k903866"
+}

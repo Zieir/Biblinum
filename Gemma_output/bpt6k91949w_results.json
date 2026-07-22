@@ -1,0 +1,15 @@
+{
+    "processing_time_seconds": 2.49,
+    "metadata": {
+        "title": "TRAITÉ ÉLÉMENTAIRE DE CHIMIE MÉDICALE",
+        "title_complement": "COMPRENANT QUELQUES NOTIONS DE TOXICOLOGIE ET LES PRINCIPALES APPLICATIONS DE LA CHIMIE A LA PHYSIOLOGIE, A LA PATHOLOGIE, A LA PHARMACIE ET A L'HYGIÈNE",
+        "volume_number": "I",
+        "authors": "WURTZ, AD.",
+        "publisher": "VICTOR MASSON ET FILS",
+        "publication_place": "PARIS",
+        "date": "1844",
+        "identifier": "http://gallica.bnf.fr/ark:/12148/bpt6k91949w",
+        "iiif_manifest": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k91949w/manifest.json"
+    },
+    "ark": "bpt6k91949w"
+}

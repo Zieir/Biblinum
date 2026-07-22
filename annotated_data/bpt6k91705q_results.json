@@ -1,0 +1,43 @@
+{
+    "metadata": {
+        "title": "TRAITÉ DES ESSAIS",
+        "title_complement": "PAR LA VOIE SÈCHE; ou DES PROPRIÉTÉS, DE LA COMPOSITION ET DE L'ESSAI DES SUBSTANCES MÉTALLIQUES ET DES COMBUSTIBLES",
+        "volume_number": "TOME PREMIER",
+        "authors": "BERTHIER, P.",
+        "publisher": "THOMINE, LIBRAIRE",
+        "publication_place": "PARIS",
+        "date": "1834",
+        "identifier": "http://gallica.bnf.fr/ark:/12148/bpt6k91705q",
+        "iiif_manifest": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k91705q/manifest.json"
+    },
+    "langue": "fr (French)",
+    "_annotations": {
+        "metadata.title": {
+            "lisibilite": "Lisible"
+        },
+        "metadata.title_complement": {
+            "lisibilite": "Lisible"
+        },
+        "metadata.volume_number": {
+            "lisibilite": "Lisible"
+        },
+        "metadata.authors": {
+            "lisibilite": "Lisible",
+            "correction": "BERTHIER, P."
+        },
+        "metadata.publisher": {
+            "lisibilite": "Lisible"
+        },
+        "metadata.publication_place": {
+            "lisibilite": "Lisible"
+        },
+        "metadata.date": {
+            "lisibilite": "Lisible",
+            "correction": "1834"
+        },
+        "langue": {
+            "lisibilite": "Lisible"
+        }
+    },
+    "ark": "bpt6k91705q"
+}

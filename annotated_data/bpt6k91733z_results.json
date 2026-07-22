@@ -1,0 +1,42 @@
+{
+    "metadata": {
+        "title": "SELECT CHEMICAL ANALYSIS",
+        "title_complement": "(CHIEFLY INORGANIC)",
+        "volume_number": "",
+        "authors": "CROOKES, William",
+        "publisher": "LONGMANS, GREEN, AND CO.",
+        "publication_place": "LONDON",
+        "date": "1871",
+        "identifier": "http://gallica.bnf.fr/ark:/12148/bpt6k91733z",
+        "iiif_manifest": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k91733z/manifest.json"
+    },
+    "langue": "en (English)",
+    "_annotations": {
+        "metadata.title": {
+            "lisibilite": "Lisible"
+        },
+        "metadata.title_complement": {
+            "lisibilite": "Lisible"
+        },
+        "metadata.volume_number": {
+            "lisibilite": "Non lisible",
+            "cause": "absent"
+        },
+        "metadata.authors": {
+            "lisibilite": "Lisible"
+        },
+        "metadata.publisher": {
+            "lisibilite": "Lisible"
+        },
+        "metadata.publication_place": {
+            "lisibilite": "Lisible"
+        },
+        "metadata.date": {
+            "lisibilite": "Lisible"
+        },
+        "langue": {
+            "lisibilite": "Lisible"
+        }
+    },
+    "ark": "bpt6k91733z"
+}

@@ -1,0 +1,46 @@
+{
+    "metadata": {
+        "title": "ŒUVRES COMPLÈTES",
+        "title_complement": "de Jean-Charles GALISSARD DE MARIGNAC",
+        "volume_number": "",
+        "authors": "GALISSARD DE MARIGNAC, Jean-Charles",
+        "publisher": "Famille de Marignac",
+        "publication_place": "",
+        "date": "",
+        "identifier": "http://gallica.bnf.fr/ark:/12148/bpt6k90014h",
+        "iiif_manifest": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k90014h/manifest.json"
+    },
+    "_annotations": {
+        "metadata.title": {
+            "lisibilite": "Lisible"
+        },
+        "metadata.title_complement": {
+            "lisibilite": "Lisible",
+            "correction": "de Jean-Charles GALISSARD DE MARIGNAC"
+        },
+        "metadata.volume_number": {
+            "lisibilite": "Non lisible",
+            "cause": "absent"
+        },
+        "metadata.authors": {
+            "lisibilite": "Lisible"
+        },
+        "metadata.publisher": {
+            "lisibilite": "Non lisible",
+            "cause": "absent"
+        },
+        "metadata.publication_place": {
+            "lisibilite": "Non lisible",
+            "cause": "absent"
+        },
+        "metadata.date": {
+            "lisibilite": "Non lisible",
+            "cause": "absent"
+        },
+        "langue": {
+            "lisibilite": "Lisible"
+        }
+    },
+    "langue": "fr (French)",
+    "ark": "bpt6k90014h"
+}

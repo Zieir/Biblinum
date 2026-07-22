@@ -1,0 +1,44 @@
+{
+    "metadata": {
+        "title": "LETTRES SUR LA CHIMIE",
+        "title_complement": "considérée dans ses applications, A L'INDUSTRIE, A LA PHYSIOLOGIE ET A L'AGRICULTURE",
+        "volume_number": "",
+        "authors": "LIEBIG, Justus",
+        "publisher": "CHARPENTIER ; VICTOR MASSON",
+        "publication_place": "PARIS",
+        "date": "1847",
+        "identifier": "http://gallica.bnf.fr/ark:/12148/bpt6k90249q",
+        "iiif_manifest": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k90249q/manifest.json"
+    },
+    "langue": "fr (French)",
+    "_annotations": {
+        "metadata.title": {
+            "lisibilite": "Lisible"
+        },
+        "metadata.title_complement": {
+            "lisibilite": "Lisible"
+        },
+        "metadata.volume_number": {
+            "lisibilite": "Non lisible",
+            "cause": "absent"
+        },
+        "metadata.authors": {
+            "lisibilite": "Lisible",
+            "correction": "LIEBIG, Justus"
+        },
+        "metadata.publisher": {
+            "lisibilite": "Lisible"
+        },
+        "metadata.publication_place": {
+            "lisibilite": "Lisible"
+        },
+        "metadata.date": {
+            "lisibilite": "Non lisible",
+            "cause": "qualite"
+        },
+        "langue": {
+            "lisibilite": "Lisible"
+        }
+    },
+    "ark": "bpt6k90249q"
+}

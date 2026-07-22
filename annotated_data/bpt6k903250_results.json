@@ -1,0 +1,50 @@
+{
+    "metadata": {
+        "title": "COURS DE CHIMIE AGRICOLE",
+        "title_complement": "",
+        "volume_number": "",
+        "authors": "F. Malaguti",
+        "publisher": "",
+        "publication_place": "RENNES",
+        "date": "1858",
+        "identifier": "http://gallica.bnf.fr/ark:/12148/bpt6k903250",
+        "iiif_manifest": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k903250/manifest.json"
+    },
+    "langue": "fr (French)",
+    "_annotations": {
+        "metadata.title": {
+            "lisibilite": "Lisible"
+        },
+        "metadata.title_complement": {
+            "lisibilite": "Non lisible",
+            "cause": "absent"
+        },
+        "metadata.volume_number": {
+            "lisibilite": "Non lisible",
+            "cause": "qualite"
+        },
+        "metadata.authors": {
+            "lisibilite": "Non lisible",
+            "cause": "qualite",
+            "correction": "F. Malaguti"
+        },
+        "metadata.publisher": {
+            "lisibilite": "Non lisible",
+            "cause": "qualite"
+        },
+        "metadata.publication_place": {
+            "lisibilite": "Non lisible",
+            "cause": "qualite",
+            "correction": "RENNES"
+        },
+        "metadata.date": {
+            "lisibilite": "Non lisible",
+            "cause": "qualite",
+            "correction": "1858"
+        },
+        "langue": {
+            "lisibilite": "Lisible"
+        }
+    },
+    "ark": "bpt6k903250"
+}

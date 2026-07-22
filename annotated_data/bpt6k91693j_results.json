@@ -1,0 +1,47 @@
+{
+    "metadata": {
+        "title": "CHYMIE EXPERIMENTALE",
+        "title_complement": "ET RAISONNÉE",
+        "volume_number": "TOME II",
+        "authors": "",
+        "publisher": "",
+        "publication_place": "",
+        "date": "",
+        "identifier": "http://gallica.bnf.fr/ark:/12148/bpt6k91693j",
+        "iiif_manifest": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k91693j/manifest.json"
+    },
+    "langue": "fr (French)",
+    "_annotations": {
+        "metadata.title": {
+            "lisibilite": "Lisible",
+            "correction": "CHYMIE EXPERIMENTALE"
+        },
+        "metadata.title_complement": {
+            "lisibilite": "Lisible",
+            "correction": "ET RAISONNÉE"
+        },
+        "metadata.volume_number": {
+            "lisibilite": "Lisible"
+        },
+        "metadata.authors": {
+            "lisibilite": "Non lisible",
+            "cause": "absent"
+        },
+        "metadata.publisher": {
+            "lisibilite": "Non lisible",
+            "cause": "absent"
+        },
+        "metadata.publication_place": {
+            "lisibilite": "Non lisible",
+            "cause": "absent"
+        },
+        "metadata.date": {
+            "lisibilite": "Non lisible",
+            "cause": "absent"
+        },
+        "langue": {
+            "lisibilite": "Lisible"
+        }
+    },
+    "ark": "bpt6k91693j"
+}

@@ -1,0 +1,44 @@
+{
+    "metadata": {
+        "title": "DE L'ACTION DE LA CHALEUR",
+        "title_complement": "SUR LES COMPOSÉS ORGANIQUES",
+        "volume_number": "",
+        "authors": "HÉBERT, L.",
+        "publisher": "J.-B. BAILLIÈRE ET FILS; HIPP. BAILLIÈRE ; C. BAILLY-BAILLIÈRE ",
+        "publication_place": "PARIS; LONDRES; MADRID",
+        "date": "1869",
+        "identifier": "http://gallica.bnf.fr/ark:/12148/bpt6k91814z",
+        "iiif_manifest": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k91814z/manifest.json"
+    },
+    "langue": "fr (French)",
+    "_annotations": {
+        "metadata.title": {
+            "lisibilite": "Lisible"
+        },
+        "metadata.title_complement": {
+            "lisibilite": "Lisible"
+        },
+        "metadata.volume_number": {
+            "lisibilite": "Non lisible",
+            "cause": "absent"
+        },
+        "metadata.authors": {
+            "lisibilite": "Lisible"
+        },
+        "metadata.publisher": {
+            "lisibilite": "Lisible",
+            "correction": "J.-B. BAILLIÈRE ET FILS; HIPP. BAILLIÈRE ; C. BAILLY-BAILLIÈRE "
+        },
+        "metadata.publication_place": {
+            "lisibilite": "Lisible",
+            "correction": "PARIS; LONDRES; MADRID"
+        },
+        "metadata.date": {
+            "lisibilite": "Lisible"
+        },
+        "langue": {
+            "lisibilite": "Lisible"
+        }
+    },
+    "ark": "bpt6k91814z"
+}

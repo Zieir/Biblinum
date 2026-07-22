@@ -1,0 +1,43 @@
+{
+    "metadata": {
+        "title": "FARADAY AND HIS METALLURGICAL RESEARCHES",
+        "title_complement": "WITH SPECIAL REFERENCE TO THEIR BEARING ON THE DEVELOPMENT OF ALLOY STEELS",
+        "volume_number": "",
+        "authors": "HADFIELD, ROBERT A.",
+        "publisher": "CHAPMAN & HALL LTD.",
+        "publication_place": "LONDON",
+        "date": "1931",
+        "identifier": "http://gallica.bnf.fr/ark:/12148/bpt6k91809c",
+        "iiif_manifest": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k91809c/manifest.json"
+    },
+    "langue": "en (English)",
+    "_annotations": {
+        "metadata.title": {
+            "lisibilite": "Lisible"
+        },
+        "metadata.title_complement": {
+            "lisibilite": "Lisible"
+        },
+        "metadata.volume_number": {
+            "lisibilite": "Non lisible",
+            "cause": "absent"
+        },
+        "metadata.authors": {
+            "lisibilite": "Lisible",
+            "correction": "HADFIELD, ROBERT A."
+        },
+        "metadata.publisher": {
+            "lisibilite": "Lisible"
+        },
+        "metadata.publication_place": {
+            "lisibilite": "Lisible"
+        },
+        "metadata.date": {
+            "lisibilite": "Lisible"
+        },
+        "langue": {
+            "lisibilite": "Lisible"
+        }
+    },
+    "ark": "bpt6k91809c"
+}

@@ -1,0 +1,44 @@
+{
+    "metadata": {
+        "title": "CATALOGUE DES PRODUITS COLONIES FRANCAISES",
+        "title_complement": "Exposition universelle de 1878",
+        "volume_number": "",
+        "authors": "",
+        "publisher": "CHALLAMELLE AÎNÉ EDITEUR",
+        "publication_place": "PARIS",
+        "date": "1878",
+        "identifier": "http://gallica.bnf.fr/ark:/12148/bpt6k90427z",
+        "iiif_manifest": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k90427z/manifest.json"
+    },
+    "langue": "fr (French)",
+    "_annotations": {
+        "metadata.title": {
+            "lisibilite": "Lisible",
+            "correction": "CATALOGUE DES PRODUITS COLONIES FRANCAISES"
+        },
+        "metadata.title_complement": {
+            "lisibilite": "Lisible",
+            "correction": "Exposition universelle de 1878"
+        },
+        "metadata.volume_number": {
+            "lisibilite": "Lisible"
+        },
+        "metadata.authors": {
+            "lisibilite": "Non lisible",
+            "cause": "absent"
+        },
+        "metadata.publisher": {
+            "lisibilite": "Lisible"
+        },
+        "metadata.publication_place": {
+            "lisibilite": "Lisible"
+        },
+        "metadata.date": {
+            "lisibilite": "Lisible"
+        },
+        "langue": {
+            "lisibilite": "Lisible"
+        }
+    },
+    "ark": "bpt6k90427z"
+}

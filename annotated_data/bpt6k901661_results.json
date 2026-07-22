@@ -1,0 +1,42 @@
+{
+    "metadata": {
+        "title": "QUÍMICA",
+        "title_complement": "",
+        "volume_number": "PARTE II 2",
+        "authors": "Arata, Pedro N.",
+        "publisher": "LIBRERIA DANTE ALIGHIERI",
+        "publication_place": "BUENOS AIRES",
+        "date": "",
+        "identifier": "http://gallica.bnf.fr/ark:/12148/bpt6k901661",
+        "iiif_manifest": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k901661/manifest.json"
+    },
+    "langue": "es (Spanish)",
+    "_annotations": {
+        "metadata.title": {
+            "lisibilite": "Lisible"
+        },
+        "metadata.title_complement": {
+            "lisibilite": "Lisible"
+        },
+        "metadata.volume_number": {
+            "lisibilite": "Lisible"
+        },
+        "metadata.authors": {
+            "lisibilite": "Lisible"
+        },
+        "metadata.publisher": {
+            "lisibilite": "Lisible"
+        },
+        "metadata.publication_place": {
+            "lisibilite": "Lisible"
+        },
+        "metadata.date": {
+            "lisibilite": "Non lisible",
+            "cause": "absent"
+        },
+        "langue": {
+            "lisibilite": "Lisible"
+        }
+    },
+    "ark": "bpt6k901661"
+}

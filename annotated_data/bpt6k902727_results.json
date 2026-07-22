@@ -1,0 +1,44 @@
+{
+    "metadata": {
+        "title": "PRÉCIS D'ANALYSE CHIMIQUE",
+        "title_complement": "QUALITATIVE",
+        "volume_number": "",
+        "authors": "Gerhardt, Ch. ; CHANCEL, G.",
+        "publisher": "LIBRAIRIE DE VICTOR MASSON",
+        "publication_place": "PARIS",
+        "date": "1855",
+        "identifier": "http://gallica.bnf.fr/ark:/12148/bpt6k902727",
+        "iiif_manifest": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k902727/manifest.json"
+    },
+    "langue": "fr (French)",
+    "_annotations": {
+        "metadata.title": {
+            "lisibilite": "Lisible"
+        },
+        "metadata.title_complement": {
+            "lisibilite": "Lisible"
+        },
+        "metadata.volume_number": {
+            "lisibilite": "Non lisible",
+            "cause": "absent"
+        },
+        "metadata.authors": {
+            "lisibilite": "Non lisible",
+            "cause": "qualite",
+            "correction": "Gerhardt, Ch. ; CHANCEL, G."
+        },
+        "metadata.publisher": {
+            "lisibilite": "Lisible"
+        },
+        "metadata.publication_place": {
+            "lisibilite": "Lisible"
+        },
+        "metadata.date": {
+            "lisibilite": "Lisible"
+        },
+        "langue": {
+            "lisibilite": "Lisible"
+        }
+    },
+    "ark": "bpt6k902727"
+}

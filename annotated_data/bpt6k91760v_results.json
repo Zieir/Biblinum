@@ -1,0 +1,44 @@
+{
+    "metadata": {
+        "title": "INTRODUCTION A L'ÉTUDE DES MÉTAUX",
+        "title_complement": "LEÇONS PROFESSÉES A LA FACULTÉ DES SCIENCES",
+        "volume_number": "",
+        "authors": "DITTE, Alfred",
+        "publisher": "SOCIETE D'ÉDITIONS SCIENTIFIQUES",
+        "publication_place": "PARIS",
+        "date": "1902",
+        "identifier": "http://gallica.bnf.fr/ark:/12148/bpt6k91760v",
+        "iiif_manifest": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k91760v/manifest.json"
+    },
+    "langue": "fr (French)",
+    "_annotations": {
+        "metadata.title": {
+            "lisibilite": "Lisible"
+        },
+        "metadata.title_complement": {
+            "lisibilite": "Lisible"
+        },
+        "metadata.volume_number": {
+            "lisibilite": "Non lisible",
+            "cause": "absent"
+        },
+        "metadata.authors": {
+            "lisibilite": "Non lisible",
+            "cause": "qualite",
+            "correction": "DITTE, Alfred"
+        },
+        "metadata.publisher": {
+            "lisibilite": "Lisible"
+        },
+        "metadata.publication_place": {
+            "lisibilite": "Lisible"
+        },
+        "metadata.date": {
+            "lisibilite": "Lisible"
+        },
+        "langue": {
+            "lisibilite": "Lisible"
+        }
+    },
+    "ark": "bpt6k91760v"
+}

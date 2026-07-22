@@ -1,0 +1,42 @@
+{
+    "metadata": {
+        "title": "LA LUMIÈRE",
+        "title_complement": "SES CAUSES ET SES EFFETS",
+        "volume_number": "TOME SECOND",
+        "authors": "BECQUEREL, Edmond",
+        "publisher": "LIBRAIRIE DE FIRMIN DIDOT FRÈRES, FILS ET Cie",
+        "publication_place": "PARIS",
+        "date": "1868",
+        "identifier": "http://gallica.bnf.fr/ark:/12148/bpt6k90369m",
+        "iiif_manifest": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k90369m/manifest.json"
+    },
+    "langue": "fr (French)",
+    "_annotations": {
+        "metadata.title": {
+            "lisibilite": "Lisible"
+        },
+        "metadata.title_complement": {
+            "lisibilite": "Lisible"
+        },
+        "metadata.volume_number": {
+            "lisibilite": "Lisible"
+        },
+        "metadata.authors": {
+            "lisibilite": "Lisible",
+            "correction": "BECQUEREL, Edmond"
+        },
+        "metadata.publisher": {
+            "lisibilite": "Lisible"
+        },
+        "metadata.publication_place": {
+            "lisibilite": "Lisible"
+        },
+        "metadata.date": {
+            "lisibilite": "Lisible"
+        },
+        "langue": {
+            "lisibilite": "Lisible"
+        }
+    },
+    "ark": "bpt6k90369m"
+}

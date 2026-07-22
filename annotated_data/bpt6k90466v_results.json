@@ -1,0 +1,48 @@
+{
+    "metadata": {
+        "title": "Traité élémentaire de Chimie",
+        "title_complement": "Chimie organique",
+        "volume_number": "",
+        "authors": "Haller, A. ; Muller, P. Th.",
+        "publisher": "GEORGES CARRE & CNAUD",
+        "publication_place": "",
+        "date": "",
+        "identifier": "http://gallica.bnf.fr/ark:/12148/bpt6k90466v",
+        "iiif_manifest": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k90466v/manifest.json"
+    },
+    "langue": "fr (French)",
+    "_annotations": {
+        "metadata.title": {
+            "lisibilite": "Lisible",
+            "correction": "Traité élémentaire de Chimie"
+        },
+        "metadata.title_complement": {
+            "lisibilite": "Lisible",
+            "correction": "Chimie organique"
+        },
+        "metadata.volume_number": {
+            "lisibilite": "Non lisible",
+            "cause": "absent"
+        },
+        "metadata.authors": {
+            "lisibilite": "Non lisible",
+            "cause": "qualite",
+            "correction": "Haller, A. ; Muller, P. Th."
+        },
+        "metadata.publisher": {
+            "lisibilite": "Lisible"
+        },
+        "metadata.publication_place": {
+            "lisibilite": "Non lisible",
+            "cause": "absent"
+        },
+        "metadata.date": {
+            "lisibilite": "Non lisible",
+            "cause": "absent"
+        },
+        "langue": {
+            "lisibilite": "Lisible"
+        }
+    },
+    "ark": "bpt6k90466v"
+}

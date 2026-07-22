@@ -1,0 +1,43 @@
+{
+    "metadata": {
+        "title": "FORMES CHIMIQUES DE TRANSITION",
+        "title_complement": "",
+        "volume_number": "",
+        "authors": "JOB, André ; PERRIN, J. ; URBAIN, G.",
+        "publisher": "SOCIÉTÉ D'ÉDITIONS SCIENTIFIQUES",
+        "publication_place": "PARIS",
+        "date": "1931",
+        "identifier": "http://gallica.bnf.fr/ark:/12148/bpt6k90245b",
+        "iiif_manifest": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k90245b/manifest.json"
+    },
+    "langue": "fr (French)",
+    "_annotations": {
+        "metadata.title": {
+            "lisibilite": "Lisible"
+        },
+        "metadata.title_complement": {
+            "lisibilite": "Non lisible",
+            "cause": "absent"
+        },
+        "metadata.volume_number": {
+            "lisibilite": "Non lisible",
+            "cause": "absent"
+        },
+        "metadata.authors": {
+            "lisibilite": "Lisible"
+        },
+        "metadata.publisher": {
+            "lisibilite": "Lisible"
+        },
+        "metadata.publication_place": {
+            "lisibilite": "Lisible"
+        },
+        "metadata.date": {
+            "lisibilite": "Lisible"
+        },
+        "langue": {
+            "lisibilite": "Lisible"
+        }
+    },
+    "ark": "bpt6k90245b"
+}

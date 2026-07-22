@@ -1,0 +1,45 @@
+{
+    "metadata": {
+        "title": "A DICTIONARY OF APPLIED CHEMISTRY",
+        "title_complement": "",
+        "volume_number": "VOL. IV.",
+        "authors": "THORPE, Edward",
+        "publisher": "LONGMANS, GREEN, AND CO.",
+        "publication_place": "LONDON",
+        "date": "1922",
+        "identifier": "http://gallica.bnf.fr/ark:/12148/bpt6k901185",
+        "iiif_manifest": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k901185/manifest.json"
+    },
+    "langue": "en (English)",
+    "_annotations": {
+        "metadata.title": {
+            "lisibilite": "Lisible"
+        },
+        "metadata.title_complement": {
+            "lisibilite": "Non lisible",
+            "cause": "absent"
+        },
+        "metadata.volume_number": {
+            "lisibilite": "Lisible"
+        },
+        "metadata.authors": {
+            "lisibilite": "Lisible",
+            "correction": "THORPE, Edward"
+        },
+        "metadata.publisher": {
+            "lisibilite": "Lisible"
+        },
+        "metadata.publication_place": {
+            "lisibilite": "Lisible"
+        },
+        "metadata.date": {
+            "lisibilite": "Non lisible",
+            "cause": "qualite",
+            "correction": "1922"
+        },
+        "langue": {
+            "lisibilite": "Lisible"
+        }
+    },
+    "ark": "bpt6k901185"
+}

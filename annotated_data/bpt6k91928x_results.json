@@ -1,0 +1,42 @@
+{
+    "metadata": {
+        "title": "DICTIONNAIRE DE CHIMIE INDUSTRIELLE",
+        "title_complement": "CONTENANT LES APPLICATIONS DE LA CHIMIE A L'INDUSTRIE, A LA MÉTALLURGIE, A L'AGRICULTURE, A LA PHARMACIE, A LA PYROTECNIE ET AUX ARTS ET MÉTIERS",
+        "volume_number": "Tome premier",
+        "authors": "VILLON, A.-M.",
+        "publisher": "BERNARD TIGNOL",
+        "publication_place": "PARIS",
+        "date": "",
+        "identifier": "http://gallica.bnf.fr/ark:/12148/bpt6k91928x",
+        "iiif_manifest": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k91928x/manifest.json"
+    },
+    "langue": "fr (French)",
+    "_annotations": {
+        "metadata.title": {
+            "lisibilite": "Lisible"
+        },
+        "metadata.title_complement": {
+            "lisibilite": "Lisible"
+        },
+        "metadata.volume_number": {
+            "lisibilite": "Lisible"
+        },
+        "metadata.authors": {
+            "lisibilite": "Lisible"
+        },
+        "metadata.publisher": {
+            "lisibilite": "Lisible"
+        },
+        "metadata.publication_place": {
+            "lisibilite": "Lisible"
+        },
+        "metadata.date": {
+            "lisibilite": "Non lisible",
+            "cause": "absent"
+        },
+        "langue": {
+            "lisibilite": "Lisible"
+        }
+    },
+    "ark": "bpt6k91928x"
+}

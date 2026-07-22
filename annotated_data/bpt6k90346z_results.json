@@ -1,0 +1,46 @@
+{
+    "metadata": {
+        "title": "М. БЕРТЕЛО",
+        "title_complement": "1827—1927",
+        "volume_number": "",
+        "authors": "",
+        "publisher": "Издательство Академии Наук СССР",
+        "publication_place": "Ленинград",
+        "date": "1927",
+        "identifier": "http://gallica.bnf.fr/ark:/12148/bpt6k90346z",
+        "iiif_manifest": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k90346z/manifest.json"
+    },
+    "langue": "ru (Russian)",
+    "_annotations": {
+        "metadata.title": {
+            "lisibilite": "Lisible"
+        },
+        "metadata.title_complement": {
+            "lisibilite": "Lisible"
+        },
+        "metadata.volume_number": {
+            "lisibilite": "Non lisible",
+            "cause": "absent"
+        },
+        "metadata.authors": {
+            "lisibilite": "Non lisible",
+            "cause": "absent",
+            "correction": ""
+        },
+        "metadata.publisher": {
+            "lisibilite": "Lisible"
+        },
+        "metadata.publication_place": {
+            "lisibilite": "Lisible"
+        },
+        "metadata.date": {
+            "lisibilite": "Lisible"
+        },
+        "langue": {
+            "lisibilite": "Lisible",
+            "correction": "ru (Russian)"
+        },
+        "_note": "A revoir"
+    },
+    "ark": "bpt6k90346z"
+}

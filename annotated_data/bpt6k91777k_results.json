@@ -1,0 +1,44 @@
+{
+    "metadata": {
+        "title": "ÉTUDE",
+        "title_complement": "SUR LA SYNTHÈSE DES PHÉNOMÈNES DE LA NATURE",
+        "volume_number": "",
+        "authors": "KOLB, J.",
+        "publisher": "Imprimerie YVERT",
+        "publication_place": "AMIENS",
+        "date": "1871",
+        "identifier": "http://gallica.bnf.fr/ark:/12148/bpt6k91777k",
+        "iiif_manifest": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k91777k/manifest.json"
+    },
+    "langue": "fr (French)",
+    "_annotations": {
+        "metadata.title": {
+            "lisibilite": "Lisible"
+        },
+        "metadata.title_complement": {
+            "lisibilite": "Lisible"
+        },
+        "metadata.volume_number": {
+            "lisibilite": "Non lisible",
+            "cause": "absent"
+        },
+        "metadata.authors": {
+            "lisibilite": "Lisible"
+        },
+        "metadata.publisher": {
+            "lisibilite": "Non lisible",
+            "cause": "recouvert",
+            "correction": "Imprimerie YVERT"
+        },
+        "metadata.publication_place": {
+            "lisibilite": "Lisible"
+        },
+        "metadata.date": {
+            "lisibilite": "Lisible"
+        },
+        "langue": {
+            "lisibilite": "Lisible"
+        }
+    },
+    "ark": "bpt6k91777k"
+}

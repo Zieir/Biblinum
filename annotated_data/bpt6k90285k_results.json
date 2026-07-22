@@ -1,0 +1,43 @@
+{
+    "metadata": {
+        "title": "STÉRÉOCHIMIE",
+        "title_complement": "NOUVELLE EDITION DE DIX ANNÉES DANS L'HISTOIRE D'UNE THÉORIE",
+        "volume_number": "",
+        "authors": "VANT HOFF, J.-H.",
+        "publisher": "GEORGES CARRÉ",
+        "publication_place": "PARIS",
+        "date": "1892",
+        "identifier": "http://gallica.bnf.fr/ark:/12148/bpt6k90285k",
+        "iiif_manifest": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k90285k/manifest.json"
+    },
+    "langue": "fr (French)",
+    "_annotations": {
+        "metadata.title": {
+            "lisibilite": "Lisible"
+        },
+        "metadata.title_complement": {
+            "lisibilite": "Lisible",
+            "correction": "NOUVELLE EDITION DE DIX ANNÉES DANS L'HISTOIRE D'UNE THÉORIE"
+        },
+        "metadata.volume_number": {
+            "lisibilite": "Non lisible",
+            "cause": "absent"
+        },
+        "metadata.authors": {
+            "lisibilite": "Lisible"
+        },
+        "metadata.publisher": {
+            "lisibilite": "Lisible"
+        },
+        "metadata.publication_place": {
+            "lisibilite": "Lisible"
+        },
+        "metadata.date": {
+            "lisibilite": "Lisible"
+        },
+        "langue": {
+            "lisibilite": "Lisible"
+        }
+    },
+    "ark": "bpt6k90285k"
+}

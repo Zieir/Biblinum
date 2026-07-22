@@ -1,0 +1,41 @@
+{
+    "metadata": {
+        "title": "PRÉCIS DE CHIMIE",
+        "title_complement": "GÉNÉRALE ET DESCRIPTIVE EXPOSÉS AU POINT DE VUE DES DOCTRINES MODERNES",
+        "volume_number": "TOME PREMIER",
+        "authors": "SWARTS, TH.",
+        "publisher": "LIBRAIRIE GÉNÉRALE DE AD. HOSTE",
+        "publication_place": "GAND",
+        "date": "1887",
+        "identifier": "http://gallica.bnf.fr/ark:/12148/bpt6k90086c",
+        "iiif_manifest": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k90086c/manifest.json"
+    },
+    "langue": "fr (French)",
+    "_annotations": {
+        "metadata.title": {
+            "lisibilite": "Lisible"
+        },
+        "metadata.title_complement": {
+            "lisibilite": "Lisible"
+        },
+        "metadata.volume_number": {
+            "lisibilite": "Lisible"
+        },
+        "metadata.authors": {
+            "lisibilite": "Lisible"
+        },
+        "metadata.publisher": {
+            "lisibilite": "Lisible"
+        },
+        "metadata.publication_place": {
+            "lisibilite": "Lisible"
+        },
+        "metadata.date": {
+            "lisibilite": "Lisible"
+        },
+        "langue": {
+            "lisibilite": "Lisible"
+        }
+    },
+    "ark": "bpt6k90086c"
+}

@@ -1,0 +1,47 @@
+{
+    "metadata": {
+        "title": "RECHERCHES SUR QUELQUES OXALATES",
+        "title_complement": "",
+        "volume_number": "T. XXIII",
+        "authors": "WYROUBOFF, G.",
+        "publisher": "IMPRIMERIE DESLIS FRÈRES",
+        "publication_place": "TOURS",
+        "date": "1900",
+        "identifier": "http://gallica.bnf.fr/ark:/12148/bpt6k917589",
+        "iiif_manifest": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k917589/manifest.json"
+    },
+    "langue": "fr (French)",
+    "_annotations": {
+        "metadata.title": {
+            "lisibilite": "Lisible"
+        },
+        "metadata.title_complement": {
+            "lisibilite": "Non lisible",
+            "cause": "absent"
+        },
+        "metadata.volume_number": {
+            "lisibilite": "Lisible"
+        },
+        "metadata.authors": {
+            "lisibilite": "Lisible",
+            "correction": "WYROUBOFF, G."
+        },
+        "metadata.publisher": {
+            "lisibilite": "Non lisible",
+            "cause": "recouvert",
+            "correction": "IMPRIMERIE DESLIS FRÈRES"
+        },
+        "metadata.publication_place": {
+            "lisibilite": "Non lisible",
+            "cause": "recouvert",
+            "correction": "TOURS"
+        },
+        "metadata.date": {
+            "lisibilite": "Lisible"
+        },
+        "langue": {
+            "lisibilite": "Lisible"
+        }
+    },
+    "ark": "bpt6k917589"
+}

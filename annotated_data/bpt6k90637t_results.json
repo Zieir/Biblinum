@@ -1,0 +1,46 @@
+{
+    "metadata": {
+        "title": "Tratato de CHIMICA ELEMENTAR",
+        "title_complement": "CHIMICA ORGANICA",
+        "volume_number": "TOMO II",
+        "authors": "FERREIRA DA SILVA, A. J.",
+        "publisher": "TYPOGRAPHIA A. F. VASCONCELLOS, SUCCESSORES",
+        "publication_place": "",
+        "date": "1900",
+        "identifier": "http://gallica.bnf.fr/ark:/12148/bpt6k90637t",
+        "iiif_manifest": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k90637t/manifest.json"
+    },
+    "langue": "pt (Portuguese)",
+    "_annotations": {
+        "metadata.title": {
+            "lisibilite": "Lisible",
+            "correction": "Tratato de CHIMICA ELEMENTAR"
+        },
+        "metadata.title_complement": {
+            "lisibilite": "Lisible"
+        },
+        "metadata.volume_number": {
+            "lisibilite": "Lisible"
+        },
+        "metadata.authors": {
+            "lisibilite": "Lisible"
+        },
+        "metadata.publisher": {
+            "lisibilite": "Non lisible",
+            "cause": "recouvert"
+        },
+        "metadata.publication_place": {
+            "lisibilite": "Non lisible",
+            "cause": "absent"
+        },
+        "metadata.date": {
+            "lisibilite": "Non lisible",
+            "cause": "qualite",
+            "correction": "1900"
+        },
+        "langue": {
+            "lisibilite": "Lisible"
+        }
+    },
+    "ark": "bpt6k90637t"
+}

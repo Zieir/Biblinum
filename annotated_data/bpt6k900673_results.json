@@ -1,0 +1,44 @@
+{
+    "metadata": {
+        "title": "CHEMIE DER KOHLENSTOFFVERBINDUNGEN",
+        "title_complement": "ODER ORGANISCHE CHEMIE",
+        "volume_number": "",
+        "authors": "Richter, V. V.",
+        "publisher": "VERLAG VON MAX COHEN & SOHN (FR. COHEN)",
+        "publication_place": "BONN",
+        "date": "1888",
+        "identifier": "http://gallica.bnf.fr/ark:/12148/bpt6k900673",
+        "iiif_manifest": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k900673/manifest.json"
+    },
+    "langue": "de (German)",
+    "_annotations": {
+        "metadata.title": {
+            "lisibilite": "Lisible"
+        },
+        "metadata.title_complement": {
+            "lisibilite": "Lisible"
+        },
+        "metadata.volume_number": {
+            "lisibilite": "Non lisible",
+            "cause": "absent"
+        },
+        "metadata.authors": {
+            "lisibilite": "Lisible",
+            "correction": "Richter, V. V."
+        },
+        "metadata.publisher": {
+            "lisibilite": "Lisible"
+        },
+        "metadata.publication_place": {
+            "lisibilite": "Lisible"
+        },
+        "metadata.date": {
+            "lisibilite": "Non lisible",
+            "cause": "qualite"
+        },
+        "langue": {
+            "lisibilite": "Lisible"
+        }
+    },
+    "ark": "bpt6k900673"
+}

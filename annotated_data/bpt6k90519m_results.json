@@ -1,0 +1,43 @@
+{
+    "metadata": {
+        "title": "ANORGANISCHE CHEMIE",
+        "title_complement": "KURZES LEHRBUCH DER CHEMIE",
+        "volume_number": "",
+        "authors": "KRAFFT, F.",
+        "publisher": "FRANZ DEUTICKE",
+        "publication_place": "LEIPZIG UND WIEN",
+        "date": "1891",
+        "identifier": "http://gallica.bnf.fr/ark:/12148/bpt6k90519m",
+        "iiif_manifest": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k90519m/manifest.json"
+    },
+    "langue": "de (German)",
+    "_annotations": {
+        "metadata.title": {
+            "lisibilite": "Lisible"
+        },
+        "metadata.title_complement": {
+            "lisibilite": "Lisible"
+        },
+        "metadata.volume_number": {
+            "lisibilite": "Non lisible",
+            "cause": "absent"
+        },
+        "metadata.authors": {
+            "lisibilite": "Lisible",
+            "correction": "KRAFFT, F."
+        },
+        "metadata.publisher": {
+            "lisibilite": "Lisible"
+        },
+        "metadata.publication_place": {
+            "lisibilite": "Lisible"
+        },
+        "metadata.date": {
+            "lisibilite": "Lisible"
+        },
+        "langue": {
+            "lisibilite": "Lisible"
+        }
+    },
+    "ark": "bpt6k90519m"
+}

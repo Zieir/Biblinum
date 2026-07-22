@@ -1,0 +1,46 @@
+{
+    "metadata": {
+        "title": "RECHERCHES chimiques et cristallographiques",
+        "title_complement": "SUR LES TUNGSTATES, LES FLUOTUNGSTATES ET LES SILICOTUNGSTATES",
+        "volume_number": "t. LXIX",
+        "authors": "MARIGNAC, M. C.",
+        "publisher": "",
+        "publication_place": "Paris",
+        "date": "",
+        "identifier": "http://gallica.bnf.fr/ark:/12148/bpt6k904436",
+        "iiif_manifest": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k904436/manifest.json"
+    },
+    "langue": "fr (French)",
+    "_annotations": {
+        "metadata.title": {
+            "lisibilite": "Non lisible",
+            "cause": "recouvert",
+            "correction": "RECHERCHES chimiques et cristallographiques"
+        },
+        "metadata.title_complement": {
+            "lisibilite": "Lisible"
+        },
+        "metadata.volume_number": {
+            "lisibilite": "Lisible"
+        },
+        "metadata.authors": {
+            "lisibilite": "Lisible"
+        },
+        "metadata.publisher": {
+            "lisibilite": "Non lisible",
+            "cause": "absent",
+            "correction": ""
+        },
+        "metadata.publication_place": {
+            "lisibilite": "Lisible"
+        },
+        "metadata.date": {
+            "lisibilite": "Non lisible",
+            "cause": "absent"
+        },
+        "langue": {
+            "lisibilite": "Lisible"
+        }
+    },
+    "ark": "bpt6k904436"
+}

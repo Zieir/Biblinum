@@ -1,0 +1,15 @@
+{
+    "processing_time_seconds": 2.3,
+    "metadata": {
+        "title": "ABRÉGÉ ÉLÉMENTAIRE DE CHIMIE",
+        "title_complement": "considérée comme science accessoire à l'étude de la médecine, de la pharmacie et de l'histoire naturelle",
+        "volume_number": "DEUXIÈME PARTIE",
+        "authors": "LASSAIGNE, J.-L.",
+        "publisher": "BÉCHET JEUNE, LIBRAIRE",
+        "publication_place": "PARIS",
+        "date": "1829",
+        "identifier": "http://gallica.bnf.fr/ark:/12148/bpt6k90526w",
+        "iiif_manifest": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k90526w/manifest.json"
+    },
+    "ark": "bpt6k90526w"
+}

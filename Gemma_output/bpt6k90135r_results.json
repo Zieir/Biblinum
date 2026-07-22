@@ -1,0 +1,15 @@
+{
+    "processing_time_seconds": 2.36,
+    "metadata": {
+        "title": "Lexikon der Kohlenstoff-Verbindungen",
+        "title_complement": "Zweite Auflage der Tabellen der Kohlenstoff-Verbindungen nach deren empirischer Zusammensetzung geordnet",
+        "volume_number": "2. Lieferung",
+        "authors": "Richter, M. M.",
+        "publisher": "Verlag von Leopold Voss",
+        "publication_place": "Hamburg und Leipzig",
+        "date": "1882",
+        "identifier": "http://gallica.bnf.fr/ark:/12148/bpt6k90135r",
+        "iiif_manifest": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k90135r/manifest.json"
+    },
+    "ark": "bpt6k90135r"
+}

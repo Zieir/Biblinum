@@ -1,0 +1,42 @@
+{
+    "metadata": {
+        "title": "THÈSES",
+        "title_complement": "CARBURES BÉNTHONIQUES À CHAÎNE LATÉRALE PSEUDO-ALLYLIQUE : MÉTHYLOVINIYLBÉNZÈNE ET SES HOMOLOGUES. ÉTUDE DE QUELQUES MIGRATIONS MOLÉCULAIRES",
+        "volume_number": "",
+        "authors": "TIFFENEAU, Marc",
+        "publisher": "GAUTHIER-VILLARS, IMPRIMEUR-LIBRAIRE",
+        "publication_place": "PARIS",
+        "date": "1907",
+        "identifier": "http://gallica.bnf.fr/ark:/12148/bpt6k91792g",
+        "iiif_manifest": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k91792g/manifest.json"
+    },
+    "langue": "fr (French)",
+    "_annotations": {
+        "metadata.title": {
+            "lisibilite": "Lisible"
+        },
+        "metadata.title_complement": {
+            "lisibilite": "Lisible"
+        },
+        "metadata.volume_number": {
+            "lisibilite": "Non lisible",
+            "cause": "absent"
+        },
+        "metadata.authors": {
+            "lisibilite": "Lisible"
+        },
+        "metadata.publisher": {
+            "lisibilite": "Lisible"
+        },
+        "metadata.publication_place": {
+            "lisibilite": "Lisible"
+        },
+        "metadata.date": {
+            "lisibilite": "Lisible"
+        },
+        "langue": {
+            "lisibilite": "Lisible"
+        }
+    },
+    "ark": "bpt6k91792g"
+}

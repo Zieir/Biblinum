@@ -1,0 +1,43 @@
+{
+    "metadata": {
+        "title": "PHILIPP ROSENTHAL",
+        "title_complement": "SEIN LEBEN UND SEIN PORZELLAN",
+        "volume_number": "",
+        "authors": "",
+        "publisher": "KLINKHARDT & BIERMANN VERLAG",
+        "publication_place": "LEIPZIG",
+        "date": "1929",
+        "identifier": "http://gallica.bnf.fr/ark:/12148/bpt6k90570c",
+        "iiif_manifest": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k90570c/manifest.json"
+    },
+    "langue": "de (German)",
+    "_annotations": {
+        "metadata.title": {
+            "lisibilite": "Lisible"
+        },
+        "metadata.title_complement": {
+            "lisibilite": "Lisible"
+        },
+        "metadata.volume_number": {
+            "lisibilite": "Non lisible",
+            "cause": "absent"
+        },
+        "metadata.authors": {
+            "lisibilite": "Non lisible",
+            "cause": "absent"
+        },
+        "metadata.publisher": {
+            "lisibilite": "Lisible"
+        },
+        "metadata.publication_place": {
+            "lisibilite": "Lisible"
+        },
+        "metadata.date": {
+            "lisibilite": "Lisible"
+        },
+        "langue": {
+            "lisibilite": "Lisible"
+        }
+    },
+    "ark": "bpt6k90570c"
+}

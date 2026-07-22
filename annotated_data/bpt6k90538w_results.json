@@ -1,0 +1,43 @@
+{
+    "metadata": {
+        "title": "HISTORICAL INTRODUCTION TO CHEMISTRY",
+        "title_complement": "",
+        "volume_number": "",
+        "authors": "LOWRY, T. M.",
+        "publisher": "MACMILLAN AND CO., LIMITED",
+        "publication_place": "LONDON",
+        "date": "1936",
+        "identifier": "http://gallica.bnf.fr/ark:/12148/bpt6k90538w",
+        "iiif_manifest": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k90538w/manifest.json"
+    },
+    "langue": "en (English)",
+    "_annotations": {
+        "metadata.title": {
+            "lisibilite": "Lisible"
+        },
+        "metadata.title_complement": {
+            "lisibilite": "Non lisible",
+            "cause": "absent"
+        },
+        "metadata.volume_number": {
+            "lisibilite": "Non lisible",
+            "cause": "absent"
+        },
+        "metadata.authors": {
+            "lisibilite": "Lisible"
+        },
+        "metadata.publisher": {
+            "lisibilite": "Lisible"
+        },
+        "metadata.publication_place": {
+            "lisibilite": "Lisible"
+        },
+        "metadata.date": {
+            "lisibilite": "Lisible"
+        },
+        "langue": {
+            "lisibilite": "Lisible"
+        }
+    },
+    "ark": "bpt6k90538w"
+}

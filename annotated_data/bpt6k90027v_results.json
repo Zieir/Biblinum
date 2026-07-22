@@ -1,0 +1,48 @@
+{
+    "metadata": {
+        "title": "THÉORIES & SYMBOLES",
+        "title_complement": "DES ALCHIMISTES",
+        "volume_number": "",
+        "authors": "Poisson, Albert",
+        "publisher": "Chacornac",
+        "publication_place": "Paris",
+        "date": "1891",
+        "identifier": "http://gallica.bnf.fr/ark:/12148/bpt6k90027v",
+        "iiif_manifest": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k90027v/manifest.json"
+    },
+    "langue": "fr (French)",
+    "_annotations": {
+        "metadata.title": {
+            "lisibilite": "Lisible"
+        },
+        "metadata.title_complement": {
+            "lisibilite": "Lisible"
+        },
+        "metadata.volume_number": {
+            "lisibilite": "Non lisible",
+            "cause": "absent"
+        },
+        "metadata.authors": {
+            "lisibilite": "Lisible"
+        },
+        "metadata.publisher": {
+            "lisibilite": "Non lisible",
+            "cause": "qualite",
+            "correction": "Chacornac"
+        },
+        "metadata.publication_place": {
+            "lisibilite": "Non lisible",
+            "cause": "qualite",
+            "correction": "Paris"
+        },
+        "metadata.date": {
+            "lisibilite": "Non lisible",
+            "cause": "qualite",
+            "correction": "1891"
+        },
+        "langue": {
+            "lisibilite": "Lisible"
+        }
+    },
+    "ark": "bpt6k90027v"
+}

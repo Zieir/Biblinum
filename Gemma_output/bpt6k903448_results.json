@@ -1,0 +1,15 @@
+{
+    "processing_time_seconds": 1.63,
+    "metadata": {
+        "title": "DE LA LUMIÈRE",
+        "title_complement": "",
+        "volume_number": "V",
+        "authors": "Fresnel, Augustin",
+        "publisher": "Librairie Armand Colin",
+        "publication_place": "Paris",
+        "date": "1914",
+        "identifier": "http://gallica.bnf.fr/ark:/12148/bpt6k903448",
+        "iiif_manifest": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k903448/manifest.json"
+    },
+    "ark": "bpt6k903448"
+}

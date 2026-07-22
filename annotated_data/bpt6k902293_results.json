@@ -1,0 +1,43 @@
+{
+    "metadata": {
+        "title": "PRINCIPES DE CHIMIE",
+        "title_complement": "FONDÉS SUR LES THÉORIES MODERNES",
+        "volume_number": "TOME PREMIER",
+        "authors": "NAQUET, A.",
+        "publisher": "F. SAVY, LIBRAIRE-ÉDITEUR",
+        "publication_place": "PARIS",
+        "date": "",
+        "identifier": "http://gallica.bnf.fr/ark:/12148/bpt6k902293",
+        "iiif_manifest": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k902293/manifest.json"
+    },
+    "langue": "fr (French)",
+    "_annotations": {
+        "metadata.title": {
+            "lisibilite": "Lisible"
+        },
+        "metadata.title_complement": {
+            "lisibilite": "Lisible"
+        },
+        "metadata.volume_number": {
+            "lisibilite": "Non lisible",
+            "cause": "recouvert"
+        },
+        "metadata.authors": {
+            "lisibilite": "Lisible"
+        },
+        "metadata.publisher": {
+            "lisibilite": "Lisible"
+        },
+        "metadata.publication_place": {
+            "lisibilite": "Lisible"
+        },
+        "metadata.date": {
+            "lisibilite": "Non lisible",
+            "cause": "absent"
+        },
+        "langue": {
+            "lisibilite": "Lisible"
+        }
+    },
+    "ark": "bpt6k902293"
+}

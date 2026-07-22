@@ -1,0 +1,44 @@
+{
+    "metadata": {
+        "title": "NOUVELLES LETTRES SUR LA CHIMIE",
+        "title_complement": "considérée dans ses applications à l'industrie, à la physiologie et à l'agriculture",
+        "volume_number": "",
+        "authors": "LIEBIG, Justus ; GERRARDT, Charles",
+        "publisher": "CHARPENTIER, LIBRAIRE-ÉDITEUR",
+        "publication_place": "PARIS",
+        "date": "1852",
+        "identifier": "http://gallica.bnf.fr/ark:/12148/bpt6k90250x",
+        "iiif_manifest": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k90250x/manifest.json"
+    },
+    "langue": "fr (French)",
+    "_annotations": {
+        "metadata.title": {
+            "lisibilite": "Lisible"
+        },
+        "metadata.title_complement": {
+            "lisibilite": "Non lisible",
+            "cause": "qualite"
+        },
+        "metadata.volume_number": {
+            "lisibilite": "Non lisible",
+            "cause": "absent"
+        },
+        "metadata.authors": {
+            "lisibilite": "Non lisible",
+            "cause": "qualite"
+        },
+        "metadata.publisher": {
+            "lisibilite": "Lisible"
+        },
+        "metadata.publication_place": {
+            "lisibilite": "Lisible"
+        },
+        "metadata.date": {
+            "lisibilite": "Lisible"
+        },
+        "langue": {
+            "lisibilite": "Lisible"
+        }
+    },
+    "ark": "bpt6k90250x"
+}

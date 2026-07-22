@@ -1,0 +1,15 @@
+{
+    "processing_time_seconds": 2.0,
+    "metadata": {
+        "title": "MANUEL DE CHIMIE",
+        "title_complement": "THÉORIQUE ET PRATIQUE",
+        "volume_number": "PREMIÈRE PARTIE : MÉTALLOÏDES",
+        "authors": "ODLING, M. William",
+        "publisher": "VICTOR MASSON ET FILS",
+        "publication_place": "PARIS",
+        "date": "1864",
+        "identifier": "http://gallica.bnf.fr/ark:/12148/bpt6k900077",
+        "iiif_manifest": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k900077/manifest.json"
+    },
+    "ark": "bpt6k900077"
+}
