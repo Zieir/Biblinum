@@ -1,8 +1,8 @@
 {
     "metadata": {
-        "title": "CHEMIE DER KOHLENSTOFFVERBINDUNGEN",
-        "title_complement": "ODER ORGANISCHE CHEMIE",
-        "volume_number": "",
+        "title": "CHEMIE DER KOHLENSTOFFVERBINDUNGEN ODER ORGANISCHE CHEMIE",
+        "title_complement": "",
+        "volume_number": "FÜNFTE NEU BEARBEITETE AUFLAGE",
         "authors": "Richter, V. V.",
         "publisher": "VERLAG VON MAX COHEN & SOHN (FR. COHEN)",
         "publication_place": "BONN",
@@ -13,14 +13,16 @@
     "langue": "de (German)",
     "_annotations": {
         "metadata.title": {
-            "lisibilite": "Lisible"
+            "lisibilite": "Lisible",
+            "correction": "CHEMIE DER KOHLENSTOFFVERBINDUNGEN ODER ORGANISCHE CHEMIE"
         },
         "metadata.title_complement": {
-            "lisibilite": "Lisible"
-        },
-        "metadata.volume_number": {
             "lisibilite": "Non lisible",
             "cause": "absent"
+        },
+        "metadata.volume_number": {
+            "lisibilite": "Lisible",
+            "correction": "FÜNFTE NEU BEARBEITETE AUFLAGE"
         },
         "metadata.authors": {
             "lisibilite": "Lisible",

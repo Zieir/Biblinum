@@ -3,7 +3,7 @@
         "title": "Kleyers Encyklopädie der gesamten mathematischen, technischen und exakten Natur-Wissenschaften",
         "title_complement": "Lehrbuch der anorganischen reinen und technischen Chemie (Experimental-Chemie)",
         "volume_number": "",
-        "authors": "Steffen, Wilh.",
+        "authors": "Wilh. Steffen",
         "publisher": "",
         "publication_place": "",
         "date": "",
@@ -23,7 +23,8 @@
             "cause": "absent"
         },
         "metadata.authors": {
-            "lisibilite": "Lisible"
+            "lisibilite": "Lisible",
+            "correction": "Wilh. Steffen"
         },
         "metadata.publisher": {
             "lisibilite": "Non lisible",

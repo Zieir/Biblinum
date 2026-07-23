@@ -1,12 +1,12 @@
 {
     "metadata": {
-        "title": "C. G. J. Jacobi's gesammelte Werke",
-        "title_complement": "",
+        "title": "C. G. J. JACOBI'S GESAMMELTE WERKE",
+        "title_complement": "HERAUSGEGEBEN AUS DER VERANLASSUNG DER KÖNIGLICH PREUSSISCHEN AKADEMIE DER WISSENSCHAFTEN",
         "volume_number": "SIEBENTER BAND",
-        "authors": "JACOBI, C. G. J.",
-        "publisher": "",
-        "publication_place": "",
-        "date": "",
+        "authors": "C. G. J. JACOBI, HERAUSGEGEBEN von K. WEIERSTRASS",
+        "publisher": "GEORG REIMER",
+        "publication_place": "BERLIN",
+        "date": "1981",
         "identifier": "http://gallica.bnf.fr/ark:/12148/bpt6k902231",
         "iiif_manifest": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k902231/manifest.json"
     },
@@ -17,26 +17,27 @@
             "correction": "C. G. J. Jacobi's gesammelte Werke"
         },
         "metadata.title_complement": {
-            "lisibilite": "Non lisible",
-            "cause": "absent"
+            "lisibilite": "Lisible",
+            "correction": "HERAUSGEGEBEN AUS DER VERANLASSUNG DER KÖNIGLICH PREUSSISCHEN AKADEMIE DER WISSENSCHAFTEN"
         },
         "metadata.volume_number": {
             "lisibilite": "Lisible"
         },
         "metadata.authors": {
-            "lisibilite": "Lisible"
+            "lisibilite": "Lisible",
+            "correction": "C. G. J. JACOBI, HERAUSGEGEBEN von K. WEIERSTRASS"
         },
         "metadata.publisher": {
-            "lisibilite": "Non lisible",
-            "cause": "absent"
+            "lisibilite": "Lisible",
+            "correction": "GEORG REIMER"
         },
         "metadata.publication_place": {
-            "lisibilite": "Non lisible",
-            "cause": "absent"
+            "lisibilite": "Lisible",
+            "correction": "BERLIN"
         },
         "metadata.date": {
-            "lisibilite": "Non lisible",
-            "cause": "absent"
+            "lisibilite": "Lisible",
+            "correction": "1981"
         },
         "langue": {
             "lisibilite": "Lisible",

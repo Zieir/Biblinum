@@ -1,11 +1,11 @@
 {
     "metadata": {
         "title": "ZUR ERINNERUNG AN GUSTAV MAGNUS",
-        "title_complement": "nach einem am 14. December 1870 in der General-Versammlung der Deutschen Chemischen Gesellschaft zu Berlin gehaltenen Vortrage",
+        "title_complement": "nach einem am 14. December 1870 in der General-Versammlung der Deutschen Chemischen Gesellschaft zu Berlin gehaltenen Vortrage von Aug. Wilh. Hofmann",
         "volume_number": "",
         "authors": "Hofmann, Aug. Wilh.",
-        "publisher": "Ferd. Dümmler's Verlagsbuchhandlung",
-        "publication_place": "Berlin",
+        "publisher": "Ferd. Dümmler's Verlagsbuchhandlung Harrwitz und Gossmann",
+        "publication_place": "BERLIN",
         "date": "1871",
         "identifier": "http://gallica.bnf.fr/ark:/12148/bpt6k90477h",
         "iiif_manifest": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k90477h/manifest.json"
@@ -16,7 +16,8 @@
             "lisibilite": "Lisible"
         },
         "metadata.title_complement": {
-            "lisibilite": "Lisible"
+            "lisibilite": "Lisible", 
+            "correction": "nach einem am 14. December 1870 in der General-Versammlung der Deutschen Chemischen Gesellschaft zu Berlin gehaltenen Vortrage von Aug. Wilh. Hofmann"
         },
         "metadata.volume_number": {
             "lisibilite": "Non lisible",
@@ -27,7 +28,8 @@
             "cause": "recouvert"
         },
         "metadata.publisher": {
-            "lisibilite": "Lisible"
+            "lisibilite": "Lisible", 
+            "correction": "Ferd. Dümmler's Verlagsbuchhandlung Harrwitz und Gossmann"
         },
         "metadata.publication_place": {
             "lisibilite": "Lisible"

@@ -1,12 +1,12 @@
 {
     "metadata": {
-        "title": "Lexikon der Kohlenstoff-Verbindungen",
+        "title": "Lexikon der Kohlenstoff-Verbindungen von M. M. Richter",
         "title_complement": "Zweite Auflage der Tabellen der Kohlenstoff-Verbindungen nach deren empirischer Zusammensetzung geordnet",
-        "volume_number": "2. Lieferung",
-        "authors": "Richter, M. M.",
+        "volume_number": "",
+        "authors": "M. M. Richter",
         "publisher": "Verlag von Leopold Voss",
         "publication_place": "Hamburg und Leipzig",
-        "date": "1882",
+        "date": "1899",
         "identifier": "http://gallica.bnf.fr/ark:/12148/bpt6k90135r",
         "iiif_manifest": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k90135r/manifest.json"
     },
@@ -19,7 +19,8 @@
             "lisibilite": "Lisible"
         },
         "metadata.volume_number": {
-            "lisibilite": "Lisible"
+            "lisibilite": "Non lisible",
+            "cause": "absent"
         },
         "metadata.authors": {
             "lisibilite": "Lisible"
@@ -31,7 +32,8 @@
             "lisibilite": "Lisible"
         },
         "metadata.date": {
-            "lisibilite": "Lisible"
+            "lisibilite": "Lisible",
+            "correction": "1899"
         },
         "langue": {
             "lisibilite": "Lisible"

@@ -3,7 +3,7 @@
         "title": "Philosophie der Chemie",
         "title_complement": "",
         "volume_number": "",
-        "authors": "Karsten,  C. J. B.",
+        "authors": "C. J. B. Karsten",
         "publisher": "G. Reimer",
         "publication_place": "Berlin",
         "date": "1843",
@@ -25,7 +25,7 @@
         },
         "metadata.authors": {
             "lisibilite": "Lisible",
-            "correction": "Karsten,  C. J. B."
+            "correction": "C. J. B. Karsten"
         },
         "metadata.publisher": {
             "lisibilite": "Lisible"

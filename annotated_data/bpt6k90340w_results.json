@@ -1,9 +1,9 @@
 {
     "metadata": {
         "title": "Chemische Briefe",
-        "title_complement": "",
+        "title_complement": "Wholfeile Ausgabe",
         "volume_number": "",
-        "authors": "Liebig, Justus von",
+        "authors": "Justus von Liebig",
         "publisher": "C. F. Winter'sche Verlagshandlung",
         "publication_place": "Leipzig und Heidelberg",
         "date": "1865",
@@ -16,8 +16,8 @@
             "lisibilite": "Lisible"
         },
         "metadata.title_complement": {
-            "lisibilite": "Non lisible",
-            "cause": "absent"
+            "lisibilite": "Lisible",
+            "correction": "Wholfeile Ausgabe"
         },
         "metadata.volume_number": {
             "lisibilite": "Non lisible",

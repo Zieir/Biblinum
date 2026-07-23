@@ -1,12 +1,12 @@
 {
     "metadata": {
-        "title": "C. G. J. Jacobi's gesammelte Werke",
-        "title_complement": "",
+        "title": "C. G. J. JACOBI'S GESAMMELTE WERKE",
+        "title_complement": "HERAUSGEGEBEN AUS DER VERANLASSUNG DER KÖNIGLICH PREUSSISCHEN AKADEMIE DER WISSENSCHAFTEN",
         "volume_number": "ZWEITER BAND",
-        "authors": "JACOBI, C. G. J.",
-        "publisher": "",
-        "publication_place": "",
-        "date": "",
+        "authors": " C. G. J. JACOBI, HERAUSGEGEBEN von K. WEIERSTRASS",
+        "publisher": "G. REIMER",
+        "publication_place": "BERLIN",
+        "date": "1882",
         "identifier": "http://gallica.bnf.fr/ark:/12148/bpt6k90215d",
         "iiif_manifest": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k90215d/manifest.json"
     },
@@ -14,29 +14,31 @@
     "_annotations": {
         "metadata.title": {
             "lisibilite": "Lisible",
-            "correction": "C. G. J. Jacobi's gesammelte Werke"
+            "correction": "C. G. J. JACOBI'S GESAMMELTE WERKE"
         },
         "metadata.title_complement": {
-            "lisibilite": "Non lisible",
-            "cause": "absent"
+            "lisibilite": "Lisible",
+            "correction": "HERAUSGEGEBEN AUS DER VERANLASSUNG DER KÖNIGLICH PREUSSISCHEN AKADEMIE DER WISSENSCHAFTEN"
         },
         "metadata.volume_number": {
-            "lisibilite": "Lisible"
+            "lisibilite": "Lisible",
+            "correction": "ZWEITER BAND"
         },
         "metadata.authors": {
-            "lisibilite": "Lisible"
+            "lisibilite": "Lisible",
+            "correction": " C. G. J. JACOBI, HERAUSGEGEBEN von K. WEIERSTRASS"
         },
         "metadata.publisher": {
-            "lisibilite": "Non lisible",
-            "cause": "absent"
+            "lisibilite": "Lisible",
+            "correction": "G. REIMER"
         },
         "metadata.publication_place": {
-            "lisibilite": "Non lisible",
-            "cause": "absent"
+            "lisibilite": "Lisible",
+            "correction": "BERLIN"
         },
         "metadata.date": {
-            "lisibilite": "Non lisible",
-            "cause": "absent"
+            "lisibilite": "Lisible",
+            "correction": "1882"
         },
         "langue": {
             "lisibilite": "Lisible",

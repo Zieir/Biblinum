@@ -1,8 +1,8 @@
 {
     "metadata": {
         "title": "Einführung in das Studium der Chemie",
-        "title_complement": "nach Vorlesungen gehalten am naturwissenschaftlichen Institut in Florenz",
-        "volume_number": "1. Band",
+        "title_complement": "nach Vorlesungen gehalten am naturwissenschaftlichen Institut in Florenz von Prof. Hugo Schiff",
+        "volume_number": "",
         "authors": "Schiff, Hugo",
         "publisher": "Verlag von Theobald Grieben",
         "publication_place": "BERLIN",
@@ -16,10 +16,13 @@
             "lisibilite": "Lisible"
         },
         "metadata.title_complement": {
-            "lisibilite": "Lisible"
+            "lisibilite": "Lisible",
+            "correction": "nach Vorlesungen gehalten am naturwissenschaftlichen Institut in Florenz von Prof. Hugo Schiff"
         },
         "metadata.volume_number": {
-            "lisibilite": "Lisible"
+            "lisibilite": "Non lisible",
+            "cause": "absent",
+            "correction": ""
         },
         "metadata.authors": {
             "lisibilite": "Lisible"

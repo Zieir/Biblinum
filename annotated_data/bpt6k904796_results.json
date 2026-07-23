@@ -3,7 +3,7 @@
         "title": "EINLEITUNG IN DIE MODERNE CHEMIE",
         "title_complement": "NACH EINER REIHE VON VORTRÄGEN GEHALTEN IN DEM ROYAL COLLEGE OF CHEMISTRY ZU LONDON",
         "volume_number": "",
-        "authors": "HOFMANN, AUG. WILL.",
+        "authors": "HOFMANN, AUG. WILH.",
         "publisher": "FRIEDRICH VIEWEG UND SOHN",
         "publication_place": "BRAUNSCHWEIG",
         "date": "1869",
@@ -23,7 +23,9 @@
             "cause": "absent"
         },
         "metadata.authors": {
-            "lisibilite": "Lisible"
+            "lisibilite": "Non lisible",
+            "cause": "qualite",
+            "correction": "AUG. WILH. HOFMANN"
         },
         "metadata.publisher": {
             "lisibilite": "Lisible"

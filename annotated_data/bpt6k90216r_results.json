@@ -1,9 +1,9 @@
 {
     "metadata": {
-        "title": "C. G. J. Jacobi's gesammelte Werke",
-        "title_complement": "",
+        "title": "C. G. J. JACOBI'S GESAMMELTE WERKE",
+        "title_complement": "HERAUSGEGEBEN AUS DER VERANLASSUNG DER KÖNIGLICH PREUSSISCHEN AKADEMIE DER WISSENSCHAFTEN",
         "volume_number": "DRITTER BAND",
-        "authors": "JACOBI, C. G. J.",
+        "authors": "C. G. J. JACOBI, HERAUSGEGEBEN von K. WEIERSTRASS",
         "publisher": "GEORG REIMER",
         "publication_place": "BERLIN",
         "date": "1884",
@@ -14,20 +14,23 @@
     "_annotations": {
         "metadata.title": {
             "lisibilite": "Lisible",
-            "correction": "C. G. J. Jacobi's gesammelte Werke"
+            "correction": "C. G. J. JACOBI'S GESAMMELTE WERKE"
         },
         "metadata.title_complement": {
-            "lisibilite": "Non lisible",
-            "cause": "absent"
+            "lisibilite": "Lisible",
+            "correction": "HERAUSGEGEBEN AUS DER VERANLASSUNG DER KÖNIGLICH PREUSSISCHEN AKADEMIE DER WISSENSCHAFTEN"
         },
         "metadata.volume_number": {
-            "lisibilite": "Lisible"
+            "lisibilite": "Lisible",
+            "correction": "DRITTER BAND"
         },
         "metadata.authors": {
-            "lisibilite": "Lisible"
+            "lisibilite": "Lisible",
+            "correction": "C. G. J. JACOBI, HERAUSGEGEBEN von K. WEIERSTRASS"
         },
         "metadata.publisher": {
-            "lisibilite": "Lisible"
+            "lisibilite": "Lisible",
+            "correction": "GEORG REIMER"
         },
         "metadata.publication_place": {
             "lisibilite": "Lisible"

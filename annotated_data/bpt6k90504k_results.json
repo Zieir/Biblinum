@@ -1,10 +1,10 @@
 {
     "metadata": {
         "title": "Lehrbuch der Organischen Chemie",
-        "title_complement": "Chemie der Kohlenstoffverbindungen",
+        "title_complement": "oder der Chemie der Kohlenstoffverbindungen",
         "volume_number": "Erster Band",
-        "authors": "Kekulé, Aug.",
-        "publisher": "Verlag von Ferdinand Enke",
+        "authors": "Aug. Kekulé",
+        "publisher": "Ferdinand Enke",
         "publication_place": "Erlangen",
         "date": "1867",
         "identifier": "http://gallica.bnf.fr/ark:/12148/bpt6k90504k",
@@ -16,7 +16,8 @@
             "lisibilite": "Lisible"
         },
         "metadata.title_complement": {
-            "lisibilite": "Lisible"
+            "lisibilite": "Lisible", 
+            "correction": "oder der Chemie der Kohlenstoffverbindungen"
         },
         "metadata.volume_number": {
             "lisibilite": "Lisible"

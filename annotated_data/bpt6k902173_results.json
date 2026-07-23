@@ -1,13 +1,13 @@
 {
     "metadata": {
-        "title": "ÜBER DIE PFAFFSCHE METHODE",
-        "title_complement": "EINE GEWÖHNLICHE LINEARE DIFFERENTIALGLEICHUNG ZWISCHEN 2n VARIABELN DURCH EIN SYSTEM VON n GLEICHUNGEN ZU INTEGRIREN",
-        "volume_number": "Bd. 2",
-        "authors": "JACOBI, C. G. J.",
+        "title": "ÜBER DIE PFAFFSCHE METHODE, EINE GEWÖHNLICHE LINEARE DIFFERENTIALGLEICHUNG ZWISCHEN 2n VARIABELN DURCH EIN SYSTEM VON n GLEICHUNGEN ZU INTEGRIREN",
+        "title_complement": "",
+        "volume_number": "",
+        "authors": "C. G. J. JACOBI",
         "publisher": "",
         "publication_place": "",
         "date": "",
-        "identifier": "http://gallica.bnf.fr/ark:/12148/bpt6k902173",
+        "identifier": "http://gallica.bnf.fr/ark:/12148/bpt6k902173/f4.item",
         "iiif_manifest": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k902173/manifest.json"
     },
     "langue": "de (German)",
@@ -16,10 +16,13 @@
             "lisibilite": "Lisible"
         },
         "metadata.title_complement": {
-            "lisibilite": "Lisible"
+            "lisibilite": "Non lisible",
+            "cause": "absent"
         },
         "metadata.volume_number": {
-            "lisibilite": "Lisible"
+            "lisibilite": "Non lisible",
+            "cause": "absent",
+            "correction": ""
         },
         "metadata.authors": {
             "lisibilite": "Lisible"

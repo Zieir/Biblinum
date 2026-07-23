@@ -1,9 +1,9 @@
 {
     "metadata": {
         "title": "Lexikon der Kohlenstoff-Verbindungen",
-        "title_complement": "Zweite Auflage der 'Tabellen der Kohlenstoff-Verbindungen nach deren empirischer Zusammensetzung geordnet",
-        "volume_number": "20. Lieferung",
-        "authors": "Richter, M. M.",
+        "title_complement": "Zweite Auflage der 'Tabellen der Kohlenstoff-Verbindungen nach deren empirischer Zusammensetzung geordnet'",
+        "volume_number": "",
+        "authors": "M. M. Richter",
         "publisher": "Verlag von Leopold Voss",
         "publication_place": "Hamburg und Leipzig",
         "date": "1899",
@@ -23,7 +23,8 @@
             "lisibilite": "Lisible"
         },
         "metadata.authors": {
-            "lisibilite": "Lisible"
+            "lisibilite": "Lisible",
+            "correction": "M. M. Richter"
         },
         "metadata.publisher": {
             "lisibilite": "Lisible"

@@ -1,41 +1,44 @@
 {
     "metadata": {
-        "title": "Kleyers Encyklopädie der gesamten mathematischen, technischen und exakten Natur-Wissenschaften",
-        "title_complement": "Lehrbuch der anorganischen reinen und technischen Chemie (Experimental-Chemie)",
-        "volume_number": "",
-        "authors": "Steffen, Wilh.",
-        "publisher": "",
-        "publication_place": "",
-        "date": "",
+        "title": "Lehrbuch der anorganischen reinen und technischen Chemie",
+        "title_complement": "Anorganische Experimental-Chemie. I. Band: Die Mettaloide.",
+        "volume_number": "I. Band",
+        "authors": "W. Steffen",
+        "publisher": "Verlag von Julius Maier",
+        "publication_place": "Stuttgart",
+        "date": "1889",
         "identifier": "http://gallica.bnf.fr/ark:/12148/bpt6k90091z",
         "iiif_manifest": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k90091z/manifest.json"
     },
     "langue": "de (German)",
     "_annotations": {
         "metadata.title": {
-            "lisibilite": "Lisible"
+            "lisibilite": "Lisible",
+            "correction": "Lehrbuch der anorganischen reinen und technischen Chemie"
         },
         "metadata.title_complement": {
-            "lisibilite": "Lisible"
+            "lisibilite": "Lisible",
+            "correction": "Anorganische Experimental-Chemie. I. Band: Die Mettaloide."
         },
         "metadata.volume_number": {
-            "lisibilite": "Non lisible",
-            "cause": "absent"
+            "lisibilite": "Lisible",
+            "correction": "I. Band"
         },
         "metadata.authors": {
-            "lisibilite": "Lisible"
+            "lisibilite": "Lisible",
+            "correction": "W. Steffen"
         },
         "metadata.publisher": {
-            "lisibilite": "Non lisible",
-            "cause": "absent"
+            "lisibilite": "Lisible",
+            "correction": "Verlag von Julius Maier"
         },
         "metadata.publication_place": {
-            "lisibilite": "Non lisible",
-            "cause": "absent"
+            "lisibilite": "Lisible",
+            "correction": "Stuttgart"
         },
         "metadata.date": {
-            "lisibilite": "Non lisible",
-            "cause": "absent"
+            "lisibilite": "Lisible",
+            "correction": "1889"
         },
         "langue": {
             "lisibilite": "Lisible"

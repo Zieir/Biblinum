@@ -1,12 +1,12 @@
 {
     "metadata": {
         "title": "ANLEITUNG ZUR QUANTITATIVEN CHEMISCHEN ANALYSE",
-        "title_complement": "",
-        "volume_number": "",
-        "authors": "",
-        "publisher": "",
-        "publication_place": "",
-        "date": "",
+        "title_complement": "FÜR ANFÄNGER UND GEÜBTERE",
+        "volume_number": "ZWEITER BAND",
+        "authors": "C. REMIGIUS FRESENIUS",
+        "publisher": "Friedrich Vieweg und Sohn",
+        "publication_place": "Braunschweig",
+        "date": "1877-1887",
         "identifier": "http://gallica.bnf.fr/ark:/12148/bpt6k903192",
         "iiif_manifest": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k903192/manifest.json"
     },
@@ -16,28 +16,28 @@
             "lisibilite": "Lisible"
         },
         "metadata.title_complement": {
-            "lisibilite": "Non lisible",
-            "cause": "absent"
+            "lisibilite": "Lisible",
+            "correction": "FÜR ANFÄNGER UND GEÜBTERE"
         },
         "metadata.volume_number": {
-            "lisibilite": "Non lisible",
-            "cause": "absent"
+            "lisibilite": "Lisible",
+            "correction": "ZWEITER BAND"
         },
         "metadata.authors": {
-            "lisibilite": "Non lisible",
-            "cause": "absent"
+            "lisibilite": "Lisible",
+            "correction": "C. REMIGIUS FRESENIUS"
         },
         "metadata.publisher": {
-            "lisibilite": "Non lisible",
-            "cause": "absent"
+            "lisibilite": "Lisible",
+            "correction": "Friedrich Vieweg und Sohn"
         },
         "metadata.publication_place": {
-            "lisibilite": "Non lisible",
-            "cause": "absent"
+            "lisibilite": "Lisible",
+            "correction": "Braunschweig"
         },
         "metadata.date": {
-            "lisibilite": "Non lisible",
-            "cause": "absent"
+            "lisibilite": "Lisible",
+            "correction": "1877-1887"
         },
         "langue": {
             "lisibilite": "Lisible"
