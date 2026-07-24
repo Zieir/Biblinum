@@ -2,7 +2,7 @@
     "metadata": {
         "title": "C. G. J. JACOBI'S VORLESUNGEN UBER DYNAMIK",
         "title_complement": "GEHALTEN AN DER UNIVERSITÄT ZU KÖNIGSBERG IN WINTERSEMESTER 1842-1843 UND NACH EINEM VON C. W. BORCHARDT AUSGEARBEITETEN HEFTE HERAUSGEGEBEN VON A. CLEBSCH",
-        "volume_number": "ZWEITE, REVIDIRTE AUSGABE",
+        "volume_number": "",
         "authors": "C. G. J. JACOBI",
         "publisher": "G. REIMER",
         "publication_place": "BERLIN",
@@ -21,8 +21,8 @@
             "correction": "GEHALTEN AN DER UNIVERSITÄT ZU KÖNIGSBERG IN WINTERSEMESTER 1842-1843 UND NACH EINEM VON C. W. BORCHARDT AUSGEARBEITETEN HEFTE HERAUSGEGEBEN VON A. CLEBSCH"
         },
         "metadata.volume_number": {
-            "lisibilite": "Lisible",
-            "correction": "ZWEITE, REVIDIRTE AUSGABE"
+            "lisibilite": "Non lisible",
+            "cause": "absent"
         },
         "metadata.authors": {
             "lisibilite": "Lisible",

@@ -1,7 +1,7 @@
 {
     "metadata": {
         "title": "Chemische Briefe",
-        "title_complement": "Wholfeile Ausgabe",
+        "title_complement": "",
         "volume_number": "",
         "authors": "Justus von Liebig",
         "publisher": "C. F. Winter'sche Verlagshandlung",
@@ -16,8 +16,8 @@
             "lisibilite": "Lisible"
         },
         "metadata.title_complement": {
-            "lisibilite": "Lisible",
-            "correction": "Wholfeile Ausgabe"
+            "lisibilite": "Non lisible",
+            "cause": "absent"
         },
         "metadata.volume_number": {
             "lisibilite": "Non lisible",
