@@ -1,8 +1,8 @@
-# BibliNum: A Dataset for Evaluating VLMs for the Automatic Extraction and Structuring of Metadata from Heritage Scientific Documents
+# BibliNum: A Dataset for Structured Metadata Extraction from Historical Scientific Documents
 
 This repository shares the annotations for the BibliNum dataset. 
 
-*Keywords: visual document analysis, digital humanities, vision-language models, structured annotation*
+*Keywords: digital libraries and archives; evaluation; visual document analysis; digital humanities; vision-language models, structured annotation*
 
 ## Context
 The aim of this project is to create a dataset for evaluating systems that automatically annotate scientific books and heritage documents. 
