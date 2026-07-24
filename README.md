@@ -25,10 +25,14 @@ These three versions of the annotations provide complementary points of views on
 In addition, our annotations concerning the presence and legibility of fields make it possible to determine whether a model hallucinates content when the relevant information is absent from the image. These anotations also help identify and understand the sources of model errors when particular fields are difficult to extract.
  
 ## Dataset Structure [TODO: Update]
+
+Qwen? 
+
+```bash
 ├── images/                  # Source images (JPEG/PNG), one per document
-├── jsons_qwen/              # Raw extractions produced by Qwen
+├── jsons_qwen/              # Raw extractions produced by VLM
 └── jsons_corriges/          # Manually annotated and corrected JSON files
- 
+ ```
 
 ## TODO Issues to Resolve
 - [ ] Check content: 792 annotations; mais 792 Gemma_outputs; why ground_truth 815 ?
@@ -36,11 +40,11 @@ In addition, our annotations concerning the presence and legibility of fields ma
     https://gallica.bnf.fr/ark:/12148/bpt6k91972d/f2.item
     to avoid retrieving a placeholder title page. Is it ok ?
 - [ ] Multiple authors: determine whether ; or , should be used as a separator and apply the chosen convention consistently.
-- [ ] Rename dirs: ground_truth —> rename in annotation_gallica; annotated_data —> rename in annotation_manual; Gemma_outputs —> annotation_gemma  
+- [ ] Rename dirs: ground_truth —> rename in gallica; annotated_data —> rename in manual; Gemma_outputs —> gemma or vlm  
 - [ ] “Non lisible”, “recouvert” etc. à traduire en anglais
 - [ ] “À revoir” comments à check et retirer 
-- [ ] Manque des annotations “fraktur” ? e.g. bpt6k905037  / Pas d’info sur les fontes latines vs fraktur ? / latin true/false (false dès que une partie n’est pas latine)
-- [ ] Vérifier pourquoi il y a autant de documents marqués comme illisibles en français 
+- [ ] Manque des annotations “fraktur” ? e.g. bpt6k905037  / je pensais que l'on précisait les fontes latines vs fraktur ? / e.g. avec un champ `latin` true/false (false dès que une partie du texte n’est pas en format latin)
+- [ ] Vérifier pourquoi il y a autant de documents marqués comme illisibles en français, probablement une erreur systématique ? 
 
 
 ## Annotation Guidelines
@@ -88,34 +92,34 @@ __Legibility__
 
 This field is mandatory for every annotated entry.
 
-Value	| Meaning
-
-Lisible	| The field is visible in the image, and the extracted value is plausible.
-
-Non lisible	| The field cannot be read reliably.
+|Value	      | Meaning                                                       |
+| ----------- | --------------------------------------------------------------|
+|`Lisible`      | The field is visible in the image, and the quality satisfying.|
+|`Non lisible` | The field cannot be read reliably |
 
 __Cause of Illegibility__
 
-This field is present only when lisibilite is set to Non lisible.
+This field is present only when lisibilite is set to `Non lisible`.
 
-Value	Meaning
-qualite	The field is present but is blurred, overexposed, too dark, or displayed at insufficient resolution.
-recouvert	A stamp, sticker, deletion mark, or another element physically obscures the content.
-manuscrit	The field is handwritten and is illegible or ambiguous.
-absent	The field is not present on the document.
+|Value	      | Meaning                                                       |
+| ----------- | --------------------------------------------------------------|
+|`qualite` | The field is present but is blurred, overexposed, too dark, or displayed at insufficient resolution. |
+|`recouvert` | A stamp, sticker, deletion mark, or another element physically obscures the content. |
+|`manuscrit` | The field is handwritten and is illegible or ambiguous. |
+|`absent` | The field is not present on the document. |
 
 __Correction__
 
-This field is optional. It may be included regardless of legibility when the value extracted by Qwen is incorrect or incomplete.
-* The corrected value replaces the Qwen value directly in the corresponding JSON field. For example, metadata.date contains the corrected value.
-* The correction is also recorded in _annotations under the "correction" key, making it possible to measure the model’s error rate.
+This field is optional. It may be included regardless of legibility when the value extracted by the VLM is incorrect or incomplete.
+* The corrected value replaces the pre-annotated value directly in the corresponding JSON field. For example, metadata.date contains the corrected value.
+* The correction is also recorded in `_annotations` under the "correction" key, making it possible to measure the model’s error rate.
 * When the field is absent from the document, the correction is an empty string: "".
  
 ## Annotation Interface [TODO: Translate French]
 
 __Annotation Tool__
 
-The annotations were produced using a Streamlit interface developed for this project (annotateur2000.py).
+The annotations were produced using a Streamlit interface developed for this project (`annotateur2000.py`).
 
 The interface displays each image alongside its extracted fields. It allows annotators to:
 * assess the legibility of each field;
@@ -129,28 +133,31 @@ Each file in jsons_corriges/ corresponds to one image and follows this structure
 
 ```json
 {
-    "image_filename": "bpt6k900402_f4.jpeg",
-    "processing_time_seconds": 55.4,
     "metadata": {
-        "title": "L'OZONE et ses applications",
-        "authors": ["M.-P. OTTO"],
-        "date": "1923",
-        "publisher": "ETIENNE CHIRON, ÉDITEUR",
-        "publication_place": "Paris",
-        "record_info": {
-            "cataloging_source": ""
-        }
+        "title": "ELEMENTS OF CHEMISTRY",
+        "title_complement": "THEORETICAL AND PRACTICAL",
+        "volume_number": "",
+        "authors": "D. B. REID",
+        "publisher": "MACLACHLAN, STEWART & CO.",
+        "publication_place": "EDINBURGH",
+        "date": "1839",
+        "identifier": "http://gallica.bnf.fr/ark:/12148/bpt6k90051q",
+        "iiif_manifest": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k90051q/manifest.json"
     },
+    "langue": "en (English)",
     "_annotations": {
         "metadata.title": {
             "lisibilite": "Lisible"
         },
-        "metadata.authors.0": {
+        "metadata.title_complement": {
             "lisibilite": "Lisible"
         },
-        "metadata.date": {
-            "lisibilite": "Lisible",
-            "correction": "1923"
+        "metadata.volume_number": {
+            "lisibilite": "Non lisible",
+            "cause": "absent"
+        },
+        "metadata.authors": {
+            "lisibilite": "Lisible"
         },
         "metadata.publisher": {
             "lisibilite": "Lisible"
@@ -158,12 +165,14 @@ Each file in jsons_corriges/ corresponds to one image and follows this structure
         "metadata.publication_place": {
             "lisibilite": "Lisible"
         },
-        "metadata.record_info.cataloging_source": {
-            "lisibilite": "Non lisible",
-            "cause": "absent"
+        "metadata.date": {
+            "lisibilite": "Lisible"
         },
-        "_note": "Page de titre partiellement masquée par un ex-libris."
-    }
+        "langue": {
+            "lisibilite": "Lisible"
+        }
+    },
+    "ark": "bpt6k90051q"
 }
 ```
 
