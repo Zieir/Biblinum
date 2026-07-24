@@ -24,6 +24,8 @@ These three versions of the annotations provide complementary points of views on
 
 In addition, our annotations concerning the presence and legibility of fields make it possible to determine whether a model hallucinates content when the relevant information is absent from the image. These anotations also help identify and understand the sources of model errors when particular fields are difficult to extract.
  
+NB: see complete books on [here](https://gallica.bnf.fr/services/engine/search/sru?operation=searchRetrieve&exactSearch=false&collapsing=true&version=1.2&query=(((bibliotheque%20adj%20%22Universit%C3%A9%20Paris-Sud%22))%20or%20(provenance%20adj%20%22u-psud%22))) via Gallica portal / Numaclay collection / thanks to a collaboration of the French *Maison de la Chimie* scientific society with Université Paris-Saclay (formerly Université Paris-Sud).
+
 ## Dataset Structure [TODO: Update]
 
 Qwen? 
