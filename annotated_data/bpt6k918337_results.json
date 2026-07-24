@@ -1,10 +1,10 @@
 {
     "metadata": {
         "title": "ÄQUIVALENTBESTIMMUNG DES PHOSPHORS",
-        "title_complement": "",
-        "volume_number": "IV",
-        "authors": "Schrötter, A.",
-        "publisher": "Kaiserlich-Königlichen Hof- und Staatsdruckerei",
+        "title_complement": "(AUS DER IV. BANDE DER DENKSCHRIFTEN DER MATHEMATISCH-NATURWISSENSCHAFTLICHEN CLASSE DER KAISERLICHEN AKADEMIE DER WISSENSCHAFTEN BESONDERS AUSGEDRUCKT.)",
+        "volume_number": "",
+        "authors": "A. Schrötter",
+        "publisher": "Kaiserlich-Königliche Hof- und Staatsdruckerei",
         "publication_place": "Wien",
         "date": "1852",
         "identifier": "http://gallica.bnf.fr/ark:/12148/bpt6k918337",
@@ -16,15 +16,16 @@
             "lisibilite": "Lisible"
         },
         "metadata.title_complement": {
+            "lisibilite": "Lisible",
+            "correction": "(AUS DER IV. BANDE DER DENKSCHRIFTEN DER MATHEMATISCH-NATURWISSENSCHAFTLICHEN CLASSE DER KAISERLICHEN AKADEMIE DER WISSENSCHAFTEN BESONDERS AUSGEDRUCKT.)"
+        },
+        "metadata.volume_number": {
             "lisibilite": "Non lisible",
             "cause": "absent"
         },
-        "metadata.volume_number": {
-            "lisibilite": "Lisible"
-        },
         "metadata.authors": {
             "lisibilite": "Lisible",
-            "correction": "Schrötter, A."
+            "correction": " A. Schrötter"
         },
         "metadata.publisher": {
             "lisibilite": "Lisible"

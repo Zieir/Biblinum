@@ -1,9 +1,9 @@
 {
     "metadata": {
-        "title": "Roscoe-Schorlemmer's ausführlichesLEHRBUCH DER CHEMIE",
+        "title": "ROSCOE-SCHORLEMMER'S AUSFÜHRLICHES LEHRBUCH DER ORGANISCHEN CHEMIE",
         "title_complement": "DIE KOHLENWASSERSTOFFE UND IHRE DERIVATE ODER ORGANISCHE CHEMIE",
-        "volume_number": "NEUNTER BAND",
-        "authors": "BRÜHL, JUL. WILH. ; HJELT, EDVARD ; ASCHAN, OSSIAN",
+        "volume_number": "SIEBENTER THEIL",
+        "authors": "JUL. WILH. BRÜHL, EDVARD HJELT, OSSIAN ASCHAN, O. COHNHEIM, O. EMMERLING, E. VAHLEN",
         "publisher": "FRIEDRICH VIEWEG UND SOHN",
         "publication_place": "BRAUNSCHWEIG",
         "date": "1901",
@@ -20,10 +20,12 @@
             "lisibilite": "Lisible"
         },
         "metadata.volume_number": {
-            "lisibilite": "Lisible"
+            "lisibilite": "Lisible",
+            "correction": "SIEBENTER THEIL"
         },
         "metadata.authors": {
-            "lisibilite": "Lisible"
+            "lisibilite": "Lisible",
+            "correction": "JUL. WILH. BRÜHL, EDVARD HJELT, OSSIAN ASCHAN, O. COHNHEIM, O. EMMERLING, E. VAHLEN"
         },
         "metadata.publisher": {
             "lisibilite": "Lisible"

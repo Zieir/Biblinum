@@ -2,9 +2,9 @@
     "metadata": {
         "title": "Geschichte Der Chemie",
         "title_complement": "",
-        "volume_number": "Dritter Thell",
-        "authors": "Kopp, Hermann",
-        "publisher": "Friedrich Bieweg und Sohn",
+        "volume_number": "Dritter Theil",
+        "authors": "Hermann Kopp",
+        "publisher": "Friedrich Vieweg und Sohn",
         "publication_place": "Braunschweig",
         "date": "1845",
         "identifier": "http://gallica.bnf.fr/ark:/12148/bpt6k90664q",
@@ -28,7 +28,7 @@
         },
         "metadata.publisher": {
             "lisibilite": "Lisible",
-            "correction": "Friedrich Bieweg und Sohn"
+            "correction": "Friedrich Vieweg und Sohn"
         },
         "metadata.publication_place": {
             "lisibilite": "Lisible"

@@ -3,8 +3,8 @@
         "title": "GRUNDRISS DER KOLLOIDCHEMIE",
         "title_complement": "",
         "volume_number": "ERSTE HÄLFTE",
-        "authors": "OSTWALD, Wo.",
-        "publisher": "VERLAG VON THEODOR STEINKOPFF",
+        "authors": "WO. OSTWALD, THOMAS GRAHAM",
+        "publisher": "THEODOR STEINKOPFF",
         "publication_place": "DRESDEN UND LEIPZIG",
         "date": "1919",
         "identifier": "http://gallica.bnf.fr/ark:/12148/bpt6k91885g",
@@ -24,7 +24,7 @@
         },
         "metadata.authors": {
             "lisibilite": "Lisible",
-            "correction": "OSTWALD, Wo."
+            "correction": "WO. OSTWALD, THOMAS GRAHAM"
         },
         "metadata.publisher": {
             "lisibilite": "Lisible"

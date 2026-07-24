@@ -2,8 +2,8 @@
     "metadata": {
         "title": "BEITRÄGE ZUR GESCHICHTE DER CHEMIE",
         "title_complement": "",
-        "volume_number": "ZWELITES STÜCK",
-        "authors": "KOPP, Hermann",
+        "volume_number": "ZWEITES STÜCK",
+        "authors": "HERMANN KOPP",
         "publisher": "FRIEDRICH VIEWEG UND SOHN",
         "publication_place": "BRAUNSCHWEIG",
         "date": "1869",
@@ -21,7 +21,8 @@
         },
         "metadata.volume_number": {
             "lisibilite": "Non lisible",
-            "cause": "recouvert"
+            "cause": "recouvert",
+            "correction": "ZWEITES STÜCK"
         },
         "metadata.authors": {
             "lisibilite": "Lisible"

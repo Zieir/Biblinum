@@ -2,8 +2,8 @@
     "metadata": {
         "title": "BEITRÄGE ZUR GESCHICHTE DER CHEMIE",
         "title_complement": "",
-        "volume_number": "ERSTES STÜCK",
-        "authors": "Kopp, Hermann",
+        "volume_number": "",
+        "authors": "HERMANN KOPP",
         "publisher": "Friedrich Vieweg und Sohn",
         "publication_place": "Braunschweig",
         "date": "1869",
@@ -21,7 +21,7 @@
         },
         "metadata.volume_number": {
             "lisibilite": "Non lisible",
-            "cause": "recouvert"
+            "cause": "absent"
         },
         "metadata.authors": {
             "lisibilite": "Lisible"

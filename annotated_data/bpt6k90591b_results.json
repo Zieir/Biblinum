@@ -1,9 +1,9 @@
 {
     "metadata": {
-        "title": "DIE CHEMIE DER JETZTZEIT",
-        "title_complement": "STANDPUNKTE DER ELECTROCHEMISCHEN AUFFASSUNG AUS BERZELIUS LEHRE ENTWICKELT",
+        "title": "DIE CHEMIE DER JETZTZEIT VOM STANDPUNKTE DER ELECTROCHEMISCHEN AUFFASSUNG",
+        "title_complement": "AUS BERZELIUS LEHRE ENTWICKELT",
         "volume_number": "",
-        "authors": "Blomstrand, C. W.",
+        "authors": "C. W. Blomstrand",
         "publisher": "Carl Winter's Universitätsbuchhandlung",
         "publication_place": "Heidelberg",
         "date": "1869",
@@ -13,10 +13,12 @@
     "langue": "de (German)",
     "_annotations": {
         "metadata.title": {
-            "lisibilite": "Lisible"
+            "lisibilite": "Lisible",
+            "correction": "DIE CHEMIE DER JETZTZEIT VOM STANDPUNKTE DER ELECTROCHEMISCHEN AUFFASSUNG"
         },
         "metadata.title_complement": {
-            "lisibilite": "Lisible"
+            "lisibilite": "Lisible",
+            "correction": "AUS BERZELIUS LEHRE ENTWICKELT"
         },
         "metadata.volume_number": {
             "lisibilite": "Non lisible",

@@ -1,10 +1,10 @@
 {
     "metadata": {
-        "title": "Lehrbuch der physiologischen Chemie",
-        "title_complement": "mit Berücksichtigung der pathologischen Verhältnisse",
+        "title": "Lehrbuch der physiologischen Chemie mit Berücksichtigung der pathologischen Verhältnisse",
+        "title_complement": "Für Studierende und Aerzte",
         "volume_number": "",
-        "authors": "Neumeister, Richard",
-        "publisher": "Verlag von Gustav Fischer",
+        "authors": "Richard Neumeister",
+        "publisher": "Gustav Fischer",
         "publication_place": "Jena",
         "date": "1897",
         "identifier": "http://gallica.bnf.fr/ark:/12148/bpt6k90553s",
@@ -13,10 +13,12 @@
     "langue": "de (German)",
     "_annotations": {
         "metadata.title": {
-            "lisibilite": "Lisible"
+            "lisibilite": "Lisible",
+            "correction": "Lehrbuch der physiologischen Chemie mit Berücksichtigung der pathologischen Verhältnisse"
         },
         "metadata.title_complement": {
-            "lisibilite": "Lisible"
+            "lisibilite": "Lisible",
+            "correction": "Für Studierende und Aerzte"
         },
         "metadata.volume_number": {
             "lisibilite": "Non lisible",

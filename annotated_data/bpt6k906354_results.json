@@ -1,10 +1,10 @@
 {
     "metadata": {
-        "title": "GRUNDRISS DER CHEMIE",
-        "title_complement": "UNORGANISCHE CHEMIE",
-        "volume_number": "ERSTER THEIL",
-        "authors": "FITTIG, RUDOLPH",
-        "publisher": "VERLAG VON DUNCKER & HUMBLOT",
+        "title": "GRUNDRISS DER UNORGANISCHEN CHEMIE",
+        "title_complement": "",
+        "volume_number": "",
+        "authors": "RUDOLPH FITTIG",
+        "publisher": "DUNCKER & HUMBLOT",
         "publication_place": "LEIPZIG",
         "date": "1871",
         "identifier": "http://gallica.bnf.fr/ark:/12148/bpt6k906354",
@@ -13,17 +13,20 @@
     "langue": "de (German)",
     "_annotations": {
         "metadata.title": {
-            "lisibilite": "Lisible"
+            "lisibilite": "Lisible",
+            "correction": "GRUNDRISS DER UNORGANISCHEN CHEMIE"
         },
         "metadata.title_complement": {
-            "lisibilite": "Lisible"
+            "lisibilite": "Non lisible",
+            "cause": "absent"
         },
         "metadata.volume_number": {
-            "lisibilite": "Lisible"
+            "lisibilite": "Non lisible",
+            "cause": "absent"
         },
         "metadata.authors": {
             "lisibilite": "Lisible",
-            "correction": "FITTIG, RUDOLPH"
+            "correction": "RUDOLPH FITTIG"
         },
         "metadata.publisher": {
             "lisibilite": "Lisible"

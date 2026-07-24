@@ -1,42 +1,44 @@
 {
     "metadata": {
-        "title": "BERICHT",
-        "title_complement": "über die Entwicklung der chemischen Industrie während des letzten Jahrzehends",
+        "title": "BERICHT ÜBER DIE ENTWICKLUNG DER CHEMISCHEN INDUSTRIE WÄHREND DES LETZTEN JAHRZEHENDS",
+        "title_complement": "IM VEREIN MIT FREUNDEN UND FACHGENOSSEN",
         "volume_number": "",
-        "authors": "",
-        "publisher": "",
-        "publication_place": "",
-        "date": "",
+        "authors": "A. W. HOFMANN",
+        "publisher": "FRIEDRICH VIEWEG UND SOHN",
+        "publication_place": "BRAUNSCHWEIG",
+        "date": "1875",
         "identifier": "http://gallica.bnf.fr/ark:/12148/bpt6k918290",
         "iiif_manifest": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k918290/manifest.json"
     },
     "langue": "de (German)",
     "_annotations": {
         "metadata.title": {
-            "lisibilite": "Lisible"
+            "lisibilite": "Lisible",
+            "correction": "BERICHT ÜBER DIE ENTWICKLUNG DER CHEMISCHEN INDUSTRIE WÄHREND DES LETZTEN JAHRZEHENDS"
         },
         "metadata.title_complement": {
-            "lisibilite": "Lisible"
+            "lisibilite": "Lisible",
+            "correction": "IM VEREIN MIT FREUNDEN UND FACHGENOSSEN"
         },
         "metadata.volume_number": {
             "lisibilite": "Non lisible",
             "cause": "absent"
         },
         "metadata.authors": {
-            "lisibilite": "Non lisible",
-            "cause": "absent"
+            "lisibilite": "Lisible",
+            "correction": "A. W. HOFMANN"
         },
         "metadata.publisher": {
-            "lisibilite": "Non lisible",
-            "cause": "absent"
+            "lisibilite": "Lisible",
+            "correction": "FRIEDRICH VIEWEG UND SOHN"
         },
         "metadata.publication_place": {
-            "lisibilite": "Non lisible",
-            "cause": "absent"
+            "lisibilite": "Lisible",
+            "correction": "BRAUNSCHWEIG"
         },
         "metadata.date": {
-            "lisibilite": "Non lisible",
-            "cause": "absent"
+            "lisibilite": "Lisible",
+            "correction": "1875"
         },
         "langue": {
             "lisibilite": "Lisible"

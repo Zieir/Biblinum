@@ -1,22 +1,24 @@
 {
     "metadata": {
-        "title": "TAFELN",
-        "title_complement": "zur qualitativen chemischen Analyse",
+        "title": "Tafeln zur qualitativen chemischen Analyse",
+        "title_complement": "",
         "volume_number": "",
-        "authors": "Hampe, W.",
-        "publisher": "",
-        "publication_place": "",
-        "date": "",
+        "authors": "W. Hampe",
+        "publisher": "Grosse'schen Buchhandlung",
+        "publication_place": "Clausthal",
+        "date": "1868",
         "identifier": "http://gallica.bnf.fr/ark:/12148/bpt6k90661p",
         "iiif_manifest": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k90661p/manifest.json"
     },
     "langue": "de (German)",
     "_annotations": {
         "metadata.title": {
-            "lisibilite": "Lisible"
+            "lisibilite": "Lisible",
+            "correction": "Tafeln zur qualitativen chemischen Analyse"
         },
         "metadata.title_complement": {
-            "lisibilite": "Lisible"
+            "lisibilite": "Non lisible",
+            "cause": "absent"
         },
         "metadata.volume_number": {
             "lisibilite": "Non lisible",
@@ -24,19 +26,19 @@
         },
         "metadata.authors": {
             "lisibilite": "Lisible",
-            "correction": "Hampe, W."
+            "correction": "W. Hampe"
         },
         "metadata.publisher": {
-            "lisibilite": "Non lisible",
-            "cause": "absent"
+            "lisibilite": "Lisible",
+            "correction": "Grosse'schen Buchhandlung"
         },
         "metadata.publication_place": {
-            "lisibilite": "Non lisible",
-            "cause": "absent"
+            "lisibilite": "Lisible",
+            "correction": "Clausthal"
         },
         "metadata.date": {
-            "lisibilite": "Non lisible",
-            "cause": "absent"
+            "lisibilite": "Lisible",
+            "correction": "1868"
         },
         "langue": {
             "lisibilite": "Lisible"

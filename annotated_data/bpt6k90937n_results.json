@@ -1,12 +1,12 @@
 {
     "metadata": {
-        "title": "Holzstiche",
-        "title_complement": "aus dem xylographischen Atelier von Friedrich Vieweg und Sohn",
-        "volume_number": "",
-        "authors": "",
+        "title": "Ausfürliches Lehrbuch der Chemie",
+        "title_complement": "Die Kohlenwasserstoffe und ihre Derivate oder Organische Chemie",
+        "volume_number": "Fünfter Band, Dritter Theil",
+        "authors": "H.E. Roscoe, C. Schorlemmer, Jul. Wilh. Brühl, Edvard Hjelt, Ossian Aschan",
         "publisher": "Friedrich Vieweg und Sohn",
         "publication_place": "Braunschweig",
-        "date": "",
+        "date": "1896",
         "identifier": "http://gallica.bnf.fr/ark:/12148/bpt6k90937n",
         "iiif_manifest": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k90937n/manifest.json"
     },
@@ -19,12 +19,12 @@
             "lisibilite": "Lisible"
         },
         "metadata.volume_number": {
-            "lisibilite": "Non lisible",
-            "cause": "absent"
+            "lisibilite": "Lisible",
+            "correction": "Fünfter Band, Dritter Theil"
         },
         "metadata.authors": {
-            "lisibilite": "Non lisible",
-            "cause": "absent"
+            "lisibilite": "Lisible",
+            "correction":"H.E. Roscoe, C. Schorlemmer, Jul. Wilh. Brühl, Edvard Hjelt, Ossian Aschan"
         },
         "metadata.publisher": {
             "lisibilite": "Lisible"
@@ -33,8 +33,8 @@
             "lisibilite": "Lisible"
         },
         "metadata.date": {
-            "lisibilite": "Non lisible",
-            "cause": "absent"
+            "lisibilite": "Lisible",
+            "correction": "1896"
         },
         "langue": {
             "lisibilite": "Lisible"

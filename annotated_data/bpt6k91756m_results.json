@@ -1,9 +1,9 @@
 {
     "metadata": {
-        "title": "Systematische uebersicht der Silicate ",
+        "title": "Systematische uebersicht der Silicate",
         "title_complement": "",
         "volume_number": "",
-        "authors": "Weltzien, C.",
+        "authors": "C. Weltzien",
         "publisher": "J. Ricker'sche Buchhandlung",
         "publication_place": "Giessen",
         "date": "1864",
@@ -14,7 +14,7 @@
     "_annotations": {
         "metadata.title": {
             "lisibilite": "Lisible",
-            "correction": "Systematische uebersicht der Silicate "
+            "correction": "Systematische uebersicht der Silicate"
         },
         "metadata.title_complement": {
             "lisibilite": "Non lisible",

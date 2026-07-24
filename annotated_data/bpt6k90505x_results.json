@@ -2,11 +2,11 @@
     "metadata": {
         "title": "Lehrbuch der Organischen Chemie",
         "title_complement": "",
-        "volume_number": "",
-        "authors": "",
-        "publisher": "",
-        "publication_place": "",
-        "date": "",
+        "volume_number": "Zweiter Band",
+        "authors": "Aug. Kekulé",
+        "publisher": "Ferdinand Enke",
+        "publication_place": "Erlangen",
+        "date": "1866",
         "identifier": "http://gallica.bnf.fr/ark:/12148/bpt6k90505x",
         "iiif_manifest": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k90505x/manifest.json"
     },
@@ -20,24 +20,24 @@
             "cause": "absent"
         },
         "metadata.volume_number": {
-            "lisibilite": "Non lisible",
-            "cause": "absent"
+            "lisibilite": "Lisible",
+            "correction": "Zweiter Band"
         },
         "metadata.authors": {
-            "lisibilite": "Non lisible",
-            "cause": "absent"
+            "lisibilite": "Lisible",
+            "correction": "Aug. Kekulé"
         },
         "metadata.publisher": {
-            "lisibilite": "Non lisible",
-            "cause": "absent"
+            "lisibilite": "Lisible",
+            "correction": "Ferdinand Enke"
         },
         "metadata.publication_place": {
-            "lisibilite": "Non lisible",
-            "cause": "absent"
+            "lisibilite": "Lisible",
+            "correction": "Erlangen"
         },
         "metadata.date": {
-            "lisibilite": "Non lisible",
-            "cause": "absent"
+            "lisibilite": "Lisible",
+            "correction": "1866"
         },
         "langue": {
             "lisibilite": "Lisible"

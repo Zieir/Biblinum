@@ -1,9 +1,9 @@
 {
     "metadata": {
-        "title": "DAS CHEMISCHE LABORATORIUM",
-        "title_complement": "DER UNIVERSITÄT CHRISTIANIA UND DIE DARIN AUSGEFÜHRTEN CHEMISCHEN UNTERSUCHUNGEN",
+        "title": "DAS CHEMISCHE LABORATORIUM DER UNIVERSITÄT CHRISTIANIA UND DIE DARIN AUSGEFÜHRTEN",
+        "title_complement": "AUS VERANLASSUNG DES ACADEMISCHEN COLLEGIUMS",
         "volume_number": "",
-        "authors": "Strecker, Adolph",
+        "authors": "Adolph Strecker",
         "publisher": "Brögger & Christie",
         "publication_place": "CHRISTIANIA",
         "date": "1854",
@@ -13,10 +13,12 @@
     "langue": "de (German)",
     "_annotations": {
         "metadata.title": {
-            "lisibilite": "Lisible"
+            "lisibilite": "Lisible",
+            "correction": "DAS CHEMISCHE LABORATORIUM DER UNIVERSITÄT CHRISTIANIA UND DIE DARIN AUSGEFÜHRTEN"
         },
         "metadata.title_complement": {
-            "lisibilite": "Lisible"
+            "lisibilite": "Lisible",
+            "correction": "AUS VERANLASSUNG DES ACADEMISCHEN COLLEGIUMS"
         },
         "metadata.volume_number": {
             "lisibilite": "Non lisible",
@@ -24,7 +26,7 @@
         },
         "metadata.authors": {
             "lisibilite": "Lisible",
-            "correction": "Strecker, Adolph"
+            "correction": "Adolph Strecker"
         },
         "metadata.publisher": {
             "lisibilite": "Lisible",

@@ -3,17 +3,18 @@
         "title": "GASOMETRISCHE METHODEN",
         "title_complement": "",
         "volume_number": "",
-        "authors": "",
-        "publisher": "",
-        "publication_place": "PARIS",
-        "date": "",
+        "authors": "ROBERT BUNSEN",
+        "publisher": "FRIEDRICH VIEWEG & SOHN",
+        "publication_place": "BRAUNSCHWEIG",
+        "date": "1877",
         "identifier": "http://gallica.bnf.fr/ark:/12148/bpt6k91721z",
         "iiif_manifest": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k91721z/manifest.json"
     },
     "langue": "de (German)",
     "_annotations": {
         "metadata.title": {
-            "lisibilite": "Lisible"
+            "lisibilite": "Non lisible",
+            "cause": "recouvert"
         },
         "metadata.title_complement": {
             "lisibilite": "Non lisible",
@@ -24,16 +25,17 @@
             "cause": "absent"
         },
         "metadata.authors": {
-            "lisibilite": "Non lisible",
-            "cause": "absent"
+            "lisibilite": "Lisible",
+            "correction": "ROBERT BUNSEN"
         },
         "metadata.publisher": {
-            "lisibilite": "Non lisible",
+            "lisibilite": "Lisible",
             "cause": "absent",
-            "correction": ""
+            "correction": "FRIEDRICH VIEWEG UND SOHN"
         },
         "metadata.publication_place": {
-            "lisibilite": "Lisible"
+            "lisibilite": "Lisible",
+            "correction": "BRAUNSCHWEIG"
         },
         "metadata.date": {
             "lisibilite": "Non lisible",

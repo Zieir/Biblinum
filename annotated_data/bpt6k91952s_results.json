@@ -1,9 +1,9 @@
 {
     "metadata": {
-        "title": "Roscoe-Schorlemmer's LEHRBUCH DER CHEMIE",
-        "title_complement": "DIE KOHLENWASSERSTOFFE UND IHRE DERIVATE ODER ORGANISCHE CHEMIE",
-        "volume_number": "SIEBENTER BAND, FÜNFTER THEIL",
-        "authors": "BRÜHL, JUL. WILH. ; HJELT, EDVARD ; ASCHAN, OSSIAN",
+        "title": "ROSCOE-SCHORLEMMER'S LEHRBUCH DER ORGANISCHEN CHEMIE",
+        "title_complement": "",
+        "volume_number": "FÜNFTER THEIL",
+        "authors": "JUL. WILH. BRÜHL, EDVARD HJELT, OSSIAN ASCHAN",
         "publisher": "FRIEDRICH VIEWEG UND SOHN",
         "publication_place": "BRAUNSCHWEIG",
         "date": "1899",
@@ -17,7 +17,9 @@
             "correction": "Roscoe-Schorlemmer's LEHRBUCH DER CHEMIE"
         },
         "metadata.title_complement": {
-            "lisibilite": "Lisible"
+            "lisibilite": "Non lisible",
+            "cause": "absent",
+            "correction": ""
         },
         "metadata.volume_number": {
             "lisibilite": "Lisible"

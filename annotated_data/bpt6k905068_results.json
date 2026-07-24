@@ -1,33 +1,36 @@
 {
     "metadata": {
-        "title": "Organischen Chemie",
-        "title_complement": "Chemie der Kohlenstoffverbindungen",
-        "volume_number": "",
-        "authors": "Kekulé, Aug.",
+        "title": "Lehrbuch der Organischen Chemie",
+        "title_complement": "oder der Chemie der Kohlenstoffverbindungen",
+        "volume_number": "Dritter Band",
+        "authors": "Aug. Kekulé, E. Anschutz, G.Sch",
         "publisher": "Ferdinand Enke",
         "publication_place": "Stuttgart",
         "date": "1880",
-        "identifier": "http://gallica.bnf.fr/ark:/12148/bpt6k905068",
+        "identifier": "http://gallica.bnf.fr/ark:/12148/bpt6k905068/f2.item",
         "iiif_manifest": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k905068/manifest.json"
     },
     "langue": "de (German)",
     "_annotations": {
         "metadata.title": {
             "lisibilite": "Non lisible",
-            "cause": "qualite"
+            "cause": "qualite",
+            "correction": "Lehrbuch der Organischen Chemie"
         },
         "metadata.title_complement": {
             "lisibilite": "Lisible"
         },
         "metadata.volume_number": {
             "lisibilite": "Non lisible",
-            "cause": "absent"
+            "cause": "qualite"
         },
         "metadata.authors": {
-            "lisibilite": "Lisible"
+            "lisibilite": "Non lisible",
+            "cause": "qualite"
         },
         "metadata.publisher": {
-            "lisibilite": "Lisible"
+            "lisibilite": "Non lisible",
+            "cause": "qualite"
         },
         "metadata.publication_place": {
             "lisibilite": "Lisible"

@@ -1,9 +1,9 @@
 {
     "metadata": {
-        "title": "DIE ALCHEMIE",
-        "title_complement": "IN ÄLTERER UND NEUERER ZEIT. EIN BEITRAG ZUR CULTURGESCHICHTE",
+        "title": "DIE ALCHEMIE IN ÄLTERER UND NEUERER ZEIT",
+        "title_complement": "EIN BEITRAG ZUR CULTURGESCHICHTE",
         "volume_number": "ERSTER THEIL",
-        "authors": "KOPP, HERMANN",
+        "authors": "HERMANN KOPP",
         "publisher": "CARL WINTER'S UNIVERSITÄTSBUCHHANDLUNG",
         "publication_place": "HEIDELBERG",
         "date": "1886",
@@ -13,7 +13,8 @@
     "langue": "de (German)",
     "_annotations": {
         "metadata.title": {
-            "lisibilite": "Lisible"
+            "lisibilite": "Lisible", 
+            "correction": "DIE ALCHEMIE IN ÄLTERER UND NEUERER ZEIT"
         },
         "metadata.title_complement": {
             "lisibilite": "Non lisible",

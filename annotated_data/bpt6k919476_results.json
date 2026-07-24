@@ -1,9 +1,9 @@
 {
     "metadata": {
-        "title": "DIE MINERAL - ANALYSE",
-        "title_complement": "IN BEISPIELEN",
+        "title": "DIE MINERAL-ANALYSE IN BEISPIELEN",
+        "title_complement": "",
         "volume_number": "",
-        "authors": "WÖHLER, F.",
+        "authors": "F. WÖHLER",
         "publisher": "VERLAG DER DIETERICHSCHEN BUCHHANDLUNG",
         "publication_place": "GÖTTINGEN",
         "date": "1861",
@@ -13,10 +13,12 @@
     "langue": "de (German)",
     "_annotations": {
         "metadata.title": {
-            "lisibilite": "Lisible"
+            "lisibilite": "Lisible",
+            "correction": "DIE MINERAL-ANALYSE IN BEISPIELEN"
         },
         "metadata.title_complement": {
-            "lisibilite": "Lisible"
+            "lisibilite": "Non lisible",
+            "cause": "absent"
         },
         "metadata.volume_number": {
             "lisibilite": "Non lisible",

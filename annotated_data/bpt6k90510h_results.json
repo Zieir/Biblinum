@@ -1,12 +1,12 @@
 {
     "metadata": {
-        "title": "DAS CHEMISCHE LABORATORIUM",
+        "title": "DAS CHEMISCHE LABORATORIUM DER UNIVERSITÄT LEIPZIG UND SEIT 1866 DARIN AUSGEFÜHRTEN CHEMISCHEN UNTERSUCHUNGEN",
         "title_complement": "",
         "volume_number": "",
-        "authors": "",
-        "publisher": "UNIVERSITÄT LEIPZIG",
-        "publication_place": "Leipzig",
-        "date": "",
+        "authors": "HERMANN KOLBE",
+        "publisher": "FRIEDRICH VIEWEG UND SOHN",
+        "publication_place": "BRAUNSCHWEIG",
+        "date": "1872",
         "identifier": "http://gallica.bnf.fr/ark:/12148/bpt6k90510h",
         "iiif_manifest": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k90510h/manifest.json"
     },
@@ -24,18 +24,20 @@
             "cause": "absent"
         },
         "metadata.authors": {
-            "lisibilite": "Non lisible",
-            "cause": "absent"
+            "lisibilite": "Lisible",
+            "correction": "HERMANN KOLBE"
         },
         "metadata.publisher": {
-            "lisibilite": "Lisible"
+            "lisibilite": "Lisible",
+            "correction": "FRIEDRICH VIEWEG UND SOHN"
         },
         "metadata.publication_place": {
-            "lisibilite": "Lisible"
+            "lisibilite": "Lisible",
+            "correction": "BRAUNSCHWEIG"
         },
         "metadata.date": {
-            "lisibilite": "Non lisible",
-            "cause": "absent"
+            "lisibilite": "Lisible",
+            "correction": "1872"
         },
         "langue": {
             "lisibilite": "Lisible"
