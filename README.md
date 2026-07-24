@@ -47,6 +47,8 @@ Qwen?
 - [ ] “À revoir” comments à check et retirer 
 - [ ] Manque des annotations “fraktur” ? e.g. bpt6k905037  / je pensais que l'on précisait les fontes latines vs fraktur ? / e.g. avec un champ `latin` true/false (false dès que une partie du texte n’est pas en format latin)
 - [ ] Vérifier pourquoi il y a autant de documents marqués comme illisibles en français, probablement une erreur systématique ? 
+- [ ] share script for downloading the data, in addition to the annotations.  
+- [ ] light check : FAIR principles (Findable, Accessible, Interoperable, Reusable), / guidelines of the Datasheets for Datasets model.
 
 
 ## Annotation Guidelines
