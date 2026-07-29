@@ -1,9 +1,9 @@
 {
     "metadata": {
-        "title": "OEUVRES COMPLÈTES",
-        "title_complement": "D'AUGUSTIN FRESNEL",
+        "title": "OEUVRES COMPLÈTES D'AUGUSTIN FRESNEL",
+        "title_complement": "",
         "volume_number": "TOME DEUXIÈME",
-        "authors": "Fresnel, Augustin",
+        "authors": "Augustin Fresnel",
         "publisher": "IMPRIMERIE IMPÉRIALE",
         "publication_place": "PARIS",
         "date": "1868",
@@ -11,18 +11,33 @@
         "iiif_manifest": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k91937w/manifest.json"
     },
     "langue": "fr (French)",
+    "ark": "bpt6k91937w",
+    "typographie_suggestion": {
+        "category": "Serif/Roman",
+        "subtype": "Didone (Modern)",
+        "explanation": "The typeface features the high contrast between thick and thin strokes, vertical stress, and small, unbracketed (hairline) serifs characteristic of the \"Modern\" style popularized by Didot and Bodoni in the late 18th and early 19th centuries.",
+        "raw": "Category: Serif/Roman\nSubtype: Didone (Modern)\nExplanation: The typeface features the high contrast between thick and thin strokes, vertical stress, and small, unbracketed (hairline) serifs characteristic of the \"Modern\" style popularized by Didot and Bodoni in the late 18th and early 19th centuries."
+    },
+    "typographie": {
+        "category": "Serif/Roman",
+        "subtype": "Didone (Modern)"
+    },
     "_annotations": {
         "metadata.title": {
-            "lisibilite": "Lisible"
+            "lisibilite": "Lisible",
+            "correction": "OEUVRES COMPLÈTES D'AUGUSTIN FRESNEL"
         },
         "metadata.title_complement": {
-            "lisibilite": "Lisible"
+            "lisibilite": "Non lisible",
+            "cause": "absent",
+            "correction": ""
         },
         "metadata.volume_number": {
             "lisibilite": "Lisible"
         },
         "metadata.authors": {
-            "lisibilite": "Lisible"
+            "lisibilite": "Lisible",
+            "correction": "Augustin Fresnel"
         },
         "metadata.publisher": {
             "lisibilite": "Lisible"
@@ -35,7 +50,15 @@
         },
         "langue": {
             "lisibilite": "Lisible"
+        },
+        "metadata.identifier": {
+            "lisibilite": "Lisible"
+        },
+        "metadata.iiif_manifest": {
+            "lisibilite": "Lisible"
+        },
+        "ark": {
+            "lisibilite": "Lisible"
         }
-    },
-    "ark": "bpt6k91937w"
+    }
 }

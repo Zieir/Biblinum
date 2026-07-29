@@ -1,9 +1,9 @@
 {
     "metadata": {
-        "title": "ŒUVRES COMPLÈTES",
-        "title_complement": "d'AUGUSTIN CAUCHY",
-        "volume_number": "TOME IV",
-        "authors": "CAUCHY, Augustin",
+        "title": "ŒUVRES COMPLÈTES d'AUGUSTIN CAUCHY",
+        "title_complement": "",
+        "volume_number": "SÉRIE I TOME IV",
+        "authors": "Augustin CAUCHY",
         "publisher": "GAUTHIER-VILLARS, IMPRIMEUR-LIBRAIRE",
         "publication_place": "PARIS",
         "date": "1884",
@@ -11,19 +11,34 @@
         "iiif_manifest": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k90184z/manifest.json"
     },
     "langue": "fr (French)",
+    "ark": "bpt6k90184z",
+    "typographie_suggestion": {
+        "category": "Serif/Roman",
+        "subtype": "Didone (Modern)",
+        "explanation": "The typeface features the high contrast between thick and thin strokes, vertical stress, and thin, horizontal serifs characteristic of the \"Modern\" or Didone style (popularized by Didot and Bodoni), which was standard for formal academic and scientific publications in 19th-century France.",
+        "raw": "Category: Serif/Roman\nSubtype: Didone (Modern)\nExplanation: The typeface features the high contrast between thick and thin strokes, vertical stress, and thin, horizontal serifs characteristic of the \"Modern\" or Didone style (popularized by Didot and Bodoni), which was standard for formal academic and scientific publications in 19th-century France."
+    },
+    "typographie": {
+        "category": "Serif/Roman",
+        "subtype": "Didone (Modern)"
+    },
     "_annotations": {
         "metadata.title": {
-            "lisibilite": "Lisible"
+            "lisibilite": "Lisible",
+            "correction": "ŒUVRES COMPLÈTES d'AUGUSTIN CAUCHY"
         },
         "metadata.title_complement": {
-            "lisibilite": "Lisible",
-            "correction": "d'AUGUSTIN CAUCHY"
+            "lisibilite": "Non lisible",
+            "cause": "absent",
+            "correction": ""
         },
         "metadata.volume_number": {
-            "lisibilite": "Lisible"
+            "lisibilite": "Lisible",
+            "correction": "SÉRIE I TOME IV"
         },
         "metadata.authors": {
-            "lisibilite": "Lisible"
+            "lisibilite": "Lisible",
+            "correction": "Augustin CAUCHY"
         },
         "metadata.publisher": {
             "lisibilite": "Lisible"
@@ -38,7 +53,15 @@
         "langue": {
             "lisibilite": "Lisible"
         },
-        "_note": "Date in roman numerals"
-    },
-    "ark": "bpt6k90184z"
+        "_note": "Date in roman numerals",
+        "metadata.identifier": {
+            "lisibilite": "Lisible"
+        },
+        "metadata.iiif_manifest": {
+            "lisibilite": "Lisible"
+        },
+        "ark": {
+            "lisibilite": "Lisible"
+        }
+    }
 }

@@ -11,6 +11,17 @@
         "iiif_manifest": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k91828n/manifest.json"
     },
     "langue": "de (German)",
+    "ark": "bpt6k91828n",
+    "typographie_suggestion": {
+        "category": "Serif/Roman",
+        "subtype": "Didone (Modern)",
+        "explanation": "The typeface features the extreme contrast between thick and thin strokes, vertical stress, and small, unbracketed hair-line serifs characteristic of the Modern/Didone style (similar to Bodoni or Didot).",
+        "raw": "Category: Serif/Roman\nSubtype: Didone (Modern)\nExplanation: The typeface features the extreme contrast between thick and thin strokes, vertical stress, and small, unbracketed hair-line serifs characteristic of the Modern/Didone style (similar to Bodoni or Didot)."
+    },
+    "typographie": {
+        "category": "Serif/Roman",
+        "subtype": "Didone (Modern)"
+    },
     "_annotations": {
         "metadata.title": {
             "lisibilite": "Lisible",
@@ -33,16 +44,22 @@
             "correction": "FRIEDRICH VIEWEG UND SOHN"
         },
         "metadata.publication_place": {
-            "lisibilite": "Lisible",
-            "cause": "BRAUNSCHWEIG"
+            "lisibilite": "Lisible"
         },
         "metadata.date": {
-            "lisibilite": "Lisible",
-            "cause": "1875"
+            "lisibilite": "Lisible"
         },
         "langue": {
             "lisibilite": "Lisible"
+        },
+        "metadata.identifier": {
+            "lisibilite": "Lisible"
+        },
+        "metadata.iiif_manifest": {
+            "lisibilite": "Lisible"
+        },
+        "ark": {
+            "lisibilite": "Lisible"
         }
-    },
-    "ark": "bpt6k91828n"
+    }
 }

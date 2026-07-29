@@ -3,7 +3,7 @@
         "title": "NICKEL ET COBALT",
         "title_complement": "",
         "volume_number": "TOME V",
-        "authors": "VILLON, M. A. M.",
+        "authors": "A. -M. VILLON",
         "publisher": "CR. DUNOD, ÉDITEUR",
         "publication_place": "PARIS",
         "date": "",
@@ -11,6 +11,17 @@
         "iiif_manifest": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k90143c/manifest.json"
     },
     "langue": "fr (French)",
+    "ark": "bpt6k90143c",
+    "typographie_suggestion": {
+        "category": "Serif/Roman",
+        "subtype": "Slab Serif (Egyptian)",
+        "explanation": "The main title \"NICKEL ET COBALT\" features heavy, block-like serifs with little to no bracketing, which is characteristic of Slab Serif typefaces common in 19th-century printing.",
+        "raw": "Category: Serif/Roman\nSubtype: Slab Serif (Egyptian)\nExplanation: The main title \"NICKEL ET COBALT\" features heavy, block-like serifs with little to no bracketing, which is characteristic of Slab Serif typefaces common in 19th-century printing."
+    },
+    "typographie": {
+        "category": "Serif/Roman",
+        "subtype": "Slab Serif (Egyptian)"
+    },
     "_annotations": {
         "metadata.title": {
             "lisibilite": "Lisible"
@@ -23,7 +34,8 @@
             "lisibilite": "Lisible"
         },
         "metadata.authors": {
-            "lisibilite": "Lisible"
+            "lisibilite": "Lisible",
+            "correction": "A. -M. VILLON"
         },
         "metadata.publisher": {
             "lisibilite": "Lisible"
@@ -37,7 +49,15 @@
         },
         "langue": {
             "lisibilite": "Lisible"
+        },
+        "metadata.identifier": {
+            "lisibilite": "Lisible"
+        },
+        "metadata.iiif_manifest": {
+            "lisibilite": "Lisible"
+        },
+        "ark": {
+            "lisibilite": "Lisible"
         }
-    },
-    "ark": "bpt6k90143c"
+    }
 }

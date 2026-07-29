@@ -2,15 +2,26 @@
     "metadata": {
         "title": "Kleyers Encyklopädie der gesamten mathematischen, technischen und exakten Natur-Wissenschaften",
         "title_complement": "Lehrbuch der anorganischen reinen und technischen Chemie (Experimental-Chemie)",
-        "volume_number": "",
-        "authors": "Wilh. Steffen",
-        "publisher": "",
-        "publication_place": "",
-        "date": "",
+        "volume_number": "II. Band",
+        "authors": "W. Steffen",
+        "publisher": "Julis Maier",
+        "publication_place": "Stuttgart",
+        "date": "1898",
         "identifier": "http://gallica.bnf.fr/ark:/12148/bpt6k900929",
         "iiif_manifest": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k900929/manifest.json"
     },
     "langue": "de (German)",
+    "ark": "bpt6k900929",
+    "typographie_suggestion": {
+        "category": "Serif/Roman",
+        "subtype": "Modern / Didone",
+        "explanation": "The typeface features a strong contrast between thick and thin strokes, vertical stress, and thin, horizontal serifs, which are characteristic of the \"Modern\" or Didone style popular in the late 19th century.",
+        "raw": "Category: Serif/Roman\nSubtype: Modern / Didone\nExplanation: The typeface features a strong contrast between thick and thin strokes, vertical stress, and thin, horizontal serifs, which are characteristic of the \"Modern\" or Didone style popular in the late 19th century."
+    },
+    "typographie": {
+        "category": "Serif/Roman",
+        "subtype": "Modern / Didone"
+    },
     "_annotations": {
         "metadata.title": {
             "lisibilite": "Lisible"
@@ -19,28 +30,36 @@
             "lisibilite": "Lisible"
         },
         "metadata.volume_number": {
-            "lisibilite": "Non lisible",
-            "cause": "absent"
+            "lisibilite": "Lisible",
+            "correction": "II. Band"
         },
         "metadata.authors": {
             "lisibilite": "Lisible",
-            "correction": "Wilh. Steffen"
+            "correction": "W. Steffen"
         },
         "metadata.publisher": {
-            "lisibilite": "Non lisible",
-            "cause": "absent"
+            "lisibilite": "Lisible",
+            "correction": "Julis Maier"
         },
         "metadata.publication_place": {
-            "lisibilite": "Non lisible",
-            "cause": "absent"
+            "lisibilite": "Lisible",
+            "correction": "Stuttgart"
         },
         "metadata.date": {
-            "lisibilite": "Non lisible",
-            "cause": "absent"
+            "lisibilite": "Lisible",
+            "correction": "1898"
         },
         "langue": {
             "lisibilite": "Lisible"
+        },
+        "metadata.identifier": {
+            "lisibilite": "Lisible"
+        },
+        "metadata.iiif_manifest": {
+            "lisibilite": "Lisible"
+        },
+        "ark": {
+            "lisibilite": "Lisible"
         }
-    },
-    "ark": "bpt6k900929"
+    }
 }

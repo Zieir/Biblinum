@@ -11,6 +11,17 @@
         "iiif_manifest": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k91826z/manifest.json"
     },
     "langue": "es (Spanish)",
+    "ark": "bpt6k91826z",
+    "typographie_suggestion": {
+        "category": "Sans-serif",
+        "subtype": "Geometric / Grotesque",
+        "explanation": "The typeface used for the main title (\"MARCELIN BERTHELOT\") features clean, uniform line weights without serifs, characterized by circular forms and a structured, industrial appearance typical of early 20th-century geometric sans-serifs.",
+        "raw": "Category: Sans-serif\nSubtype: Geometric / Grotesque\nExplanation: The typeface used for the main title (\"MARCELIN BERTHELOT\") features clean, uniform line weights without serifs, characterized by circular forms and a structured, industrial appearance typical of early 20th-century geometric sans-serifs."
+    },
+    "typographie": {
+        "category": "Sans-serif",
+        "subtype": "Geometric / Grotesque"
+    },
     "_annotations": {
         "metadata.title": {
             "lisibilite": "Lisible"
@@ -37,7 +48,15 @@
         },
         "langue": {
             "lisibilite": "Lisible"
+        },
+        "metadata.identifier": {
+            "lisibilite": "Lisible"
+        },
+        "metadata.iiif_manifest": {
+            "lisibilite": "Lisible"
+        },
+        "ark": {
+            "lisibilite": "Lisible"
         }
-    },
-    "ark": "bpt6k91826z"
+    }
 }

@@ -11,6 +11,17 @@
         "iiif_manifest": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k90805r/manifest.json"
     },
     "langue": "fr (French)",
+    "ark": "bpt6k90805r",
+    "typographie_suggestion": {
+        "category": "Serif/Roman",
+        "subtype": "Slab Serif (Egyptian)",
+        "explanation": "The primary title \"PHYSIQUE ET DE CHIMIE\" features heavy, block-like serifs with little to no bracketing, which is characteristic of the Slab Serif style popular in 19th-century academic and industrial printing.",
+        "raw": "Category: Serif/Roman\nSubtype: Slab Serif (Egyptian)\nExplanation: The primary title \"PHYSIQUE ET DE CHIMIE\" features heavy, block-like serifs with little to no bracketing, which is characteristic of the Slab Serif style popular in 19th-century academic and industrial printing."
+    },
+    "typographie": {
+        "category": "Serif/Roman",
+        "subtype": "Slab Serif (Egyptian)"
+    },
     "_annotations": {
         "metadata.title": {
             "lisibilite": "Lisible"
@@ -40,7 +51,15 @@
         },
         "langue": {
             "lisibilite": "Lisible"
+        },
+        "metadata.identifier": {
+            "lisibilite": "Lisible"
+        },
+        "metadata.iiif_manifest": {
+            "lisibilite": "Lisible"
+        },
+        "ark": {
+            "lisibilite": "Lisible"
         }
-    },
-    "ark": "bpt6k90805r"
+    }
 }

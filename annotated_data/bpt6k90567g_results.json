@@ -1,7 +1,7 @@
 {
     "metadata": {
         "title": "JUBILÉ LOUIS LUMIÈRE",
-        "title_complement": "",
+        "title_complement": "6 novembre 1935",
         "volume_number": "",
         "authors": "",
         "publisher": "RENAISSANCE FRANÇAISE",
@@ -11,13 +11,24 @@
         "iiif_manifest": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k90567g/manifest.json"
     },
     "langue": "fr (French)",
+    "ark": "bpt6k90567g",
+    "typographie_suggestion": {
+        "category": "Sans-serif",
+        "subtype": "Geometric / Grotesque",
+        "explanation": "The typeface features clean, unadorned ends (no serifs) with a consistent stroke weight and circular proportions, characteristic of early 20th-century geometric sans-serifs.",
+        "raw": "Category: Sans-serif\nSubtype: Geometric / Grotesque\nExplanation: The typeface features clean, unadorned ends (no serifs) with a consistent stroke weight and circular proportions, characteristic of early 20th-century geometric sans-serifs."
+    },
+    "typographie": {
+        "category": "Sans-serif",
+        "subtype": "Geometric / Grotesque"
+    },
     "_annotations": {
         "metadata.title": {
             "lisibilite": "Lisible"
         },
         "metadata.title_complement": {
-            "lisibilite": "Non lisible",
-            "cause": "absent"
+            "lisibilite": "Lisible",
+            "correction": "6 novembre 1935"
         },
         "metadata.volume_number": {
             "lisibilite": "Non lisible",
@@ -38,7 +49,15 @@
         },
         "langue": {
             "lisibilite": "Lisible"
+        },
+        "metadata.identifier": {
+            "lisibilite": "Lisible"
+        },
+        "metadata.iiif_manifest": {
+            "lisibilite": "Lisible"
+        },
+        "ark": {
+            "lisibilite": "Lisible"
         }
-    },
-    "ark": "bpt6k90567g"
+    }
 }

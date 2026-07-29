@@ -3,14 +3,25 @@
         "title": "MANUEL PRATIQUE DE CRISTALLOGRAPHIE",
         "title_complement": "",
         "volume_number": "",
-        "authors": "",
-        "publisher": "",
-        "publication_place": "",
-        "date": "",
+        "authors": "G. Wyrouboff",
+        "publisher": "Gauthier-Villars et fils ",
+        "publication_place": "PARIS",
+        "date": "1889",
         "identifier": "http://gallica.bnf.fr/ark:/12148/bpt6k91951f",
         "iiif_manifest": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k91951f/manifest.json"
     },
     "langue": "fr (French)",
+    "ark": "bpt6k91951f",
+    "typographie_suggestion": {
+        "category": "Serif/Roman",
+        "subtype": "Modern (Didone)",
+        "explanation": "The typeface features a high contrast between thick and thin strokes, vertical stress, and small, horizontal serifs, which are characteristic of the Modern/Didone style prevalent in late 19th-century academic printing.",
+        "raw": "Category: Serif/Roman\nSubtype: Modern (Didone)\nExplanation: The typeface features a high contrast between thick and thin strokes, vertical stress, and small, horizontal serifs, which are characteristic of the Modern/Didone style prevalent in late 19th-century academic printing."
+    },
+    "typographie": {
+        "category": "Serif/Roman",
+        "subtype": "Modern (Didone)"
+    },
     "_annotations": {
         "metadata.title": {
             "lisibilite": "Lisible"
@@ -24,24 +35,32 @@
             "cause": "absent"
         },
         "metadata.authors": {
-            "lisibilite": "Non lisible",
-            "cause": "absent"
+            "lisibilite": "Lisible",
+            "correction": "G. Wyrouboff"
         },
         "metadata.publisher": {
-            "lisibilite": "Non lisible",
-            "cause": "absent"
+            "lisibilite": "Lisible",
+            "correction": "Gauthier-Villars et fils "
         },
         "metadata.publication_place": {
-            "lisibilite": "Non lisible",
-            "cause": "absent"
+            "lisibilite": "Lisible",
+            "correction": "PARIS"
         },
         "metadata.date": {
-            "lisibilite": "Non lisible",
-            "cause": "absent"
+            "lisibilite": "Lisible",
+            "correction": "1889"
         },
         "langue": {
             "lisibilite": "Lisible"
+        },
+        "metadata.identifier": {
+            "lisibilite": "Lisible"
+        },
+        "metadata.iiif_manifest": {
+            "lisibilite": "Lisible"
+        },
+        "ark": {
+            "lisibilite": "Lisible"
         }
-    },
-    "ark": "bpt6k91951f"
+    }
 }

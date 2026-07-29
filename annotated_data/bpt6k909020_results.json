@@ -3,7 +3,7 @@
         "title": "MÉMOIRE SUR L'EMPLOI DE L'IODURE DE POTASSIUM",
         "title_complement": "POUR COMBATRE LES AFFECTIONS SATURNINES, MERCURIELLES et LES ACCIDENTS CONSÉCUTIFS DE LA SYPHILIS",
         "volume_number": "",
-        "authors": "MELSENS, M.",
+        "authors": "MELSENS",
         "publisher": "G. MAYOLEZ ; ADRIEN DELAHAYE",
         "publication_place": "BRUXELLES ; PARIS",
         "date": "1865",
@@ -11,6 +11,17 @@
         "iiif_manifest": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k909020/manifest.json"
     },
     "langue": "fr (French)",
+    "ark": "bpt6k909020",
+    "typographie_suggestion": {
+        "category": "Script",
+        "subtype": "Cursive",
+        "explanation": "The annotations are written in a fluid, connected handwriting style typical of 19th-century European penmanship.",
+        "raw": "Based on the image provided, there are two distinct styles of writing: the printed text and the handwritten annotations.\n\n**For the printed text (Main Body):**\nCategory: Serif/Roman\nSubtype: Didone (Modern)\nExplanation: The printed typeface features the high contrast between thick and thin strokes and vertical stress characteristic of the 19th-century \"Modern\" or Didone style (similar to Bodoni or Didot), which was standard for academic and official publications of that era.\n\n**For the handwritten annotations (Top and Center):**\nCategory: Script\nSubtype: Cursive\nExplanation: The annotations are written in a fluid, connected handwriting style typical of 19th-century European penmanship."
+    },
+    "typographie": {
+        "category": "Script",
+        "subtype": "Cursive"
+    },
     "_annotations": {
         "metadata.title": {
             "lisibilite": "Lisible"
@@ -23,7 +34,8 @@
             "cause": "absent"
         },
         "metadata.authors": {
-            "lisibilite": "Lisible"
+            "lisibilite": "Lisible",
+            "correction": "MELSENS"
         },
         "metadata.publisher": {
             "lisibilite": "Non lisible",
@@ -38,7 +50,15 @@
         },
         "langue": {
             "lisibilite": "Lisible"
+        },
+        "metadata.identifier": {
+            "lisibilite": "Lisible"
+        },
+        "metadata.iiif_manifest": {
+            "lisibilite": "Lisible"
+        },
+        "ark": {
+            "lisibilite": "Lisible"
         }
-    },
-    "ark": "bpt6k909020"
+    }
 }

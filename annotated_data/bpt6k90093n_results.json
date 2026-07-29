@@ -3,14 +3,25 @@
         "title": "COURS D'ANALYSE de l'Ecole Polythchnique",
         "title_complement": "",
         "volume_number": "",
-        "authors": "",
-        "publisher": "",
-        "publication_place": "",
-        "date": "",
+        "authors": "STURM",
+        "publisher": "Mallet-Bachelier",
+        "publication_place": "PARIS",
+        "date": "1863",
         "identifier": "http://gallica.bnf.fr/ark:/12148/bpt6k90093n",
         "iiif_manifest": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k90093n/manifest.json"
     },
     "langue": "fr (French)",
+    "ark": "bpt6k90093n",
+    "typographie_suggestion": {
+        "category": "Serif/Roman",
+        "subtype": "Modern (Didone)",
+        "explanation": "The typeface features the high contrast between thick and thin strokes, vertical stress, and small, unbracketed serifs characteristic of the \"Modern\" or Didone style (similar to Bodoni or Didot), which was prevalent in 19th-century French academic printing.",
+        "raw": "Category: Serif/Roman\nSubtype: Modern (Didone)\nExplanation: The typeface features the high contrast between thick and thin strokes, vertical stress, and small, unbracketed serifs characteristic of the \"Modern\" or Didone style (similar to Bodoni or Didot), which was prevalent in 19th-century French academic printing."
+    },
+    "typographie": {
+        "category": "Serif/Roman",
+        "subtype": "Modern (Didone)"
+    },
     "_annotations": {
         "metadata.title": {
             "lisibilite": "Lisible",
@@ -25,25 +36,32 @@
             "cause": "absent"
         },
         "metadata.authors": {
-            "lisibilite": "Non lisible",
-            "cause": "absent"
+            "lisibilite": "Lisible",
+            "correction": "STURM"
         },
         "metadata.publisher": {
-            "lisibilite": "Non lisible",
-            "cause": "absent",
-            "correction": ""
+            "lisibilite": "Lisible",
+            "correction": "Mallet-Bachelier"
         },
         "metadata.publication_place": {
-            "lisibilite": "Non lisible",
-            "cause": "absent"
+            "lisibilite": "Lisible",
+            "correction": "PARIS"
         },
         "metadata.date": {
-            "lisibilite": "Non lisible",
-            "cause": "absent"
+            "lisibilite": "Lisible",
+            "correction": "1863"
         },
         "langue": {
             "lisibilite": "Lisible"
+        },
+        "metadata.identifier": {
+            "lisibilite": "Lisible"
+        },
+        "metadata.iiif_manifest": {
+            "lisibilite": "Lisible"
+        },
+        "ark": {
+            "lisibilite": "Lisible"
         }
-    },
-    "ark": "bpt6k90093n"
+    }
 }

@@ -3,14 +3,25 @@
         "title": "LEÇONS DE GÉOMÉTRIE ANALYTIQUE",
         "title_complement": "",
         "volume_number": "",
-        "authors": "",
-        "publisher": "",
-        "publication_place": "",
-        "date": "",
+        "authors": "BRIOT; BOUQUET",
+        "publisher": "F. TANDOU ET Cie",
+        "publication_place": "PARIS",
+        "date": "1865",
         "identifier": "http://gallica.bnf.fr/ark:/12148/bpt6k90343x",
         "iiif_manifest": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k90343x/manifest.json"
     },
     "langue": "fr (French)",
+    "ark": "bpt6k90343x",
+    "typographie_suggestion": {
+        "category": "Serif/Roman",
+        "subtype": "Didone (Modern)",
+        "explanation": "The typeface features the high contrast between thick and thin strokes, vertical stress, and flat, unbracketed serifs characteristic of the \"Modern\" or Didone style (popularized by Didot and Bodoni), which was standard for formal French academic publications in the 19th century.",
+        "raw": "Category: Serif/Roman\nSubtype: Didone (Modern)\nExplanation: The typeface features the high contrast between thick and thin strokes, vertical stress, and flat, unbracketed serifs characteristic of the \"Modern\" or Didone style (popularized by Didot and Bodoni), which was standard for formal French academic publications in the 19th century."
+    },
+    "typographie": {
+        "category": "Serif/Roman",
+        "subtype": "Didone (Modern)"
+    },
     "_annotations": {
         "metadata.title": {
             "lisibilite": "Lisible",
@@ -26,24 +37,32 @@
             "cause": "absent"
         },
         "metadata.authors": {
-            "lisibilite": "Non lisible",
-            "cause": "absent"
+            "lisibilite": "Lisible",
+            "correction": "BRIOT; BOUQUET"
         },
         "metadata.publisher": {
-            "lisibilite": "Non lisible",
-            "cause": "absent"
+            "lisibilite": "Lisible",
+            "correction": "F. TANDOU ET Cie"
         },
         "metadata.publication_place": {
-            "lisibilite": "Non lisible",
-            "cause": "absent"
+            "lisibilite": "Lisible",
+            "correction": "PARIS"
         },
         "metadata.date": {
-            "lisibilite": "Non lisible",
-            "cause": "absent"
+            "lisibilite": "Lisible",
+            "correction": "1865"
         },
         "langue": {
             "lisibilite": "Lisible"
+        },
+        "metadata.identifier": {
+            "lisibilite": "Lisible"
+        },
+        "metadata.iiif_manifest": {
+            "lisibilite": "Lisible"
+        },
+        "ark": {
+            "lisibilite": "Lisible"
         }
-    },
-    "ark": "bpt6k90343x"
+    }
 }

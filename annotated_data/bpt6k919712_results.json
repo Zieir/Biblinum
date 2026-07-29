@@ -1,48 +1,67 @@
 {
     "metadata": {
-        "title": "MANUEL PRATIQUE",
-        "title_complement": "DE L'ART DE L'ESSAYEUR",
+        "title": "MANUEL PRATIQUE DE L'ART DE L'ESSAYEUR",
+        "title_complement": "guide pour l'essai des minerais, des produits métallurgiques et des combustibles ",
         "volume_number": "",
-        "authors": "",
-        "publisher": "",
-        "publication_place": "",
-        "date": "",
+        "authors": "Balling",
+        "publisher": "F. SAVY",
+        "publication_place": "PARIS",
+        "date": "1881",
         "identifier": "http://gallica.bnf.fr/ark:/12148/bpt6k919712",
         "iiif_manifest": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k919712/manifest.json"
     },
     "langue": "fr (French)",
+    "ark": "bpt6k919712",
+    "typographie_suggestion": {
+        "category": "Serif/Roman",
+        "subtype": "Didone (Modern)",
+        "explanation": "The typeface features the high contrast between thick and thin strokes, vertical stress, and small, horizontal serifs characteristic of the \"Modern\" or Didone style (similar to Bodoni or Didot), which was prevalent in 19th-century French printing.",
+        "raw": "Category: Serif/Roman\nSubtype: Didone (Modern)\nExplanation: The typeface features the high contrast between thick and thin strokes, vertical stress, and small, horizontal serifs characteristic of the \"Modern\" or Didone style (similar to Bodoni or Didot), which was prevalent in 19th-century French printing."
+    },
+    "typographie": {
+        "category": "Serif/Roman",
+        "subtype": "Didone (Modern)"
+    },
     "_annotations": {
         "metadata.title": {
-            "lisibilite": "Lisible"
+            "lisibilite": "Lisible",
+            "correction": "MANUEL PRATIQUE DE L'ART DE L'ESSAYEUR"
         },
         "metadata.title_complement": {
-            "lisibilite": "Lisible"
+            "lisibilite": "Lisible",
+            "correction": "guide pour l'essai des minerais, des produits métallurgiques et des combustibles "
         },
         "metadata.volume_number": {
             "lisibilite": "Non lisible",
             "cause": "absent"
         },
         "metadata.authors": {
-            "lisibilite": "Non lisible",
-            "cause": "absent"
+            "lisibilite": "Lisible",
+            "correction": "Balling"
         },
         "metadata.publisher": {
-            "lisibilite": "Non lisible",
-            "cause": "absent",
-            "correction": ""
+            "lisibilite": "Lisible",
+            "correction": "F. SAVY"
         },
         "metadata.publication_place": {
-            "lisibilite": "Non lisible",
-            "cause": "absent",
-            "correction": ""
+            "lisibilite": "Lisible",
+            "correction": "PARIS"
         },
         "metadata.date": {
-            "lisibilite": "Non lisible",
-            "cause": "absent"
+            "lisibilite": "Lisible",
+            "correction": "1881"
         },
         "langue": {
             "lisibilite": "Lisible"
+        },
+        "metadata.identifier": {
+            "lisibilite": "Lisible"
+        },
+        "metadata.iiif_manifest": {
+            "lisibilite": "Lisible"
+        },
+        "ark": {
+            "lisibilite": "Lisible"
         }
-    },
-    "ark": "bpt6k919712"
+    }
 }

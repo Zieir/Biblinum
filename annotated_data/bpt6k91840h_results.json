@@ -1,9 +1,9 @@
 {
     "metadata": {
-        "title": "TRAITÉ DE CHIMIE TECHNOLOGIQUE",
-        "title_complement": "ET INDUSTRIELLE",
+        "title": "TRAITÉ DE CHIMIE TECHNOLOGIQUE ET INDUSTRIELLE",
+        "title_complement": "",
         "volume_number": "TOME DEUXIÈME",
-        "authors": "KNAPP, Fr.",
+        "authors": "Fr. KNAPP",
         "publisher": "DUNOD, ÉDITEUR",
         "publication_place": "PARIS",
         "date": "",
@@ -11,18 +11,33 @@
         "iiif_manifest": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k91840h/manifest.json"
     },
     "langue": "fr (French)",
+    "ark": "bpt6k91840h",
+    "typographie_suggestion": {
+        "category": "Serif/Roman",
+        "subtype": "Didone (Modern)",
+        "explanation": "The main title \"CHIMIE TECHNOLOGIQUE\" exhibits the classic characteristics of the Didone style: a high contrast between thick and thin strokes, vertical stress, and small, unbracketed (hairline) serifs.",
+        "raw": "Category: Serif/Roman\nSubtype: Didone (Modern)\nExplanation: The main title \"CHIMIE TECHNOLOGIQUE\" exhibits the classic characteristics of the Didone style: a high contrast between thick and thin strokes, vertical stress, and small, unbracketed (hairline) serifs."
+    },
+    "typographie": {
+        "category": "Serif/Roman",
+        "subtype": "Didone (Modern)"
+    },
     "_annotations": {
         "metadata.title": {
-            "lisibilite": "Lisible"
+            "lisibilite": "Lisible",
+            "correction": "TRAITÉ DE CHIMIE TECHNOLOGIQUE ET INDUSTRIELLE"
         },
         "metadata.title_complement": {
-            "lisibilite": "Lisible"
+            "lisibilite": "Non lisible",
+            "cause": "absent",
+            "correction": ""
         },
         "metadata.volume_number": {
             "lisibilite": "Lisible"
         },
         "metadata.authors": {
-            "lisibilite": "Lisible"
+            "lisibilite": "Lisible",
+            "correction": "Fr. KNAPP"
         },
         "metadata.publisher": {
             "lisibilite": "Lisible"
@@ -36,7 +51,15 @@
         },
         "langue": {
             "lisibilite": "Lisible"
+        },
+        "metadata.identifier": {
+            "lisibilite": "Lisible"
+        },
+        "metadata.iiif_manifest": {
+            "lisibilite": "Lisible"
+        },
+        "ark": {
+            "lisibilite": "Lisible"
         }
-    },
-    "ark": "bpt6k91840h"
+    }
 }

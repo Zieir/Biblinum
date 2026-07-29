@@ -1,9 +1,9 @@
 {
     "metadata": {
-        "title": "LES MÉTAUX",
-        "title_complement": "SONT DES CORPS COMPOSÉS",
+        "title": "LES MÉTAUX SONT DES CORPS COMPOSÉS",
+        "title_complement": "mémoires présentés à l'Académie des sciences",
         "volume_number": "",
-        "authors": "Tiffereau, C.-Théodore ; FRANCK",
+        "authors": "C.-Théodore Tiffereau; FRANCK",
         "publisher": "Alfred Choisnet",
         "publication_place": "VAUGIRARD",
         "date": "1857",
@@ -11,20 +11,33 @@
         "iiif_manifest": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k902816/manifest.json"
     },
     "langue": "fr (French)",
+    "ark": "bpt6k902816",
+    "typographie_suggestion": {
+        "category": "Serif/Roman",
+        "subtype": "Didone (Modern)",
+        "explanation": "The typeface features the high contrast between thick and thin strokes, vertical stress, and small, horizontal serifs characteristic of the \"Modern\" or Didone style (similar to Bodoni or Didot), which was prevalent in 19th-century academic and formal printing.",
+        "raw": "Category: Serif/Roman\nSubtype: Didone (Modern)\nExplanation: The typeface features the high contrast between thick and thin strokes, vertical stress, and small, horizontal serifs characteristic of the \"Modern\" or Didone style (similar to Bodoni or Didot), which was prevalent in 19th-century academic and formal printing."
+    },
+    "typographie": {
+        "category": "Serif/Roman",
+        "subtype": "Didone (Modern)"
+    },
     "_annotations": {
         "metadata.title": {
-            "lisibilite": "Lisible"
+            "lisibilite": "Lisible",
+            "correction": "LES MÉTAUX SONT DES CORPS COMPOSÉS"
         },
         "metadata.title_complement": {
             "lisibilite": "Lisible",
-            "correction": "SONT DES CORPS COMPOSÉS"
+            "correction": "mémoires présentés à l'Académie des sciences"
         },
         "metadata.volume_number": {
-            "lisibilite": "Lisible"
+            "lisibilite": "Non lisible",
+            "cause": "absent"
         },
         "metadata.authors": {
             "lisibilite": "Lisible",
-            "correction": "Tiffereau, C.-Théodore ; FRANCK"
+            "correction": "C.-Théodore Tiffereau; FRANCK"
         },
         "metadata.publisher": {
             "lisibilite": "Lisible",
@@ -40,7 +53,15 @@
         },
         "langue": {
             "lisibilite": "Lisible"
+        },
+        "metadata.identifier": {
+            "lisibilite": "Lisible"
+        },
+        "metadata.iiif_manifest": {
+            "lisibilite": "Lisible"
+        },
+        "ark": {
+            "lisibilite": "Lisible"
         }
-    },
-    "ark": "bpt6k902816"
+    }
 }

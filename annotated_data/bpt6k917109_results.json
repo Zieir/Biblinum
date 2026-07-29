@@ -1,46 +1,67 @@
 {
     "metadata": {
-        "title": "MANUEL",
-        "title_complement": "D'UN COURS DE CHIMIE",
-        "volume_number": "",
-        "authors": "",
-        "publisher": "",
-        "publication_place": "",
-        "date": "",
+        "title": "MANUEL D'UN COURS DE CHIMIE",
+        "title_complement": "ou Principes élémentaires, théoriques et pratiques de cette science",
+        "volume_number": "TOME SECOND",
+        "authors": "E.-J.-B. BOUILLON LAGRANGE",
+        "publisher": "BERNARD",
+        "publication_place": "PARIS",
+        "date": "1802",
         "identifier": "http://gallica.bnf.fr/ark:/12148/bpt6k917109",
         "iiif_manifest": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k917109/manifest.json"
     },
     "langue": "fr (French)",
+    "ark": "bpt6k917109",
+    "typographie_suggestion": {
+        "category": "Serif/Roman",
+        "subtype": "Didone (Modern)",
+        "explanation": "The typeface features the high contrast between thick and thin strokes, vertical stress, and flat, unbracketed serifs characteristic of the \"Modern\" or Didone style (popularized by Didot and Bodoni), which was the standard for formal French printing in the late 18th and early 19th centuries.",
+        "raw": "Category: Serif/Roman\nSubtype: Didone (Modern)\nExplanation: The typeface features the high contrast between thick and thin strokes, vertical stress, and flat, unbracketed serifs characteristic of the \"Modern\" or Didone style (popularized by Didot and Bodoni), which was the standard for formal French printing in the late 18th and early 19th centuries."
+    },
+    "typographie": {
+        "category": "Serif/Roman",
+        "subtype": "Didone (Modern)"
+    },
     "_annotations": {
         "metadata.title": {
-            "lisibilite": "Lisible"
+            "lisibilite": "Lisible",
+            "correction": "MANUEL D'UN COURS DE CHIMIE"
         },
         "metadata.title_complement": {
-            "lisibilite": "Lisible"
+            "lisibilite": "Lisible",
+            "correction": "ou Principes élémentaires, théoriques et pratiques de cette science"
         },
         "metadata.volume_number": {
-            "lisibilite": "Non lisible",
-            "cause": "absent"
+            "lisibilite": "Lisible",
+            "correction": "TOME SECOND"
         },
         "metadata.authors": {
-            "lisibilite": "Non lisible",
-            "cause": "absent"
+            "lisibilite": "Lisible",
+            "correction": "E.-J.-B. BOUILLON LAGRANGE"
         },
         "metadata.publisher": {
-            "lisibilite": "Non lisible",
-            "cause": "absent"
+            "lisibilite": "Lisible",
+            "correction": "BERNARD"
         },
         "metadata.publication_place": {
-            "lisibilite": "Non lisible",
-            "cause": "absent"
+            "lisibilite": "Lisible",
+            "correction": "PARIS"
         },
         "metadata.date": {
-            "lisibilite": "Non lisible",
-            "cause": "absent"
+            "lisibilite": "Lisible",
+            "correction": "1802"
         },
         "langue": {
             "lisibilite": "Lisible"
+        },
+        "metadata.identifier": {
+            "lisibilite": "Lisible"
+        },
+        "metadata.iiif_manifest": {
+            "lisibilite": "Lisible"
+        },
+        "ark": {
+            "lisibilite": "Lisible"
         }
-    },
-    "ark": "bpt6k917109"
+    }
 }

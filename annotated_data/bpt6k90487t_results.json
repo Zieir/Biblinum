@@ -1,7 +1,7 @@
 {
     "metadata": {
-        "title": "FETES DU CENTENAIRE",
-        "title_complement": "de MARCELIN BERTHELOT",
+        "title": "FETES DU CENTENAIRE de MARCELIN BERTHELOT",
+        "title_complement": "",
         "volume_number": "",
         "authors": "",
         "publisher": "TYPOGRAPHIE DE FIRMIN-DIDOT ET CIE",
@@ -11,12 +11,26 @@
         "iiif_manifest": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k90487t/manifest.json"
     },
     "langue": "fr (French)",
+    "ark": "bpt6k90487t",
+    "typographie_suggestion": {
+        "category": "Serif/Roman",
+        "subtype": "Didone (Modern)",
+        "explanation": "The typeface features the extreme contrast between thick and thin strokes, vertical stress, and thin, horizontal serifs characteristic of the Didot and Bodoni styles, which were the standard for high-end French typography during this era.",
+        "raw": "Category: Serif/Roman\nSubtype: Didone (Modern)\nExplanation: The typeface features the extreme contrast between thick and thin strokes, vertical stress, and thin, horizontal serifs characteristic of the Didot and Bodoni styles, which were the standard for high-end French typography during this era."
+    },
+    "typographie": {
+        "category": "Serif/Roman",
+        "subtype": "Didone (Modern)"
+    },
     "_annotations": {
         "metadata.title": {
-            "lisibilite": "Lisible"
+            "lisibilite": "Lisible",
+            "correction": "FETES DU CENTENAIRE de MARCELIN BERTHELOT"
         },
         "metadata.title_complement": {
-            "lisibilite": "Lisible"
+            "lisibilite": "Non lisible",
+            "cause": "absent",
+            "correction": ""
         },
         "metadata.volume_number": {
             "lisibilite": "Non lisible",
@@ -37,7 +51,15 @@
         },
         "langue": {
             "lisibilite": "Lisible"
+        },
+        "metadata.identifier": {
+            "lisibilite": "Lisible"
+        },
+        "metadata.iiif_manifest": {
+            "lisibilite": "Lisible"
+        },
+        "ark": {
+            "lisibilite": "Lisible"
         }
-    },
-    "ark": "bpt6k90487t"
+    }
 }

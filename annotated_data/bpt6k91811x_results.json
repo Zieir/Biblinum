@@ -3,7 +3,7 @@
         "title": "MEMENTO DU CHIMISTE",
         "title_complement": "ANCIEN AGENDA DU CHIMISTE",
         "volume_number": "",
-        "authors": "HALLER, A. ; GIRARD, CH.",
+        "authors": "A. HALLER; CH. GIRARD",
         "publisher": "H. DUNOD et E. PINAT",
         "publication_place": "",
         "date": "",
@@ -11,6 +11,17 @@
         "iiif_manifest": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k91811x/manifest.json"
     },
     "langue": "fr (French)",
+    "ark": "bpt6k91811x",
+    "typographie_suggestion": {
+        "category": "Serif/Roman",
+        "subtype": "Didone (Modern)",
+        "explanation": "The typeface features the high contrast between thick and thin strokes and the flat, unbracketed serifs characteristic of the Modern/Didone style common in 19th-century academic and scientific publishing.",
+        "raw": "Category: Serif/Roman\nSubtype: Didone (Modern)\nExplanation: The typeface features the high contrast between thick and thin strokes and the flat, unbracketed serifs characteristic of the Modern/Didone style common in 19th-century academic and scientific publishing."
+    },
+    "typographie": {
+        "category": "Serif/Roman",
+        "subtype": "Didone (Modern)"
+    },
     "_annotations": {
         "metadata.title": {
             "lisibilite": "Lisible"
@@ -27,7 +38,7 @@
         "metadata.authors": {
             "lisibilite": "Non lisible",
             "cause": "qualite",
-            "correction": "HALLER, A. ; GIRARD, CH."
+            "correction": "A. HALLER; CH. GIRARD"
         },
         "metadata.publisher": {
             "lisibilite": "Non lisible",
@@ -44,7 +55,15 @@
         },
         "langue": {
             "lisibilite": "Lisible"
+        },
+        "metadata.identifier": {
+            "lisibilite": "Lisible"
+        },
+        "metadata.iiif_manifest": {
+            "lisibilite": "Lisible"
+        },
+        "ark": {
+            "lisibilite": "Lisible"
         }
-    },
-    "ark": "bpt6k91811x"
+    }
 }

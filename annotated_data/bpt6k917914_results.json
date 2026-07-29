@@ -3,7 +3,7 @@
         "title": "SUR LA STRUCTURE NODALE DE CHLORHYDRATE D'AMMONIAQUE",
         "title_complement": "ET DE 250 AUTRES CORPS",
         "volume_number": "",
-        "authors": "Teploff, M. N.",
+        "authors": "M. N. Teploff",
         "publisher": "Imprimerie E. Arnolds",
         "publication_place": "St. Pétersbourg",
         "date": "1896",
@@ -11,6 +11,17 @@
         "iiif_manifest": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k917914/manifest.json"
     },
     "langue": "fr (French)",
+    "ark": "bpt6k917914",
+    "typographie_suggestion": {
+        "category": "Display",
+        "subtype": "Condensed / Inline-style",
+        "explanation": "This typeface is designed for high impact and visibility (Display). It features a heavily condensed width and a decorative \"inline\" or \"shaded\" effect where the center of the letterforms is hollowed out or white, creating a 3D architectural appearance common in late 19th-century printing.",
+        "raw": "Based on the image provided, there are several typefaces used. The most prominent and distinctive one is used for the words \"CHLORHYDRATE D'AMMONIAQUE.\"\n\nCategory: Display\nSubtype: Condensed / Inline-style\nExplanation: This typeface is designed for high impact and visibility (Display). It features a heavily condensed width and a decorative \"inline\" or \"shaded\" effect where the center of the letterforms is hollowed out or white, creating a 3D architectural appearance common in late 19th-century printing.\n\n*(Note: The other text on the page consists of a standard **Serif/Roman** (Modern/Didone style) and handwritten **Script**.)*"
+    },
+    "typographie": {
+        "category": "Display",
+        "subtype": "Condensed / Inline-style"
+    },
     "_annotations": {
         "metadata.title": {
             "lisibilite": "Lisible"
@@ -23,7 +34,8 @@
             "cause": "absent"
         },
         "metadata.authors": {
-            "lisibilite": "Lisible"
+            "lisibilite": "Lisible",
+            "correction": "M. N. Teploff"
         },
         "metadata.publisher": {
             "lisibilite": "Lisible"
@@ -36,7 +48,15 @@
         },
         "langue": {
             "lisibilite": "Lisible"
+        },
+        "metadata.identifier": {
+            "lisibilite": "Lisible"
+        },
+        "metadata.iiif_manifest": {
+            "lisibilite": "Lisible"
+        },
+        "ark": {
+            "lisibilite": "Lisible"
         }
-    },
-    "ark": "bpt6k917914"
+    }
 }

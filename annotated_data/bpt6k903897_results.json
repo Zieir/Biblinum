@@ -3,7 +3,7 @@
         "title": "GUYTON-MORVEAU",
         "title_complement": "CHIMISTE ET CONVENTIONNEL (1737-1816)",
         "volume_number": "",
-        "authors": "BOUCHARD, Georges",
+        "authors": "Georges BOUCHARD",
         "publisher": "LIBRAIRIE ACADÉMIQUE PERRIN",
         "publication_place": "PARIS",
         "date": "1938",
@@ -11,6 +11,17 @@
         "iiif_manifest": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k903897/manifest.json"
     },
     "langue": "fr (French)",
+    "ark": "bpt6k903897",
+    "typographie_suggestion": {
+        "category": "Serif/Roman",
+        "subtype": "Slab Serif (Egyptian)",
+        "explanation": "The typeface features thick, block-like serifs with very little contrast between the thick and thin strokes, characteristic of the Slab Serif style common in 19th and early 20th-century academic and industrial printing.",
+        "raw": "Category: Serif/Roman\nSubtype: Slab Serif (Egyptian)\nExplanation: The typeface features thick, block-like serifs with very little contrast between the thick and thin strokes, characteristic of the Slab Serif style common in 19th and early 20th-century academic and industrial printing."
+    },
+    "typographie": {
+        "category": "Serif/Roman",
+        "subtype": "Slab Serif (Egyptian)"
+    },
     "_annotations": {
         "metadata.title": {
             "lisibilite": "Lisible"
@@ -23,7 +34,8 @@
             "cause": "absent"
         },
         "metadata.authors": {
-            "lisibilite": "Lisible"
+            "lisibilite": "Lisible",
+            "correction": "Georges BOUCHARD"
         },
         "metadata.publisher": {
             "lisibilite": "Lisible"
@@ -36,7 +48,15 @@
         },
         "langue": {
             "lisibilite": "Lisible"
+        },
+        "metadata.identifier": {
+            "lisibilite": "Lisible"
+        },
+        "metadata.iiif_manifest": {
+            "lisibilite": "Lisible"
+        },
+        "ark": {
+            "lisibilite": "Lisible"
         }
-    },
-    "ark": "bpt6k903897"
+    }
 }

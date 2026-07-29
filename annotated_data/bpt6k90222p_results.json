@@ -1,19 +1,31 @@
 {
     "metadata": {
-        "title": "ŒUVRES SCIENTIFIQUES",
+        "title": "Œuvres scientifiques réunies et publiées sous les auspices du ministère de l'Instruction publique",
         "title_complement": "THÉORIE NOUVELLE DES FONCTIONS, EXCLUSIVEMENT FONDÉE SUR L'IDÉE D'UN NOMBRE",
         "volume_number": "",
-        "authors": "ROBIN, Gustave",
-        "publisher": "",
-        "publication_place": "",
-        "date": "",
+        "authors": "Gustave ROBIN",
+        "publisher": "Gauthier-Villars",
+        "publication_place": "PARIS",
+        "date": "1903",
         "identifier": "http://gallica.bnf.fr/ark:/12148/bpt6k90222p",
         "iiif_manifest": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k90222p/manifest.json"
     },
     "langue": "fr (French)",
+    "ark": "bpt6k90222p",
+    "typographie_suggestion": {
+        "category": "Serif/Roman",
+        "subtype": "Didone (Modern)",
+        "explanation": "The typeface features the high contrast between thick and thin strokes, vertical stress, and small, horizontal serifs characteristic of the \"Modern\" or Didone style (similar to Bodoni or Didot), which was prevalent in academic and official French printing during this era.",
+        "raw": "Category: Serif/Roman\nSubtype: Didone (Modern)\nExplanation: The typeface features the high contrast between thick and thin strokes, vertical stress, and small, horizontal serifs characteristic of the \"Modern\" or Didone style (similar to Bodoni or Didot), which was prevalent in academic and official French printing during this era."
+    },
+    "typographie": {
+        "category": "Serif/Roman",
+        "subtype": "Didone (Modern)"
+    },
     "_annotations": {
         "metadata.title": {
-            "lisibilite": "Lisible"
+            "lisibilite": "Lisible",
+            "correction": "Œuvres scientifiques réunies et publiées sous les auspices du ministère de l'Instruction publique"
         },
         "metadata.title_complement": {
             "lisibilite": "Lisible"
@@ -23,23 +35,32 @@
             "cause": "absent"
         },
         "metadata.authors": {
-            "lisibilite": "Lisible"
+            "lisibilite": "Lisible",
+            "correction": "Gustave ROBIN"
         },
         "metadata.publisher": {
-            "lisibilite": "Non lisible",
-            "cause": "absent"
+            "lisibilite": "Lisible",
+            "correction": "Gauthier-Villars"
         },
         "metadata.publication_place": {
-            "lisibilite": "Non lisible",
-            "cause": "absent"
+            "lisibilite": "Lisible",
+            "correction": "PARIS"
         },
         "metadata.date": {
-            "lisibilite": "Non lisible",
-            "cause": "absent"
+            "lisibilite": "Lisible",
+            "correction": "1903"
         },
         "langue": {
             "lisibilite": "Lisible"
+        },
+        "metadata.identifier": {
+            "lisibilite": "Lisible"
+        },
+        "metadata.iiif_manifest": {
+            "lisibilite": "Lisible"
+        },
+        "ark": {
+            "lisibilite": "Lisible"
         }
-    },
-    "ark": "bpt6k90222p"
+    }
 }

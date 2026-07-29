@@ -3,7 +3,7 @@
         "title": "SUR LES PRINCIPES SUCRÉS",
         "title_complement": "",
         "volume_number": "",
-        "authors": "BERTHELOT, Marcellin",
+        "authors": "Marcellin BERTHELOT",
         "publisher": "",
         "publication_place": "PARIS",
         "date": "1862",
@@ -11,6 +11,17 @@
         "iiif_manifest": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k91702p/manifest.json"
     },
     "langue": "fr (French)",
+    "ark": "bpt6k91702p",
+    "typographie_suggestion": {
+        "category": "Serif/Roman",
+        "subtype": "Didone (Modern)",
+        "explanation": "The printed text features the high contrast between thick and thin strokes and vertical stress characteristic of the \"Modern\" or Didone style (similar to Didot or Bodoni), which was prevalent in French academic and scientific printing during the 19th century.",
+        "raw": "Category: Serif/Roman\nSubtype: Didone (Modern)\nExplanation: The printed text features the high contrast between thick and thin strokes and vertical stress characteristic of the \"Modern\" or Didone style (similar to Didot or Bodoni), which was prevalent in French academic and scientific printing during the 19th century."
+    },
+    "typographie": {
+        "category": "Serif/Roman",
+        "subtype": "Didone (Modern)"
+    },
     "_annotations": {
         "metadata.title": {
             "lisibilite": "Lisible"
@@ -25,7 +36,7 @@
         },
         "metadata.authors": {
             "lisibilite": "Lisible",
-            "correction": "BERTHELOT, Marcellin"
+            "correction": "Marcellin BERTHELOT"
         },
         "metadata.publisher": {
             "lisibilite": "Non lisible",
@@ -42,7 +53,15 @@
         },
         "langue": {
             "lisibilite": "Lisible"
+        },
+        "metadata.identifier": {
+            "lisibilite": "Lisible"
+        },
+        "metadata.iiif_manifest": {
+            "lisibilite": "Lisible"
+        },
+        "ark": {
+            "lisibilite": "Lisible"
         }
-    },
-    "ark": "bpt6k91702p"
+    }
 }

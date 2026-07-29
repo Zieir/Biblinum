@@ -3,14 +3,25 @@
         "title": "TRAITÉ DE CHIMIE ORGANIQUE",
         "title_complement": "",
         "volume_number": "",
-        "authors": "",
-        "publisher": "",
-        "publication_place": "",
-        "date": "",
+        "authors": "JUSTUS LIEBIG",
+        "publisher": "FORTIN; MASSON ET Cie",
+        "publication_place": "PARIS",
+        "date": "1840",
         "identifier": "http://gallica.bnf.fr/ark:/12148/bpt6k91853v",
         "iiif_manifest": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k91853v/manifest.json"
     },
     "langue": "fr (French)",
+    "ark": "bpt6k91853v",
+    "typographie_suggestion": {
+        "category": "Serif/Roman",
+        "subtype": "Didone (Modern)",
+        "explanation": "The typeface features the high contrast between thick and thin strokes, vertical stress, and small, unbracketed (hairline) serifs characteristic of the \"Modern\" or Didone style popular in 19th-century academic printing.",
+        "raw": "Category: Serif/Roman\nSubtype: Didone (Modern)\nExplanation: The typeface features the high contrast between thick and thin strokes, vertical stress, and small, unbracketed (hairline) serifs characteristic of the \"Modern\" or Didone style popular in 19th-century academic printing."
+    },
+    "typographie": {
+        "category": "Serif/Roman",
+        "subtype": "Didone (Modern)"
+    },
     "_annotations": {
         "metadata.title": {
             "lisibilite": "Lisible"
@@ -24,24 +35,32 @@
             "cause": "absent"
         },
         "metadata.authors": {
-            "lisibilite": "Non lisible",
-            "cause": "absent"
+            "lisibilite": "Lisible",
+            "correction": "JUSTUS LIEBIG"
         },
         "metadata.publisher": {
-            "lisibilite": "Non lisible",
-            "cause": "absent"
+            "lisibilite": "Lisible",
+            "correction": "FORTIN; MASSON ET Cie"
         },
         "metadata.publication_place": {
-            "lisibilite": "Non lisible",
-            "cause": "absent"
+            "lisibilite": "Lisible",
+            "correction": "PARIS"
         },
         "metadata.date": {
-            "lisibilite": "Non lisible",
-            "cause": "absent"
+            "lisibilite": "Lisible",
+            "correction": "1840"
         },
         "langue": {
             "lisibilite": "Lisible"
+        },
+        "metadata.identifier": {
+            "lisibilite": "Lisible"
+        },
+        "metadata.iiif_manifest": {
+            "lisibilite": "Lisible"
+        },
+        "ark": {
+            "lisibilite": "Lisible"
         }
-    },
-    "ark": "bpt6k91853v"
+    }
 }

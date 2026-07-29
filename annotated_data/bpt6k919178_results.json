@@ -3,7 +3,7 @@
         "title": "TRAITÉ DES MATIÈRES COLORANTES",
         "title_complement": "COMPRENANT LEURS APPLICATIONS A LA TEINTURE ET A L'IMPRESSION ET DES NOTICES SUR LES FIBRES TEXTILES LES ÉPAISSISSANTS ET LES MORDANTS",
         "volume_number": "TOME SECOND",
-        "authors": "Schützenberger, P.",
+        "authors": "P. Schützenberger",
         "publisher": "VICTOR MASSON ET FILS",
         "publication_place": "PARIS",
         "date": "1867",
@@ -11,6 +11,17 @@
         "iiif_manifest": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k919178/manifest.json"
     },
     "langue": "fr (French)",
+    "ark": "bpt6k919178",
+    "typographie_suggestion": {
+        "category": "Serif/Roman",
+        "subtype": "Didone (Modern)",
+        "explanation": "The typeface features the high contrast between thick and thin strokes, vertical stress, and small, horizontal unbracketed serifs characteristic of the \"Modern\" or Didone style (similar to Bodoni or Didot), which was prevalent in 19th-century French printing.",
+        "raw": "Category: Serif/Roman\nSubtype: Didone (Modern)\nExplanation: The typeface features the high contrast between thick and thin strokes, vertical stress, and small, horizontal unbracketed serifs characteristic of the \"Modern\" or Didone style (similar to Bodoni or Didot), which was prevalent in 19th-century French printing."
+    },
+    "typographie": {
+        "category": "Serif/Roman",
+        "subtype": "Didone (Modern)"
+    },
     "_annotations": {
         "metadata.title": {
             "lisibilite": "Lisible"
@@ -23,7 +34,7 @@
         },
         "metadata.authors": {
             "lisibilite": "Lisible",
-            "correction": "Schützenberger, P."
+            "correction": "P. Schützenberger"
         },
         "metadata.publisher": {
             "lisibilite": "Lisible"
@@ -36,7 +47,15 @@
         },
         "langue": {
             "lisibilite": "Lisible"
+        },
+        "metadata.identifier": {
+            "lisibilite": "Lisible"
+        },
+        "metadata.iiif_manifest": {
+            "lisibilite": "Lisible"
+        },
+        "ark": {
+            "lisibilite": "Lisible"
         }
-    },
-    "ark": "bpt6k919178"
+    }
 }

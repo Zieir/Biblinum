@@ -1,7 +1,7 @@
 {
     "metadata": {
-        "title": "LEÇONS DE CHIMIE BIOLOGIQUE",
-        "title_complement": "NORMALE ET PATHOLOGIQUE",
+        "title": "LEÇONS DE CHIMIE BIOLOGIQUE NORMALE ET PATHOLOGIQUE",
+        "title_complement": "",
         "volume_number": "",
         "authors": "",
         "publisher": "",
@@ -11,12 +11,26 @@
         "iiif_manifest": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k90253z/manifest.json"
     },
     "langue": "fr (French)",
+    "ark": "bpt6k90253z",
+    "typographie_suggestion": {
+        "category": "Serif/Roman",
+        "subtype": "Didone (Modern)",
+        "explanation": "The main title \"CHIMIE BIOLOGIQUE\" features the high contrast between thick and thin strokes, vertical stress, and small, unbracketed serifs characteristic of the Didone style (similar to Bodoni or Didot), which was prevalent in academic and formal French printing.",
+        "raw": "Category: Serif/Roman\nSubtype: Didone (Modern)\nExplanation: The main title \"CHIMIE BIOLOGIQUE\" features the high contrast between thick and thin strokes, vertical stress, and small, unbracketed serifs characteristic of the Didone style (similar to Bodoni or Didot), which was prevalent in academic and formal French printing."
+    },
+    "typographie": {
+        "category": "Serif/Roman",
+        "subtype": "Didone (Modern)"
+    },
     "_annotations": {
         "metadata.title": {
-            "lisibilite": "Lisible"
+            "lisibilite": "Lisible",
+            "correction": "LEÇONS DE CHIMIE BIOLOGIQUE NORMALE ET PATHOLOGIQUE"
         },
         "metadata.title_complement": {
-            "lisibilite": "Lisible"
+            "lisibilite": "Non lisible",
+            "cause": "absent",
+            "correction": ""
         },
         "metadata.volume_number": {
             "lisibilite": "Non lisible",
@@ -40,7 +54,15 @@
         },
         "langue": {
             "lisibilite": "Lisible"
+        },
+        "metadata.identifier": {
+            "lisibilite": "Lisible"
+        },
+        "metadata.iiif_manifest": {
+            "lisibilite": "Lisible"
+        },
+        "ark": {
+            "lisibilite": "Lisible"
         }
-    },
-    "ark": "bpt6k90253z"
+    }
 }

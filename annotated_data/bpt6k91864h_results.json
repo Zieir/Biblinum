@@ -3,7 +3,7 @@
         "title": "MÉMORIAL PRATIQUE DU CHIMISTE-MANUFACTURIER",
         "title_complement": "RÉCUEIL DE PROCÉDÉS D'ARTS ET DE MANUFACTURES",
         "volume_number": "TOME I",
-        "authors": "Colin, M.",
+        "authors": "M. Colin",
         "publisher": "BARROIS L'AINE, LIBRAIRE",
         "publication_place": "PARIS",
         "date": "1824",
@@ -11,6 +11,17 @@
         "iiif_manifest": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k91864h/manifest.json"
     },
     "langue": "fr (French)",
+    "ark": "bpt6k91864h",
+    "typographie_suggestion": {
+        "category": "Serif/Roman",
+        "subtype": "Didone (Modern)",
+        "explanation": "The typeface features the high contrast between thick and thin strokes, vertical stress, and small, horizontal unbracketed serifs characteristic of the late 18th and early 19th-century \"Modern\" style (popularized by Bodoni and Didot).",
+        "raw": "Category: Serif/Roman\nSubtype: Didone (Modern)\nExplanation: The typeface features the high contrast between thick and thin strokes, vertical stress, and small, horizontal unbracketed serifs characteristic of the late 18th and early 19th-century \"Modern\" style (popularized by Bodoni and Didot)."
+    },
+    "typographie": {
+        "category": "Serif/Roman",
+        "subtype": "Didone (Modern)"
+    },
     "_annotations": {
         "metadata.title": {
             "lisibilite": "Non lisible",
@@ -24,7 +35,7 @@
         },
         "metadata.authors": {
             "lisibilite": "Lisible",
-            "correction": "Colin, M."
+            "correction": "M. Colin"
         },
         "metadata.publisher": {
             "lisibilite": "Lisible"
@@ -37,7 +48,15 @@
         },
         "langue": {
             "lisibilite": "Lisible"
+        },
+        "metadata.identifier": {
+            "lisibilite": "Lisible"
+        },
+        "metadata.iiif_manifest": {
+            "lisibilite": "Lisible"
+        },
+        "ark": {
+            "lisibilite": "Lisible"
         }
-    },
-    "ark": "bpt6k91864h"
+    }
 }

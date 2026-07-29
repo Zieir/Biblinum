@@ -1,36 +1,46 @@
 {
     "metadata": {
         "title": "Cent vingt Exercices de Chimie Pratique",
-        "title_complement": "",
+        "title_complement": " décrits d'après les textes originaux et les notes de laboratoire, et choisis pour former des chimistes",
         "volume_number": "",
-        "authors": "",
-        "publisher": "",
+        "authors": "Armand Gautier; J. Albahary",
+        "publisher": "MASSON ET Cie",
         "publication_place": "Paris",
         "date": "",
         "identifier": "http://gallica.bnf.fr/ark:/12148/bpt6k90277z",
         "iiif_manifest": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k90277z/manifest.json"
     },
     "langue": "fr (French)",
+    "ark": "bpt6k90277z",
+    "typographie_suggestion": {
+        "category": "Display",
+        "subtype": "Victorian / Ornamental",
+        "explanation": "The typeface features high contrast between thick and thin strokes, decorative flourishes, and exaggerated, stylized serifs typical of 19th-century commercial and textbook printing. It is designed for impact and ornamentation rather than body text legibility.",
+        "raw": "Based on the main title text (\"Cent vingt Exercices de Chimie Pratique\"):\n\nCategory: Display\nSubtype: Victorian / Ornamental\nExplanation: The typeface features high contrast between thick and thin strokes, decorative flourishes, and exaggerated, stylized serifs typical of 19th-century commercial and textbook printing. It is designed for impact and ornamentation rather than body text legibility."
+    },
+    "typographie": {
+        "category": "Display",
+        "subtype": "Victorian / Ornamental"
+    },
     "_annotations": {
         "metadata.title": {
             "lisibilite": "Lisible"
         },
         "metadata.title_complement": {
-            "lisibilite": "Non lisible",
-            "cause": "absent"
+            "lisibilite": "Lisible",
+            "correction": " décrits d'après les textes originaux et les notes de laboratoire, et choisis pour former des chimistes"
         },
         "metadata.volume_number": {
             "lisibilite": "Non lisible",
             "cause": "absent"
         },
         "metadata.authors": {
-            "lisibilite": "Non lisible",
-            "cause": "absent"
+            "lisibilite": "Lisible",
+            "correction": "Armand Gautier; J. Albahary"
         },
         "metadata.publisher": {
-            "lisibilite": "Non lisible",
-            "cause": "absent",
-            "correction": ""
+            "lisibilite": "Lisible",
+            "correction": "MASSON ET Cie"
         },
         "metadata.publication_place": {
             "lisibilite": "Lisible"
@@ -41,7 +51,15 @@
         },
         "langue": {
             "lisibilite": "Lisible"
+        },
+        "metadata.identifier": {
+            "lisibilite": "Lisible"
+        },
+        "metadata.iiif_manifest": {
+            "lisibilite": "Lisible"
+        },
+        "ark": {
+            "lisibilite": "Lisible"
         }
-    },
-    "ark": "bpt6k90277z"
+    }
 }

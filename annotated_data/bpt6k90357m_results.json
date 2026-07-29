@@ -3,14 +3,25 @@
         "title": "DICTIONNAIRE DE CHIMIE INDUSTRIELLE",
         "title_complement": "",
         "volume_number": "TOME PREMIER",
-        "authors": "",
-        "publisher": "",
-        "publication_place": "",
-        "date": "",
+        "authors": "BARRESWIL; AIMÉ GIRARD",
+        "publisher": "Dezobry, E. Magdeleine et Cie",
+        "publication_place": "Paris",
+        "date": "1861",
         "identifier": "http://gallica.bnf.fr/ark:/12148/bpt6k90357m",
         "iiif_manifest": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k90357m/manifest.json"
     },
     "langue": "fr (French)",
+    "ark": "bpt6k90357m",
+    "typographie_suggestion": {
+        "category": "Serif/Roman",
+        "subtype": "Didone (Modern)",
+        "explanation": "The main titles exhibit the high contrast between thick and thin strokes and the vertical stress characteristic of the Didone style (similar to Bodoni or Didot), which was the standard for formal French publishing in the mid-19th century.",
+        "raw": "Category: Serif/Roman\nSubtype: Didone (Modern)\nExplanation: The main titles exhibit the high contrast between thick and thin strokes and the vertical stress characteristic of the Didone style (similar to Bodoni or Didot), which was the standard for formal French publishing in the mid-19th century."
+    },
+    "typographie": {
+        "category": "Serif/Roman",
+        "subtype": "Didone (Modern)"
+    },
     "_annotations": {
         "metadata.title": {
             "lisibilite": "Lisible"
@@ -23,24 +34,32 @@
             "lisibilite": "Lisible"
         },
         "metadata.authors": {
-            "lisibilite": "Non lisible",
-            "cause": "absent"
+            "lisibilite": "Lisible",
+            "correction": "BARRESWIL; AIMÉ GIRARD"
         },
         "metadata.publisher": {
-            "lisibilite": "Non lisible",
-            "cause": "absent"
+            "lisibilite": "Lisible",
+            "correction": "Dezobry, E. Magdeleine et Cie"
         },
         "metadata.publication_place": {
-            "lisibilite": "Non lisible",
-            "cause": "absent"
+            "lisibilite": "Lisible",
+            "correction": "Paris"
         },
         "metadata.date": {
-            "lisibilite": "Non lisible",
-            "cause": "absent"
+            "lisibilite": "Lisible",
+            "correction": "1861"
         },
         "langue": {
             "lisibilite": "Lisible"
+        },
+        "metadata.identifier": {
+            "lisibilite": "Lisible"
+        },
+        "metadata.iiif_manifest": {
+            "lisibilite": "Lisible"
+        },
+        "ark": {
+            "lisibilite": "Lisible"
         }
-    },
-    "ark": "bpt6k90357m"
+    }
 }

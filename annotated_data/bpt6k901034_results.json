@@ -1,47 +1,67 @@
 {
     "metadata": {
-        "title": "TOUTE LA CHIMIE",
-        "title_complement": "MINÉRALE PAR L'ELECTRICITÉ",
+        "title": "TOUTE LA CHIMIE MINÉRALE PAR L'ELECTRICITÉ",
+        "title_complement": "rien d'impossible par l'électricité",
         "volume_number": "",
-        "authors": "",
-        "publisher": "",
-        "publication_place": "",
-        "date": "",
+        "authors": "Jules SÉVERIN",
+        "publisher": "H. DUNOD; E. PINAT",
+        "publication_place": "PARIS; PARIS",
+        "date": "1908",
         "identifier": "http://gallica.bnf.fr/ark:/12148/bpt6k901034",
         "iiif_manifest": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k901034/manifest.json"
     },
     "langue": "fr (French)",
+    "ark": "bpt6k901034",
+    "typographie_suggestion": {
+        "category": "Serif/Roman",
+        "subtype": "Didone (Modern)",
+        "explanation": "The typeface features the high contrast between thick and thin strokes, vertical stress, and small, unbracketed (flat) serifs characteristic of the \"Modern\" or Didone style popular in 19th and early 20th-century academic publishing.",
+        "raw": "Category: Serif/Roman\nSubtype: Didone (Modern)\nExplanation: The typeface features the high contrast between thick and thin strokes, vertical stress, and small, unbracketed (flat) serifs characteristic of the \"Modern\" or Didone style popular in 19th and early 20th-century academic publishing."
+    },
+    "typographie": {
+        "category": "Serif/Roman",
+        "subtype": "Didone (Modern)"
+    },
     "_annotations": {
         "metadata.title": {
-            "lisibilite": "Lisible"
+            "lisibilite": "Lisible",
+            "correction": "TOUTE LA CHIMIE MINÉRALE PAR L'ELECTRICITÉ"
         },
         "metadata.title_complement": {
-            "lisibilite": "Lisible"
+            "lisibilite": "Lisible",
+            "correction": "rien d'impossible par l'électricité"
         },
         "metadata.volume_number": {
             "lisibilite": "Non lisible",
             "cause": "absent"
         },
         "metadata.authors": {
-            "lisibilite": "Non lisible",
-            "cause": "absent"
+            "lisibilite": "Lisible",
+            "correction": "Jules SÉVERIN"
         },
         "metadata.publisher": {
-            "lisibilite": "Non lisible",
-            "cause": "absent",
-            "correction": ""
+            "lisibilite": "Lisible",
+            "correction": "H. DUNOD; E. PINAT"
         },
         "metadata.publication_place": {
-            "lisibilite": "Non lisible",
-            "cause": "absent"
+            "lisibilite": "Lisible",
+            "correction": "PARIS; PARIS"
         },
         "metadata.date": {
-            "lisibilite": "Non lisible",
-            "cause": "absent"
+            "lisibilite": "Lisible",
+            "correction": "1908"
         },
         "langue": {
             "lisibilite": "Lisible"
+        },
+        "metadata.identifier": {
+            "lisibilite": "Lisible"
+        },
+        "metadata.iiif_manifest": {
+            "lisibilite": "Lisible"
+        },
+        "ark": {
+            "lisibilite": "Lisible"
         }
-    },
-    "ark": "bpt6k901034"
+    }
 }

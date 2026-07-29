@@ -1,9 +1,9 @@
 {
     "metadata": {
-        "title": "TRAITÉ DE LA CHALEUR",
-        "title_complement": "CONSIDÉRÉE DANS SES APPLICATIONS",
+        "title": "TRAITÉ DE LA CHALEUR CONSIDÉRÉE DANS SES APPLICATIONS",
+        "title_complement": "",
         "volume_number": "TOME DEUXIÈME",
-        "authors": "PÉCLET, E.",
+        "authors": "E. PÉCLET",
         "publisher": "G. MASSON, ÉDITEUR",
         "publication_place": "PARIS",
         "date": "1878",
@@ -11,18 +11,33 @@
         "iiif_manifest": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k90331x/manifest.json"
     },
     "langue": "fr (French)",
+    "ark": "bpt6k90331x",
+    "typographie_suggestion": {
+        "category": "Serif/Roman",
+        "subtype": "Didone (Modern)",
+        "explanation": "The typeface features the high contrast between thick and thin strokes, vertical stress, and small, horizontal serifs characteristic of the \"Modern\" or Didone style (similar to Bodoni or Didot), which was prevalent in French academic printing during the 19th century.",
+        "raw": "Category: Serif/Roman\nSubtype: Didone (Modern)\nExplanation: The typeface features the high contrast between thick and thin strokes, vertical stress, and small, horizontal serifs characteristic of the \"Modern\" or Didone style (similar to Bodoni or Didot), which was prevalent in French academic printing during the 19th century."
+    },
+    "typographie": {
+        "category": "Serif/Roman",
+        "subtype": "Didone (Modern)"
+    },
     "_annotations": {
         "metadata.title": {
-            "lisibilite": "Lisible"
+            "lisibilite": "Lisible",
+            "correction": "TRAITÉ DE LA CHALEUR CONSIDÉRÉE DANS SES APPLICATIONS"
         },
         "metadata.title_complement": {
-            "lisibilite": "Lisible"
+            "lisibilite": "Non lisible",
+            "cause": "absent",
+            "correction": ""
         },
         "metadata.volume_number": {
             "lisibilite": "Lisible"
         },
         "metadata.authors": {
-            "lisibilite": "Lisible"
+            "lisibilite": "Lisible",
+            "correction": "E. PÉCLET"
         },
         "metadata.publisher": {
             "lisibilite": "Lisible"
@@ -36,7 +51,15 @@
         "langue": {
             "lisibilite": "Lisible"
         },
-        "_note": "Date in roman numerals"
-    },
-    "ark": "bpt6k90331x"
+        "_note": "Date in roman numerals",
+        "metadata.identifier": {
+            "lisibilite": "Lisible"
+        },
+        "metadata.iiif_manifest": {
+            "lisibilite": "Lisible"
+        },
+        "ark": {
+            "lisibilite": "Lisible"
+        }
+    }
 }

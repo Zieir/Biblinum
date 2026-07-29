@@ -1,9 +1,9 @@
 {
     "metadata": {
-        "title": "JAC. BERZELIUS BREF",
+        "title": "BREF",
         "title_complement": "BREFVÄXLING MELLAN BERZELIUS OCH THOMAS THOMSON (1813-1825)",
         "volume_number": "VI",
-        "authors": "Berzelius, Jac. ; Thomson, Thomas",
+        "authors": "Jac. Berzelius",
         "publisher": "KUNGL. SVENSKA VETENSKAPSAKADEMIEN",
         "publication_place": "",
         "date": "",
@@ -11,9 +11,21 @@
         "iiif_manifest": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k901065/manifest.json"
     },
     "langue": "sv (Swedish)",
+    "ark": "bpt6k901065",
+    "typographie_suggestion": {
+        "category": "Serif/Roman",
+        "subtype": "Didone (Modern)",
+        "explanation": "The typeface features a strong contrast between thick and thin strokes, vertical stress, and thin, horizontal serifs, which are the defining characteristics of the Didone/Modern style popular in the late 18th and 19th centuries.",
+        "raw": "Category: Serif/Roman\nSubtype: Didone (Modern)\nExplanation: The typeface features a strong contrast between thick and thin strokes, vertical stress, and thin, horizontal serifs, which are the defining characteristics of the Didone/Modern style popular in the late 18th and 19th centuries."
+    },
+    "typographie": {
+        "category": "Serif/Roman",
+        "subtype": "Didone (Modern)"
+    },
     "_annotations": {
         "metadata.title": {
-            "lisibilite": "Lisible"
+            "lisibilite": "Lisible",
+            "correction": "BREF"
         },
         "metadata.title_complement": {
             "lisibilite": "Lisible"
@@ -22,7 +34,8 @@
             "lisibilite": "Lisible"
         },
         "metadata.authors": {
-            "lisibilite": "Lisible"
+            "lisibilite": "Lisible",
+            "correction": "Jac. Berzelius"
         },
         "metadata.publisher": {
             "lisibilite": "Lisible"
@@ -38,7 +51,15 @@
         "langue": {
             "lisibilite": "Lisible"
         },
-        "_note": "A revoir"
-    },
-    "ark": "bpt6k901065"
+        "_note": "A revoir",
+        "metadata.identifier": {
+            "lisibilite": "Lisible"
+        },
+        "metadata.iiif_manifest": {
+            "lisibilite": "Lisible"
+        },
+        "ark": {
+            "lisibilite": "Lisible"
+        }
+    }
 }

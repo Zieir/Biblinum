@@ -2,15 +2,26 @@
     "metadata": {
         "title": "Rapports des membres de la section française du jury international sur l'ensemble de l'exposition.",
         "title_complement": "",
-        "volume_number": "",
-        "authors": "",
-        "publisher": "",
-        "publication_place": "",
+        "volume_number": "TOME TROISIÈME",
+        "authors": "Michel Chevalier",
+        "publisher": "Napolèon CHAIX et cie",
+        "publication_place": "PARIS",
         "date": "1862",
         "identifier": "http://gallica.bnf.fr/ark:/12148/bpt6k90306q",
         "iiif_manifest": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k90306q/manifest.json"
     },
     "langue": "fr (French)",
+    "ark": "bpt6k90306q",
+    "typographie_suggestion": {
+        "category": "Serif/Roman",
+        "subtype": "Didone (Modern)",
+        "explanation": "The typeface features the high contrast between thick and thin strokes, vertical stress, and thin, horizontal serifs characteristic of the \"Modern\" or Didone style (popularized by Didot and Bodoni), which was standard for formal French publications in the 19th century.",
+        "raw": "Category: Serif/Roman\nSubtype: Didone (Modern)\nExplanation: The typeface features the high contrast between thick and thin strokes, vertical stress, and thin, horizontal serifs characteristic of the \"Modern\" or Didone style (popularized by Didot and Bodoni), which was standard for formal French publications in the 19th century."
+    },
+    "typographie": {
+        "category": "Serif/Roman",
+        "subtype": "Didone (Modern)"
+    },
     "_annotations": {
         "metadata.title": {
             "lisibilite": "Lisible",
@@ -22,28 +33,35 @@
             "correction": ""
         },
         "metadata.volume_number": {
-            "lisibilite": "Non lisible",
-            "cause": "absent"
+            "lisibilite": "Lisible",
+            "correction": "TOME TROISIÈME"
         },
         "metadata.authors": {
-            "lisibilite": "Non lisible",
-            "cause": "absent"
+            "lisibilite": "Lisible",
+            "correction": "Michel Chevalier"
         },
         "metadata.publisher": {
-            "lisibilite": "Non lisible",
-            "cause": "absent",
-            "correction": ""
+            "lisibilite": "Lisible",
+            "correction": "Napolèon CHAIX et cie"
         },
         "metadata.publication_place": {
-            "lisibilite": "Non lisible",
-            "cause": "absent"
+            "lisibilite": "Lisible",
+            "correction": "PARIS"
         },
         "metadata.date": {
             "lisibilite": "Lisible"
         },
         "langue": {
             "lisibilite": "Lisible"
+        },
+        "metadata.identifier": {
+            "lisibilite": "Lisible"
+        },
+        "metadata.iiif_manifest": {
+            "lisibilite": "Lisible"
+        },
+        "ark": {
+            "lisibilite": "Lisible"
         }
-    },
-    "ark": "bpt6k90306q"
+    }
 }

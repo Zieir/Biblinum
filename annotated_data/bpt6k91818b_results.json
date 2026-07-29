@@ -3,14 +3,25 @@
         "title": "PHARMACOPÉE RAISONNÉE",
         "title_complement": "ou TRAITÉ DE PHARMACIE PRATIQUE ET THÉORIQUE",
         "volume_number": "",
-        "authors": "",
-        "publisher": "",
+        "authors": "N.-E. HENRY; G. GUIBOURT",
+        "publisher": "J.-S. Chaudé",
         "publication_place": "PARIS",
-        "date": "",
+        "date": "1834",
         "identifier": "http://gallica.bnf.fr/ark:/12148/bpt6k91818b",
         "iiif_manifest": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k91818b/manifest.json"
     },
     "langue": "fr (French)",
+    "ark": "bpt6k91818b",
+    "typographie_suggestion": {
+        "category": "Serif/Roman",
+        "subtype": "Didone (Modern)",
+        "explanation": "The typeface features the high contrast between thick and thin strokes, vertical stress, and small, horizontal serifs characteristic of the \"Modern\" or Didone style (popularized by Bodoni and Didot) common in 19th-century academic and medical printing.",
+        "raw": "Category: Serif/Roman\nSubtype: Didone (Modern)\nExplanation: The typeface features the high contrast between thick and thin strokes, vertical stress, and small, horizontal serifs characteristic of the \"Modern\" or Didone style (popularized by Bodoni and Didot) common in 19th-century academic and medical printing."
+    },
+    "typographie": {
+        "category": "Serif/Roman",
+        "subtype": "Didone (Modern)"
+    },
     "_annotations": {
         "metadata.title": {
             "lisibilite": "Lisible",
@@ -25,24 +36,31 @@
             "cause": "absent"
         },
         "metadata.authors": {
-            "lisibilite": "Non lisible",
-            "cause": "absent"
+            "lisibilite": "Lisible",
+            "correction": "N.-E. HENRY; G. GUIBOURT"
         },
         "metadata.publisher": {
-            "lisibilite": "Non lisible",
-            "cause": "absent"
+            "lisibilite": "Lisible",
+            "correction": "J.-S. Chaudé"
         },
         "metadata.publication_place": {
-            "lisibilite": "Non lisible",
-            "cause": "absent"
+            "lisibilite": "Lisible"
         },
         "metadata.date": {
-            "lisibilite": "Non lisible",
-            "cause": "absent"
+            "lisibilite": "Lisible",
+            "correction": "1834"
         },
         "langue": {
             "lisibilite": "Lisible"
+        },
+        "metadata.identifier": {
+            "lisibilite": "Lisible"
+        },
+        "metadata.iiif_manifest": {
+            "lisibilite": "Lisible"
+        },
+        "ark": {
+            "lisibilite": "Lisible"
         }
-    },
-    "ark": "bpt6k91818b"
+    }
 }

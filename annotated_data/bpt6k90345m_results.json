@@ -3,7 +3,7 @@
         "title": "LEÇONS D'ALGÈBRE",
         "title_complement": "",
         "volume_number": "",
-        "authors": "LEFE BURE DE FOURCY",
+        "authors": "LEFEBURE DE FOURCY",
         "publisher": "BACHELIER, LIBRAIRE DE L'ÉCOLE POLYTECHNIQUE",
         "publication_place": "PARIS",
         "date": "1845",
@@ -11,6 +11,17 @@
         "iiif_manifest": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k90345m/manifest.json"
     },
     "langue": "fr (French)",
+    "ark": "bpt6k90345m",
+    "typographie_suggestion": {
+        "category": "Serif/Roman",
+        "subtype": "Modern (Didone)",
+        "explanation": "The typeface features the high contrast between thick and thin strokes, vertical stress, and small, unbracketed serifs characteristic of the \"Modern\" style (such as Bodoni or Didot) prevalent in 19th-century French printing.",
+        "raw": "Category: Serif/Roman\nSubtype: Modern (Didone)\nExplanation: The typeface features the high contrast between thick and thin strokes, vertical stress, and small, unbracketed serifs characteristic of the \"Modern\" style (such as Bodoni or Didot) prevalent in 19th-century French printing."
+    },
+    "typographie": {
+        "category": "Serif/Roman",
+        "subtype": "Modern (Didone)"
+    },
     "_annotations": {
         "metadata.title": {
             "lisibilite": "Lisible"
@@ -24,7 +35,8 @@
             "cause": "absent"
         },
         "metadata.authors": {
-            "lisibilite": "Lisible"
+            "lisibilite": "Lisible",
+            "correction": "LEFEBURE DE FOURCY"
         },
         "metadata.publisher": {
             "lisibilite": "Lisible"
@@ -37,7 +49,15 @@
         },
         "langue": {
             "lisibilite": "Lisible"
+        },
+        "metadata.identifier": {
+            "lisibilite": "Lisible"
+        },
+        "metadata.iiif_manifest": {
+            "lisibilite": "Lisible"
+        },
+        "ark": {
+            "lisibilite": "Lisible"
         }
-    },
-    "ark": "bpt6k90345m"
+    }
 }

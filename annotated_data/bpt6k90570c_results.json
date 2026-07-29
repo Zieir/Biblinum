@@ -11,6 +11,17 @@
         "iiif_manifest": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k90570c/manifest.json"
     },
     "langue": "de (German)",
+    "ark": "bpt6k90570c",
+    "typographie_suggestion": {
+        "category": "Serif/Roman",
+        "subtype": "Slab Serif (Egyptian)",
+        "explanation": "The typeface features heavy, block-like serifs with little to no bracketing, creating a sturdy, mechanical appearance characteristic of Slab Serif styles common in early 20th-century publishing and advertising.",
+        "raw": "Category: Serif/Roman\nSubtype: Slab Serif (Egyptian)\nExplanation: The typeface features heavy, block-like serifs with little to no bracketing, creating a sturdy, mechanical appearance characteristic of Slab Serif styles common in early 20th-century publishing and advertising."
+    },
+    "typographie": {
+        "category": "Serif/Roman",
+        "subtype": "Slab Serif (Egyptian)"
+    },
     "_annotations": {
         "metadata.title": {
             "lisibilite": "Lisible"
@@ -37,7 +48,15 @@
         },
         "langue": {
             "lisibilite": "Lisible"
+        },
+        "metadata.identifier": {
+            "lisibilite": "Lisible"
+        },
+        "metadata.iiif_manifest": {
+            "lisibilite": "Lisible"
+        },
+        "ark": {
+            "lisibilite": "Lisible"
         }
-    },
-    "ark": "bpt6k90570c"
+    }
 }

@@ -3,7 +3,7 @@
         "title": "LEÇONS ÉLÉMENTAIRES DE CHIMIE",
         "title_complement": "",
         "volume_number": "Première Partie",
-        "authors": "MALAGUTI, M. F.",
+        "authors": "F. MALAGUTI",
         "publisher": "DEZOBRY, E. MAGDELEINE ET C.",
         "publication_place": "PARIS",
         "date": "",
@@ -11,6 +11,17 @@
         "iiif_manifest": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k90243n/manifest.json"
     },
     "langue": "fr (French)",
+    "ark": "bpt6k90243n",
+    "typographie_suggestion": {
+        "category": "Serif/Roman",
+        "subtype": "Didone (Modern)",
+        "explanation": "The text exhibits the high contrast between thick and thin strokes, vertical stress, and unbracketed, hairline serifs characteristic of the Didone style (similar to Didot or Bodoni), which was the dominant typographic standard for French academic and official printing in the 19th century.",
+        "raw": "Category: Serif/Roman\nSubtype: Didone (Modern)\nExplanation: The text exhibits the high contrast between thick and thin strokes, vertical stress, and unbracketed, hairline serifs characteristic of the Didone style (similar to Didot or Bodoni), which was the dominant typographic standard for French academic and official printing in the 19th century."
+    },
+    "typographie": {
+        "category": "Serif/Roman",
+        "subtype": "Didone (Modern)"
+    },
     "_annotations": {
         "metadata.title": {
             "lisibilite": "Lisible",
@@ -27,7 +38,8 @@
             "correction": "Première Partie"
         },
         "metadata.authors": {
-            "lisibilite": "Lisible"
+            "lisibilite": "Lisible",
+            "correction": "F. MALAGUTI"
         },
         "metadata.publisher": {
             "lisibilite": "Lisible"
@@ -41,7 +53,15 @@
         },
         "langue": {
             "lisibilite": "Lisible"
+        },
+        "metadata.identifier": {
+            "lisibilite": "Lisible"
+        },
+        "metadata.iiif_manifest": {
+            "lisibilite": "Lisible"
+        },
+        "ark": {
+            "lisibilite": "Lisible"
         }
-    },
-    "ark": "bpt6k90243n"
+    }
 }

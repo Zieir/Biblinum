@@ -3,7 +3,7 @@
         "title": "TRAITÉ ÉLÉMENTAIRE DE CHIMIE MÉDICALE",
         "title_complement": "COMPRENANT QUELQUES NOTIONS DE TOXICOLOGIE ET LES PRINCIPALES APPLICATIONS DE LA CHIMIE A LA PHYSIOLOGIE, A LA PATHOLOGIE, A LA PHARMACIE ET A L'HYGIÈNE",
         "volume_number": "I",
-        "authors": "WURTZ, AD.",
+        "authors": "AD. WURTZ",
         "publisher": "VICTOR MASSON ET FILS",
         "publication_place": "PARIS",
         "date": "1864",
@@ -11,6 +11,17 @@
         "iiif_manifest": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k91949w/manifest.json"
     },
     "langue": "fr (French)",
+    "ark": "bpt6k91949w",
+    "typographie_suggestion": {
+        "category": "Serif/Roman",
+        "subtype": "Didone (Modern)",
+        "explanation": "The main title \"CHIMIE MÉDICALE\" exhibits the classic characteristics of the Didone style: a high contrast between thick and thin strokes, vertical stress, and small, unbracketed (hairline) serifs.",
+        "raw": "Category: Serif/Roman\nSubtype: Didone (Modern)\nExplanation: The main title \"CHIMIE MÉDICALE\" exhibits the classic characteristics of the Didone style: a high contrast between thick and thin strokes, vertical stress, and small, unbracketed (hairline) serifs."
+    },
+    "typographie": {
+        "category": "Serif/Roman",
+        "subtype": "Didone (Modern)"
+    },
     "_annotations": {
         "metadata.title": {
             "lisibilite": "Lisible"
@@ -22,7 +33,8 @@
             "lisibilite": "Lisible"
         },
         "metadata.authors": {
-            "lisibilite": "Lisible"
+            "lisibilite": "Lisible",
+            "correction": "AD. WURTZ"
         },
         "metadata.publisher": {
             "lisibilite": "Lisible"
@@ -36,7 +48,15 @@
         },
         "langue": {
             "lisibilite": "Lisible"
+        },
+        "metadata.identifier": {
+            "lisibilite": "Lisible"
+        },
+        "metadata.iiif_manifest": {
+            "lisibilite": "Lisible"
+        },
+        "ark": {
+            "lisibilite": "Lisible"
         }
-    },
-    "ark": "bpt6k91949w"
+    }
 }

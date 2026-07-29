@@ -1,9 +1,9 @@
 {
     "metadata": {
-        "title": "Œuvres COMPLÈTES",
-        "title_complement": " d'Augustin Cauchy",
-        "volume_number": "Tome XIV",
-        "authors": "Cauchy, Augustin",
+        "title": "Œuvres COMPLÈTES d'Augustin Cauchy",
+        "title_complement": "",
+        "volume_number": "SÉRIE 2 - Tome XIV",
+        "authors": "Augustin Cauchy",
         "publisher": "Gauthier-Villars",
         "publication_place": "Paris",
         "date": "1938",
@@ -11,20 +11,34 @@
         "iiif_manifest": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k90206f/manifest.json"
     },
     "langue": "fr (French)",
+    "ark": "bpt6k90206f",
+    "typographie_suggestion": {
+        "category": "Serif/Roman",
+        "subtype": "Didone (Modern)",
+        "explanation": "The typeface features the characteristic high contrast between thick and thin strokes, vertical stress, and thin, horizontal serifs typical of the \"Modern\" or Didone style (similar to Bodoni or Didot), which was prevalent in French academic publishing during the 19th and early 20th centuries.",
+        "raw": "Category: Serif/Roman\nSubtype: Didone (Modern)\nExplanation: The typeface features the characteristic high contrast between thick and thin strokes, vertical stress, and thin, horizontal serifs typical of the \"Modern\" or Didone style (similar to Bodoni or Didot), which was prevalent in French academic publishing during the 19th and early 20th centuries."
+    },
+    "typographie": {
+        "category": "Serif/Roman",
+        "subtype": "Didone (Modern)"
+    },
     "_annotations": {
         "metadata.title": {
             "lisibilite": "Lisible",
-            "correction": "Œuvres COMPLÈTES"
+            "correction": "Œuvres COMPLÈTES d'Augustin Cauchy"
         },
         "metadata.title_complement": {
-            "lisibilite": "Lisible",
-            "correction": " d'Augustin Cauchy"
+            "lisibilite": "Non lisible",
+            "cause": "absent",
+            "correction": ""
         },
         "metadata.volume_number": {
-            "lisibilite": "Lisible"
+            "lisibilite": "Lisible",
+            "correction": "SÉRIE 2 - Tome XIV"
         },
         "metadata.authors": {
-            "lisibilite": "Lisible"
+            "lisibilite": "Lisible",
+            "correction": "Augustin Cauchy"
         },
         "metadata.publisher": {
             "lisibilite": "Lisible"
@@ -38,7 +52,15 @@
         "langue": {
             "lisibilite": "Lisible"
         },
-        "_note": "Date in roman numerals"
-    },
-    "ark": "bpt6k90206f"
+        "_note": "Date in roman numerals",
+        "metadata.identifier": {
+            "lisibilite": "Lisible"
+        },
+        "metadata.iiif_manifest": {
+            "lisibilite": "Lisible"
+        },
+        "ark": {
+            "lisibilite": "Lisible"
+        }
+    }
 }

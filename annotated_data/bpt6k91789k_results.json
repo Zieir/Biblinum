@@ -1,9 +1,9 @@
 {
     "metadata": {
-        "title": "THÈSES",
-        "title_complement": "Combinaison de chlorure d'aluminium anhydre, avec un certain nombre de composés analogues. - Synthèses de céruise. / Propositions données par la Faculté",
+        "title": "Combinaison de chlorure d'aluminium anhydre, avec un certain nombre de composés analogues.",
+        "title_complement": "Thèses présentées à la faculté des sciences de l'université de Paris pour obtenir le grade de docteur ès  sciences physiques ",
         "volume_number": "",
-        "authors": "PERRIER, G.",
+        "authors": "G. PERRIER",
         "publisher": "Imprimerie E. Lanier",
         "publication_place": "CAEN",
         "date": "1896",
@@ -11,19 +11,32 @@
         "iiif_manifest": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k91789k/manifest.json"
     },
     "langue": "fr (French)",
+    "ark": "bpt6k91789k",
+    "typographie_suggestion": {
+        "category": "Serif/Roman",
+        "subtype": "Modern / Didone",
+        "explanation": "The printed text features a high contrast between thick and thin strokes, vertical stress, and small, horizontal serifs. These are characteristic of the \"Modern\" or \"Didone\" style (similar to Bodoni or Didot), which was standard for formal academic and official printing in France during the late 19th century.",
+        "raw": "Based on the provided image, there are two distinct styles of writing. I will identify the primary printed typeface used for the main body of the text.\n\nCategory: Serif/Roman\nSubtype: Modern / Didone\nExplanation: The printed text features a high contrast between thick and thin strokes, vertical stress, and small, horizontal serifs. These are characteristic of the \"Modern\" or \"Didone\" style (similar to Bodoni or Didot), which was standard for formal academic and official printing in France during the late 19th century."
+    },
+    "typographie": {
+        "category": "Serif/Roman",
+        "subtype": "Modern / Didone"
+    },
     "_annotations": {
         "metadata.title": {
-            "lisibilite": "Lisible"
+            "lisibilite": "Lisible",
+            "correction": "Combinaison de chlorure d'aluminium anhydre, avec un certain nombre de composés analogues."
         },
         "metadata.title_complement": {
             "lisibilite": "Lisible",
-            "correction": "Combinaison de chlorure d'aluminium anhydre, avec un certain nombre de composés analogues. - Synthèses de céruise. / Propositions données par la Faculté"
+            "correction": "Thèses présentées à la faculté des sciences de l'université de Paris pour obtenir le grade de docteur ès  sciences physiques "
         },
         "metadata.volume_number": {
             "lisibilite": "Lisible"
         },
         "metadata.authors": {
-            "lisibilite": "Lisible"
+            "lisibilite": "Lisible",
+            "correction": "G. PERRIER"
         },
         "metadata.publisher": {
             "lisibilite": "Lisible"
@@ -36,7 +49,15 @@
         },
         "langue": {
             "lisibilite": "Lisible"
+        },
+        "metadata.identifier": {
+            "lisibilite": "Lisible"
+        },
+        "metadata.iiif_manifest": {
+            "lisibilite": "Lisible"
+        },
+        "ark": {
+            "lisibilite": "Lisible"
         }
-    },
-    "ark": "bpt6k91789k"
+    }
 }

@@ -3,7 +3,7 @@
         "title": "TRAITÉ ÉLÉMENTAIRE DE CHIMIE",
         "title_complement": "FONDÉ SUR LES PRINCIPES DE LA THERMOCHIMIE AVEC EMPLOI DES DONNÉES CALORIMÉTRIQUES",
         "volume_number": "",
-        "authors": "DITTE, Alfred",
+        "authors": "Alfred DITTE",
         "publisher": "DUNOD",
         "publication_place": "PARIS",
         "date": "1884",
@@ -11,6 +11,17 @@
         "iiif_manifest": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k90257b/manifest.json"
     },
     "langue": "fr (French)",
+    "ark": "bpt6k90257b",
+    "typographie_suggestion": {
+        "category": "Serif/Roman",
+        "subtype": "Didone (Modern)",
+        "explanation": "The main title \"DE CHIMIE\" exhibits the high contrast between thick and thin strokes and the vertical stress characteristic of the Didone style, which was prevalent in French printing during the late 18th and 19th centuries.",
+        "raw": "Category: Serif/Roman\nSubtype: Didone (Modern)\nExplanation: The main title \"DE CHIMIE\" exhibits the high contrast between thick and thin strokes and the vertical stress characteristic of the Didone style, which was prevalent in French printing during the late 18th and 19th centuries."
+    },
+    "typographie": {
+        "category": "Serif/Roman",
+        "subtype": "Didone (Modern)"
+    },
     "_annotations": {
         "metadata.title": {
             "lisibilite": "Lisible"
@@ -25,7 +36,7 @@
         "metadata.authors": {
             "lisibilite": "Non lisible",
             "cause": "recouvert",
-            "correction": "DITTE, Alfred"
+            "correction": "Alfred DITTE"
         },
         "metadata.publisher": {
             "lisibilite": "Lisible"
@@ -38,7 +49,15 @@
         },
         "langue": {
             "lisibilite": "Lisible"
+        },
+        "metadata.identifier": {
+            "lisibilite": "Lisible"
+        },
+        "metadata.iiif_manifest": {
+            "lisibilite": "Lisible"
+        },
+        "ark": {
+            "lisibilite": "Lisible"
         }
-    },
-    "ark": "bpt6k90257b"
+    }
 }

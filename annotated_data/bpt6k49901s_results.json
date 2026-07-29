@@ -3,12 +3,24 @@
         "title": "PRÉCIS DE CHIMIE INDUSTRIELLE",
         "title_complement": "",
         "volume_number": "Quatrième Edition",
-        "authors": "PAYEN, A.",
+        "authors": "A. PAYEN",
         "publisher": "LIBRAIRIE DE L. HACHETTE ET Ccie",
         "publication_place": "PARIS",
         "date": "1859",
         "identifier": "http://gallica.bnf.fr/ark:/12148/bpt6k49901s",
         "iiif_manifest": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k49901s/manifest.json"
+    },
+    "langue": "fr (French)",
+    "ark": "bpt6k49901s",
+    "typographie_suggestion": {
+        "category": "Serif/Roman",
+        "subtype": "Didone (Modern)",
+        "explanation": "The typeface features the high contrast between thick and thin strokes, vertical stress, and small, horizontal serifs characteristic of the \"Modern\" or Didone style (similar to Bodoni or Didot), which was prevalent in 19th-century French printing.",
+        "raw": "Category: Serif/Roman\nSubtype: Didone (Modern)\nExplanation: The typeface features the high contrast between thick and thin strokes, vertical stress, and small, horizontal serifs characteristic of the \"Modern\" or Didone style (similar to Bodoni or Didot), which was prevalent in 19th-century French printing."
+    },
+    "typographie": {
+        "category": "Serif/Roman",
+        "subtype": "Didone (Modern)"
     },
     "_annotations": {
         "metadata.title": {
@@ -22,7 +34,8 @@
             "correction": "Quatrième Edition"
         },
         "metadata.authors": {
-            "lisibilite": "Lisible"
+            "lisibilite": "Lisible",
+            "correction": "A. PAYEN"
         },
         "metadata.publisher": {
             "lisibilite": "Lisible"
@@ -36,8 +49,15 @@
         },
         "langue": {
             "lisibilite": "Lisible"
+        },
+        "metadata.identifier": {
+            "lisibilite": "Lisible"
+        },
+        "metadata.iiif_manifest": {
+            "lisibilite": "Lisible"
+        },
+        "ark": {
+            "lisibilite": "Lisible"
         }
-    },
-    "langue": "fr (French)",
-    "ark": "bpt6k49901s"
+    }
 }

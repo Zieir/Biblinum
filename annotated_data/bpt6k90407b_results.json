@@ -3,7 +3,7 @@
         "title": "THE NEW CHEMISTRY",
         "title_complement": "",
         "volume_number": "",
-        "authors": "COOKE, Josiah Parsons",
+        "authors": "Josiah Parsons COOKE",
         "publisher": "KEGAN PAUL, TRENCH, & CO",
         "publication_place": "LONDON",
         "date": "1887",
@@ -11,6 +11,17 @@
         "iiif_manifest": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k90407b/manifest.json"
     },
     "langue": "en (English)",
+    "ark": "bpt6k90407b",
+    "typographie_suggestion": {
+        "category": "Serif/Roman",
+        "subtype": "Modern (Didone)",
+        "explanation": "The typeface features a high contrast between thick and thin strokes, vertical stress, and small, horizontal serifs, which are characteristic of the Modern/Didone style prevalent in 19th-century printing.",
+        "raw": "Category: Serif/Roman\nSubtype: Modern (Didone)\nExplanation: The typeface features a high contrast between thick and thin strokes, vertical stress, and small, horizontal serifs, which are characteristic of the Modern/Didone style prevalent in 19th-century printing."
+    },
+    "typographie": {
+        "category": "Serif/Roman",
+        "subtype": "Modern (Didone)"
+    },
     "_annotations": {
         "metadata.title": {
             "lisibilite": "Non lisible",
@@ -26,7 +37,8 @@
             "cause": "absent"
         },
         "metadata.authors": {
-            "lisibilite": "Lisible"
+            "lisibilite": "Lisible",
+            "correction": "Josiah Parsons COOKE"
         },
         "metadata.publisher": {
             "lisibilite": "Lisible"
@@ -39,7 +51,15 @@
         },
         "langue": {
             "lisibilite": "Lisible"
+        },
+        "metadata.identifier": {
+            "lisibilite": "Lisible"
+        },
+        "metadata.iiif_manifest": {
+            "lisibilite": "Lisible"
+        },
+        "ark": {
+            "lisibilite": "Lisible"
         }
-    },
-    "ark": "bpt6k90407b"
+    }
 }

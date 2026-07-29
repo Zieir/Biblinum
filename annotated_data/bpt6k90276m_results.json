@@ -3,7 +3,7 @@
         "title": "PHILOSOPHIE CHIMIQUE",
         "title_complement": "OU VÉRITÉS FONDAMENTALES DE LA CHIMIE MODERNE, Disposées dans un nouvel ordre",
         "volume_number": "",
-        "authors": "FOURCROY, A. F.",
+        "authors": "A. F. FOURCROY",
         "publisher": "CHEZ DU PONT IMPRIMEUR-LIBRAIRE",
         "publication_place": "PARIS",
         "date": "1795",
@@ -11,6 +11,17 @@
         "iiif_manifest": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k90276m/manifest.json"
     },
     "langue": "fr (French)",
+    "ark": "bpt6k90276m",
+    "typographie_suggestion": {
+        "category": "Serif/Roman",
+        "subtype": "Transitional / Didone",
+        "explanation": "The typeface features a strong contrast between thick and thin strokes, vertical stress, and horizontal serifs, which are characteristic of the late 18th-century transition from Old Style to the more rigid Modern (Didone) styles common in French printing of that era.",
+        "raw": "Category: Serif/Roman\nSubtype: Transitional / Didone\nExplanation: The typeface features a strong contrast between thick and thin strokes, vertical stress, and horizontal serifs, which are characteristic of the late 18th-century transition from Old Style to the more rigid Modern (Didone) styles common in French printing of that era."
+    },
+    "typographie": {
+        "category": "Serif/Roman",
+        "subtype": "Transitional / Didone"
+    },
     "_annotations": {
         "metadata.title": {
             "lisibilite": "Lisible"
@@ -25,7 +36,7 @@
         "metadata.authors": {
             "lisibilite": "Non lisible",
             "cause": "recouvert",
-            "correction": "FOURCROY, A. F."
+            "correction": "A. F. FOURCROY"
         },
         "metadata.publisher": {
             "lisibilite": "Lisible"
@@ -39,7 +50,15 @@
         "langue": {
             "lisibilite": "Lisible"
         },
-        "_note": "Date : L'an 3 de la république est l'année (1974-1975) incohérence avec annotation  humaine"
-    },
-    "ark": "bpt6k90276m"
+        "_note": "Date : L'an 3 de la république est l'année (1974-1975) incohérence avec annotation  humaine",
+        "metadata.identifier": {
+            "lisibilite": "Lisible"
+        },
+        "metadata.iiif_manifest": {
+            "lisibilite": "Lisible"
+        },
+        "ark": {
+            "lisibilite": "Lisible"
+        }
+    }
 }

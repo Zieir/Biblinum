@@ -3,7 +3,7 @@
         "title": "SUR LES ALCALOÏDES",
         "title_complement": "DÉRIVÉS DE LA DESTRUCTION BACTERIENNE OU PHYSIOLOGIQUE DES TISSUS ANIMAUX PTOMAÏNES ET LEUCOMAÏNES",
         "volume_number": "",
-        "authors": "GUTIER, Armand",
+        "authors": "Armand GUTIER",
         "publisher": "G. MASON, ÉDITEUR",
         "publication_place": "PARIS",
         "date": "1886",
@@ -11,6 +11,17 @@
         "iiif_manifest": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k91799w/manifest.json"
     },
     "langue": "fr (French)",
+    "ark": "bpt6k91799w",
+    "typographie_suggestion": {
+        "category": "Serif/Roman",
+        "subtype": "Didone (Modern)",
+        "explanation": "The typeface features a high contrast between thick and thin strokes, vertical stress, and thin, horizontal serifs, which are the defining characteristics of the Didone style (popularized by Didot and Bodoni) common in 19th-century academic and formal printing.",
+        "raw": "Category: Serif/Roman\nSubtype: Didone (Modern)\nExplanation: The typeface features a high contrast between thick and thin strokes, vertical stress, and thin, horizontal serifs, which are the defining characteristics of the Didone style (popularized by Didot and Bodoni) common in 19th-century academic and formal printing."
+    },
+    "typographie": {
+        "category": "Serif/Roman",
+        "subtype": "Didone (Modern)"
+    },
     "_annotations": {
         "metadata.title": {
             "lisibilite": "Lisible",
@@ -26,7 +37,7 @@
         "metadata.authors": {
             "lisibilite": "Non lisible",
             "cause": "recouvert",
-            "correction": "GUTIER, Armand"
+            "correction": "Armand GUTIER"
         },
         "metadata.publisher": {
             "lisibilite": "Lisible"
@@ -39,7 +50,15 @@
         },
         "langue": {
             "lisibilite": "Lisible"
+        },
+        "metadata.identifier": {
+            "lisibilite": "Lisible"
+        },
+        "metadata.iiif_manifest": {
+            "lisibilite": "Lisible"
+        },
+        "ark": {
+            "lisibilite": "Lisible"
         }
-    },
-    "ark": "bpt6k91799w"
+    }
 }

@@ -3,7 +3,7 @@
         "title": "MANUEL DE MINÉRALOGIE",
         "title_complement": "",
         "volume_number": "",
-        "authors": "CLOIZEAUX, A. des",
+        "authors": "A. des CLOIZEAUX",
         "publisher": "DUNOD, ÉDITEUR",
         "publication_place": "PARIS",
         "date": "1862",
@@ -11,6 +11,17 @@
         "iiif_manifest": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k917558/manifest.json"
     },
     "langue": "fr (French)",
+    "ark": "bpt6k917558",
+    "typographie_suggestion": {
+        "category": "Serif/Roman",
+        "subtype": "Didone (Modern)",
+        "explanation": "The typography features the high contrast between thick and thin strokes and vertical stress characteristic of the Didone style (similar to Bodoni or Didot), which was prevalent in French publishing during the 19th century.",
+        "raw": "Category: Serif/Roman\nSubtype: Didone (Modern)\nExplanation: The typography features the high contrast between thick and thin strokes and vertical stress characteristic of the Didone style (similar to Bodoni or Didot), which was prevalent in French publishing during the 19th century."
+    },
+    "typographie": {
+        "category": "Serif/Roman",
+        "subtype": "Didone (Modern)"
+    },
     "_annotations": {
         "metadata.title": {
             "lisibilite": "Lisible"
@@ -24,7 +35,8 @@
             "cause": "absent"
         },
         "metadata.authors": {
-            "lisibilite": "Lisible"
+            "lisibilite": "Lisible",
+            "correction": "A. des CLOIZEAUX"
         },
         "metadata.publisher": {
             "lisibilite": "Non lisible",
@@ -39,7 +51,15 @@
         },
         "langue": {
             "lisibilite": "Lisible"
+        },
+        "metadata.identifier": {
+            "lisibilite": "Lisible"
+        },
+        "metadata.iiif_manifest": {
+            "lisibilite": "Lisible"
+        },
+        "ark": {
+            "lisibilite": "Lisible"
         }
-    },
-    "ark": "bpt6k917558"
+    }
 }

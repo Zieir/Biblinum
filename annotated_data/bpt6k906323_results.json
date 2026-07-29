@@ -3,7 +3,7 @@
         "title": "MANIPULATIONS DE CHIMIE",
         "title_complement": "PRÉPARATIONS ET ANALYSES",
         "volume_number": "",
-        "authors": "ÉTAIX, L.",
+        "authors": "L. ÉTAIX",
         "publisher": "LIBRAIRIE J.-B. BAILLIÈRE ET FILS",
         "publication_place": "PARIS",
         "date": "1897",
@@ -11,6 +11,17 @@
         "iiif_manifest": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k906323/manifest.json"
     },
     "langue": "fr (French)",
+    "ark": "bpt6k906323",
+    "typographie_suggestion": {
+        "category": "Serif/Roman",
+        "subtype": "Didone (Modern)",
+        "explanation": "The typeface features the high contrast between thick and thin strokes, vertical stress, and small, horizontal serifs characteristic of the \"Modern\" or Didone style (similar to Bodoni or Didot), which was the standard for academic and scientific publishing in France during the late 19th century.",
+        "raw": "Based on the primary title \"MANIPULATIONS DE CHIMIE\" and the general layout of the page:\n\nCategory: Serif/Roman\nSubtype: Didone (Modern)\nExplanation: The typeface features the high contrast between thick and thin strokes, vertical stress, and small, horizontal serifs characteristic of the \"Modern\" or Didone style (similar to Bodoni or Didot), which was the standard for academic and scientific publishing in France during the late 19th century."
+    },
+    "typographie": {
+        "category": "Serif/Roman",
+        "subtype": "Didone (Modern)"
+    },
     "_annotations": {
         "metadata.title": {
             "lisibilite": "Lisible"
@@ -23,7 +34,8 @@
             "cause": "absent"
         },
         "metadata.authors": {
-            "lisibilite": "Lisible"
+            "lisibilite": "Lisible",
+            "correction": "L. ÉTAIX"
         },
         "metadata.publisher": {
             "lisibilite": "Lisible"
@@ -36,7 +48,15 @@
         },
         "langue": {
             "lisibilite": "Lisible"
+        },
+        "metadata.identifier": {
+            "lisibilite": "Lisible"
+        },
+        "metadata.iiif_manifest": {
+            "lisibilite": "Lisible"
+        },
+        "ark": {
+            "lisibilite": "Lisible"
         }
-    },
-    "ark": "bpt6k906323"
+    }
 }

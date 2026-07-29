@@ -1,45 +1,67 @@
 {
     "metadata": {
-        "title": "Researches",
-        "title_complement": "on the Affinities of the Elements",
+        "title": "Researches on the Affinities of the Elements",
+        "title_complement": "and on the causes of the chimical similarity or dissimilarity of elements and compounds ",
         "volume_number": "",
-        "authors": "MARTIN, Geoffrey",
-        "publisher": "",
-        "publication_place": "",
-        "date": "",
+        "authors": "Geoffrey MARTIN",
+        "publisher": "J. & A. CHURCHILL",
+        "publication_place": "LONDON",
+        "date": "1905",
         "identifier": "http://gallica.bnf.fr/ark:/12148/bpt6k900224",
         "iiif_manifest": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k900224/manifest.json"
     },
     "langue": "en (English)",
+    "ark": "bpt6k900224",
+    "typographie_suggestion": {
+        "category": "Serif/Roman",
+        "subtype": "Old Style",
+        "explanation": "The typeface features moderate contrast between thick and thin strokes, slanted serifs, and a humanist influence typical of early printing presses (similar to Garamond or Caslon), which is characteristic of the Old Style classification.",
+        "raw": "Category: Serif/Roman\nSubtype: Old Style\nExplanation: The typeface features moderate contrast between thick and thin strokes, slanted serifs, and a humanist influence typical of early printing presses (similar to Garamond or Caslon), which is characteristic of the Old Style classification."
+    },
+    "typographie": {
+        "category": "Serif/Roman",
+        "subtype": "Old Style"
+    },
     "_annotations": {
         "metadata.title": {
-            "lisibilite": "Lisible"
+            "lisibilite": "Lisible",
+            "correction": "Researches on the Affinities of the Elements"
         },
         "metadata.title_complement": {
-            "lisibilite": "Lisible"
+            "lisibilite": "Lisible",
+            "correction": "and on the causes of the chimical similarity or dissimilarity of elements and compounds "
         },
         "metadata.volume_number": {
             "lisibilite": "Non lisible",
             "cause": "absent"
         },
         "metadata.authors": {
-            "lisibilite": "Lisible"
+            "lisibilite": "Lisible",
+            "correction": "Geoffrey MARTIN"
         },
         "metadata.publisher": {
-            "lisibilite": "Non lisible",
-            "cause": "absent"
+            "lisibilite": "Lisible",
+            "correction": "J. & A. CHURCHILL"
         },
         "metadata.publication_place": {
-            "lisibilite": "Non lisible",
-            "cause": "absent"
+            "lisibilite": "Lisible",
+            "correction": "LONDON"
         },
         "metadata.date": {
-            "lisibilite": "Non lisible",
-            "cause": "absent"
+            "lisibilite": "Lisible",
+            "correction": "1905"
         },
         "langue": {
             "lisibilite": "Lisible"
+        },
+        "metadata.identifier": {
+            "lisibilite": "Lisible"
+        },
+        "metadata.iiif_manifest": {
+            "lisibilite": "Lisible"
+        },
+        "ark": {
+            "lisibilite": "Lisible"
         }
-    },
-    "ark": "bpt6k900224"
+    }
 }

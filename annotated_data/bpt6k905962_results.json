@@ -11,6 +11,17 @@
         "iiif_manifest": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k905962/manifest.json"
     },
     "langue": "fr (French)",
+    "ark": "bpt6k905962",
+    "typographie_suggestion": {
+        "category": "Script",
+        "subtype": "Cursive / Copperplate influence",
+        "explanation": "The text is written in a fluid, connected handwriting style characteristic of 19th-century formal penmanship. It features a strong contrast between thick downstrokes and thin upstrokes, as well as decorative flourishes (swashes) on the capital letters, typical of the Copperplate or Spencerian traditions used in academic and official documents of that era.",
+        "raw": "Category: Script\nSubtype: Cursive / Copperplate influence\nExplanation: The text is written in a fluid, connected handwriting style characteristic of 19th-century formal penmanship. It features a strong contrast between thick downstrokes and thin upstrokes, as well as decorative flourishes (swashes) on the capital letters, typical of the Copperplate or Spencerian traditions used in academic and official documents of that era."
+    },
+    "typographie": {
+        "category": "Script",
+        "subtype": "Cursive / Copperplate influence"
+    },
     "_annotations": {
         "metadata.title": {
             "lisibilite": "Lisible"
@@ -36,11 +47,20 @@
             "cause": "absent"
         },
         "metadata.date": {
-            "lisibilite": "Lisible"
+            "lisibilite": "Lisible",
+            "correction": "1870"
         },
         "langue": {
             "lisibilite": "Lisible"
+        },
+        "metadata.identifier": {
+            "lisibilite": "Lisible"
+        },
+        "metadata.iiif_manifest": {
+            "lisibilite": "Lisible"
+        },
+        "ark": {
+            "lisibilite": "Lisible"
         }
-    },
-    "ark": "bpt6k905962"
+    }
 }

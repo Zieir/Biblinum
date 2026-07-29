@@ -3,7 +3,7 @@
         "title": "LEÇONS DE CHIMIE",
         "title_complement": "A L'USAGE DES ÉLÈVES DE MATHÉMATIQUES SPÉCIALES",
         "volume_number": "",
-        "authors": "GAUTIER, Henri ; CHARPY, Georges",
+        "authors": "Henri  GAUTIER; Georges CHARPY",
         "publisher": "GAUTHIER-VILLARS",
         "publication_place": "PARIS",
         "date": "1905",
@@ -11,6 +11,17 @@
         "iiif_manifest": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k904467/manifest.json"
     },
     "langue": "fr (French)",
+    "ark": "bpt6k904467",
+    "typographie_suggestion": {
+        "category": "Serif/Roman",
+        "subtype": "Didone (Modern)",
+        "explanation": "The typeface features the characteristic high contrast between thick and thin strokes, vertical stress, and thin, horizontal serifs typical of the \"Modern\" or Didone style (similar to Bodoni or Didot), which was prevalent in French printing during the 19th and early 20th centuries.",
+        "raw": "Category: Serif/Roman\nSubtype: Didone (Modern)\nExplanation: The typeface features the characteristic high contrast between thick and thin strokes, vertical stress, and thin, horizontal serifs typical of the \"Modern\" or Didone style (similar to Bodoni or Didot), which was prevalent in French printing during the 19th and early 20th centuries."
+    },
+    "typographie": {
+        "category": "Serif/Roman",
+        "subtype": "Didone (Modern)"
+    },
     "_annotations": {
         "metadata.title": {
             "lisibilite": "Lisible"
@@ -23,7 +34,8 @@
             "cause": "absent"
         },
         "metadata.authors": {
-            "lisibilite": "Lisible"
+            "lisibilite": "Lisible",
+            "correction": "Henri  GAUTIER; Georges CHARPY"
         },
         "metadata.publisher": {
             "lisibilite": "Lisible"
@@ -36,7 +48,15 @@
         },
         "langue": {
             "lisibilite": "Lisible"
+        },
+        "metadata.identifier": {
+            "lisibilite": "Lisible"
+        },
+        "metadata.iiif_manifest": {
+            "lisibilite": "Lisible"
+        },
+        "ark": {
+            "lisibilite": "Lisible"
         }
-    },
-    "ark": "bpt6k904467"
+    }
 }

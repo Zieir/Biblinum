@@ -2,15 +2,26 @@
     "metadata": {
         "title": "CHYMIE EXPERIMENTALE",
         "title_complement": "ET RAISONNEE",
-        "volume_number": "TOME III",
-        "authors": "",
-        "publisher": "",
+        "volume_number": "TOME TROISIÈME",
+        "authors": "BAUMÉ",
+        "publisher": "P. Franç. DIDOT LE JEUNE",
         "publication_place": "PARIS",
-        "date": "",
+        "date": "1773",
         "identifier": "http://gallica.bnf.fr/ark:/12148/bpt6k91694w",
         "iiif_manifest": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k91694w/manifest.json"
     },
     "langue": "fr (French)",
+    "ark": "bpt6k91694w",
+    "typographie_suggestion": {
+        "category": "Serif/Roman",
+        "subtype": "Didone (Modern)",
+        "explanation": "The typeface exhibits the hallmarks of the \"Modern\" or Didone style, characterized by an extreme contrast between thick and thin strokes, vertical stress, and thin, horizontal serifs. This specific look is characteristic of the Didot family, who were the official printers to the King of France during this era.",
+        "raw": "Category: Serif/Roman\nSubtype: Didone (Modern)\nExplanation: The typeface exhibits the hallmarks of the \"Modern\" or Didone style, characterized by an extreme contrast between thick and thin strokes, vertical stress, and thin, horizontal serifs. This specific look is characteristic of the Didot family, who were the official printers to the King of France during this era."
+    },
+    "typographie": {
+        "category": "Serif/Roman",
+        "subtype": "Didone (Modern)"
+    },
     "_annotations": {
         "metadata.title": {
             "lisibilite": "Lisible",
@@ -21,26 +32,35 @@
             "correction": "ET RAISONNEE"
         },
         "metadata.volume_number": {
-            "lisibilite": "Lisible"
+            "lisibilite": "Lisible",
+            "correction": "TOME TROISIÈME"
         },
         "metadata.authors": {
-            "lisibilite": "Non lisible",
-            "cause": "absent"
+            "lisibilite": "Lisible",
+            "correction": "BAUMÉ"
         },
         "metadata.publisher": {
-            "lisibilite": "Non lisible",
-            "cause": "absent"
+            "lisibilite": "Lisible",
+            "correction": "P. Franç. DIDOT LE JEUNE"
         },
         "metadata.publication_place": {
             "lisibilite": "Lisible"
         },
         "metadata.date": {
-            "lisibilite": "Non lisible",
-            "cause": "absent"
+            "lisibilite": "Lisible",
+            "correction": "1773"
         },
         "langue": {
             "lisibilite": "Lisible"
+        },
+        "metadata.identifier": {
+            "lisibilite": "Lisible"
+        },
+        "metadata.iiif_manifest": {
+            "lisibilite": "Lisible"
+        },
+        "ark": {
+            "lisibilite": "Lisible"
         }
-    },
-    "ark": "bpt6k91694w"
+    }
 }

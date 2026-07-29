@@ -3,7 +3,7 @@
         "title": "THE ELECTRON IN CHEMISTRY",
         "title_complement": "BEING FIVE LECTURES DELIVERED AT THE FRANKLIN INSTITUTE, PHILADELPHIA",
         "volume_number": "",
-        "authors": "THOMSON, J. J.",
+        "authors": "J. J. THOMSON",
         "publisher": "THE FRANKLIN INSTITUTE",
         "publication_place": "PHILADELPHIA",
         "date": "1923",
@@ -11,6 +11,17 @@
         "iiif_manifest": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k90288m/manifest.json"
     },
     "langue": "en (English)",
+    "ark": "bpt6k90288m",
+    "typographie_suggestion": {
+        "category": "Serif/Roman",
+        "subtype": "Transitional / Modern",
+        "explanation": "The typeface features a strong contrast between thick and thin strokes with horizontal serifs, characteristic of the transitional and modern styles (similar to Baskerville or Bodoni) common in early 20th-century academic publishing.",
+        "raw": "Category: Serif/Roman\nSubtype: Transitional / Modern\nExplanation: The typeface features a strong contrast between thick and thin strokes with horizontal serifs, characteristic of the transitional and modern styles (similar to Baskerville or Bodoni) common in early 20th-century academic publishing."
+    },
+    "typographie": {
+        "category": "Serif/Roman",
+        "subtype": "Transitional / Modern"
+    },
     "_annotations": {
         "metadata.title": {
             "lisibilite": "Lisible"
@@ -24,7 +35,7 @@
         },
         "metadata.authors": {
             "lisibilite": "Lisible",
-            "correction": "THOMSON, J. J."
+            "correction": "J. J. THOMSON"
         },
         "metadata.publisher": {
             "lisibilite": "Lisible"
@@ -37,7 +48,15 @@
         },
         "langue": {
             "lisibilite": "Lisible"
+        },
+        "metadata.identifier": {
+            "lisibilite": "Lisible"
+        },
+        "metadata.iiif_manifest": {
+            "lisibilite": "Lisible"
+        },
+        "ark": {
+            "lisibilite": "Lisible"
         }
-    },
-    "ark": "bpt6k90288m"
+    }
 }

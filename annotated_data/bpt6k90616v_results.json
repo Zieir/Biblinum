@@ -3,7 +3,7 @@
         "title": "ÉTUDE GÉNÉRALE DES SELS",
         "title_complement": "SELS TERNAIRES OXYGÉNÉS",
         "volume_number": "DEUXIÈME PARTIE",
-        "authors": "DITTE, Alfred",
+        "authors": "ALFRED DITTE",
         "publisher": "H. DUNOD ET E. PINAT",
         "publication_place": "PARIS",
         "date": "1906",
@@ -11,6 +11,17 @@
         "iiif_manifest": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k90616v/manifest.json"
     },
     "langue": "fr (French)",
+    "ark": "bpt6k90616v",
+    "typographie_suggestion": {
+        "category": "Serif/Roman",
+        "subtype": "Slab Serif (Egyptian)",
+        "explanation": "The typeface features heavy, block-like serifs with little to no bracketing between the serif and the stem, characteristic of the Slab Serif style common in late 19th and early 20th-century academic and technical printing.",
+        "raw": "Category: Serif/Roman\nSubtype: Slab Serif (Egyptian)\nExplanation: The typeface features heavy, block-like serifs with little to no bracketing between the serif and the stem, characteristic of the Slab Serif style common in late 19th and early 20th-century academic and technical printing."
+    },
+    "typographie": {
+        "category": "Serif/Roman",
+        "subtype": "Slab Serif (Egyptian)"
+    },
     "_annotations": {
         "metadata.title": {
             "lisibilite": "Lisible"
@@ -22,7 +33,8 @@
             "lisibilite": "Lisible"
         },
         "metadata.authors": {
-            "lisibilite": "Lisible"
+            "lisibilite": "Lisible",
+            "correction": "ALFRED DITTE"
         },
         "metadata.publisher": {
             "lisibilite": "Lisible"
@@ -35,7 +47,15 @@
         },
         "langue": {
             "lisibilite": "Lisible"
+        },
+        "metadata.identifier": {
+            "lisibilite": "Lisible"
+        },
+        "metadata.iiif_manifest": {
+            "lisibilite": "Lisible"
+        },
+        "ark": {
+            "lisibilite": "Lisible"
         }
-    },
-    "ark": "bpt6k90616v"
+    }
 }

@@ -1,9 +1,9 @@
 {
     "metadata": {
         "title": "COURS ÉLÉMENTAIRE DE CHIMIE",
-        "title_complement": "",
+        "title_complement": "à l'usage des facultés, des établissements d'enseignement secondaire, des écoles normales et des écoles industrielles",
         "volume_number": "TOME QUATRIÈME",
-        "authors": "REGNAULT, V.",
+        "authors": "V. REGNAULT",
         "publisher": "VICTOR MASSON ET FILS ; GARNIER FRÈRES",
         "publication_place": "PARIS",
         "date": "1869",
@@ -11,20 +11,31 @@
         "iiif_manifest": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k90294j/manifest.json"
     },
     "langue": "fr (French)",
+    "ark": "bpt6k90294j",
+    "typographie_suggestion": {
+        "category": "Serif/Roman",
+        "subtype": "Didone (Modern)",
+        "explanation": "The typeface features the high contrast between thick and thin strokes, vertical stress, and thin, horizontal serifs characteristic of the \"Modern\" or Didone style (similar to Didot or Bodoni), which was the standard for academic and formal French printing in the 19th century.",
+        "raw": "Based on the primary text (specifically the title \"DE CHIMIE\" and the author's name), here is the identification:\n\nCategory: Serif/Roman\nSubtype: Didone (Modern)\nExplanation: The typeface features the high contrast between thick and thin strokes, vertical stress, and thin, horizontal serifs characteristic of the \"Modern\" or Didone style (similar to Didot or Bodoni), which was the standard for academic and formal French printing in the 19th century."
+    },
+    "typographie": {
+        "category": "Serif/Roman",
+        "subtype": "Didone (Modern)"
+    },
     "_annotations": {
         "metadata.title": {
             "lisibilite": "Lisible"
         },
         "metadata.title_complement": {
-            "lisibilite": "Non lisible",
-            "cause": "absent"
+            "lisibilite": "Lisible",
+            "correction": "à l'usage des facultés, des établissements d'enseignement secondaire, des écoles normales et des écoles industrielles"
         },
         "metadata.volume_number": {
             "lisibilite": "Lisible"
         },
         "metadata.authors": {
             "lisibilite": "Lisible",
-            "correction": "REGNAULT, V."
+            "correction": "V. REGNAULT"
         },
         "metadata.publisher": {
             "lisibilite": "Lisible"
@@ -37,7 +48,15 @@
         },
         "langue": {
             "lisibilite": "Lisible"
+        },
+        "metadata.identifier": {
+            "lisibilite": "Lisible"
+        },
+        "metadata.iiif_manifest": {
+            "lisibilite": "Lisible"
+        },
+        "ark": {
+            "lisibilite": "Lisible"
         }
-    },
-    "ark": "bpt6k90294j"
+    }
 }

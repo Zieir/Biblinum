@@ -3,7 +3,7 @@
         "title": "L'EAU",
         "title_complement": "",
         "volume_number": "",
-        "authors": "TISSANDIER, G.",
+        "authors": "G. TISSANDIER",
         "publisher": "",
         "publication_place": "",
         "date": "",
@@ -11,6 +11,17 @@
         "iiif_manifest": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k90282j/manifest.json"
     },
     "langue": "fr (French)",
+    "ark": "bpt6k90282j",
+    "typographie_suggestion": {
+        "category": "Serif/Roman",
+        "subtype": "Didone (Modern)",
+        "explanation": "The typeface features a strong contrast between thick and thin strokes, vertical stress, and thin, horizontal serifs, which are the defining characteristics of the Didone style (similar to Bodoni or Didot).",
+        "raw": "Since the image contains multiple styles of text, I will identify the primary printed typeface used for the main titles (\"BIBLIOTHÈQUE DES MERVEILLES\" and \"L'EAU\").\n\nCategory: Serif/Roman\nSubtype: Didone (Modern)\nExplanation: The typeface features a strong contrast between thick and thin strokes, vertical stress, and thin, horizontal serifs, which are the defining characteristics of the Didone style (similar to Bodoni or Didot)."
+    },
+    "typographie": {
+        "category": "Serif/Roman",
+        "subtype": "Didone (Modern)"
+    },
     "_annotations": {
         "metadata.title": {
             "lisibilite": "Lisible"
@@ -26,7 +37,7 @@
         "metadata.authors": {
             "lisibilite": "Non lisible",
             "cause": "manuscrit",
-            "correction": "TISSANDIER, G."
+            "correction": "G. TISSANDIER"
         },
         "metadata.publisher": {
             "lisibilite": "Non lisible",
@@ -43,7 +54,15 @@
         },
         "langue": {
             "lisibilite": "Lisible"
+        },
+        "metadata.identifier": {
+            "lisibilite": "Lisible"
+        },
+        "metadata.iiif_manifest": {
+            "lisibilite": "Lisible"
+        },
+        "ark": {
+            "lisibilite": "Lisible"
         }
-    },
-    "ark": "bpt6k90282j"
+    }
 }

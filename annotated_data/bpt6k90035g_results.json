@@ -3,7 +3,7 @@
         "title": "DIE SCHULE DER CHEMIE",
         "title_complement": "Erste Einführung in der Chemie für jedermann",
         "volume_number": "",
-        "authors": "OSTWALD, Wilhelm",
+        "authors": "Wilhelm OSTWALD",
         "publisher": "Fried. Vieweg & Sohn Akt.-Ges.",
         "publication_place": "Braunschweig",
         "date": "1937",
@@ -11,32 +11,46 @@
         "iiif_manifest": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k90035g/manifest.json"
     },
     "langue": "de (German)",
+    "ark": "bpt6k90035g",
+    "typographie": {
+        "category": "Serif (Roman)",
+        "subtype": "Transitional Serif"
+    },
     "_annotations": {
         "metadata.title": {
             "lisibilite": "Lisible"
         },
         "metadata.title_complement": {
-            "lisibilite": "Lisible",
+            "lisibilite": "Lisible"
         },
         "metadata.volume_number": {
             "lisibilite": "Non lisible",
             "cause": "absent"
         },
         "metadata.authors": {
-            "lisibilite": "Lisible"
+            "lisibilite": "Lisible",
+            "correction": "Wilhelm OSTWALD"
         },
         "metadata.publisher": {
-            "lisibilite": "Lisible",
+            "lisibilite": "Lisible"
         },
         "metadata.publication_place": {
-            "lisibilite": "Lisible",
+            "lisibilite": "Lisible"
         },
         "metadata.date": {
-            "lisibilite": "Lisible",
+            "lisibilite": "Lisible"
         },
         "langue": {
             "lisibilite": "Lisible"
+        },
+        "metadata.identifier": {
+            "lisibilite": "Lisible"
+        },
+        "metadata.iiif_manifest": {
+            "lisibilite": "Lisible"
+        },
+        "ark": {
+            "lisibilite": "Lisible"
         }
-    },
-    "ark": "bpt6k90035g"
+    }
 }

@@ -3,7 +3,7 @@
         "title": "Cours de Chimie",
         "title_complement": "",
         "volume_number": "1re Leçon",
-        "authors": "Charpy, G.",
+        "authors": "G. Charpy",
         "publisher": "Ecole Polytechnique",
         "publication_place": "",
         "date": "1925",
@@ -11,6 +11,17 @@
         "iiif_manifest": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k90603h/manifest.json"
     },
     "langue": "fr (French)",
+    "ark": "bpt6k90603h",
+    "typographie_suggestion": {
+        "category": "Script",
+        "subtype": "Cursive / Handwritten",
+        "explanation": "The text is not a formal typeface but a handwritten manuscript. It features connected characters, fluid strokes, and variable line weights characteristic of natural penmanship from the early 20th century.",
+        "raw": "Category: Script\nSubtype: Cursive / Handwritten\nExplanation: The text is not a formal typeface but a handwritten manuscript. It features connected characters, fluid strokes, and variable line weights characteristic of natural penmanship from the early 20th century."
+    },
+    "typographie": {
+        "category": "Script",
+        "subtype": "Cursive / Handwritten"
+    },
     "_annotations": {
         "metadata.title": {
             "lisibilite": "Lisible"
@@ -24,7 +35,7 @@
         },
         "metadata.authors": {
             "lisibilite": "Lisible",
-            "correction": "Charpy, G."
+            "correction": "G. Charpy"
         },
         "metadata.publisher": {
             "lisibilite": "Lisible"
@@ -38,7 +49,15 @@
         },
         "langue": {
             "lisibilite": "Lisible"
+        },
+        "metadata.identifier": {
+            "lisibilite": "Lisible"
+        },
+        "metadata.iiif_manifest": {
+            "lisibilite": "Lisible"
+        },
+        "ark": {
+            "lisibilite": "Lisible"
         }
-    },
-    "ark": "bpt6k90603h"
+    }
 }

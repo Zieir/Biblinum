@@ -1,48 +1,66 @@
 {
     "metadata": {
         "title": "PRÉCIS DE CHIMIE INDUSTRIELLE",
-        "title_complement": "",
+        "title_complement": "à l'usage des écoles préparatoires aux professions industrielles, des fabricants et des agriculteurs",
         "volume_number": "",
-        "authors": "",
-        "publisher": "",
-        "publication_place": "",
-        "date": "",
+        "authors": "A. PAYEN",
+        "publisher": "L. Hachette",
+        "publication_place": "PARIS",
+        "date": "1855",
         "identifier": "http://gallica.bnf.fr/ark:/12148/bpt6k91894f",
         "iiif_manifest": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k91894f/manifest.json"
     },
     "langue": "fr (French)",
+    "ark": "bpt6k91894f",
+    "typographie_suggestion": {
+        "category": "Serif/Roman",
+        "subtype": "Modern (Didone)",
+        "explanation": "The main title \"CHIMIE INDUSTRIELLE\" exhibits the classic characteristics of the Modern/Didone style: a high contrast between thick and thin strokes, vertical stress, and small, unbracketed (flat) serifs.",
+        "raw": "Category: Serif/Roman\nSubtype: Modern (Didone)\nExplanation: The main title \"CHIMIE INDUSTRIELLE\" exhibits the classic characteristics of the Modern/Didone style: a high contrast between thick and thin strokes, vertical stress, and small, unbracketed (flat) serifs."
+    },
+    "typographie": {
+        "category": "Serif/Roman",
+        "subtype": "Modern (Didone)"
+    },
     "_annotations": {
         "metadata.title": {
             "lisibilite": "Lisible"
         },
         "metadata.title_complement": {
-            "lisibilite": "Non lisible",
-            "cause": "absent",
-            "correction": ""
+            "lisibilite": "Lisible",
+            "correction": "à l'usage des écoles préparatoires aux professions industrielles, des fabricants et des agriculteurs"
         },
         "metadata.volume_number": {
             "lisibilite": "Non lisible",
             "cause": "absent"
         },
         "metadata.authors": {
-            "lisibilite": "Non lisible",
-            "cause": "absent"
+            "lisibilite": "Lisible",
+            "correction": "A. PAYEN"
         },
         "metadata.publisher": {
-            "lisibilite": "Non lisible",
-            "cause": "absent"
+            "lisibilite": "Lisible",
+            "correction": "L. Hachette"
         },
         "metadata.publication_place": {
-            "lisibilite": "Non lisible",
-            "cause": "absent"
+            "lisibilite": "Lisible",
+            "correction": "PARIS"
         },
         "metadata.date": {
-            "lisibilite": "Non lisible",
-            "cause": "absent"
+            "lisibilite": "Lisible",
+            "correction": "1855"
         },
         "langue": {
             "lisibilite": "Lisible"
+        },
+        "metadata.identifier": {
+            "lisibilite": "Lisible"
+        },
+        "metadata.iiif_manifest": {
+            "lisibilite": "Lisible"
+        },
+        "ark": {
+            "lisibilite": "Lisible"
         }
-    },
-    "ark": "bpt6k91894f"
+    }
 }

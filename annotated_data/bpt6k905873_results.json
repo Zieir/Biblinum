@@ -1,9 +1,9 @@
 {
     "metadata": {
-        "title": "RAPPORT ANNUEL SUR LES PROGRÈS DES SCIENCES",
-        "title_complement": "PHYSIQUES ET CHIMIQUES",
+        "title": "RAPPORT ANNUEL SUR LES PROGRÈS DES SCIENCES PHYSIQUES ET CHIMIQUES",
+        "title_complement": "présenté le 31 mars 1840 à l'Académie royale des sciences de Stockholm",
         "volume_number": "",
-        "authors": "BERZELIUS, J.",
+        "authors": "J. BERZELIUS",
         "publisher": "FORTIN, MASSON ET CIE",
         "publication_place": "PARIS",
         "date": "1841",
@@ -11,20 +11,34 @@
         "iiif_manifest": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k905873/manifest.json"
     },
     "langue": "fr (French)",
+    "ark": "bpt6k905873",
+    "typographie_suggestion": {
+        "category": null,
+        "subtype": null,
+        "explanation": null,
+        "raw": "Based on the image provided, there are several typefaces used. I will identify the most prominent one (the title \"PROGRÈS DES SCIENCES\").\n\n**Category:** Display\n**Subtype:** Fat Face / Didone\n**Explanation:** The words \"PROGRÈS DES SCIENCES\" feature the extreme contrast between thick vertical stems and very thin horizontal hairlines characteristic of the Didone style, but with the exaggerated weight and boldness typical of \"Fat Face\" display types popular in the early-to-mid 19th century.\n\n***\n\nFor the remaining body text (e.g., \"PHYSIQUES ET CHIMIQUES\"):\n\n**Category:** Serif/Roman\n**Subtype:** Modern / Didone\n**Explanation:** These characters feature vertical stress, high contrast, and unbracketed (flat) serifs, which are the hallmarks of the Modern/Didone style prevalent in French printing during the 1840s."
+    },
+    "typographie": {
+        "category": "",
+        "subtype": ""
+    },
     "_annotations": {
         "metadata.title": {
             "lisibilite": "Non lisible",
-            "cause": "recouvert"
+            "cause": "recouvert",
+            "correction": "RAPPORT ANNUEL SUR LES PROGRÈS DES SCIENCES PHYSIQUES ET CHIMIQUES"
         },
         "metadata.title_complement": {
-            "lisibilite": "Lisible"
+            "lisibilite": "Lisible",
+            "correction": "présenté le 31 mars 1840 à l'Académie royale des sciences de Stockholm"
         },
         "metadata.volume_number": {
             "lisibilite": "Non lisible",
             "cause": "absent"
         },
         "metadata.authors": {
-            "lisibilite": "Lisible"
+            "lisibilite": "Lisible",
+            "correction": "J. BERZELIUS"
         },
         "metadata.publisher": {
             "lisibilite": "Lisible"
@@ -37,7 +51,15 @@
         },
         "langue": {
             "lisibilite": "Lisible"
+        },
+        "metadata.identifier": {
+            "lisibilite": "Lisible"
+        },
+        "metadata.iiif_manifest": {
+            "lisibilite": "Lisible"
+        },
+        "ark": {
+            "lisibilite": "Lisible"
         }
-    },
-    "ark": "bpt6k905873"
+    }
 }

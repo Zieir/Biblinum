@@ -3,7 +3,7 @@
         "title": "THÈSES",
         "title_complement": "Étude sur les cyanures doubles analogues aux ferro-cyanures et aux pergnitranures et produits par les métaux de la classe du fer. Étude des phénomènes de la protochimie et de leur application a la mesure de l'intensité des radiations solaires",
         "volume_number": "",
-        "authors": "DESCAMPS, A.",
+        "authors": "A. DESCAMPS",
         "publisher": "Imprimerie de E. Martinet",
         "publication_place": "Paris",
         "date": "1868",
@@ -11,6 +11,17 @@
         "iiif_manifest": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k91784v/manifest.json"
     },
     "langue": "fr (French)",
+    "ark": "bpt6k91784v",
+    "typographie_suggestion": {
+        "category": "Serif/Roman",
+        "subtype": "Didone (Modern)",
+        "explanation": "The typeface features the high contrast between thick and thin strokes, vertical stress, and small, horizontal serifs characteristic of the \"Modern\" or Didone style (similar to Bodoni or Didot), which was the standard for official French academic and government printing in the 19th century.",
+        "raw": "Category: Serif/Roman\nSubtype: Didone (Modern)\nExplanation: The typeface features the high contrast between thick and thin strokes, vertical stress, and small, horizontal serifs characteristic of the \"Modern\" or Didone style (similar to Bodoni or Didot), which was the standard for official French academic and government printing in the 19th century."
+    },
+    "typographie": {
+        "category": "Serif/Roman",
+        "subtype": "Didone (Modern)"
+    },
     "_annotations": {
         "metadata.title": {
             "lisibilite": "Lisible"
@@ -23,7 +34,8 @@
             "cause": "absent"
         },
         "metadata.authors": {
-            "lisibilite": "Lisible"
+            "lisibilite": "Lisible",
+            "correction": "A. DESCAMPS"
         },
         "metadata.publisher": {
             "lisibilite": "Lisible"
@@ -36,7 +48,15 @@
         },
         "langue": {
             "lisibilite": "Lisible"
+        },
+        "metadata.identifier": {
+            "lisibilite": "Lisible"
+        },
+        "metadata.iiif_manifest": {
+            "lisibilite": "Lisible"
+        },
+        "ark": {
+            "lisibilite": "Lisible"
         }
-    },
-    "ark": "bpt6k91784v"
+    }
 }

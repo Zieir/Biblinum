@@ -2,15 +2,26 @@
     "metadata": {
         "title": "TRAITÉ DE CHIMIE MINÉRALE",
         "title_complement": "",
-        "volume_number": "",
-        "authors": "",
-        "publisher": "",
-        "publication_place": "",
-        "date": "",
+        "volume_number": "TOME PREMIER",
+        "authors": "H. ERDMANN",
+        "publisher": "A. Hermann et fils",
+        "publication_place": "PARIS",
+        "date": "1912",
         "identifier": "http://gallica.bnf.fr/ark:/12148/bpt6k90421w",
         "iiif_manifest": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k90421w/manifest.json"
     },
     "langue": "fr (French)",
+    "ark": "bpt6k90421w",
+    "typographie_suggestion": {
+        "category": "Serif/Roman",
+        "subtype": "Slab Serif (Egyptian)",
+        "explanation": "The primary title \"CHIMIE MINÉRALE\" features heavy, block-like serifs with little to no bracketing, which is characteristic of the Slab Serif style common in 19th and early 20th-century academic and industrial printing.",
+        "raw": "Category: Serif/Roman\nSubtype: Slab Serif (Egyptian)\nExplanation: The primary title \"CHIMIE MINÉRALE\" features heavy, block-like serifs with little to no bracketing, which is characteristic of the Slab Serif style common in 19th and early 20th-century academic and industrial printing."
+    },
+    "typographie": {
+        "category": "Serif/Roman",
+        "subtype": "Slab Serif (Egyptian)"
+    },
     "_annotations": {
         "metadata.title": {
             "lisibilite": "Lisible"
@@ -20,28 +31,36 @@
             "cause": "absent"
         },
         "metadata.volume_number": {
-            "lisibilite": "Non lisible",
-            "cause": "absent"
+            "lisibilite": "Lisible",
+            "correction": "TOME PREMIER"
         },
         "metadata.authors": {
-            "lisibilite": "Non lisible",
-            "cause": "absent"
+            "lisibilite": "Lisible",
+            "correction": "H. ERDMANN"
         },
         "metadata.publisher": {
-            "lisibilite": "Non lisible",
-            "cause": "absent"
+            "lisibilite": "Lisible",
+            "correction": "A. Hermann et fils"
         },
         "metadata.publication_place": {
-            "lisibilite": "Non lisible",
-            "cause": "absent"
+            "lisibilite": "Lisible",
+            "correction": "PARIS"
         },
         "metadata.date": {
-            "lisibilite": "Non lisible",
-            "cause": "absent"
+            "lisibilite": "Lisible",
+            "correction": "1912"
         },
         "langue": {
             "lisibilite": "Lisible"
+        },
+        "metadata.identifier": {
+            "lisibilite": "Lisible"
+        },
+        "metadata.iiif_manifest": {
+            "lisibilite": "Lisible"
+        },
+        "ark": {
+            "lisibilite": "Lisible"
         }
-    },
-    "ark": "bpt6k90421w"
+    }
 }

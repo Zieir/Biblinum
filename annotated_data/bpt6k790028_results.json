@@ -3,12 +3,24 @@
         "title": "ÉLÉMENS DE CHIMIE",
         "title_complement": "",
         "volume_number": "TOME TROISIÈME",
-        "authors": "MITSCHERLICH, E.",
+        "authors": "E. MITSCHERLICH",
         "publisher": "LOUIS HAUMAN ET COMP",
         "publication_place": "BRUXELLES",
         "date": "1836",
         "identifier": "http://gallica.bnf.fr/ark:/12148/bpt6k790028",
         "iiif_manifest": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k790028/manifest.json"
+    },
+    "langue": "fr (French)",
+    "ark": "bpt6k790028",
+    "typographie_suggestion": {
+        "category": "Serif/Roman",
+        "subtype": "Didone (Modern)",
+        "explanation": "The typeface features the high contrast between thick and thin strokes, vertical stress, and small, unbracketed (hairline) serifs characteristic of the late 18th and early 19th-century \"Modern\" style, popularized by designers like Bodoni and Didot.",
+        "raw": "Category: Serif/Roman\nSubtype: Didone (Modern)\nExplanation: The typeface features the high contrast between thick and thin strokes, vertical stress, and small, unbracketed (hairline) serifs characteristic of the late 18th and early 19th-century \"Modern\" style, popularized by designers like Bodoni and Didot."
+    },
+    "typographie": {
+        "category": "Serif/Roman",
+        "subtype": "Didone (Modern)"
     },
     "_annotations": {
         "metadata.title": {
@@ -22,7 +34,8 @@
             "lisibilite": "Lisible"
         },
         "metadata.authors": {
-            "lisibilite": "Lisible"
+            "lisibilite": "Lisible",
+            "correction": "E. MITSCHERLICH"
         },
         "metadata.publisher": {
             "lisibilite": "Lisible"
@@ -35,8 +48,15 @@
         },
         "langue": {
             "lisibilite": "Lisible"
+        },
+        "metadata.identifier": {
+            "lisibilite": "Lisible"
+        },
+        "metadata.iiif_manifest": {
+            "lisibilite": "Lisible"
+        },
+        "ark": {
+            "lisibilite": "Lisible"
         }
-    },
-    "langue": "fr (French)",
-    "ark": "bpt6k790028"
+    }
 }

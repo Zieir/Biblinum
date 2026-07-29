@@ -11,6 +11,17 @@
         "iiif_manifest": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k908063/manifest.json"
     },
     "langue": "fr (French)",
+    "ark": "bpt6k908063",
+    "typographie_suggestion": {
+        "category": "Serif/Roman",
+        "subtype": "Didone (Modern)",
+        "explanation": "The primary headings exhibit the high contrast between thick and thin strokes, vertical stress, and flat, unbracketed serifs characteristic of the Didone style (similar to Bodoni or Didot), which was prevalent in French publishing during the late 19th century.",
+        "raw": "Category: Serif/Roman\nSubtype: Didone (Modern)\nExplanation: The primary headings exhibit the high contrast between thick and thin strokes, vertical stress, and flat, unbracketed serifs characteristic of the Didone style (similar to Bodoni or Didot), which was prevalent in French publishing during the late 19th century."
+    },
+    "typographie": {
+        "category": "Serif/Roman",
+        "subtype": "Didone (Modern)"
+    },
     "_annotations": {
         "metadata.title": {
             "lisibilite": "Lisible"
@@ -40,7 +51,15 @@
         },
         "langue": {
             "lisibilite": "Lisible"
+        },
+        "metadata.identifier": {
+            "lisibilite": "Lisible"
+        },
+        "metadata.iiif_manifest": {
+            "lisibilite": "Lisible"
+        },
+        "ark": {
+            "lisibilite": "Lisible"
         }
-    },
-    "ark": "bpt6k908063"
+    }
 }

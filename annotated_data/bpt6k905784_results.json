@@ -11,6 +11,17 @@
         "iiif_manifest": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k905784/manifest.json"
     },
     "langue": "fr (French)",
+    "ark": "bpt6k905784",
+    "typographie_suggestion": {
+        "category": "Serif/Roman",
+        "subtype": "Slab Serif (Egyptian)",
+        "explanation": "The primary title \"CHIMIE INDUSTRIELLE\" features heavy, block-like serifs with little to no bracketing, which is characteristic of Slab Serif typefaces common in 19th-century industrial and commercial printing.",
+        "raw": "Category: Serif/Roman\nSubtype: Slab Serif (Egyptian)\nExplanation: The primary title \"CHIMIE INDUSTRIELLE\" features heavy, block-like serifs with little to no bracketing, which is characteristic of Slab Serif typefaces common in 19th-century industrial and commercial printing."
+    },
+    "typographie": {
+        "category": "Serif/Roman",
+        "subtype": "Slab Serif (Egyptian)"
+    },
     "_annotations": {
         "metadata.title": {
             "lisibilite": "Lisible"
@@ -39,7 +50,15 @@
         },
         "langue": {
             "lisibilite": "Lisible"
+        },
+        "metadata.identifier": {
+            "lisibilite": "Lisible"
+        },
+        "metadata.iiif_manifest": {
+            "lisibilite": "Lisible"
+        },
+        "ark": {
+            "lisibilite": "Lisible"
         }
-    },
-    "ark": "bpt6k905784"
+    }
 }

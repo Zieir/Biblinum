@@ -3,7 +3,7 @@
         "title": "INTRODUCTION A LA CHIMIE DES COMPLEXES",
         "title_complement": "THÉORIE ET SYSTÉMATIQUE DE LA CHIMIE DES COMPLEXES MINÉRAUX",
         "volume_number": "",
-        "authors": "URBAIN, G. ; SÉNÉCHAL, A.",
+        "authors": "G. URBAIN; A. SÉNÉCHAL",
         "publisher": "LIBRAIRIE SCIENTIFIQUE A. HERMANN ET FILS",
         "publication_place": "PARIS",
         "date": "1913",
@@ -11,6 +11,17 @@
         "iiif_manifest": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k919267/manifest.json"
     },
     "langue": "fr (French)",
+    "ark": "bpt6k919267",
+    "typographie_suggestion": {
+        "category": "Serif/Roman",
+        "subtype": "Old Style / Transitional",
+        "explanation": "These sections use a more traditional Roman face with moderate contrast and bracketed serifs, typical of standard book typography of the era.",
+        "raw": "For the main title \"CHIMIE DES COMPLEXES\":\n\nCategory: Serif/Roman\nSubtype: Slab Serif (Egyptian)\nExplanation: The typeface features thick, block-like serifs with very little contrast between the thick and thin strokes, characteristic of the Slab Serif style popular in 19th and early 20th-century academic and industrial printing.\n\nFor the secondary text (e.g., \"INTRODUCTION\", \"PARIS\"):\n\nCategory: Serif/Roman\nSubtype: Old Style / Transitional\nExplanation: These sections use a more traditional Roman face with moderate contrast and bracketed serifs, typical of standard book typography of the era."
+    },
+    "typographie": {
+        "category": "Serif/Roman",
+        "subtype": "Old Style / Transitional"
+    },
     "_annotations": {
         "metadata.title": {
             "lisibilite": "Lisible"
@@ -23,7 +34,8 @@
             "cause": "absent"
         },
         "metadata.authors": {
-            "lisibilite": "Lisible"
+            "lisibilite": "Lisible",
+            "correction": "G. URBAIN; A. SÉNÉCHAL"
         },
         "metadata.publisher": {
             "lisibilite": "Lisible"
@@ -36,7 +48,15 @@
         },
         "langue": {
             "lisibilite": "Lisible"
+        },
+        "metadata.identifier": {
+            "lisibilite": "Lisible"
+        },
+        "metadata.iiif_manifest": {
+            "lisibilite": "Lisible"
+        },
+        "ark": {
+            "lisibilite": "Lisible"
         }
-    },
-    "ark": "bpt6k919267"
+    }
 }

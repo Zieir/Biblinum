@@ -1,9 +1,9 @@
 {
     "metadata": {
-        "title": "LES PRODUITS CHIMIQUES",
-        "title_complement": "A L'EXPOSITION UNIVERSELLE",
+        "title": "LES PRODUITS CHIMIQUES A L'EXPOSITION UNIVERSELLE",
+        "title_complement": "",
         "volume_number": "",
-        "authors": "RICHE, Alfred",
+        "authors": "Alfred RICHE",
         "publisher": "IMPRIMERIE ARNOUS DE RIVIERE",
         "publication_place": "PARIS",
         "date": "1878",
@@ -11,13 +11,26 @@
         "iiif_manifest": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k91909n/manifest.json"
     },
     "langue": "fr (French)",
+    "ark": "bpt6k91909n",
+    "typographie_suggestion": {
+        "category": "Serif/Roman",
+        "subtype": "Slab Serif (Egyptian)",
+        "explanation": "The primary headings (\"PRODUITS CHIMIQUES\") feature heavy, block-like serifs with little to no bracketing, which is characteristic of the Slab Serif style popular in 19th-century printing.",
+        "raw": "Category: Serif/Roman\nSubtype: Slab Serif (Egyptian)\nExplanation: The primary headings (\"PRODUITS CHIMIQUES\") feature heavy, block-like serifs with little to no bracketing, which is characteristic of the Slab Serif style popular in 19th-century printing."
+    },
+    "typographie": {
+        "category": "Serif/Roman",
+        "subtype": "Slab Serif (Egyptian)"
+    },
     "_annotations": {
         "metadata.title": {
             "lisibilite": "Lisible",
-            "correction": "LES PRODUITS CHIMIQUES"
+            "correction": "LES PRODUITS CHIMIQUES A L'EXPOSITION UNIVERSELLE"
         },
         "metadata.title_complement": {
-            "lisibilite": "Lisible"
+            "lisibilite": "Non lisible",
+            "cause": "absent",
+            "correction": ""
         },
         "metadata.volume_number": {
             "lisibilite": "Non lisible",
@@ -25,7 +38,7 @@
         },
         "metadata.authors": {
             "lisibilite": "Lisible",
-            "correction": "RICHE, Alfred"
+            "correction": "Alfred RICHE"
         },
         "metadata.publisher": {
             "lisibilite": "Lisible"
@@ -38,7 +51,15 @@
         },
         "langue": {
             "lisibilite": "Lisible"
+        },
+        "metadata.identifier": {
+            "lisibilite": "Lisible"
+        },
+        "metadata.iiif_manifest": {
+            "lisibilite": "Lisible"
+        },
+        "ark": {
+            "lisibilite": "Lisible"
         }
-    },
-    "ark": "bpt6k91909n"
+    }
 }

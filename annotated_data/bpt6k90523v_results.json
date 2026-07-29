@@ -11,6 +11,17 @@
         "iiif_manifest": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k90523v/manifest.json"
     },
     "langue": "de (German)",
+    "ark": "bpt6k90523v",
+    "typographie_suggestion": {
+        "category": "Blackletter",
+        "subtype": "Fraktur",
+        "explanation": "The text (specifically the subtitle \"übersichtfasslicher Form\" and the publisher's information) features the characteristic broken strokes, ornate capitals, and vertical stress typical of the Fraktur style, which was the standard typeface for German printing during this period.",
+        "raw": "Category: Blackletter\nSubtype: Fraktur\nExplanation: The text (specifically the subtitle \"übersichtfasslicher Form\" and the publisher's information) features the characteristic broken strokes, ornate capitals, and vertical stress typical of the Fraktur style, which was the standard typeface for German printing during this period."
+    },
+    "typographie": {
+        "category": "Blackletter",
+        "subtype": "Fraktur"
+    },
     "_annotations": {
         "metadata.title": {
             "lisibilite": "Non lisible",
@@ -40,7 +51,15 @@
         },
         "langue": {
             "lisibilite": "Lisible"
+        },
+        "metadata.identifier": {
+            "lisibilite": "Lisible"
+        },
+        "metadata.iiif_manifest": {
+            "lisibilite": "Lisible"
+        },
+        "ark": {
+            "lisibilite": "Lisible"
         }
-    },
-    "ark": "bpt6k90523v"
+    }
 }

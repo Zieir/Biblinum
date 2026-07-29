@@ -1,46 +1,68 @@
 {
     "metadata": {
-        "title": "CINQUANTENAIRE SCIENTIFIQUE",
-        "title_complement": "",
+        "title": "Cinquantenaire scientifique de M. Berthelot",
+        "title_complement": "24 novembre 1901 ",
         "volume_number": "",
-        "authors": "BERTHELOT, M.",
-        "publisher": "",
-        "publication_place": "",
-        "date": "",
+        "authors": "",
+        "publisher": "Gauthier-Villars",
+        "publication_place": "PARIS",
+        "date": "1902",
         "identifier": "http://gallica.bnf.fr/ark:/12148/bpt6k90397v",
         "iiif_manifest": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k90397v/manifest.json"
     },
     "langue": "fr (French)",
+    "ark": "bpt6k90397v",
+    "typographie_suggestion": {
+        "category": "Serif/Roman",
+        "subtype": "Didone (Modern)",
+        "explanation": "The typeface features a strong contrast between thick and thin strokes, vertical stress, and thin, horizontal serifs, which are the defining characteristics of the Didone style (popularized by Didot and Bodoni).",
+        "raw": "Category: Serif/Roman\nSubtype: Didone (Modern)\nExplanation: The typeface features a strong contrast between thick and thin strokes, vertical stress, and thin, horizontal serifs, which are the defining characteristics of the Didone style (popularized by Didot and Bodoni)."
+    },
+    "typographie": {
+        "category": "Serif/Roman",
+        "subtype": "Didone (Modern)"
+    },
     "_annotations": {
         "metadata.title": {
-            "lisibilite": "Lisible"
+            "lisibilite": "Lisible",
+            "correction": "Cinquantenaire scientifique de M. Berthelot"
         },
         "metadata.title_complement": {
-            "lisibilite": "Non lisible",
-            "cause": "absent"
+            "lisibilite": "Lisible",
+            "correction": "24 novembre 1901 "
         },
         "metadata.volume_number": {
             "lisibilite": "Non lisible",
             "cause": "absent"
         },
         "metadata.authors": {
-            "lisibilite": "Lisible"
+            "lisibilite": "Non lisible",
+            "cause": "absent",
+            "correction": ""
         },
         "metadata.publisher": {
-            "lisibilite": "Non lisible",
-            "cause": "absent"
+            "lisibilite": "Lisible",
+            "correction": "Gauthier-Villars"
         },
         "metadata.publication_place": {
-            "lisibilite": "Non lisible",
-            "cause": "absent"
+            "lisibilite": "Lisible",
+            "correction": "PARIS"
         },
         "metadata.date": {
-            "lisibilite": "Non lisible",
-            "cause": "absent"
+            "lisibilite": "Lisible",
+            "correction": "1902"
         },
         "langue": {
             "lisibilite": "Lisible"
+        },
+        "metadata.identifier": {
+            "lisibilite": "Lisible"
+        },
+        "metadata.iiif_manifest": {
+            "lisibilite": "Lisible"
+        },
+        "ark": {
+            "lisibilite": "Lisible"
         }
-    },
-    "ark": "bpt6k90397v"
+    }
 }

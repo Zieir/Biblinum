@@ -3,7 +3,7 @@
         "title": "QUÍMICA",
         "title_complement": "",
         "volume_number": "PARTE I",
-        "authors": "ARATA, Pedro N.",
+        "authors": "Pedro N. ARATA",
         "publisher": "LIBRERIA DAXTER ALIONKRAI",
         "publication_place": "BUENOS AIRES",
         "date": "",
@@ -11,6 +11,17 @@
         "iiif_manifest": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k90162n/manifest.json"
     },
     "langue": "es (Spanish)",
+    "ark": "bpt6k90162n",
+    "typographie_suggestion": {
+        "category": "Serif/Roman",
+        "subtype": "Didone (Modern)",
+        "explanation": "The typeface features the high contrast between thick and thin strokes and the flat, unbracketed serifs characteristic of the Modern/Didone style (similar to Bodoni or Didot), which was common for academic and formal publications in the 19th and early 20th centuries.",
+        "raw": "Category: Serif/Roman\nSubtype: Didone (Modern)\nExplanation: The typeface features the high contrast between thick and thin strokes and the flat, unbracketed serifs characteristic of the Modern/Didone style (similar to Bodoni or Didot), which was common for academic and formal publications in the 19th and early 20th centuries."
+    },
+    "typographie": {
+        "category": "Serif/Roman",
+        "subtype": "Didone (Modern)"
+    },
     "_annotations": {
         "metadata.title": {
             "lisibilite": "Lisible"
@@ -25,7 +36,8 @@
         },
         "metadata.authors": {
             "lisibilite": "Non lisible",
-            "cause": "qualite"
+            "cause": "qualite",
+            "correction": "Pedro N. ARATA"
         },
         "metadata.publisher": {
             "lisibilite": "Non lisible",
@@ -42,7 +54,15 @@
         "langue": {
             "lisibilite": "Lisible"
         },
-        "_note": "A revoir - publisher"
-    },
-    "ark": "bpt6k90162n"
+        "_note": "A revoir - publisher",
+        "metadata.identifier": {
+            "lisibilite": "Lisible"
+        },
+        "metadata.iiif_manifest": {
+            "lisibilite": "Lisible"
+        },
+        "ark": {
+            "lisibilite": "Lisible"
+        }
+    }
 }

@@ -3,7 +3,7 @@
         "title": "LES PRINCIPES DE LA THÉORIE NODALE DES COMBINAISONS CHIMIQUES",
         "title_complement": "",
         "volume_number": "",
-        "authors": "Teploff, M. N.",
+        "authors": "M. N. Teploff",
         "publisher": "Imprimerie E. Armand",
         "publication_place": "Paris",
         "date": "1908",
@@ -11,6 +11,17 @@
         "iiif_manifest": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k91790s/manifest.json"
     },
     "langue": "fr (French)",
+    "ark": "bpt6k91790s",
+    "typographie_suggestion": {
+        "category": "Display",
+        "subtype": "Inline / Engraved",
+        "explanation": "The typeface used for \"COMBINAISONS CHIMIQUES\" is a decorative display face characterized by \"inline\" detailing (white lines running through the center of the thick strokes), designed to mimic the look of engraved metal or architectural lettering common in late 19th and early 20th-century publishing.",
+        "raw": "Based on the image provided, there are two distinct styles of typography used. I will identify the most prominent decorative typeface used for the main title (\"COMBINAISONS CHIMIQUES\").\n\nCategory: Display\nSubtype: Inline / Engraved\nExplanation: The typeface used for \"COMBINAISONS CHIMIQUES\" is a decorative display face characterized by \"inline\" detailing (white lines running through the center of the thick strokes), designed to mimic the look of engraved metal or architectural lettering common in late 19th and early 20th-century publishing.\n\n*(Note: The other text on the page, such as \"LES PRINCIPES,\" belongs to the **Serif / Old Style** category, typical of academic printing from that era.)*"
+    },
+    "typographie": {
+        "category": "Display",
+        "subtype": "Inline / Engraved"
+    },
     "_annotations": {
         "metadata.title": {
             "lisibilite": "Lisible"
@@ -24,7 +35,8 @@
             "cause": "absent"
         },
         "metadata.authors": {
-            "lisibilite": "Lisible"
+            "lisibilite": "Lisible",
+            "correction": "M. N. Teploff"
         },
         "metadata.publisher": {
             "lisibilite": "Lisible"
@@ -37,7 +49,15 @@
         },
         "langue": {
             "lisibilite": "Lisible"
+        },
+        "metadata.identifier": {
+            "lisibilite": "Lisible"
+        },
+        "metadata.iiif_manifest": {
+            "lisibilite": "Lisible"
+        },
+        "ark": {
+            "lisibilite": "Lisible"
         }
-    },
-    "ark": "bpt6k91790s"
+    }
 }

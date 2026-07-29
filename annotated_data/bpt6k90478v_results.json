@@ -1,9 +1,9 @@
 {
     "metadata": {
-        "title": "LEHRBUCH DER ANORGANISCHEN CHEMIE",
+        "title": "LEHRBUCH DER ANORGANISCHEN CHEMIE FÜR STUDIERENDE AN DER UNIVERSITÄTEN UND TECHNISCHEN HOCHSCHULEN",
         "title_complement": "FÜR STUDIERENDE AN DER UNIVERSITÄTEN UND TECHNISCHEN HOCHSCHULEN",
         "volume_number": "",
-        "authors": "A. F. Holleman",
+        "authors": "A. F., Holleman",
         "publisher": "VEIT & COMP.",
         "publication_place": "Leipzig",
         "date": "1900",
@@ -11,6 +11,17 @@
         "iiif_manifest": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k90478v/manifest.json"
     },
     "langue": "de (German)",
+    "ark": "bpt6k90478v",
+    "typographie_suggestion": {
+        "category": "Script",
+        "subtype": "Kurrent / Sütterlin",
+        "explanation": "The text exhibits the characteristic sharp angles, steep slant, and specific letterforms (such as the distinct \"h\" and \"e\") typical of old German cursive handwriting styles used from the early modern period through the mid-20th century.",
+        "raw": "Category: Script\nSubtype: Kurrent / Sütterlin\nExplanation: The text exhibits the characteristic sharp angles, steep slant, and specific letterforms (such as the distinct \"h\" and \"e\") typical of old German cursive handwriting styles used from the early modern period through the mid-20th century."
+    },
+    "typographie": {
+        "category": "Script",
+        "subtype": "Kurrent / Sütterlin"
+    },
     "_annotations": {
         "metadata.title": {
             "lisibilite": "Lisible",
@@ -42,7 +53,15 @@
         },
         "langue": {
             "lisibilite": "Lisible"
+        },
+        "metadata.identifier": {
+            "lisibilite": "Lisible"
+        },
+        "metadata.iiif_manifest": {
+            "lisibilite": "Lisible"
+        },
+        "ark": {
+            "lisibilite": "Lisible"
         }
-    },
-    "ark": "bpt6k90478v"
+    }
 }

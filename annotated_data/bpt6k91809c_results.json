@@ -3,7 +3,7 @@
         "title": "FARADAY AND HIS METALLURGICAL RESEARCHES",
         "title_complement": "WITH SPECIAL REFERENCE TO THEIR BEARING ON THE DEVELOPMENT OF ALLOY STEELS",
         "volume_number": "",
-        "authors": "HADFIELD, ROBERT A.",
+        "authors": "ROBERT A. HADFIELD",
         "publisher": "CHAPMAN & HALL LTD.",
         "publication_place": "LONDON",
         "date": "1931",
@@ -11,9 +11,21 @@
         "iiif_manifest": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k91809c/manifest.json"
     },
     "langue": "en (English)",
+    "ark": "bpt6k91809c",
+    "typographie_suggestion": {
+        "category": "Serif/Roman",
+        "subtype": "Old Style / Transitional",
+        "explanation": "The main title and body text feature clear serifs (small strokes at the ends of characters) with a moderate contrast between thick and thin strokes, characteristic of traditional book typography from the early 20th century.",
+        "raw": "Category: Serif/Roman\nSubtype: Old Style / Transitional\nExplanation: The main title and body text feature clear serifs (small strokes at the ends of characters) with a moderate contrast between thick and thin strokes, characteristic of traditional book typography from the early 20th century."
+    },
+    "typographie": {
+        "category": "Serif/Roman",
+        "subtype": "Old Style / Transitional"
+    },
     "_annotations": {
         "metadata.title": {
-            "lisibilite": "Lisible"
+            "lisibilite": "Non lisible",
+            "cause": "recouvert"
         },
         "metadata.title_complement": {
             "lisibilite": "Lisible"
@@ -24,7 +36,7 @@
         },
         "metadata.authors": {
             "lisibilite": "Lisible",
-            "correction": "HADFIELD, ROBERT A."
+            "correction": "ROBERT A. HADFIELD"
         },
         "metadata.publisher": {
             "lisibilite": "Lisible"
@@ -37,7 +49,15 @@
         },
         "langue": {
             "lisibilite": "Lisible"
+        },
+        "metadata.identifier": {
+            "lisibilite": "Lisible"
+        },
+        "metadata.iiif_manifest": {
+            "lisibilite": "Lisible"
+        },
+        "ark": {
+            "lisibilite": "Lisible"
         }
-    },
-    "ark": "bpt6k91809c"
+    }
 }

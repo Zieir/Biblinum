@@ -1,9 +1,9 @@
 {
     "metadata": {
-        "title": "ŒUVRES COMPLÈTES",
-        "title_complement": "D'AUGUSTIN CAUCHY",
-        "volume_number": "TOME VI",
-        "authors": "Cauchy, Augustin",
+        "title": "ŒUVRES COMPLÈTES  d'Augustin Cauchy",
+        "title_complement": "",
+        "volume_number": "SÉRIE 2 - TOME VI",
+        "authors": "Augustin Cauchy",
         "publisher": "Gauthier-Villars",
         "publication_place": "Paris",
         "date": "1903",
@@ -11,18 +11,34 @@
         "iiif_manifest": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k90198n/manifest.json"
     },
     "langue": "fr (French)",
+    "ark": "bpt6k90198n",
+    "typographie_suggestion": {
+        "category": "Serif/Roman",
+        "subtype": "Didone (Modern)",
+        "explanation": "The typeface features the characteristic high contrast between thick and thin strokes, vertical stress, and thin, horizontal serifs typical of the \"Modern\" or Didone style (such as Bodoni or Didot), which was prevalent in French academic publishing during the 19th century.",
+        "raw": "Category: Serif/Roman\nSubtype: Didone (Modern)\nExplanation: The typeface features the characteristic high contrast between thick and thin strokes, vertical stress, and thin, horizontal serifs typical of the \"Modern\" or Didone style (such as Bodoni or Didot), which was prevalent in French academic publishing during the 19th century."
+    },
+    "typographie": {
+        "category": "Serif/Roman",
+        "subtype": "Didone (Modern)"
+    },
     "_annotations": {
         "metadata.title": {
-            "lisibilite": "Lisible"
+            "lisibilite": "Lisible",
+            "correction": "ŒUVRES COMPLÈTES  d'Augustin Cauchy"
         },
         "metadata.title_complement": {
-            "lisibilite": "Lisible"
+            "lisibilite": "Non lisible",
+            "cause": "absent",
+            "correction": ""
         },
         "metadata.volume_number": {
-            "lisibilite": "Lisible"
+            "lisibilite": "Lisible",
+            "correction": "SÉRIE 2 - TOME VI"
         },
         "metadata.authors": {
-            "lisibilite": "Lisible"
+            "lisibilite": "Lisible",
+            "correction": "Augustin Cauchy"
         },
         "metadata.publisher": {
             "lisibilite": "Lisible"
@@ -35,7 +51,15 @@
         },
         "langue": {
             "lisibilite": "Lisible"
+        },
+        "metadata.identifier": {
+            "lisibilite": "Lisible"
+        },
+        "metadata.iiif_manifest": {
+            "lisibilite": "Lisible"
+        },
+        "ark": {
+            "lisibilite": "Lisible"
         }
-    },
-    "ark": "bpt6k90198n"
+    }
 }

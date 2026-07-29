@@ -3,14 +3,25 @@
         "title": "HISTOIRE DU DÉVELOPPEMENT DE LA CHIMIE",
         "title_complement": "DEPUIS LAVOISIER JUSQU'A NOS JOURS",
         "volume_number": "",
-        "authors": "",
-        "publisher": "",
-        "publication_place": "",
-        "date": "",
+        "authors": "A. LADENBURG",
+        "publisher": "A. HERMANN",
+        "publication_place": "PARIS",
+        "date": "1909",
         "identifier": "http://gallica.bnf.fr/ark:/12148/bpt6k91843j",
         "iiif_manifest": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k91843j/manifest.json"
     },
     "langue": "fr (French)",
+    "ark": "bpt6k91843j",
+    "typographie_suggestion": {
+        "category": "Serif/Roman",
+        "subtype": "Modern (Didone)",
+        "explanation": "The typeface features a high contrast between thick and thin strokes, vertical stress, and small, horizontal serifs, which are characteristic of the Modern/Didone style popular in academic and formal printing during the late 19th and early 20th centuries.",
+        "raw": "Category: Serif/Roman\nSubtype: Modern (Didone)\nExplanation: The typeface features a high contrast between thick and thin strokes, vertical stress, and small, horizontal serifs, which are characteristic of the Modern/Didone style popular in academic and formal printing during the late 19th and early 20th centuries."
+    },
+    "typographie": {
+        "category": "Serif/Roman",
+        "subtype": "Modern (Didone)"
+    },
     "_annotations": {
         "metadata.title": {
             "lisibilite": "Lisible"
@@ -23,24 +34,32 @@
             "cause": "absent"
         },
         "metadata.authors": {
-            "lisibilite": "Non lisible",
-            "cause": "absent"
+            "lisibilite": "Lisible",
+            "correction": "A. LADENBURG"
         },
         "metadata.publisher": {
-            "lisibilite": "Non lisible",
-            "cause": "absent"
+            "lisibilite": "Lisible",
+            "correction": "A. HERMANN"
         },
         "metadata.publication_place": {
-            "lisibilite": "Non lisible",
-            "cause": "absent"
+            "lisibilite": "Lisible",
+            "correction": "PARIS"
         },
         "metadata.date": {
-            "lisibilite": "Non lisible",
-            "cause": "absent"
+            "lisibilite": "Lisible",
+            "correction": "1909"
         },
         "langue": {
             "lisibilite": "Lisible"
+        },
+        "metadata.identifier": {
+            "lisibilite": "Lisible"
+        },
+        "metadata.iiif_manifest": {
+            "lisibilite": "Lisible"
+        },
+        "ark": {
+            "lisibilite": "Lisible"
         }
-    },
-    "ark": "bpt6k91843j"
+    }
 }

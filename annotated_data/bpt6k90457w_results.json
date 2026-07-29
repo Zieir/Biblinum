@@ -1,42 +1,64 @@
 {
     "metadata": {
         "title": "ELEMENTS OF CHEMISTRY",
-        "title_complement": "",
+        "title_complement": "including the applications of the science in the arts",
         "volume_number": "VOL. I",
-        "authors": "GRAHAM",
-        "publisher": "HIPPOLYTE BAILLIÈRE",
-        "publication_place": "LONDON",
+        "authors": "Thomas GRAHAM",
+        "publisher": "HIPPOLYTE BAILLIÈRE; J.-B BAILLIÈRE; BAILLY-BAILLIÈRE ",
+        "publication_place": "LONDON; PARIS; MADRID ",
         "date": "1850",
         "identifier": "http://gallica.bnf.fr/ark:/12148/bpt6k90457w",
         "iiif_manifest": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k90457w/manifest.json"
     },
     "langue": "en (English)",
+    "ark": "bpt6k90457w",
+    "typographie_suggestion": {
+        "category": "Serif/Roman",
+        "subtype": "Modern / Didone",
+        "explanation": "The typeface features a strong contrast between thick and thin strokes, vertical stress, and thin, horizontal serifs, which are characteristic of the \"Modern\" style (such as Bodoni or Didot) prevalent in 19th-century publishing.",
+        "raw": "Category: Serif/Roman\nSubtype: Modern / Didone\nExplanation: The typeface features a strong contrast between thick and thin strokes, vertical stress, and thin, horizontal serifs, which are characteristic of the \"Modern\" style (such as Bodoni or Didot) prevalent in 19th-century publishing."
+    },
+    "typographie": {
+        "category": "Serif/Roman",
+        "subtype": "Modern / Didone"
+    },
     "_annotations": {
         "metadata.title": {
             "lisibilite": "Lisible"
         },
         "metadata.title_complement": {
-            "lisibilite": "Non lisible",
-            "cause": "absent"
+            "lisibilite": "Lisible",
+            "correction": "including the applications of the science in the arts"
         },
         "metadata.volume_number": {
             "lisibilite": "Lisible"
         },
         "metadata.authors": {
-            "lisibilite": "Lisible"
+            "lisibilite": "Lisible",
+            "correction": "Thomas GRAHAM"
         },
         "metadata.publisher": {
-            "lisibilite": "Lisible"
+            "lisibilite": "Lisible",
+            "correction": "HIPPOLYTE BAILLIÈRE; J.-B BAILLIÈRE; BAILLY-BAILLIÈRE "
         },
         "metadata.publication_place": {
-            "lisibilite": "Lisible"
+            "lisibilite": "Lisible",
+            "correction": "LONDON; PARIS; MADRID "
         },
         "metadata.date": {
             "lisibilite": "Lisible"
         },
         "langue": {
             "lisibilite": "Lisible"
+        },
+        "metadata.identifier": {
+            "lisibilite": "Lisible"
+        },
+        "metadata.iiif_manifest": {
+            "lisibilite": "Lisible"
+        },
+        "ark": {
+            "lisibilite": "Lisible"
         }
-    },
-    "ark": "bpt6k90457w"
+    }
 }

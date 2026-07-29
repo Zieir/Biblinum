@@ -3,7 +3,7 @@
         "title": "TRAITÉ DE MINÉRALOGIE",
         "title_complement": "",
         "volume_number": "TOME CINQUIÈME",
-        "authors": "DUFRENOY, A.",
+        "authors": "A. DUFRENOY",
         "publisher": "VICTOR DALMONT",
         "publication_place": "PARIS",
         "date": "1856",
@@ -11,6 +11,17 @@
         "iiif_manifest": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k90621f/manifest.json"
     },
     "langue": "fr (French)",
+    "ark": "bpt6k90621f",
+    "typographie_suggestion": {
+        "category": "Serif/Roman",
+        "subtype": "Didone (Modern)",
+        "explanation": "The typeface features the extreme contrast between thick and thin strokes, vertical stress, and thin, horizontal serifs characteristic of the \"Modern\" or Didone style (popularized by Didot and Bodoni), which was the standard for formal French printing in the early 19th century.",
+        "raw": "Based on the provided image of the title page from 1836, there are several typefaces used. I will identify the most prominent one used for the main title (\"MINÉRALOGIE\").\n\nCategory: Serif/Roman\nSubtype: Didone (Modern)\nExplanation: The typeface features the extreme contrast between thick and thin strokes, vertical stress, and thin, horizontal serifs characteristic of the \"Modern\" or Didone style (popularized by Didot and Bodoni), which was the standard for formal French printing in the early 19th century."
+    },
+    "typographie": {
+        "category": "Serif/Roman",
+        "subtype": "Didone (Modern)"
+    },
     "_annotations": {
         "metadata.title": {
             "lisibilite": "Lisible"
@@ -23,7 +34,8 @@
             "lisibilite": "Lisible"
         },
         "metadata.authors": {
-            "lisibilite": "Lisible"
+            "lisibilite": "Lisible",
+            "correction": "A. DUFRENOY"
         },
         "metadata.publisher": {
             "lisibilite": "Lisible"
@@ -38,7 +50,15 @@
         },
         "langue": {
             "lisibilite": "Lisible"
+        },
+        "metadata.identifier": {
+            "lisibilite": "Lisible"
+        },
+        "metadata.iiif_manifest": {
+            "lisibilite": "Lisible"
+        },
+        "ark": {
+            "lisibilite": "Lisible"
         }
-    },
-    "ark": "bpt6k90621f"
+    }
 }

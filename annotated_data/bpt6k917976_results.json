@@ -3,7 +3,7 @@
         "title": "Sophistication  et analyse des vins",
         "title_complement": "",
         "volume_number": "",
-        "authors": "GAUTIER, A.",
+        "authors": "A. GAUTIER",
         "publisher": "J.B. BAILLIÈRE ET FILS",
         "publication_place": "",
         "date": "",
@@ -11,6 +11,17 @@
         "iiif_manifest": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k917976/manifest.json"
     },
     "langue": "fr (French)",
+    "ark": "bpt6k917976",
+    "typographie_suggestion": {
+        "category": "Serif/Roman",
+        "subtype": "Slab Serif (Egyptian)",
+        "explanation": "The typeface features heavy, block-like serifs with little to no bracketing, characteristic of the Slab Serif style common in 19th-century printing and academic publications.",
+        "raw": "Category: Serif/Roman\nSubtype: Slab Serif (Egyptian)\nExplanation: The typeface features heavy, block-like serifs with little to no bracketing, characteristic of the Slab Serif style common in 19th-century printing and academic publications."
+    },
+    "typographie": {
+        "category": "Serif/Roman",
+        "subtype": "Slab Serif (Egyptian)"
+    },
     "_annotations": {
         "metadata.title": {
             "lisibilite": "Non lisible",
@@ -26,7 +37,8 @@
             "cause": "absent"
         },
         "metadata.authors": {
-            "lisibilite": "Lisible"
+            "lisibilite": "Lisible",
+            "correction": "A. GAUTIER"
         },
         "metadata.publisher": {
             "lisibilite": "Lisible"
@@ -41,7 +53,15 @@
         },
         "langue": {
             "lisibilite": "Lisible"
+        },
+        "metadata.identifier": {
+            "lisibilite": "Lisible"
+        },
+        "metadata.iiif_manifest": {
+            "lisibilite": "Lisible"
+        },
+        "ark": {
+            "lisibilite": "Lisible"
         }
-    },
-    "ark": "bpt6k917976"
+    }
 }

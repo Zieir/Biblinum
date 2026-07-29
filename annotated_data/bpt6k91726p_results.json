@@ -3,7 +3,7 @@
         "title": "TRAITÉ DES DÉSINFECTANTS SOUS LE RAPPORT DE L'HYGIÈNE PUBLIQUE",
         "title_complement": "leur application à la désinfection de l'air, à l'assainissement des habitations, des hôpitaux, des étables, à la désinfection des plaies, etc.",
         "volume_number": "",
-        "authors": "Chevallier, M. A.",
+        "authors": "A. Chevallier",
         "publisher": "P. Asselin, gendre et successeur de Labé",
         "publication_place": "Paris",
         "date": "1862",
@@ -11,6 +11,17 @@
         "iiif_manifest": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k91726p/manifest.json"
     },
     "langue": "fr (French)",
+    "ark": "bpt6k91726p",
+    "typographie_suggestion": {
+        "category": "Serif/Roman",
+        "subtype": "Didone (Modern)",
+        "explanation": "The dominant typography (especially in \"DÉSINFECTANTS\" and \"L'HYGIÈNE PUBLIQUE\") features the high contrast between thick and thin strokes, vertical stress, and unbracketed, hairline serifs characteristic of the Didone style (similar to Bodoni or Didot), which was prevalent in 19th-century formal printing.",
+        "raw": "Category: Serif/Roman\nSubtype: Didone (Modern)\nExplanation: The dominant typography (especially in \"DÉSINFECTANTS\" and \"L'HYGIÈNE PUBLIQUE\") features the high contrast between thick and thin strokes, vertical stress, and unbracketed, hairline serifs characteristic of the Didone style (similar to Bodoni or Didot), which was prevalent in 19th-century formal printing."
+    },
+    "typographie": {
+        "category": "Serif/Roman",
+        "subtype": "Didone (Modern)"
+    },
     "_annotations": {
         "metadata.title": {
             "lisibilite": "Non lisible",
@@ -26,7 +37,8 @@
             "cause": "absent"
         },
         "metadata.authors": {
-            "lisibilite": "Lisible"
+            "lisibilite": "Lisible",
+            "correction": "A. Chevallier"
         },
         "metadata.publisher": {
             "lisibilite": "Lisible"
@@ -39,7 +51,15 @@
         },
         "langue": {
             "lisibilite": "Lisible"
+        },
+        "metadata.identifier": {
+            "lisibilite": "Lisible"
+        },
+        "metadata.iiif_manifest": {
+            "lisibilite": "Lisible"
+        },
+        "ark": {
+            "lisibilite": "Lisible"
         }
-    },
-    "ark": "bpt6k91726p"
+    }
 }

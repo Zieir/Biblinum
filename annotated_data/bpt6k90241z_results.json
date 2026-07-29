@@ -1,7 +1,7 @@
 {
     "metadata": {
-        "title": "MANUEL DE CHIMIE",
-        "title_complement": "PHOTOGRAPHIQUE",
+        "title": "MANUEL DE CHIMIE PHOTOGRAPHIQUE",
+        "title_complement": "",
         "volume_number": "",
         "authors": "MAUMENE",
         "publisher": "SOCIÉTÉ D'ÉDITIONS SCIENTIFIQUES",
@@ -11,12 +11,26 @@
         "iiif_manifest": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k90241z/manifest.json"
     },
     "langue": "fr (French)",
+    "ark": "bpt6k90241z",
+    "typographie_suggestion": {
+        "category": "Serif/Roman",
+        "subtype": "Didone (Modern)",
+        "explanation": "The typeface features an extreme contrast between thick and thin strokes, vertical stress, and thin, horizontal hairline serifs, which are the defining characteristics of the Didone style (popularized by Didot and Bodoni).",
+        "raw": "Based on the primary title text \"CHIMIE\":\n\nCategory: Serif/Roman\nSubtype: Didone (Modern)\nExplanation: The typeface features an extreme contrast between thick and thin strokes, vertical stress, and thin, horizontal hairline serifs, which are the defining characteristics of the Didone style (popularized by Didot and Bodoni)."
+    },
+    "typographie": {
+        "category": "Serif/Roman",
+        "subtype": "Didone (Modern)"
+    },
     "_annotations": {
         "metadata.title": {
-            "lisibilite": "Lisible"
+            "lisibilite": "Lisible",
+            "correction": "MANUEL DE CHIMIE PHOTOGRAPHIQUE"
         },
         "metadata.title_complement": {
-            "lisibilite": "Lisible"
+            "lisibilite": "Non lisible",
+            "cause": "absent",
+            "correction": ""
         },
         "metadata.volume_number": {
             "lisibilite": "Non lisible",
@@ -36,7 +50,15 @@
         },
         "langue": {
             "lisibilite": "Lisible"
+        },
+        "metadata.identifier": {
+            "lisibilite": "Lisible"
+        },
+        "metadata.iiif_manifest": {
+            "lisibilite": "Lisible"
+        },
+        "ark": {
+            "lisibilite": "Lisible"
         }
-    },
-    "ark": "bpt6k90241z"
+    }
 }

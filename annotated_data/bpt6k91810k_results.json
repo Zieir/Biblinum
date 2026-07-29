@@ -3,7 +3,7 @@
         "title": "LES ACTUALITÉS DE CHIMIE CONTEMPORAINE",
         "title_complement": "",
         "volume_number": "2^ SÉRIE",
-        "authors": "Haller, A. ; Cornuebert, M. ; Berthoud, A. ; BATTEGAY M. ; TIFFENEAU M. ; DARMOIS E.",
+        "authors": "A. Haller ; M. Cornuebert ; A. Berthoud; M. BATTEGAY ; M. TIFFENEAU ; E. DARMOIS ",
         "publisher": "LIBRAIRIE OCTAVE DOIN",
         "publication_place": "PARIS",
         "date": "1924",
@@ -11,6 +11,17 @@
         "iiif_manifest": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k91810k/manifest.json"
     },
     "langue": "fr (French)",
+    "ark": "bpt6k91810k",
+    "typographie_suggestion": {
+        "category": "Serif/Roman",
+        "subtype": "Modern / Didone",
+        "explanation": "The text features the high contrast between thick and thin strokes and vertical stress characteristic of \"Modern\" typefaces (like Didot or Bodoni), which were standard for academic and formal publishing in France during the early 20th century.",
+        "raw": "Category: Serif/Roman\nSubtype: Modern / Didone\nExplanation: The text features the high contrast between thick and thin strokes and vertical stress characteristic of \"Modern\" typefaces (like Didot or Bodoni), which were standard for academic and formal publishing in France during the early 20th century."
+    },
+    "typographie": {
+        "category": "Serif/Roman",
+        "subtype": "Modern / Didone"
+    },
     "_annotations": {
         "metadata.title": {
             "lisibilite": "Lisible"
@@ -24,7 +35,7 @@
         },
         "metadata.authors": {
             "lisibilite": "Lisible",
-            "correction": "Haller, A. ; Cornuebert, M. ; Berthoud, A. ; BATTEGAY M. ; TIFFENEAU M. ; DARMOIS E."
+            "correction": "A. Haller ; M. Cornuebert ; A. Berthoud; M. BATTEGAY ; M. TIFFENEAU ; E. DARMOIS "
         },
         "metadata.publisher": {
             "lisibilite": "Lisible"
@@ -37,7 +48,15 @@
         },
         "langue": {
             "lisibilite": "Lisible"
+        },
+        "metadata.identifier": {
+            "lisibilite": "Lisible"
+        },
+        "metadata.iiif_manifest": {
+            "lisibilite": "Lisible"
+        },
+        "ark": {
+            "lisibilite": "Lisible"
         }
-    },
-    "ark": "bpt6k91810k"
+    }
 }

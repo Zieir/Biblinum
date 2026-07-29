@@ -3,7 +3,7 @@
         "title": "LEÇONS DE CHIMIE ÉLÉMENTAIRE",
         "title_complement": "APPLIQUÉE AUX ARTS INDUSTRIELS",
         "volume_number": "III",
-        "authors": "GIRARDIN, J.",
+        "authors": "J. GIRARDIN",
         "publisher": "G. MASSON, ÉDITEUR",
         "publication_place": "PARIS",
         "date": "1873",
@@ -11,6 +11,17 @@
         "iiif_manifest": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k904525/manifest.json"
     },
     "langue": "fr (French)",
+    "ark": "bpt6k904525",
+    "typographie_suggestion": {
+        "category": "Serif/Roman",
+        "subtype": "Didone (Modern)",
+        "explanation": "The text features the high contrast between thick and thin strokes, vertical stress, and small, unbracketed (flat) serifs characteristic of the \"Modern\" or Didone style popular in 19th-century French printing.",
+        "raw": "Category: Serif/Roman\nSubtype: Didone (Modern)\nExplanation: The text features the high contrast between thick and thin strokes, vertical stress, and small, unbracketed (flat) serifs characteristic of the \"Modern\" or Didone style popular in 19th-century French printing."
+    },
+    "typographie": {
+        "category": "Serif/Roman",
+        "subtype": "Didone (Modern)"
+    },
     "_annotations": {
         "metadata.title": {
             "lisibilite": "Lisible"
@@ -23,7 +34,7 @@
         },
         "metadata.authors": {
             "lisibilite": "Lisible",
-            "correction": "GIRARDIN, J."
+            "correction": "J. GIRARDIN"
         },
         "metadata.publisher": {
             "lisibilite": "Lisible"
@@ -37,7 +48,15 @@
         },
         "langue": {
             "lisibilite": "Lisible"
+        },
+        "metadata.identifier": {
+            "lisibilite": "Lisible"
+        },
+        "metadata.iiif_manifest": {
+            "lisibilite": "Lisible"
+        },
+        "ark": {
+            "lisibilite": "Lisible"
         }
-    },
-    "ark": "bpt6k904525"
+    }
 }

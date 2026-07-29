@@ -11,6 +11,17 @@
         "iiif_manifest": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k90358z/manifest.json"
     },
     "langue": "fr (French)",
+    "ark": "bpt6k90358z",
+    "typographie_suggestion": {
+        "category": "Serif/Roman",
+        "subtype": "Slab Serif (Egyptian)",
+        "explanation": "The typeface used for \"CHIMIE INDUSTRIELLE\" features heavy, block-like serifs with little to no bracketing, which is characteristic of the Slab Serif style popular in the 19th century for titles and advertising.",
+        "raw": "Based on the provided image of the title page, there are several typefaces used. I will identify the most prominent one used for the main title (\"CHIMIE INDUSTRIELLE\").\n\nCategory: Serif/Roman\nSubtype: Slab Serif (Egyptian)\nExplanation: The typeface used for \"CHIMIE INDUSTRIELLE\" features heavy, block-like serifs with little to no bracketing, which is characteristic of the Slab Serif style popular in the 19th century for titles and advertising."
+    },
+    "typographie": {
+        "category": "Serif/Roman",
+        "subtype": "Slab Serif (Egyptian)"
+    },
     "_annotations": {
         "metadata.title": {
             "lisibilite": "Lisible"
@@ -36,7 +47,15 @@
         },
         "langue": {
             "lisibilite": "Lisible"
+        },
+        "metadata.identifier": {
+            "lisibilite": "Lisible"
+        },
+        "metadata.iiif_manifest": {
+            "lisibilite": "Lisible"
+        },
+        "ark": {
+            "lisibilite": "Lisible"
         }
-    },
-    "ark": "bpt6k90358z"
+    }
 }

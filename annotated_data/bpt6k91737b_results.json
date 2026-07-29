@@ -3,7 +3,7 @@
         "title": "COURS DE VERRERIE  professé au Conservatoire national des arts et métiers.",
         "title_complement": "LA PHYSIQUE THERMIQUE DU VERRE",
         "volume_number": "DEUXIÈME PARTIE",
-        "authors": "DAMOUR, Émilio",
+        "authors": "ÉMILIO DAMOUR",
         "publisher": "LIBRAIRIE POLYTECHNIQUE CH. BÉRANGER",
         "publication_place": "PARIS ET LIÈGE",
         "date": "1932",
@@ -11,6 +11,17 @@
         "iiif_manifest": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k91737b/manifest.json"
     },
     "langue": "fr (French)",
+    "ark": "bpt6k91737b",
+    "typographie_suggestion": {
+        "category": "Serif/Roman",
+        "subtype": "Didone (Modern)",
+        "explanation": "The typeface features the high contrast between thick and thin strokes, vertical stress, and small, unbracketed (hairline) serifs characteristic of the \"Modern\" or Didone style popular in 19th-century academic and formal printing.",
+        "raw": "Category: Serif/Roman\nSubtype: Didone (Modern)\nExplanation: The typeface features the high contrast between thick and thin strokes, vertical stress, and small, unbracketed (hairline) serifs characteristic of the \"Modern\" or Didone style popular in 19th-century academic and formal printing."
+    },
+    "typographie": {
+        "category": "Serif/Roman",
+        "subtype": "Didone (Modern)"
+    },
     "_annotations": {
         "metadata.title": {
             "lisibilite": "Lisible",
@@ -23,7 +34,8 @@
             "lisibilite": "Lisible"
         },
         "metadata.authors": {
-            "lisibilite": "Lisible"
+            "lisibilite": "Lisible",
+            "correction": "ÉMILIO DAMOUR"
         },
         "metadata.publisher": {
             "lisibilite": "Lisible"
@@ -36,7 +48,15 @@
         },
         "langue": {
             "lisibilite": "Lisible"
+        },
+        "metadata.identifier": {
+            "lisibilite": "Lisible"
+        },
+        "metadata.iiif_manifest": {
+            "lisibilite": "Lisible"
+        },
+        "ark": {
+            "lisibilite": "Lisible"
         }
-    },
-    "ark": "bpt6k91737b"
+    }
 }

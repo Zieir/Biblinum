@@ -3,7 +3,7 @@
         "title": "LECTURES ON THE PRINCIPLE OF SYMMETRY",
         "title_complement": "ITS APPLICATIONS IN ALL NATURAL SCIENCES",
         "volume_number": "",
-        "authors": "JAEGER, F. M.",
+        "authors": "F. M. JAEGER",
         "publisher": "PUBLISHING COMPANY „ELSEVIER“",
         "publication_place": "AMSTERDAM",
         "date": "1917",
@@ -11,6 +11,17 @@
         "iiif_manifest": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k90489h/manifest.json"
     },
     "langue": "en (English)",
+    "ark": "bpt6k90489h",
+    "typographie_suggestion": {
+        "category": "Serif/Roman",
+        "subtype": "Old Style / Transitional",
+        "explanation": "The typeface features moderate contrast between thick and thin strokes, bracketed serifs, and a classical proportion typical of academic and scientific publishing from the early 20th century.",
+        "raw": "Category: Serif/Roman\nSubtype: Old Style / Transitional\nExplanation: The typeface features moderate contrast between thick and thin strokes, bracketed serifs, and a classical proportion typical of academic and scientific publishing from the early 20th century."
+    },
+    "typographie": {
+        "category": "Serif/Roman",
+        "subtype": "Old Style / Transitional"
+    },
     "_annotations": {
         "metadata.title": {
             "lisibilite": "Lisible"
@@ -23,7 +34,8 @@
             "cause": "absent"
         },
         "metadata.authors": {
-            "lisibilite": "Lisible"
+            "lisibilite": "Lisible",
+            "correction": "F. M. JAEGER"
         },
         "metadata.publisher": {
             "lisibilite": "Lisible"
@@ -36,7 +48,15 @@
         },
         "langue": {
             "lisibilite": "Lisible"
+        },
+        "metadata.identifier": {
+            "lisibilite": "Lisible"
+        },
+        "metadata.iiif_manifest": {
+            "lisibilite": "Lisible"
+        },
+        "ark": {
+            "lisibilite": "Lisible"
         }
-    },
-    "ark": "bpt6k90489h"
+    }
 }

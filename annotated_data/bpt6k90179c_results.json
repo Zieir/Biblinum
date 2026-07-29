@@ -1,9 +1,9 @@
 {
     "metadata": {
         "title": "COURS DE PHILOSOPHIE CHIMIQUE",
-        "title_complement": "",
+        "title_complement": "FAIT AU COLLÈGE DE FRANCE",
         "volume_number": "",
-        "authors": "WURTZ, M. AD.",
+        "authors": "AD. WURTZ",
         "publisher": "TYPOGRAPHIE DE RENOU ET MAULDE",
         "publication_place": "PARIS",
         "date": "1864",
@@ -11,20 +11,32 @@
         "iiif_manifest": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k90179c/manifest.json"
     },
     "langue": "fr (French)",
+    "ark": "bpt6k90179c",
+    "typographie_suggestion": {
+        "category": "Serif/Roman",
+        "subtype": "Modern / Didone",
+        "explanation": "The typeface features a strong contrast between thick and thin strokes, vertical stress, and thin, horizontal serifs, which are characteristic of the \"Modern\" style (such as Didot or Bodoni) prevalent in 19th-century French printing.",
+        "raw": "Based on the primary printed text (e.g., \"PHILOSOPHIE CHIMIQUE\"), here is the identification:\n\nCategory: Serif/Roman\nSubtype: Modern / Didone\nExplanation: The typeface features a strong contrast between thick and thin strokes, vertical stress, and thin, horizontal serifs, which are characteristic of the \"Modern\" style (such as Didot or Bodoni) prevalent in 19th-century French printing."
+    },
+    "typographie": {
+        "category": "Serif/Roman",
+        "subtype": "Modern / Didone"
+    },
     "_annotations": {
         "metadata.title": {
             "lisibilite": "Lisible"
         },
         "metadata.title_complement": {
-            "lisibilite": "Non lisible",
-            "cause": "absent"
+            "lisibilite": "Lisible",
+            "correction": "FAIT AU COLLÈGE DE FRANCE"
         },
         "metadata.volume_number": {
             "lisibilite": "Non lisible",
             "cause": "absent"
         },
         "metadata.authors": {
-            "lisibilite": "Lisible"
+            "lisibilite": "Lisible",
+            "correction": "AD. WURTZ"
         },
         "metadata.publisher": {
             "lisibilite": "Lisible"
@@ -37,7 +49,15 @@
         },
         "langue": {
             "lisibilite": "Lisible"
+        },
+        "metadata.identifier": {
+            "lisibilite": "Lisible"
+        },
+        "metadata.iiif_manifest": {
+            "lisibilite": "Lisible"
+        },
+        "ark": {
+            "lisibilite": "Lisible"
         }
-    },
-    "ark": "bpt6k90179c"
+    }
 }

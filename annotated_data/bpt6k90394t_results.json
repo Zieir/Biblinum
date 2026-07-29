@@ -3,7 +3,7 @@
         "title": "MANUAL OF CHEMISTRY",
         "title_complement": "CONTAINING THE PRINCIPAL FACTS OF THE SCIENCE, ARRANGED IN THE ORDER IN WHICH THEY ARE DISCUSSED AND ILLUSTRATED IN THE LECTURES AT THE ROYAL INSTITUTION OF GREAT BRITAIN",
         "volume_number": "VOL. III",
-        "authors": "Brande, William Thomas",
+        "authors": "William Thomas Brande",
         "publisher": "JOHN MURRAY",
         "publication_place": "LONDON",
         "date": "1821",
@@ -11,6 +11,17 @@
         "iiif_manifest": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k90394t/manifest.json"
     },
     "langue": "en (English)",
+    "ark": "bpt6k90394t",
+    "typographie_suggestion": {
+        "category": "Serif/Roman",
+        "subtype": "Didone (Modern)",
+        "explanation": "The typeface features the high contrast between thick and thin strokes, vertical stress, and thin, horizontal serifs characteristic of the \"Modern\" or Didone style popular in the early 19th century (e.g., Bodoni or Didot).",
+        "raw": "Category: Serif/Roman\nSubtype: Didone (Modern)\nExplanation: The typeface features the high contrast between thick and thin strokes, vertical stress, and thin, horizontal serifs characteristic of the \"Modern\" or Didone style popular in the early 19th century (e.g., Bodoni or Didot)."
+    },
+    "typographie": {
+        "category": "Serif/Roman",
+        "subtype": "Didone (Modern)"
+    },
     "_annotations": {
         "metadata.title": {
             "lisibilite": "Lisible"
@@ -23,7 +34,7 @@
         },
         "metadata.authors": {
             "lisibilite": "Lisible",
-            "correction": "Brande, William Thomas"
+            "correction": "William Thomas Brande"
         },
         "metadata.publisher": {
             "lisibilite": "Lisible"
@@ -36,7 +47,15 @@
         },
         "langue": {
             "lisibilite": "Lisible"
+        },
+        "metadata.identifier": {
+            "lisibilite": "Lisible"
+        },
+        "metadata.iiif_manifest": {
+            "lisibilite": "Lisible"
+        },
+        "ark": {
+            "lisibilite": "Lisible"
         }
-    },
-    "ark": "bpt6k90394t"
+    }
 }

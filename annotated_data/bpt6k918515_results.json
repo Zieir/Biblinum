@@ -11,6 +11,17 @@
         "iiif_manifest": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k918515/manifest.json"
     },
     "langue": "fr (French)",
+    "ark": "bpt6k918515",
+    "typographie_suggestion": {
+        "category": "Serif/Roman",
+        "subtype": "Modern (Didone)",
+        "explanation": "The typeface features a high contrast between thick and thin strokes, vertical stress, and small, horizontal serifs, which are characteristic of the Modern/Didone style prevalent in 19th-century academic and formal printing.",
+        "raw": "Category: Serif/Roman\nSubtype: Modern (Didone)\nExplanation: The typeface features a high contrast between thick and thin strokes, vertical stress, and small, horizontal serifs, which are characteristic of the Modern/Didone style prevalent in 19th-century academic and formal printing."
+    },
+    "typographie": {
+        "category": "Serif/Roman",
+        "subtype": "Modern (Didone)"
+    },
     "_annotations": {
         "metadata.title": {
             "lisibilite": "Lisible",
@@ -39,7 +50,15 @@
         },
         "langue": {
             "lisibilite": "Lisible"
+        },
+        "metadata.identifier": {
+            "lisibilite": "Lisible"
+        },
+        "metadata.iiif_manifest": {
+            "lisibilite": "Lisible"
+        },
+        "ark": {
+            "lisibilite": "Lisible"
         }
-    },
-    "ark": "bpt6k918515"
+    }
 }

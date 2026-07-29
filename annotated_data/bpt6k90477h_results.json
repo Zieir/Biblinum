@@ -3,7 +3,7 @@
         "title": "ZUR ERINNERUNG AN GUSTAV MAGNUS",
         "title_complement": "nach einem am 14. December 1870 in der General-Versammlung der Deutschen Chemischen Gesellschaft zu Berlin gehaltenen Vortrage von Aug. Wilh. Hofmann",
         "volume_number": "",
-        "authors": "Hofmann, Aug. Wilh.",
+        "authors": "Aug. Wilh. Hofmann",
         "publisher": "Ferd. Dümmler's Verlagsbuchhandlung Harrwitz und Gossmann",
         "publication_place": "BERLIN",
         "date": "1871",
@@ -11,12 +11,23 @@
         "iiif_manifest": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k90477h/manifest.json"
     },
     "langue": "de (German)",
+    "ark": "bpt6k90477h",
+    "typographie_suggestion": {
+        "category": "Serif/Roman",
+        "subtype": "Modern / Didone",
+        "explanation": "The typeface features a high contrast between thick and thin strokes, vertical stress, and small, horizontal serifs, which are characteristic of the Modern (Didone) style popular in the 19th century.",
+        "raw": "Category: Serif/Roman\nSubtype: Modern / Didone\nExplanation: The typeface features a high contrast between thick and thin strokes, vertical stress, and small, horizontal serifs, which are characteristic of the Modern (Didone) style popular in the 19th century."
+    },
+    "typographie": {
+        "category": "Serif/Roman",
+        "subtype": "Modern / Didone"
+    },
     "_annotations": {
         "metadata.title": {
             "lisibilite": "Lisible"
         },
         "metadata.title_complement": {
-            "lisibilite": "Lisible", 
+            "lisibilite": "Lisible",
             "correction": "nach einem am 14. December 1870 in der General-Versammlung der Deutschen Chemischen Gesellschaft zu Berlin gehaltenen Vortrage von Aug. Wilh. Hofmann"
         },
         "metadata.volume_number": {
@@ -25,10 +36,11 @@
         },
         "metadata.authors": {
             "lisibilite": "Non lisible",
-            "cause": "recouvert"
+            "cause": "recouvert",
+            "correction": "Aug. Wilh. Hofmann"
         },
         "metadata.publisher": {
-            "lisibilite": "Lisible", 
+            "lisibilite": "Lisible",
             "correction": "Ferd. Dümmler's Verlagsbuchhandlung Harrwitz und Gossmann"
         },
         "metadata.publication_place": {
@@ -39,7 +51,15 @@
         },
         "langue": {
             "lisibilite": "Lisible"
+        },
+        "metadata.identifier": {
+            "lisibilite": "Lisible"
+        },
+        "metadata.iiif_manifest": {
+            "lisibilite": "Lisible"
+        },
+        "ark": {
+            "lisibilite": "Lisible"
         }
-    },
-    "ark": "bpt6k90477h"
+    }
 }

@@ -3,7 +3,7 @@
         "title": "CONFERENZE E DISCORSI SCIENTIFICI",
         "title_complement": "(1877-1926)",
         "volume_number": "",
-        "authors": "PATERNO, Emanuele",
+        "authors": "Emanuele PATERNO",
         "publisher": "PAOLO CREMONESE",
         "publication_place": "ROMA",
         "date": "1928",
@@ -11,6 +11,17 @@
         "iiif_manifest": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k900464/manifest.json"
     },
     "langue": "it (Italian)",
+    "ark": "bpt6k900464",
+    "typographie_suggestion": {
+        "category": "Sans-serif",
+        "subtype": "Grotesque",
+        "explanation": "The main title \"CONFERENZE E DISCORSI SCIENTIFICI\" features a bold, clean typeface without serifs, characterized by uniform stroke thickness and a functional, industrial appearance typical of early 20th-century Grotesque styles.",
+        "raw": "Category: Sans-serif\nSubtype: Grotesque\nExplanation: The main title \"CONFERENZE E DISCORSI SCIENTIFICI\" features a bold, clean typeface without serifs, characterized by uniform stroke thickness and a functional, industrial appearance typical of early 20th-century Grotesque styles."
+    },
+    "typographie": {
+        "category": "Sans-serif",
+        "subtype": "Grotesque"
+    },
     "_annotations": {
         "metadata.title": {
             "lisibilite": "Lisible"
@@ -23,7 +34,8 @@
             "cause": "absent"
         },
         "metadata.authors": {
-            "lisibilite": "Lisible"
+            "lisibilite": "Lisible",
+            "correction": "Emanuele PATERNO"
         },
         "metadata.publisher": {
             "lisibilite": "Lisible"
@@ -36,7 +48,15 @@
         },
         "langue": {
             "lisibilite": "Lisible"
+        },
+        "metadata.identifier": {
+            "lisibilite": "Lisible"
+        },
+        "metadata.iiif_manifest": {
+            "lisibilite": "Lisible"
+        },
+        "ark": {
+            "lisibilite": "Lisible"
         }
-    },
-    "ark": "bpt6k900464"
+    }
 }

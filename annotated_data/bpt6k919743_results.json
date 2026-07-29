@@ -11,6 +11,17 @@
         "iiif_manifest": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k919743/manifest.json"
     },
     "langue": "de (German)",
+    "ark": "bpt6k919743",
+    "typographie_suggestion": {
+        "category": "Serif/Roman",
+        "subtype": "Didone (Modern)",
+        "explanation": "The typeface features a high contrast between thick and thin strokes, vertical stress, and small, horizontal, unbracketed serifs, which are characteristic of the \"Modern\" or Didone style popular in academic and scientific publishing during the late 19th and early 20th centuries.",
+        "raw": "Category: Serif/Roman\nSubtype: Didone (Modern)\nExplanation: The typeface features a high contrast between thick and thin strokes, vertical stress, and small, horizontal, unbracketed serifs, which are characteristic of the \"Modern\" or Didone style popular in academic and scientific publishing during the late 19th and early 20th centuries."
+    },
+    "typographie": {
+        "category": "Serif/Roman",
+        "subtype": "Didone (Modern)"
+    },
     "_annotations": {
         "metadata.title": {
             "lisibilite": "Lisible"
@@ -36,7 +47,15 @@
         },
         "langue": {
             "lisibilite": "Lisible"
+        },
+        "metadata.identifier": {
+            "lisibilite": "Lisible"
+        },
+        "metadata.iiif_manifest": {
+            "lisibilite": "Lisible"
+        },
+        "ark": {
+            "lisibilite": "Lisible"
         }
-    },
-    "ark": "bpt6k919743"
+    }
 }

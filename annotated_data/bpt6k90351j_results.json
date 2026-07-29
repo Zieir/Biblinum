@@ -1,19 +1,31 @@
 {
     "metadata": {
-        "title": "ONORANZE CENTENARIE",
+        "title": "ONORANZE CENTENARIE AD ASCANIO SOBRERO",
         "title_complement": "",
         "volume_number": "",
-        "authors": "SOBRERO, ASCANIO",
-        "publisher": "",
-        "publication_place": "",
-        "date": "",
+        "authors": "Associazione Chimica Industriale di Torino",
+        "publisher": "Unione Tipografico-Editrice Torinese",
+        "publication_place": "TORINO",
+        "date": "1914",
         "identifier": "http://gallica.bnf.fr/ark:/12148/bpt6k90351j",
         "iiif_manifest": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k90351j/manifest.json"
     },
     "langue": "it (Italian)",
+    "ark": "bpt6k90351j",
+    "typographie_suggestion": {
+        "category": "Serif/Roman",
+        "subtype": "Slab Serif (Egyptian)",
+        "explanation": "The typeface features thick, block-like serifs with little to no bracketing between the serif and the stem, characteristic of the Slab Serif style common in early 20th-century printing and formal announcements.",
+        "raw": "Category: Serif/Roman\nSubtype: Slab Serif (Egyptian)\nExplanation: The typeface features thick, block-like serifs with little to no bracketing between the serif and the stem, characteristic of the Slab Serif style common in early 20th-century printing and formal announcements."
+    },
+    "typographie": {
+        "category": "Serif/Roman",
+        "subtype": "Slab Serif (Egyptian)"
+    },
     "_annotations": {
         "metadata.title": {
-            "lisibilite": "Lisible"
+            "lisibilite": "Lisible",
+            "correction": "ONORANZE CENTENARIE AD ASCANIO SOBRERO"
         },
         "metadata.title_complement": {
             "lisibilite": "Non lisible",
@@ -24,23 +36,32 @@
             "cause": "absent"
         },
         "metadata.authors": {
-            "lisibilite": "Lisible"
+            "lisibilite": "Lisible",
+            "correction": "Associazione Chimica Industriale di Torino"
         },
         "metadata.publisher": {
-            "lisibilite": "Non lisible",
-            "cause": "absent"
+            "lisibilite": "Lisible",
+            "correction": "Unione Tipografico-Editrice Torinese"
         },
         "metadata.publication_place": {
-            "lisibilite": "Non lisible",
-            "cause": "absent"
+            "lisibilite": "Lisible",
+            "correction": "TORINO"
         },
         "metadata.date": {
-            "lisibilite": "Non lisible",
-            "cause": "absent"
+            "lisibilite": "Lisible",
+            "correction": "1914"
         },
         "langue": {
             "lisibilite": "Lisible"
+        },
+        "metadata.identifier": {
+            "lisibilite": "Lisible"
+        },
+        "metadata.iiif_manifest": {
+            "lisibilite": "Lisible"
+        },
+        "ark": {
+            "lisibilite": "Lisible"
         }
-    },
-    "ark": "bpt6k90351j"
+    }
 }

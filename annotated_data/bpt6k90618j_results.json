@@ -1,47 +1,67 @@
 {
     "metadata": {
         "title": "LECONS DE CHIMIE ÉLÉMENTAIRE",
-        "title_complement": "",
-        "volume_number": "",
-        "authors": "",
-        "publisher": "",
-        "publication_place": "",
-        "date": "",
+        "title_complement": "appliquées aux arts industriels et faites aux ouvriers du XIIe arrondissement",
+        "volume_number": "PREMIÈRE PARTIE",
+        "authors": "DORÉ FILS",
+        "publisher": "Carilian-Goeury et Vor Dalmont ",
+        "publication_place": "PARIS",
+        "date": "1855",
         "identifier": "http://gallica.bnf.fr/ark:/12148/bpt6k90618j",
         "iiif_manifest": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k90618j/manifest.json"
     },
     "langue": "fr (French)",
+    "ark": "bpt6k90618j",
+    "typographie_suggestion": {
+        "category": "Display",
+        "subtype": "Fat Face / Slab Serif",
+        "explanation": "The main title \"CHIMIE ÉLÉMENTAIRE\" features extreme contrast between thick vertical stems and very thin horizontal hairlines, characteristic of the \"Fat Face\" style popular in the early 19th century for advertising and titles. It incorporates heavy, block-like serifs.",
+        "raw": "Category: Display\nSubtype: Fat Face / Slab Serif\nExplanation: The main title \"CHIMIE ÉLÉMENTAIRE\" features extreme contrast between thick vertical stems and very thin horizontal hairlines, characteristic of the \"Fat Face\" style popular in the early 19th century for advertising and titles. It incorporates heavy, block-like serifs."
+    },
+    "typographie": {
+        "category": "Display",
+        "subtype": "Fat Face / Slab Serif"
+    },
     "_annotations": {
         "metadata.title": {
             "lisibilite": "Lisible"
         },
         "metadata.title_complement": {
-            "lisibilite": "Non lisible",
-            "cause": "absent"
+            "lisibilite": "Lisible",
+            "correction": "appliquées aux arts industriels et faites aux ouvriers du XIIe arrondissement"
         },
         "metadata.volume_number": {
-            "lisibilite": "Non lisible",
-            "cause": "absent"
+            "lisibilite": "Lisible",
+            "correction": "PREMIÈRE PARTIE"
         },
         "metadata.authors": {
-            "lisibilite": "Non lisible",
-            "cause": "absent"
+            "lisibilite": "Lisible",
+            "correction": "DORÉ FILS"
         },
         "metadata.publisher": {
-            "lisibilite": "Non lisible",
-            "cause": "absent"
+            "lisibilite": "Lisible",
+            "correction": "Carilian-Goeury et Vor Dalmont "
         },
         "metadata.publication_place": {
-            "lisibilite": "Non lisible",
-            "cause": "absent"
+            "lisibilite": "Lisible",
+            "correction": "PARIS"
         },
         "metadata.date": {
             "lisibilite": "Non lisible",
-            "cause": "absent"
+            "cause": "qualite",
+            "correction": "1855"
         },
         "langue": {
             "lisibilite": "Lisible"
+        },
+        "metadata.identifier": {
+            "lisibilite": "Lisible"
+        },
+        "metadata.iiif_manifest": {
+            "lisibilite": "Lisible"
+        },
+        "ark": {
+            "lisibilite": "Lisible"
         }
-    },
-    "ark": "bpt6k90618j"
+    }
 }

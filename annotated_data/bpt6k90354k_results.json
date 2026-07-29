@@ -3,7 +3,7 @@
         "title": "INTRODUCTION LES SCIENCES EXPÉRIMENTALES",
         "title_complement": "EN 1889",
         "volume_number": "",
-        "authors": "BADOUREAU, A.",
+        "authors": "A. BADOUREAU",
         "publisher": "MAISON QUANTIN",
         "publication_place": "PARIS",
         "date": "1889",
@@ -11,6 +11,17 @@
         "iiif_manifest": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k90354k/manifest.json"
     },
     "langue": "fr (French)",
+    "ark": "bpt6k90354k",
+    "typographie_suggestion": {
+        "category": "Serif/Roman",
+        "subtype": "Slab Serif (Egyptian)",
+        "explanation": "The most prominent text (\"SCIENCES EXPÉRIMENTALES\") features heavy, block-like serifs with little to no bracketing, characteristic of the Slab Serif style popular in the 19th century. The remaining text uses a standard Modern/Didone serif.",
+        "raw": "Category: Serif/Roman\nSubtype: Slab Serif (Egyptian)\nExplanation: The most prominent text (\"SCIENCES EXPÉRIMENTALES\") features heavy, block-like serifs with little to no bracketing, characteristic of the Slab Serif style popular in the 19th century. The remaining text uses a standard Modern/Didone serif."
+    },
+    "typographie": {
+        "category": "Serif/Roman",
+        "subtype": "Slab Serif (Egyptian)"
+    },
     "_annotations": {
         "metadata.title": {
             "lisibilite": "Lisible"
@@ -23,7 +34,8 @@
             "cause": "absent"
         },
         "metadata.authors": {
-            "lisibilite": "Lisible"
+            "lisibilite": "Lisible",
+            "correction": "A. BADOUREAU"
         },
         "metadata.publisher": {
             "lisibilite": "Lisible"
@@ -36,7 +48,15 @@
         },
         "langue": {
             "lisibilite": "Lisible"
+        },
+        "metadata.identifier": {
+            "lisibilite": "Lisible"
+        },
+        "metadata.iiif_manifest": {
+            "lisibilite": "Lisible"
+        },
+        "ark": {
+            "lisibilite": "Lisible"
         }
-    },
-    "ark": "bpt6k90354k"
+    }
 }

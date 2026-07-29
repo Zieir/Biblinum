@@ -3,7 +3,7 @@
         "title": "LEÇONS SUR LES MÉTAUX",
         "title_complement": "PROFESSÉES A LA FACULTÉ DES SCIENCES DE PARIS",
         "volume_number": "SECOND FASCICULE",
-        "authors": "DITTE, ALFRED",
+        "authors": "ALFRED DITTE",
         "publisher": "Vve CH. DUNOD, EDITEUR",
         "publication_place": "PARIS",
         "date": "1891",
@@ -11,6 +11,17 @@
         "iiif_manifest": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k904169/manifest.json"
     },
     "langue": "fr (French)",
+    "ark": "bpt6k904169",
+    "typographie_suggestion": {
+        "category": "Serif/Roman",
+        "subtype": "Didone (Modern)",
+        "explanation": "The typeface features a strong contrast between thick and thin strokes, vertical stress, and thin, horizontal serifs, which are the defining characteristics of the Didone style (popularized by Didot and Bodoni) common in 19th-century French printing.",
+        "raw": "Category: Serif/Roman\nSubtype: Didone (Modern)\nExplanation: The typeface features a strong contrast between thick and thin strokes, vertical stress, and thin, horizontal serifs, which are the defining characteristics of the Didone style (popularized by Didot and Bodoni) common in 19th-century French printing."
+    },
+    "typographie": {
+        "category": "Serif/Roman",
+        "subtype": "Didone (Modern)"
+    },
     "_annotations": {
         "metadata.title": {
             "lisibilite": "Lisible"
@@ -22,7 +33,8 @@
             "lisibilite": "Lisible"
         },
         "metadata.authors": {
-            "lisibilite": "Lisible"
+            "lisibilite": "Lisible",
+            "correction": "ALFRED DITTE"
         },
         "metadata.publisher": {
             "lisibilite": "Lisible"
@@ -35,7 +47,15 @@
         },
         "langue": {
             "lisibilite": "Lisible"
+        },
+        "metadata.identifier": {
+            "lisibilite": "Lisible"
+        },
+        "metadata.iiif_manifest": {
+            "lisibilite": "Lisible"
+        },
+        "ark": {
+            "lisibilite": "Lisible"
         }
-    },
-    "ark": "bpt6k904169"
+    }
 }

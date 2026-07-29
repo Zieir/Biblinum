@@ -1,47 +1,66 @@
 {
     "metadata": {
         "title": "DESCRIPTION DE L'ARBRE A QUINQUINA",
-        "title_complement": "",
+        "title_complement": "mémoire inédit de Joseph de Jussieu (1737) ",
         "volume_number": "",
-        "authors": "",
-        "publisher": "",
-        "publication_place": "",
-        "date": "",
+        "authors": "Joseph de Jussieu",
+        "publisher": "Société du traitement des quinquinas",
+        "publication_place": "PARIS",
+        "date": "1936",
         "identifier": "http://gallica.bnf.fr/ark:/12148/bpt6k90339p",
         "iiif_manifest": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k90339p/manifest.json"
     },
     "langue": "fr (French)",
+    "ark": "bpt6k90339p",
+    "typographie_suggestion": {
+        "category": "Serif/Roman",
+        "subtype": "Transitional / Didone",
+        "explanation": "The typeface features a strong contrast between thick and thin strokes, vertical stress, and relatively flat, horizontal serifs. These characteristics are typical of the \"Modern\" or Didone style (like Bodoni or Didot), which evolved from Transitional styles to create a more structured, high-contrast appearance common in formal 18th and 19th-century printing.",
+        "raw": "Category: Serif/Roman\nSubtype: Transitional / Didone\nExplanation: The typeface features a strong contrast between thick and thin strokes, vertical stress, and relatively flat, horizontal serifs. These characteristics are typical of the \"Modern\" or Didone style (like Bodoni or Didot), which evolved from Transitional styles to create a more structured, high-contrast appearance common in formal 18th and 19th-century printing."
+    },
+    "typographie": {
+        "category": "Serif/Roman",
+        "subtype": "Transitional / Didone"
+    },
     "_annotations": {
         "metadata.title": {
             "lisibilite": "Lisible"
         },
         "metadata.title_complement": {
-            "lisibilite": "Non lisible",
-            "cause": "absent"
+            "lisibilite": "Lisible",
+            "correction": "mémoire inédit de Joseph de Jussieu (1737) "
         },
         "metadata.volume_number": {
             "lisibilite": "Non lisible",
             "cause": "absent"
         },
         "metadata.authors": {
-            "lisibilite": "Non lisible",
-            "cause": "absent"
+            "lisibilite": "Lisible",
+            "correction": "Joseph de Jussieu"
         },
         "metadata.publisher": {
-            "lisibilite": "Non lisible",
-            "cause": "absent"
+            "lisibilite": "Lisible",
+            "correction": "Société du traitement des quinquinas"
         },
         "metadata.publication_place": {
-            "lisibilite": "Non lisible",
-            "cause": "absent"
+            "lisibilite": "Lisible",
+            "correction": "PARIS"
         },
         "metadata.date": {
-            "lisibilite": "Non lisible",
-            "cause": "absent"
+            "lisibilite": "Lisible",
+            "correction": "1936"
         },
         "langue": {
             "lisibilite": "Lisible"
+        },
+        "metadata.identifier": {
+            "lisibilite": "Lisible"
+        },
+        "metadata.iiif_manifest": {
+            "lisibilite": "Lisible"
+        },
+        "ark": {
+            "lisibilite": "Lisible"
         }
-    },
-    "ark": "bpt6k90339p"
+    }
 }

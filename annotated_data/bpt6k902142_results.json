@@ -1,9 +1,9 @@
 {
     "metadata": {
         "title": "APPLICATIONS D'ANALYSE ET DE GÉOMÉTRIE",
-        "title_complement": "TRAITÉ DES PROPRIÉTÉS PROJECTIVES DES FIGURES",
+        "title_complement": "qui ont servi de principal fondement au Traité des propriétés projectives des figures",
         "volume_number": "TOME DEUXIÈME ET DERNIER",
-        "authors": "PONCELET, J.-V.",
+        "authors": "J.-V. Poncelet",
         "publisher": "GAUTHIER-VILLARS, IMPRIMEUR-LIBRAIRE",
         "publication_place": "PARIS",
         "date": "1864",
@@ -11,18 +11,31 @@
         "iiif_manifest": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k902142/manifest.json"
     },
     "langue": "fr (French)",
+    "ark": "bpt6k902142",
+    "typographie_suggestion": {
+        "category": "Serif/Roman",
+        "subtype": "Didone (Modern)",
+        "explanation": "The typeface features the high contrast between thick and thin strokes, vertical stress, and thin, horizontal serifs characteristic of the \"Modern\" or Didone style (similar to Didot or Bodoni), which was prevalent in French printing during the 19th century.",
+        "raw": "Category: Serif/Roman\nSubtype: Didone (Modern)\nExplanation: The typeface features the high contrast between thick and thin strokes, vertical stress, and thin, horizontal serifs characteristic of the \"Modern\" or Didone style (similar to Didot or Bodoni), which was prevalent in French printing during the 19th century."
+    },
+    "typographie": {
+        "category": "Serif/Roman",
+        "subtype": "Didone (Modern)"
+    },
     "_annotations": {
         "metadata.title": {
             "lisibilite": "Lisible"
         },
         "metadata.title_complement": {
-            "lisibilite": "Lisible"
+            "lisibilite": "Lisible",
+            "correction": "qui ont servi de principal fondement au Traité des propriétés projectives des figures"
         },
         "metadata.volume_number": {
             "lisibilite": "Lisible"
         },
         "metadata.authors": {
-            "lisibilite": "Lisible"
+            "lisibilite": "Lisible",
+            "correction": "J.-V. Poncelet"
         },
         "metadata.publisher": {
             "lisibilite": "Lisible"
@@ -35,7 +48,15 @@
         },
         "langue": {
             "lisibilite": "Lisible"
+        },
+        "metadata.identifier": {
+            "lisibilite": "Lisible"
+        },
+        "metadata.iiif_manifest": {
+            "lisibilite": "Lisible"
+        },
+        "ark": {
+            "lisibilite": "Lisible"
         }
-    },
-    "ark": "bpt6k902142"
+    }
 }

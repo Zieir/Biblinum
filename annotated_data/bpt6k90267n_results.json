@@ -1,9 +1,9 @@
 {
     "metadata": {
-        "title": "THE DUST HAZARD",
-        "title_complement": "INDUSTRY",
+        "title": "THE DUST HAZARD INDUSTRY ",
+        "title_complement": "",
         "volume_number": "",
-        "authors": "GIBBS, William E.",
+        "authors": "William E. GIBBS",
         "publisher": "ERNEST BENN LTD.",
         "publication_place": "LONDON",
         "date": "1925",
@@ -11,21 +11,34 @@
         "iiif_manifest": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k90267n/manifest.json"
     },
     "langue": "en (English)",
+    "ark": "bpt6k90267n",
+    "typographie_suggestion": {
+        "category": "Serif/Roman",
+        "subtype": "Transitional / Modern",
+        "explanation": "The main title and body text feature high contrast between thick and thin strokes with horizontal serifs, characteristic of the Transitional and Modern (Didone) styles common in early 20th-century academic and technical publishing.",
+        "raw": "Category: Serif/Roman\nSubtype: Transitional / Modern\nExplanation: The main title and body text feature high contrast between thick and thin strokes with horizontal serifs, characteristic of the Transitional and Modern (Didone) styles common in early 20th-century academic and technical publishing."
+    },
+    "typographie": {
+        "category": "Serif/Roman",
+        "subtype": "Transitional / Modern"
+    },
     "_annotations": {
         "metadata.title": {
-            "lisibilite": "Lisible"
+            "lisibilite": "Lisible",
+            "correction": "THE DUST HAZARD INDUSTRY "
         },
         "metadata.title_complement": {
             "lisibilite": "Non lisible",
-            "cause": "recouvert",
-            "correction": "INDUSTRY"
+            "cause": "absent",
+            "correction": ""
         },
         "metadata.volume_number": {
             "lisibilite": "Non lisible",
             "cause": "absent"
         },
         "metadata.authors": {
-            "lisibilite": "Lisible"
+            "lisibilite": "Lisible",
+            "correction": "William E. GIBBS"
         },
         "metadata.publisher": {
             "lisibilite": "Lisible"
@@ -38,7 +51,15 @@
         },
         "langue": {
             "lisibilite": "Lisible"
+        },
+        "metadata.identifier": {
+            "lisibilite": "Lisible"
+        },
+        "metadata.iiif_manifest": {
+            "lisibilite": "Lisible"
+        },
+        "ark": {
+            "lisibilite": "Lisible"
         }
-    },
-    "ark": "bpt6k90267n"
+    }
 }

@@ -3,7 +3,7 @@
         "title": "Sels organiques uraniques",
         "title_complement": "",
         "volume_number": "",
-        "authors": "Courtois, Gaston",
+        "authors": "Gaston Courtois",
         "publisher": "Imprimerie et lithographie Lucien Delorme",
         "publication_place": "Lons-le-Saunier",
         "date": "1914",
@@ -11,6 +11,17 @@
         "iiif_manifest": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k90408p/manifest.json"
     },
     "langue": "fr (French)",
+    "ark": "bpt6k90408p",
+    "typographie_suggestion": {
+        "category": "Blackletter",
+        "subtype": "Textura",
+        "explanation": "The main title \"SELS ORGANIQUES URANIQUES\" features the characteristic heavy, angular, and condensed strokes of the Textura style, which is a formal and structured form of Blackletter common in early printing and ceremonial headings.",
+        "raw": "Category: Blackletter\nSubtype: Textura\nExplanation: The main title \"SELS ORGANIQUES URANIQUES\" features the characteristic heavy, angular, and condensed strokes of the Textura style, which is a formal and structured form of Blackletter common in early printing and ceremonial headings."
+    },
+    "typographie": {
+        "category": "Blackletter",
+        "subtype": "Textura"
+    },
     "_annotations": {
         "metadata.title": {
             "lisibilite": "Lisible"
@@ -24,7 +35,8 @@
             "cause": "absent"
         },
         "metadata.authors": {
-            "lisibilite": "Lisible"
+            "lisibilite": "Lisible",
+            "correction": "Gaston Courtois"
         },
         "metadata.publisher": {
             "lisibilite": "Lisible"
@@ -37,7 +49,15 @@
         },
         "langue": {
             "lisibilite": "Lisible"
+        },
+        "metadata.identifier": {
+            "lisibilite": "Lisible"
+        },
+        "metadata.iiif_manifest": {
+            "lisibilite": "Lisible"
+        },
+        "ark": {
+            "lisibilite": "Lisible"
         }
-    },
-    "ark": "bpt6k90408p"
+    }
 }

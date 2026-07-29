@@ -11,6 +11,17 @@
         "iiif_manifest": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k900197/manifest.json"
     },
     "langue": "ru (Russian)",
+    "ark": "bpt6k900197",
+    "typographie_suggestion": {
+        "category": "Script",
+        "subtype": "Cursive / Handwriting",
+        "explanation": "These are fluid, connected characters written by hand, typical of 19th-century personal correspondence or archival notation.",
+        "raw": "Based on the image provided, there are multiple styles present. I will analyze the primary printed text (the title and publication details).\n\n**For the main printed text (e.g., \"ЖИЗНЬ И ДѢЯТЕЛЬНОСТЬ\"):**\n\nCategory: Serif/Roman\nSubtype: Modern / Didone\nExplanation: The text features a high contrast between thick and thin strokes with horizontal, unbracketed serifs, characteristic of the \"Modern\" or Didone style prevalent in 19th-century printing.\n\n**For the handwritten annotations (e.g., \"La Vie et L'Activité\"):**\n\nCategory: Script\nSubtype: Cursive / Handwriting\nExplanation: These are fluid, connected characters written by hand, typical of 19th-century personal correspondence or archival notation."
+    },
+    "typographie": {
+        "category": "Script",
+        "subtype": "Cursive / Handwriting"
+    },
     "_annotations": {
         "metadata.title": {
             "lisibilite": "Lisible",
@@ -44,7 +55,15 @@
         },
         "langue": {
             "lisibilite": "Lisible"
+        },
+        "metadata.identifier": {
+            "lisibilite": "Lisible"
+        },
+        "metadata.iiif_manifest": {
+            "lisibilite": "Lisible"
+        },
+        "ark": {
+            "lisibilite": "Lisible"
         }
-    },
-    "ark": "bpt6k900197"
+    }
 }

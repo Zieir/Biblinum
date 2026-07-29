@@ -3,7 +3,7 @@
         "title": "LES GAZ COMBUSTIBLES DE L'AIR",
         "title_complement": "",
         "volume_number": "",
-        "authors": "GAUTIER,  Armand",
+        "authors": "Armand GAUTIER",
         "publisher": "GAUTHIER-VILLARS",
         "publication_place": "PARIS",
         "date": "1901",
@@ -11,6 +11,17 @@
         "iiif_manifest": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k91798j/manifest.json"
     },
     "langue": "fr (French)",
+    "ark": "bpt6k91798j",
+    "typographie_suggestion": {
+        "category": "Serif/Roman",
+        "subtype": "Modern / Didone",
+        "explanation": "The typeface features a high contrast between thick and thin strokes, vertical stress, and small, horizontal serifs, which are characteristic of the Modern/Didone style popular in academic and official printing during the late 19th and early 20th centuries.",
+        "raw": "Based on the primary printed text (\"GAZ COMBUSTIBLES DE L'AIR\"), here is the identification:\n\nCategory: Serif/Roman\nSubtype: Modern / Didone\nExplanation: The typeface features a high contrast between thick and thin strokes, vertical stress, and small, horizontal serifs, which are characteristic of the Modern/Didone style popular in academic and official printing during the late 19th and early 20th centuries."
+    },
+    "typographie": {
+        "category": "Serif/Roman",
+        "subtype": "Modern / Didone"
+    },
     "_annotations": {
         "metadata.title": {
             "lisibilite": "Lisible"
@@ -25,7 +36,7 @@
         },
         "metadata.authors": {
             "lisibilite": "Lisible",
-            "correction": "GAUTIER,  Armand"
+            "correction": "Armand GAUTIER"
         },
         "metadata.publisher": {
             "lisibilite": "Lisible"
@@ -38,7 +49,15 @@
         },
         "langue": {
             "lisibilite": "Lisible"
+        },
+        "metadata.identifier": {
+            "lisibilite": "Lisible"
+        },
+        "metadata.iiif_manifest": {
+            "lisibilite": "Lisible"
+        },
+        "ark": {
+            "lisibilite": "Lisible"
         }
-    },
-    "ark": "bpt6k91798j"
+    }
 }

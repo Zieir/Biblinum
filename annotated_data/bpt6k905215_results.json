@@ -1,9 +1,9 @@
 {
     "metadata": {
-        "title": "DICTIONNAIRE DES ARTS ET MANUFACTURES",
-        "title_complement": "DE L'AGRICULTURE, DES MINES, ETC.",
+        "title": "DICTIONNAIRE DES ARTS ET MANUFACTURES DE L'AGRICULTURE, DES MINES, ETC.",
+        "title_complement": "description des procédés de l'industrie française et étrangère",
         "volume_number": "H-Z",
-        "authors": "LABOULAYE, M. Ch.",
+        "authors": "CH. LABOULAYE",
         "publisher": "LIBRAIRIE DU DICTIONNAIRE DES ARTS ET MANUFACTURES",
         "publication_place": "PARIS",
         "date": "1870",
@@ -11,18 +11,32 @@
         "iiif_manifest": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k905215/manifest.json"
     },
     "langue": "fr (French)",
+    "ark": "bpt6k905215",
+    "typographie_suggestion": {
+        "category": "Serif/Roman",
+        "subtype": "Didone (Modern)",
+        "explanation": "The typeface features a high contrast between thick and thin strokes, vertical stress, and thin, horizontal serifs. This is characteristic of the \"Modern\" or Didone style (such as Bodoni or Didot), which was prevalent in French publishing during the 19th century.",
+        "raw": "Based on the provided image of the title page, there are several typefaces used. I will identify the dominant typeface used for the main title (\"ARTS ET MANUFACTURES\").\n\nCategory: Serif/Roman\nSubtype: Didone (Modern)\nExplanation: The typeface features a high contrast between thick and thin strokes, vertical stress, and thin, horizontal serifs. This is characteristic of the \"Modern\" or Didone style (such as Bodoni or Didot), which was prevalent in French publishing during the 19th century."
+    },
+    "typographie": {
+        "category": "Serif/Roman",
+        "subtype": "Didone (Modern)"
+    },
     "_annotations": {
         "metadata.title": {
-            "lisibilite": "Lisible"
+            "lisibilite": "Lisible",
+            "correction": "DICTIONNAIRE DES ARTS ET MANUFACTURES DE L'AGRICULTURE, DES MINES, ETC."
         },
         "metadata.title_complement": {
-            "lisibilite": "Lisible"
+            "lisibilite": "Lisible",
+            "correction": "description des procédés de l'industrie française et étrangère"
         },
         "metadata.volume_number": {
             "lisibilite": "Lisible"
         },
         "metadata.authors": {
-            "lisibilite": "Lisible"
+            "lisibilite": "Lisible",
+            "correction": "CH. LABOULAYE"
         },
         "metadata.publisher": {
             "lisibilite": "Lisible"
@@ -35,7 +49,15 @@
         },
         "langue": {
             "lisibilite": "Lisible"
+        },
+        "metadata.identifier": {
+            "lisibilite": "Lisible"
+        },
+        "metadata.iiif_manifest": {
+            "lisibilite": "Lisible"
+        },
+        "ark": {
+            "lisibilite": "Lisible"
         }
-    },
-    "ark": "bpt6k905215"
+    }
 }

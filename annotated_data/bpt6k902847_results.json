@@ -1,9 +1,9 @@
 {
     "metadata": {
-        "title": "NOTIONS FONDAMENTALES",
-        "title_complement": "D'ÉLÉMENT CHIMIQUE ET D'ATOME",
+        "title": "NOTIONS FONDAMENTALES D'ÉLÉMENT CHIMIQUE ET D'ATOME",
+        "title_complement": "",
         "volume_number": "",
-        "authors": "URBAIN, Georges",
+        "authors": "Georges URBAIN",
         "publisher": "GAUTHIER-VILLARS ET Cie",
         "publication_place": "PARIS",
         "date": "",
@@ -11,19 +11,34 @@
         "iiif_manifest": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k902847/manifest.json"
     },
     "langue": "fr (French)",
+    "ark": "bpt6k902847",
+    "typographie_suggestion": {
+        "category": "Serif/Roman",
+        "subtype": "Didone (Modern)",
+        "explanation": "The main title features the high contrast between thick and thin strokes, vertical stress, and unbracketed, hairline serifs characteristic of the \"Modern\" or Didone style (similar to Bodoni or Didot), which was prevalent in French publishing during the 19th and early 20th centuries.",
+        "raw": "Based on the provided image of the title page, there are several typefaces used. I will identify the dominant typeface used for the main title (\"NOTIONS FONDAMENTALES\").\n\nCategory: Serif/Roman\nSubtype: Didone (Modern)\nExplanation: The main title features the high contrast between thick and thin strokes, vertical stress, and unbracketed, hairline serifs characteristic of the \"Modern\" or Didone style (similar to Bodoni or Didot), which was prevalent in French publishing during the 19th and early 20th centuries."
+    },
+    "typographie": {
+        "category": "Serif/Roman",
+        "subtype": "Didone (Modern)"
+    },
     "_annotations": {
         "metadata.title": {
-            "lisibilite": "Lisible"
+            "lisibilite": "Lisible",
+            "correction": "NOTIONS FONDAMENTALES D'ÉLÉMENT CHIMIQUE ET D'ATOME"
         },
         "metadata.title_complement": {
-            "lisibilite": "Lisible"
+            "lisibilite": "Non lisible",
+            "cause": "absent",
+            "correction": ""
         },
         "metadata.volume_number": {
             "lisibilite": "Non lisible",
             "cause": "absent"
         },
         "metadata.authors": {
-            "lisibilite": "Lisible"
+            "lisibilite": "Lisible",
+            "correction": "Georges URBAIN"
         },
         "metadata.publisher": {
             "lisibilite": "Lisible"
@@ -37,7 +52,15 @@
         },
         "langue": {
             "lisibilite": "Lisible"
+        },
+        "metadata.identifier": {
+            "lisibilite": "Lisible"
+        },
+        "metadata.iiif_manifest": {
+            "lisibilite": "Lisible"
+        },
+        "ark": {
+            "lisibilite": "Lisible"
         }
-    },
-    "ark": "bpt6k902847"
+    }
 }

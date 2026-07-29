@@ -1,9 +1,9 @@
 {
     "metadata": {
-        "title": "COMPOUNDS OF CARBON",
+        "title": "Introduction to the study of the compounds of carbon",
         "title_complement": "ORGANIC CHEMISTRY",
         "volume_number": "",
-        "authors": "REMSEN, IRA",
+        "authors": "IRA REMSEN",
         "publisher": "GINN, HEATH, & CO.",
         "publication_place": "BOSTON",
         "date": "1885",
@@ -11,9 +11,21 @@
         "iiif_manifest": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k90280v/manifest.json"
     },
     "langue": "en (English)",
+    "ark": "bpt6k90280v",
+    "typographie_suggestion": {
+        "category": "Serif/Roman",
+        "subtype": "Modern / Didone",
+        "explanation": "The text (specifically \"COMPOUNDS OF CARBON\") features the high contrast between thick and thin strokes and vertical stress characteristic of Modern/Didone typefaces common in 19th-century publishing.",
+        "raw": "Based on the provided image, there are several typefaces present. I will identify the primary printed text used for the title and body.\n\nCategory: Serif/Roman\nSubtype: Modern / Didone\nExplanation: The text (specifically \"COMPOUNDS OF CARBON\") features the high contrast between thick and thin strokes and vertical stress characteristic of Modern/Didone typefaces common in 19th-century publishing."
+    },
+    "typographie": {
+        "category": "Serif/Roman",
+        "subtype": "Modern / Didone"
+    },
     "_annotations": {
         "metadata.title": {
-            "lisibilite": "Lisible"
+            "lisibilite": "Lisible",
+            "correction": "Introduction to the study of the compounds of carbon"
         },
         "metadata.title_complement": {
             "lisibilite": "Lisible"
@@ -23,7 +35,8 @@
             "cause": "absent"
         },
         "metadata.authors": {
-            "lisibilite": "Lisible"
+            "lisibilite": "Lisible",
+            "correction": "IRA REMSEN"
         },
         "metadata.publisher": {
             "lisibilite": "Lisible"
@@ -36,7 +49,15 @@
         },
         "langue": {
             "lisibilite": "Lisible"
+        },
+        "metadata.identifier": {
+            "lisibilite": "Lisible"
+        },
+        "metadata.iiif_manifest": {
+            "lisibilite": "Lisible"
+        },
+        "ark": {
+            "lisibilite": "Lisible"
         }
-    },
-    "ark": "bpt6k90280v"
+    }
 }

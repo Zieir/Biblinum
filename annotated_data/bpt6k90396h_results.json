@@ -1,9 +1,9 @@
 {
     "metadata": {
-        "title": "Cinquantenaire Scientifique",
+        "title": "Cinquantenaire Scientifique de M. Henry Le Chatelier",
         "title_complement": "",
         "volume_number": "",
-        "authors": "LE CHATELIER, Henry",
+        "authors": "",
         "publisher": "IMPRIMERIE F. DUTAL",
         "publication_place": "PARIS",
         "date": "1922",
@@ -11,9 +11,21 @@
         "iiif_manifest": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k90396h/manifest.json"
     },
     "langue": "fr (French)",
+    "ark": "bpt6k90396h",
+    "typographie_suggestion": {
+        "category": "Serif/Roman",
+        "subtype": "Transitional / Didone",
+        "explanation": "The typeface features a strong contrast between thick and thin strokes, vertical stress, and relatively flat, unbracketed serifs, which are characteristic of the late 18th and early 19th-century French neoclassical styles (similar to Didot or Bodoni).",
+        "raw": "Category: Serif/Roman\nSubtype: Transitional / Didone\nExplanation: The typeface features a strong contrast between thick and thin strokes, vertical stress, and relatively flat, unbracketed serifs, which are characteristic of the late 18th and early 19th-century French neoclassical styles (similar to Didot or Bodoni)."
+    },
+    "typographie": {
+        "category": "Serif/Roman",
+        "subtype": "Transitional / Didone"
+    },
     "_annotations": {
         "metadata.title": {
-            "lisibilite": "Lisible"
+            "lisibilite": "Lisible",
+            "correction": "Cinquantenaire Scientifique de M. Henry Le Chatelier"
         },
         "metadata.title_complement": {
             "lisibilite": "Non lisible",
@@ -24,7 +36,9 @@
             "cause": "absent"
         },
         "metadata.authors": {
-            "lisibilite": "Lisible"
+            "lisibilite": "Non lisible",
+            "cause": "absent",
+            "correction": ""
         },
         "metadata.publisher": {
             "lisibilite": "Lisible"
@@ -37,7 +51,15 @@
         },
         "langue": {
             "lisibilite": "Lisible"
+        },
+        "metadata.identifier": {
+            "lisibilite": "Lisible"
+        },
+        "metadata.iiif_manifest": {
+            "lisibilite": "Lisible"
+        },
+        "ark": {
+            "lisibilite": "Lisible"
         }
-    },
-    "ark": "bpt6k90396h"
+    }
 }

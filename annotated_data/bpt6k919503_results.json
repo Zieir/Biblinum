@@ -1,47 +1,67 @@
 {
     "metadata": {
         "title": "TRAITÉ ÉLÉMENTAIRE DE CHIMIE MÉDICALE",
-        "title_complement": "",
-        "volume_number": "",
-        "authors": "",
-        "publisher": "",
-        "publication_place": "",
-        "date": "",
+        "title_complement": "comprenant quelques notions de toxicologie et les principales applications de la chimie à la physiologie, à la pathologie, à la pharmacie et à l'hygiène",
+        "volume_number": "II",
+        "authors": "AD. WURTZ",
+        "publisher": "VICTOR MASSON ET FILS",
+        "publication_place": "PARIS",
+        "date": "1865",
         "identifier": "http://gallica.bnf.fr/ark:/12148/bpt6k919503",
         "iiif_manifest": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k919503/manifest.json"
     },
     "langue": "fr (French)",
+    "ark": "bpt6k919503",
+    "typographie_suggestion": {
+        "category": "Serif/Roman",
+        "subtype": "Didone (Modern)",
+        "explanation": "The typeface features a high contrast between thick and thin strokes, vertical stress, and small, horizontal serifs, which are characteristic of the \"Modern\" or Didone style popular in 19th-century French printing.",
+        "raw": "Based on the main title \"CHIMIE MÉDICALE\" and the general layout of the page:\n\nCategory: Serif/Roman\nSubtype: Didone (Modern)\nExplanation: The typeface features a high contrast between thick and thin strokes, vertical stress, and small, horizontal serifs, which are characteristic of the \"Modern\" or Didone style popular in 19th-century French printing."
+    },
+    "typographie": {
+        "category": "Serif/Roman",
+        "subtype": "Didone (Modern)"
+    },
     "_annotations": {
         "metadata.title": {
             "lisibilite": "Lisible"
         },
         "metadata.title_complement": {
-            "lisibilite": "Non lisible",
-            "cause": "absent"
+            "lisibilite": "Lisible",
+            "correction": "comprenant quelques notions de toxicologie et les principales applications de la chimie à la physiologie, à la pathologie, à la pharmacie et à l'hygiène"
         },
         "metadata.volume_number": {
-            "lisibilite": "Non lisible",
-            "cause": "absent"
+            "lisibilite": "Lisible",
+            "correction": "II"
         },
         "metadata.authors": {
             "lisibilite": "Non lisible",
-            "cause": "absent"
+            "cause": "absent",
+            "correction": "AD. WURTZ"
         },
         "metadata.publisher": {
-            "lisibilite": "Non lisible",
-            "cause": "absent"
+            "lisibilite": "Lisible",
+            "correction": "VICTOR MASSON ET FILS"
         },
         "metadata.publication_place": {
-            "lisibilite": "Non lisible",
-            "cause": "absent"
+            "lisibilite": "Lisible",
+            "correction": "PARIS"
         },
         "metadata.date": {
-            "lisibilite": "Non lisible",
-            "cause": "absent"
+            "lisibilite": "Lisible",
+            "correction": "1865"
         },
         "langue": {
             "lisibilite": "Lisible"
+        },
+        "metadata.identifier": {
+            "lisibilite": "Lisible"
+        },
+        "metadata.iiif_manifest": {
+            "lisibilite": "Lisible"
+        },
+        "ark": {
+            "lisibilite": "Lisible"
         }
-    },
-    "ark": "bpt6k919503"
+    }
 }

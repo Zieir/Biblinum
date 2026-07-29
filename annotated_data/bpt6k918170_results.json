@@ -3,7 +3,7 @@
         "title": "PHARMACOPÉE RAISONNÉE",
         "title_complement": "TRAITÉ DE PHARMACIE PRATIQUE ET THÉORIQUE",
         "volume_number": "TOME PREMIER",
-        "authors": "HENRY, N.-E. ; GUIBOURT, G.",
+        "authors": "N.-E. HENRY; G. GUIBOURT",
         "publisher": "J.-S. CHAUDÉ",
         "publication_place": "PARIS",
         "date": "1834",
@@ -11,6 +11,17 @@
         "iiif_manifest": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k918170/manifest.json"
     },
     "langue": "fr (French)",
+    "ark": "bpt6k918170",
+    "typographie_suggestion": {
+        "category": "Serif/Roman",
+        "subtype": "Didone (Modern)",
+        "explanation": "The typeface features the high contrast between thick and thin strokes, vertical stress, and small, horizontal serifs characteristic of the \"Modern\" or Didone style (popularized by Bodoni and Didot) common in 19th-century French printing.",
+        "raw": "Category: Serif/Roman\nSubtype: Didone (Modern)\nExplanation: The typeface features the high contrast between thick and thin strokes, vertical stress, and small, horizontal serifs characteristic of the \"Modern\" or Didone style (popularized by Bodoni and Didot) common in 19th-century French printing."
+    },
+    "typographie": {
+        "category": "Serif/Roman",
+        "subtype": "Didone (Modern)"
+    },
     "_annotations": {
         "metadata.title": {
             "lisibilite": "Non lisible",
@@ -24,7 +35,8 @@
             "lisibilite": "Lisible"
         },
         "metadata.authors": {
-            "lisibilite": "Lisible"
+            "lisibilite": "Lisible",
+            "correction": "N.-E. HENRY; G. GUIBOURT"
         },
         "metadata.publisher": {
             "lisibilite": "Lisible"
@@ -37,7 +49,15 @@
         },
         "langue": {
             "lisibilite": "Lisible"
+        },
+        "metadata.identifier": {
+            "lisibilite": "Lisible"
+        },
+        "metadata.iiif_manifest": {
+            "lisibilite": "Lisible"
+        },
+        "ark": {
+            "lisibilite": "Lisible"
         }
-    },
-    "ark": "bpt6k918170"
+    }
 }

@@ -3,7 +3,7 @@
         "title": "Further Researches Concerning Atomic Weights",
         "title_complement": "of Potassium, Silver, Chlorine, Bromine, Nitrogen, and Sulphur",
         "volume_number": "",
-        "authors": "Richards, Theodore William ; Staehler, Arthur ; Forbes, George Shannon",
+        "authors": "Theodore William Richards; Arthur Staehler; George Shannon Forbes",
         "publisher": "Carnegie Institution of Washington",
         "publication_place": "Washington, D. C.",
         "date": "1907",
@@ -11,6 +11,17 @@
         "iiif_manifest": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k900522/manifest.json"
     },
     "langue": "en (English)",
+    "ark": "bpt6k900522",
+    "typographie_suggestion": {
+        "category": "Serif/Roman",
+        "subtype": "Old Style / Transitional",
+        "explanation": "The typeface features moderate contrast between thick and thin strokes, bracketed serifs, and a traditional structure typical of early 20th-century academic printing (similar to Century Schoolbook or Times styles), designed for high legibility in printed text.",
+        "raw": "Category: Serif/Roman\nSubtype: Old Style / Transitional\nExplanation: The typeface features moderate contrast between thick and thin strokes, bracketed serifs, and a traditional structure typical of early 20th-century academic printing (similar to Century Schoolbook or Times styles), designed for high legibility in printed text."
+    },
+    "typographie": {
+        "category": "Serif/Roman",
+        "subtype": "Old Style / Transitional"
+    },
     "_annotations": {
         "metadata.title": {
             "lisibilite": "Lisible"
@@ -23,7 +34,8 @@
             "cause": "absent"
         },
         "metadata.authors": {
-            "lisibilite": "Lisible"
+            "lisibilite": "Lisible",
+            "correction": "Theodore William Richards; Arthur Staehler; George Shannon Forbes"
         },
         "metadata.publisher": {
             "lisibilite": "Lisible"
@@ -36,7 +48,15 @@
         },
         "langue": {
             "lisibilite": "Lisible"
+        },
+        "metadata.identifier": {
+            "lisibilite": "Lisible"
+        },
+        "metadata.iiif_manifest": {
+            "lisibilite": "Lisible"
+        },
+        "ark": {
+            "lisibilite": "Lisible"
         }
-    },
-    "ark": "bpt6k900522"
+    }
 }

@@ -3,14 +3,25 @@
         "title": "L'OR",
         "title_complement": "ET LA TRANSMUTATION DES MÉTAUX",
         "volume_number": "",
-        "authors": "",
+        "authors": "G.-Théodore Tiffereau",
         "publisher": "BIBLIOTHÈQUE CHACORNAC",
         "publication_place": "Paris",
-        "date": "",
+        "date": "1889",
         "identifier": "http://gallica.bnf.fr/ark:/12148/bpt6k901301",
         "iiif_manifest": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k901301/manifest.json"
     },
     "langue": "fr (French)",
+    "ark": "bpt6k901301",
+    "typographie_suggestion": {
+        "category": "Serif/Roman",
+        "subtype": "Didone (Modern)",
+        "explanation": "The text features the high contrast between thick and thin strokes, vertical stress, and thin, horizontal serifs characteristic of the \"Modern\" or Didone style (similar to Bodoni or Didot), which was prevalent in French publishing during the 19th century.",
+        "raw": "Category: Serif/Roman\nSubtype: Didone (Modern)\nExplanation: The text features the high contrast between thick and thin strokes, vertical stress, and thin, horizontal serifs characteristic of the \"Modern\" or Didone style (similar to Bodoni or Didot), which was prevalent in French publishing during the 19th century."
+    },
+    "typographie": {
+        "category": "Serif/Roman",
+        "subtype": "Didone (Modern)"
+    },
     "_annotations": {
         "metadata.title": {
             "lisibilite": "Lisible"
@@ -23,8 +34,8 @@
             "cause": "absent"
         },
         "metadata.authors": {
-            "lisibilite": "Non lisible",
-            "cause": "absent"
+            "lisibilite": "Lisible",
+            "correction": "G.-Théodore Tiffereau"
         },
         "metadata.publisher": {
             "lisibilite": "Lisible"
@@ -33,12 +44,20 @@
             "lisibilite": "Lisible"
         },
         "metadata.date": {
-            "lisibilite": "Non lisible",
-            "cause": "absent"
+            "lisibilite": "Lisible",
+            "correction": "1889"
         },
         "langue": {
             "lisibilite": "Lisible"
+        },
+        "metadata.identifier": {
+            "lisibilite": "Lisible"
+        },
+        "metadata.iiif_manifest": {
+            "lisibilite": "Lisible"
+        },
+        "ark": {
+            "lisibilite": "Lisible"
         }
-    },
-    "ark": "bpt6k901301"
+    }
 }

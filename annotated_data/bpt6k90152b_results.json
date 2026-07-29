@@ -3,7 +3,7 @@
         "title": "STATISTIQUE DES VOLUMES DES ÉQUIVALENTS CHIMIQUES",
         "title_complement": "ET D'AUTRES DONNÉES RELATIVES A LEURS PROPRIÉTÉS PHYSIQUES SUIVIE D'UN MÉMOIRE SUR QUELQUES QUESTIONS MOLÉCULAIRES",
         "volume_number": "",
-        "authors": "WEST, Gratien",
+        "authors": "Gratien WEST",
         "publisher": "G. MASSON",
         "publication_place": "PARIS",
         "date": "1873",
@@ -11,6 +11,17 @@
         "iiif_manifest": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k90152b/manifest.json"
     },
     "langue": "fr (French)",
+    "ark": "bpt6k90152b",
+    "typographie_suggestion": {
+        "category": "Serif/Roman",
+        "subtype": "Didone (Modern)",
+        "explanation": "The typeface features a strong contrast between thick and thin strokes, vertical stress, and thin, horizontal serifs, which are characteristic of the \"Modern\" or Didone style popular in 19th-century academic printing.",
+        "raw": "Since the image contains multiple styles, I will identify the primary typeface used for the main titles (e.g., \"STATISTIQUE\").\n\nCategory: Serif/Roman\nSubtype: Didone (Modern)\nExplanation: The typeface features a strong contrast between thick and thin strokes, vertical stress, and thin, horizontal serifs, which are characteristic of the \"Modern\" or Didone style popular in 19th-century academic printing."
+    },
+    "typographie": {
+        "category": "Serif/Roman",
+        "subtype": "Didone (Modern)"
+    },
     "_annotations": {
         "metadata.title": {
             "lisibilite": "Lisible"
@@ -25,7 +36,7 @@
         "metadata.authors": {
             "lisibilite": "Non lisible",
             "cause": "qualite",
-            "correction": "WEST, Gratien"
+            "correction": "Gratien WEST"
         },
         "metadata.publisher": {
             "lisibilite": "Lisible"
@@ -38,7 +49,15 @@
         },
         "langue": {
             "lisibilite": "Lisible"
+        },
+        "metadata.identifier": {
+            "lisibilite": "Lisible"
+        },
+        "metadata.iiif_manifest": {
+            "lisibilite": "Lisible"
+        },
+        "ark": {
+            "lisibilite": "Lisible"
         }
-    },
-    "ark": "bpt6k90152b"
+    }
 }

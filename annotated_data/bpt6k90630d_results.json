@@ -2,46 +2,66 @@
     "metadata": {
         "title": "TRAITÉ DE CHIMIE MINÉRALE",
         "title_complement": "",
-        "volume_number": "",
-        "authors": "",
-        "publisher": "",
-        "publication_place": "",
-        "date": "",
+        "volume_number": "TOME SECOND",
+        "authors": "H. Erdmann",
+        "publisher": "A. Hermann et fils",
+        "publication_place": "PARIS",
+        "date": "1914",
         "identifier": "http://gallica.bnf.fr/ark:/12148/bpt6k90630d",
         "iiif_manifest": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k90630d/manifest.json"
     },
     "langue": "fr (French)",
+    "ark": "bpt6k90630d",
+    "typographie_suggestion": {
+        "category": "Serif/Roman",
+        "subtype": "Slab Serif",
+        "explanation": "The secondary headings use a typeface with thick, block-like serifs of minimal bracket, typical of early 20th-century scientific and industrial printing.",
+        "raw": "Based on the main title \"CHIMIE MINÉRALE\":\n\nCategory: Display\nSubtype: None\nExplanation: The main title uses a heavy, stylized decorative typeface characterized by irregular, hand-drawn organic shapes and high contrast, designed for visual impact rather than body text.\n\nBased on the secondary text (e.g., \"PAR H. ERDMANN\"):\n\nCategory: Serif/Roman\nSubtype: Slab Serif\nExplanation: The secondary headings use a typeface with thick, block-like serifs of minimal bracket, typical of early 20th-century scientific and industrial printing."
+    },
+    "typographie": {
+        "category": "Serif/Roman",
+        "subtype": "Slab Serif"
+    },
     "_annotations": {
         "metadata.title": {
             "lisibilite": "Lisible"
         },
         "metadata.title_complement": {
             "lisibilite": "Non lisible",
-            "cause": "absent"
+            "cause": "absent",
+            "correction": ""
         },
         "metadata.volume_number": {
-            "lisibilite": "Non lisible",
-            "cause": "absent"
+            "lisibilite": "Lisible",
+            "correction": "TOME SECOND"
         },
         "metadata.authors": {
-            "lisibilite": "Non lisible",
-            "cause": "absent"
+            "lisibilite": "Lisible",
+            "correction": "H. Erdmann"
         },
         "metadata.publisher": {
-            "lisibilite": "Non lisible",
-            "cause": "absent"
+            "lisibilite": "Lisible",
+            "correction": "A. Hermann et fils"
         },
         "metadata.publication_place": {
-            "lisibilite": "Non lisible",
-            "cause": "absent"
+            "lisibilite": "Lisible",
+            "correction": "PARIS"
         },
         "metadata.date": {
-            "lisibilite": "Non lisible",
-            "cause": "absent"
+            "lisibilite": "Lisible",
+            "correction": "1914"
         },
         "langue": {
             "lisibilite": "Lisible"
+        },
+        "metadata.identifier": {
+            "lisibilite": "Lisible"
+        },
+        "metadata.iiif_manifest": {
+            "lisibilite": "Lisible"
+        },
+        "ark": {
+            "lisibilite": "Lisible"
         }
-    },
-    "ark": "bpt6k90630d"
+    }
 }

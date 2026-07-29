@@ -3,7 +3,7 @@
         "title": "NOUVEAU COURS DE MINÉRALOGIE",
         "title_complement": "DESCRIPTION DE TOUTES LES ESPÈCES MINÉRALES AVEC LEURS APPLICATIONS DIRECTES AUX ARTS",
         "volume_number": "TOME TROIS",
-        "authors": "DELAFOSSE, G.",
+        "authors": "G. DELAFOSSE",
         "publisher": "LA LIBRAIRIE ENCYCLOPÉDIQUE DE RORET",
         "publication_place": "PARIS",
         "date": "1862",
@@ -11,6 +11,17 @@
         "iiif_manifest": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k91754x/manifest.json"
     },
     "langue": "fr (French)",
+    "ark": "bpt6k91754x",
+    "typographie_suggestion": {
+        "category": "Serif/Roman",
+        "subtype": "Didone (Modern)",
+        "explanation": "The typeface features the high contrast between thick and thin strokes, vertical stress, and small, unbracketed hair-line serifs characteristic of the late 18th and early 19th-century \"Modern\" style (similar to Bodoni or Didot).",
+        "raw": "Category: Serif/Roman\nSubtype: Didone (Modern)\nExplanation: The typeface features the high contrast between thick and thin strokes, vertical stress, and small, unbracketed hair-line serifs characteristic of the late 18th and early 19th-century \"Modern\" style (similar to Bodoni or Didot)."
+    },
+    "typographie": {
+        "category": "Serif/Roman",
+        "subtype": "Didone (Modern)"
+    },
     "_annotations": {
         "metadata.title": {
             "lisibilite": "Lisible"
@@ -23,7 +34,7 @@
         },
         "metadata.authors": {
             "lisibilite": "Lisible",
-            "correction": "DELAFOSSE, G."
+            "correction": "G. DELAFOSSE"
         },
         "metadata.publisher": {
             "lisibilite": "Lisible"
@@ -36,7 +47,15 @@
         },
         "langue": {
             "lisibilite": "Lisible"
+        },
+        "metadata.identifier": {
+            "lisibilite": "Lisible"
+        },
+        "metadata.iiif_manifest": {
+            "lisibilite": "Lisible"
+        },
+        "ark": {
+            "lisibilite": "Lisible"
         }
-    },
-    "ark": "bpt6k91754x"
+    }
 }

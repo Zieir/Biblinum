@@ -3,7 +3,7 @@
         "title": "BERICHT ÜBER DIE ENTWICKELUNG DER CHEMISCHEN INDUSTRIE WÄHREND DES LETZTEN JAHRZEHENDS",
         "title_complement": "IN VEREIN MIT FREUNDEN UND FACHGENOSSEN",
         "volume_number": "ZWEITE HÄLFTE",
-        "authors": "A. W. HOFMANN",
+        "authors": "A.W. HOFMANN",
         "publisher": "FRIEDRICH VIEWEG UND SOHN",
         "publication_place": "BRAUNSCHWEIG",
         "date": "1877",
@@ -11,6 +11,17 @@
         "iiif_manifest": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k918306/manifest.json"
     },
     "langue": "de (German)",
+    "ark": "bpt6k918306",
+    "typographie_suggestion": {
+        "category": "Serif/Roman",
+        "subtype": "Didone (Modern)",
+        "explanation": "The typeface features a high contrast between thick and thin strokes, vertical stress, and thin, horizontal serifs, which are the defining characteristics of the Didone style (similar to Bodoni or Didot).",
+        "raw": "Category: Serif/Roman\nSubtype: Didone (Modern)\nExplanation: The typeface features a high contrast between thick and thin strokes, vertical stress, and thin, horizontal serifs, which are the defining characteristics of the Didone style (similar to Bodoni or Didot)."
+    },
+    "typographie": {
+        "category": "Serif/Roman",
+        "subtype": "Didone (Modern)"
+    },
     "_annotations": {
         "metadata.title": {
             "lisibilite": "Lisible",
@@ -37,12 +48,19 @@
             "correction": "BRAUNSCHWEIG"
         },
         "metadata.date": {
-            "lisibilite": "Lisible",
-            "cause": "1877"
+            "lisibilite": "Lisible"
         },
         "langue": {
             "lisibilite": "Lisible"
+        },
+        "metadata.identifier": {
+            "lisibilite": "Lisible"
+        },
+        "metadata.iiif_manifest": {
+            "lisibilite": "Lisible"
+        },
+        "ark": {
+            "lisibilite": "Lisible"
         }
-    },
-    "ark": "bpt6k918306"
+    }
 }

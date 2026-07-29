@@ -3,14 +3,25 @@
         "title": "TRAITÉ DE CHIMIE ÉLÉMENTAIRE",
         "title_complement": "D'APRÈS LES ÉQUIVALENTS AYANT L'HYDROGÈNE POUR UNITÉ",
         "volume_number": "",
-        "authors": "",
-        "publisher": "",
-        "publication_place": "",
-        "date": "",
+        "authors": "P. A. Allain",
+        "publisher": "J. -B. Baillière; H. Baillière ",
+        "publication_place": "PARIS; LONDRES",
+        "date": "1848",
         "identifier": "http://gallica.bnf.fr/ark:/12148/bpt6k90176b",
         "iiif_manifest": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k90176b/manifest.json"
     },
     "langue": "fr (French)",
+    "ark": "bpt6k90176b",
+    "typographie_suggestion": {
+        "category": "Slab Serif",
+        "subtype": "Egyptian",
+        "explanation": "The typeface features heavy, block-like serifs of equal thickness to the main strokes, characteristic of the \"Egyptian\" style popular in 19th-century printing for titles and advertising.",
+        "raw": "Since the provided image contains multiple typefaces, I will identify the most prominent one used for the main title (\"CHIMIE ÉLÉMENTAIRE\").\n\nCategory: Slab Serif\nSubtype: Egyptian\nExplanation: The typeface features heavy, block-like serifs of equal thickness to the main strokes, characteristic of the \"Egyptian\" style popular in 19th-century printing for titles and advertising."
+    },
+    "typographie": {
+        "category": "Slab Serif",
+        "subtype": "Egyptian"
+    },
     "_annotations": {
         "metadata.title": {
             "lisibilite": "Lisible"
@@ -23,24 +34,32 @@
             "cause": "absent"
         },
         "metadata.authors": {
-            "lisibilite": "Non lisible",
-            "cause": "absent"
+            "lisibilite": "Lisible",
+            "correction": "P. A. Allain"
         },
         "metadata.publisher": {
-            "lisibilite": "Non lisible",
-            "cause": "absent"
+            "lisibilite": "Lisible",
+            "correction": "J. -B. Baillière; H. Baillière "
         },
         "metadata.publication_place": {
-            "lisibilite": "Non lisible",
-            "cause": "absent"
+            "lisibilite": "Lisible",
+            "correction": "PARIS; LONDRES"
         },
         "metadata.date": {
-            "lisibilite": "Non lisible",
-            "cause": "absent"
+            "lisibilite": "Lisible",
+            "correction": "1848"
         },
         "langue": {
             "lisibilite": "Lisible"
+        },
+        "metadata.identifier": {
+            "lisibilite": "Lisible"
+        },
+        "metadata.iiif_manifest": {
+            "lisibilite": "Lisible"
+        },
+        "ark": {
+            "lisibilite": "Lisible"
         }
-    },
-    "ark": "bpt6k90176b"
+    }
 }

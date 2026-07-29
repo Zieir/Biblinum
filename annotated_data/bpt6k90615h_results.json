@@ -1,9 +1,9 @@
 {
     "metadata": {
         "title": "ÉTUDE GÉNÉRALE DES SELS",
-        "title_complement": "",
+        "title_complement": "SELS BINAIRES",
         "volume_number": "PREMIÈRE PARTIE",
-        "authors": "DITTE, ALFRED",
+        "authors": "ALFRED DITTE",
         "publisher": "H. DUNOD ET E. PINAT, EDITEURS",
         "publication_place": "PARIS",
         "date": "1906",
@@ -11,19 +11,31 @@
         "iiif_manifest": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k90615h/manifest.json"
     },
     "langue": "fr (French)",
+    "ark": "bpt6k90615h",
+    "typographie_suggestion": {
+        "category": "Serif/Roman",
+        "subtype": "Old Style / Transitional",
+        "explanation": "The text features clear serifs (small strokes attached to the ends of larger strokes) with a moderate contrast between thick and thin lines. The proportions and structure are characteristic of classical academic printing from the early 20th century, typical of the \"Old Style\" or \"Transitional\" families used in formal publishing.",
+        "raw": "Category: Serif/Roman\nSubtype: Old Style / Transitional\nExplanation: The text features clear serifs (small strokes attached to the ends of larger strokes) with a moderate contrast between thick and thin lines. The proportions and structure are characteristic of classical academic printing from the early 20th century, typical of the \"Old Style\" or \"Transitional\" families used in formal publishing."
+    },
+    "typographie": {
+        "category": "Serif/Roman",
+        "subtype": "Old Style / Transitional"
+    },
     "_annotations": {
         "metadata.title": {
             "lisibilite": "Lisible"
         },
         "metadata.title_complement": {
-            "lisibilite": "Non lisible",
-            "cause": "absent"
+            "lisibilite": "Lisible",
+            "correction": "SELS BINAIRES"
         },
         "metadata.volume_number": {
             "lisibilite": "Lisible"
         },
         "metadata.authors": {
-            "lisibilite": "Lisible"
+            "lisibilite": "Lisible",
+            "correction": "ALFRED DITTE"
         },
         "metadata.publisher": {
             "lisibilite": "Lisible"
@@ -36,7 +48,15 @@
         },
         "langue": {
             "lisibilite": "Lisible"
+        },
+        "metadata.identifier": {
+            "lisibilite": "Lisible"
+        },
+        "metadata.iiif_manifest": {
+            "lisibilite": "Lisible"
+        },
+        "ark": {
+            "lisibilite": "Lisible"
         }
-    },
-    "ark": "bpt6k90615h"
+    }
 }

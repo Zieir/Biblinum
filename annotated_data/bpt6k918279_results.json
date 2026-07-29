@@ -3,7 +3,7 @@
         "title": "BIOGRAPHIE",
         "title_complement": "DE JEAN-BAPTISTE-ANDRÉ DUMAS",
         "volume_number": "",
-        "authors": "HOFMANN, A.-W.",
+        "authors": "A.-W. HOFMANN",
         "publisher": "",
         "publication_place": "",
         "date": "",
@@ -11,6 +11,17 @@
         "iiif_manifest": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k918279/manifest.json"
     },
     "langue": "fr (French)",
+    "ark": "bpt6k918279",
+    "typographie_suggestion": {
+        "category": "Serif/Roman",
+        "subtype": "Slab Serif (Egyptian)",
+        "explanation": "The typeface used for \"BIOGRAPHIE\" and the main title features heavy, block-like serifs with little to no bracketing, characteristic of the Slab Serif style common in 19th-century printing.",
+        "raw": "Category: Serif/Roman\nSubtype: Slab Serif (Egyptian)\nExplanation: The typeface used for \"BIOGRAPHIE\" and the main title features heavy, block-like serifs with little to no bracketing, characteristic of the Slab Serif style common in 19th-century printing."
+    },
+    "typographie": {
+        "category": "Serif/Roman",
+        "subtype": "Slab Serif (Egyptian)"
+    },
     "_annotations": {
         "metadata.title": {
             "lisibilite": "Lisible"
@@ -23,7 +34,8 @@
             "cause": "absent"
         },
         "metadata.authors": {
-            "lisibilite": "Lisible"
+            "lisibilite": "Lisible",
+            "correction": "A.-W. HOFMANN"
         },
         "metadata.publisher": {
             "lisibilite": "Non lisible",
@@ -40,7 +52,15 @@
         },
         "langue": {
             "lisibilite": "Lisible"
+        },
+        "metadata.identifier": {
+            "lisibilite": "Lisible"
+        },
+        "metadata.iiif_manifest": {
+            "lisibilite": "Lisible"
+        },
+        "ark": {
+            "lisibilite": "Lisible"
         }
-    },
-    "ark": "bpt6k918279"
+    }
 }

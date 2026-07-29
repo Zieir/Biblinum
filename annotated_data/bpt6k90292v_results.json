@@ -3,7 +3,7 @@
         "title": "LA CHIMIE DU LABORATOIRE",
         "title_complement": "",
         "volume_number": "",
-        "authors": "PISANI, F. ; DIRVELL, PH.",
+        "authors": "F.  PISANI; PH. DIRVELL",
         "publisher": "LIBRAIRIE GERMER BAILLIÈRE ET Cie",
         "publication_place": "PARIS",
         "date": "1882",
@@ -11,6 +11,17 @@
         "iiif_manifest": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k90292v/manifest.json"
     },
     "langue": "fr (French)",
+    "ark": "bpt6k90292v",
+    "typographie_suggestion": {
+        "category": "Serif/Roman",
+        "subtype": "Didone (Modern)",
+        "explanation": "The text features the high contrast between thick and thin strokes, vertical stress, and unbracketed, hairline serifs characteristic of the \"Modern\" or Didone style (similar to Bodoni or Didot), which was the standard for formal French publishing in the late 19th century.",
+        "raw": "Category: Serif/Roman\nSubtype: Didone (Modern)\nExplanation: The text features the high contrast between thick and thin strokes, vertical stress, and unbracketed, hairline serifs characteristic of the \"Modern\" or Didone style (similar to Bodoni or Didot), which was the standard for formal French publishing in the late 19th century."
+    },
+    "typographie": {
+        "category": "Serif/Roman",
+        "subtype": "Didone (Modern)"
+    },
     "_annotations": {
         "metadata.title": {
             "lisibilite": "Non lisible",
@@ -26,7 +37,8 @@
             "cause": "absent"
         },
         "metadata.authors": {
-            "lisibilite": "Lisible"
+            "lisibilite": "Lisible",
+            "correction": "F.  PISANI; PH. DIRVELL"
         },
         "metadata.publisher": {
             "lisibilite": "Lisible"
@@ -40,7 +52,15 @@
         },
         "langue": {
             "lisibilite": "Lisible"
+        },
+        "metadata.identifier": {
+            "lisibilite": "Lisible"
+        },
+        "metadata.iiif_manifest": {
+            "lisibilite": "Lisible"
+        },
+        "ark": {
+            "lisibilite": "Lisible"
         }
-    },
-    "ark": "bpt6k90292v"
+    }
 }

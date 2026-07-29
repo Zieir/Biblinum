@@ -3,7 +3,7 @@
         "title": "La chimie contemporaine",
         "title_complement": "SYSTÈME ATOMIQUE THÉORIE ET NOTATION COMPARAISON AVEC LES ÉQUIVALENTS",
         "volume_number": "",
-        "authors": "FREBAULT, A.",
+        "authors": "A. FREBAULT",
         "publisher": "G. MASSON",
         "publication_place": "PARIS",
         "date": "1889",
@@ -11,6 +11,17 @@
         "iiif_manifest": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k904378/manifest.json"
     },
     "langue": "fr (French)",
+    "ark": "bpt6k904378",
+    "typographie_suggestion": {
+        "category": "Serif/Roman",
+        "subtype": "Modern (Didone)",
+        "explanation": "The text features the high contrast between thick and thin strokes and vertical stress characteristic of the Modern/Didone style (similar to Bodoni or Didot), which was the standard for academic and scientific publishing in late 19th-century France.",
+        "raw": "Category: Serif/Roman\nSubtype: Modern (Didone)\nExplanation: The text features the high contrast between thick and thin strokes and vertical stress characteristic of the Modern/Didone style (similar to Bodoni or Didot), which was the standard for academic and scientific publishing in late 19th-century France."
+    },
+    "typographie": {
+        "category": "Serif/Roman",
+        "subtype": "Modern (Didone)"
+    },
     "_annotations": {
         "metadata.title": {
             "lisibilite": "Lisible",
@@ -25,7 +36,8 @@
             "cause": "absent"
         },
         "metadata.authors": {
-            "lisibilite": "Lisible"
+            "lisibilite": "Lisible",
+            "correction": "A. FREBAULT"
         },
         "metadata.publisher": {
             "lisibilite": "Lisible"
@@ -38,7 +50,15 @@
         },
         "langue": {
             "lisibilite": "Lisible"
+        },
+        "metadata.identifier": {
+            "lisibilite": "Lisible"
+        },
+        "metadata.iiif_manifest": {
+            "lisibilite": "Lisible"
+        },
+        "ark": {
+            "lisibilite": "Lisible"
         }
-    },
-    "ark": "bpt6k904378"
+    }
 }

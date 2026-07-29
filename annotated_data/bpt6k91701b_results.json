@@ -3,7 +3,7 @@
         "title": "SUR LA FORCE DES MATIÈRES EXPLOSIVES",
         "title_complement": "D'APRÈS LA THERMOCHIMIE",
         "volume_number": "",
-        "authors": "BERTHELOT, M.",
+        "authors": "M. BERTHELOT",
         "publisher": "GAUTHIER-VILLARS",
         "publication_place": "PARIS",
         "date": "1883",
@@ -11,6 +11,17 @@
         "iiif_manifest": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k91701b/manifest.json"
     },
     "langue": "fr (French)",
+    "ark": "bpt6k91701b",
+    "typographie_suggestion": {
+        "category": "Serif/Roman",
+        "subtype": "Didone (Modern)",
+        "explanation": "The main titles exhibit the high contrast between thick and thin strokes and the vertical stress characteristic of the Didone style (similar to Bodoni or Didot), which was the standard for formal French printing in the late 19th century.",
+        "raw": "Category: Serif/Roman\nSubtype: Didone (Modern)\nExplanation: The main titles exhibit the high contrast between thick and thin strokes and the vertical stress characteristic of the Didone style (similar to Bodoni or Didot), which was the standard for formal French printing in the late 19th century."
+    },
+    "typographie": {
+        "category": "Serif/Roman",
+        "subtype": "Didone (Modern)"
+    },
     "_annotations": {
         "metadata.title": {
             "lisibilite": "Lisible"
@@ -23,7 +34,8 @@
             "cause": "absent"
         },
         "metadata.authors": {
-            "lisibilite": "Lisible"
+            "lisibilite": "Lisible",
+            "correction": "M. BERTHELOT"
         },
         "metadata.publisher": {
             "lisibilite": "Lisible"
@@ -36,7 +48,15 @@
         },
         "langue": {
             "lisibilite": "Lisible"
+        },
+        "metadata.identifier": {
+            "lisibilite": "Lisible"
+        },
+        "metadata.iiif_manifest": {
+            "lisibilite": "Lisible"
+        },
+        "ark": {
+            "lisibilite": "Lisible"
         }
-    },
-    "ark": "bpt6k91701b"
+    }
 }

@@ -3,7 +3,7 @@
         "title": "LES ORIGINES MYSTIQUES DE LA SCIENCE \" ALLEMANDE \"",
         "title_complement": "",
         "volume_number": "",
-        "authors": "LOTE, René",
+        "authors": "René LOTE",
         "publisher": "LIBRAIRIE FÉLIX ALCAN",
         "publication_place": "PARIS",
         "date": "",
@@ -11,6 +11,17 @@
         "iiif_manifest": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k90537j/manifest.json"
     },
     "langue": "fr (French)",
+    "ark": "bpt6k90537j",
+    "typographie_suggestion": {
+        "category": "Serif/Roman",
+        "subtype": "Didone (Modern)",
+        "explanation": "The typeface features the high contrast between thick and thin strokes, vertical stress, and small, unbracketed (hairline) serifs characteristic of the \"Modern\" or Didone style popular in 18th and 19th-century French printing.",
+        "raw": "Category: Serif/Roman\nSubtype: Didone (Modern)\nExplanation: The typeface features the high contrast between thick and thin strokes, vertical stress, and small, unbracketed (hairline) serifs characteristic of the \"Modern\" or Didone style popular in 18th and 19th-century French printing."
+    },
+    "typographie": {
+        "category": "Serif/Roman",
+        "subtype": "Didone (Modern)"
+    },
     "_annotations": {
         "metadata.title": {
             "lisibilite": "Lisible"
@@ -24,7 +35,8 @@
             "cause": "absent"
         },
         "metadata.authors": {
-            "lisibilite": "Lisible"
+            "lisibilite": "Lisible",
+            "correction": "René LOTE"
         },
         "metadata.publisher": {
             "lisibilite": "Lisible"
@@ -38,7 +50,15 @@
         },
         "langue": {
             "lisibilite": "Lisible"
+        },
+        "metadata.identifier": {
+            "lisibilite": "Lisible"
+        },
+        "metadata.iiif_manifest": {
+            "lisibilite": "Lisible"
+        },
+        "ark": {
+            "lisibilite": "Lisible"
         }
-    },
-    "ark": "bpt6k90537j"
+    }
 }

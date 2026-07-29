@@ -2,45 +2,66 @@
     "metadata": {
         "title": "ŒUVRES COMPLÈTES",
         "title_complement": "",
-        "volume_number": "",
-        "authors": "STAS, Jean-Servais",
-        "publisher": "",
-        "publication_place": "PARIS",
-        "date": "",
+        "volume_number": "TOME I",
+        "authors": "Jean-Servais STAS",
+        "publisher": "C. Muquardt; C. Muquardt",
+        "publication_place": "BRUXELLES; LEIPZIG",
+        "date": "1894",
         "identifier": "http://gallica.bnf.fr/ark:/12148/bpt6k901332",
         "iiif_manifest": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k901332/manifest.json"
     },
     "langue": "fr (French)",
+    "ark": "bpt6k901332",
+    "typographie_suggestion": {
+        "category": "Serif/Roman",
+        "subtype": "Didone (Modern)",
+        "explanation": "The typeface features a high contrast between thick and thin strokes, vertical stress, and small, horizontal hairline serifs, which are characteristic of the Modern/Didone style popular in the late 18th and 19th centuries.",
+        "raw": "Category: Serif/Roman\nSubtype: Didone (Modern)\nExplanation: The typeface features a high contrast between thick and thin strokes, vertical stress, and small, horizontal hairline serifs, which are characteristic of the Modern/Didone style popular in the late 18th and 19th centuries."
+    },
+    "typographie": {
+        "category": "Serif/Roman",
+        "subtype": "Didone (Modern)"
+    },
     "_annotations": {
         "metadata.title": {
             "lisibilite": "Lisible"
         },
         "metadata.title_complement": {
             "lisibilite": "Non lisible",
-            "cause": "absent"
-        },
-        "metadata.volume_number": {
-            "lisibilite": "Non lisible",
-            "cause": "absent"
-        },
-        "metadata.authors": {
-            "lisibilite": "Lisible"
-        },
-        "metadata.publisher": {
-            "lisibilite": "Non lisible",
             "cause": "absent",
             "correction": ""
         },
+        "metadata.volume_number": {
+            "lisibilite": "Lisible",
+            "correction": "TOME I"
+        },
+        "metadata.authors": {
+            "lisibilite": "Lisible",
+            "correction": "Jean-Servais STAS"
+        },
+        "metadata.publisher": {
+            "lisibilite": "Lisible",
+            "correction": "C. Muquardt; C. Muquardt"
+        },
         "metadata.publication_place": {
-            "lisibilite": "Lisible"
+            "lisibilite": "Lisible",
+            "correction": "BRUXELLES; LEIPZIG"
         },
         "metadata.date": {
-            "lisibilite": "Non lisible",
-            "cause": "absent"
+            "lisibilite": "Lisible",
+            "correction": "1894"
         },
         "langue": {
             "lisibilite": "Lisible"
+        },
+        "metadata.identifier": {
+            "lisibilite": "Lisible"
+        },
+        "metadata.iiif_manifest": {
+            "lisibilite": "Lisible"
+        },
+        "ark": {
+            "lisibilite": "Lisible"
         }
-    },
-    "ark": "bpt6k901332"
+    }
 }

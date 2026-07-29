@@ -3,7 +3,7 @@
         "title": "Mémoires et Notes",
         "title_complement": "",
         "volume_number": "Tome premier. I.",
-        "authors": "Lieben, Adolf",
+        "authors": "Adolf Lieben",
         "publisher": "",
         "publication_place": "",
         "date": "",
@@ -11,6 +11,17 @@
         "iiif_manifest": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k91719d/manifest.json"
     },
     "langue": "fr (French)",
+    "ark": "bpt6k91719d",
+    "typographie_suggestion": {
+        "category": "Script",
+        "subtype": "Copperplate / English Roundhand",
+        "explanation": "The typeface features a strong contrast between thick and thin strokes, a distinct rightward slant, and fluid, looping flourishes characteristic of formal 18th and 19th-century calligraphic styles used for engraving and formal correspondence.",
+        "raw": "Category: Script\nSubtype: Copperplate / English Roundhand\nExplanation: The typeface features a strong contrast between thick and thin strokes, a distinct rightward slant, and fluid, looping flourishes characteristic of formal 18th and 19th-century calligraphic styles used for engraving and formal correspondence."
+    },
+    "typographie": {
+        "category": "Script",
+        "subtype": "Copperplate / English Roundhand"
+    },
     "_annotations": {
         "metadata.title": {
             "lisibilite": "Lisible"
@@ -23,7 +34,8 @@
             "lisibilite": "Lisible"
         },
         "metadata.authors": {
-            "lisibilite": "Lisible"
+            "lisibilite": "Lisible",
+            "correction": "Adolf Lieben"
         },
         "metadata.publisher": {
             "lisibilite": "Non lisible",
@@ -39,7 +51,15 @@
         },
         "langue": {
             "lisibilite": "Lisible"
+        },
+        "metadata.identifier": {
+            "lisibilite": "Lisible"
+        },
+        "metadata.iiif_manifest": {
+            "lisibilite": "Lisible"
+        },
+        "ark": {
+            "lisibilite": "Lisible"
         }
-    },
-    "ark": "bpt6k91719d"
+    }
 }

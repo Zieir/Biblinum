@@ -3,7 +3,7 @@
         "title": "TRAITÉ DE MÉCANIQUE",
         "title_complement": "",
         "volume_number": "TOME PREMIER",
-        "authors": "Poisson, S. D.",
+        "authors": "S. D. Poisson",
         "publisher": "veuve COURCIER",
         "publication_place": "PARIS",
         "date": "1811",
@@ -11,6 +11,17 @@
         "iiif_manifest": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k903370/manifest.json"
     },
     "langue": "fr (French)",
+    "ark": "bpt6k903370",
+    "typographie_suggestion": {
+        "category": "Serif/Roman",
+        "subtype": "Didone (Modern)",
+        "explanation": "The typeface features the high contrast between thick and thin strokes, vertical stress, and unbracketed, hairline serifs characteristic of the \"Modern\" style (such as Didot or Bodoni) prevalent in French printing during the early 19th century.",
+        "raw": "Category: Serif/Roman\nSubtype: Didone (Modern)\nExplanation: The typeface features the high contrast between thick and thin strokes, vertical stress, and unbracketed, hairline serifs characteristic of the \"Modern\" style (such as Didot or Bodoni) prevalent in French printing during the early 19th century."
+    },
+    "typographie": {
+        "category": "Serif/Roman",
+        "subtype": "Didone (Modern)"
+    },
     "_annotations": {
         "metadata.title": {
             "lisibilite": "Lisible"
@@ -23,7 +34,8 @@
             "lisibilite": "Lisible"
         },
         "metadata.authors": {
-            "lisibilite": "Lisible"
+            "lisibilite": "Lisible",
+            "correction": "S. D. Poisson"
         },
         "metadata.publisher": {
             "lisibilite": "Lisible"
@@ -36,7 +48,15 @@
         },
         "langue": {
             "lisibilite": "Lisible"
+        },
+        "metadata.identifier": {
+            "lisibilite": "Lisible"
+        },
+        "metadata.iiif_manifest": {
+            "lisibilite": "Lisible"
+        },
+        "ark": {
+            "lisibilite": "Lisible"
         }
-    },
-    "ark": "bpt6k903370"
+    }
 }

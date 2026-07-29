@@ -1,46 +1,65 @@
 {
     "metadata": {
         "title": "TRAITÉ DE CHIMIE ORGANIQUE",
-        "title_complement": "",
+        "title_complement": "D'APRÈS LES THÉORIES MODERNES",
         "volume_number": "TOME PREMIER",
-        "authors": "",
-        "publisher": "",
-        "publication_place": "",
-        "date": "",
+        "authors": "Auguste BÉHAL",
+        "publisher": "OCTAVE DOIN",
+        "publication_place": "PARIS",
+        "date": "1901",
         "identifier": "http://gallica.bnf.fr/ark:/12148/bpt6k903746",
         "iiif_manifest": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k903746/manifest.json"
     },
     "langue": "fr (French)",
+    "ark": "bpt6k903746",
+    "typographie_suggestion": {
+        "category": "Serif/Roman",
+        "subtype": "Didone (Modern)",
+        "explanation": "The main title \"CHIMIE ORGANIQUE\" exhibits the classic characteristics of the Didone style: a high contrast between thick and thin strokes, vertical stress, and small, unbracketed (flat) serifs. This style was highly prevalent in academic and formal French publishing around 1900.",
+        "raw": "Category: Serif/Roman\nSubtype: Didone (Modern)\nExplanation: The main title \"CHIMIE ORGANIQUE\" exhibits the classic characteristics of the Didone style: a high contrast between thick and thin strokes, vertical stress, and small, unbracketed (flat) serifs. This style was highly prevalent in academic and formal French publishing around 1900."
+    },
+    "typographie": {
+        "category": "Serif/Roman",
+        "subtype": "Didone (Modern)"
+    },
     "_annotations": {
         "metadata.title": {
             "lisibilite": "Lisible"
         },
         "metadata.title_complement": {
-            "lisibilite": "Non lisible",
-            "cause": "absent"
+            "lisibilite": "Lisible",
+            "correction": "D'APRÈS LES THÉORIES MODERNES"
         },
         "metadata.volume_number": {
             "lisibilite": "Lisible"
         },
         "metadata.authors": {
-            "lisibilite": "Non lisible",
-            "cause": "absent"
+            "lisibilite": "Lisible",
+            "correction": "Auguste BÉHAL"
         },
         "metadata.publisher": {
-            "lisibilite": "Non lisible",
-            "cause": "absent"
+            "lisibilite": "Lisible",
+            "correction": "OCTAVE DOIN"
         },
         "metadata.publication_place": {
-            "lisibilite": "Non lisible",
-            "cause": "absent"
+            "lisibilite": "Lisible",
+            "correction": "PARIS"
         },
         "metadata.date": {
-            "lisibilite": "Non lisible",
-            "cause": "absent"
+            "lisibilite": "Lisible",
+            "correction": "1901"
         },
         "langue": {
             "lisibilite": "Lisible"
+        },
+        "metadata.identifier": {
+            "lisibilite": "Lisible"
+        },
+        "metadata.iiif_manifest": {
+            "lisibilite": "Lisible"
+        },
+        "ark": {
+            "lisibilite": "Lisible"
         }
-    },
-    "ark": "bpt6k903746"
+    }
 }

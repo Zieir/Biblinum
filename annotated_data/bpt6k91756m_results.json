@@ -11,6 +11,17 @@
         "iiif_manifest": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k91756m/manifest.json"
     },
     "langue": "de (German)",
+    "ark": "bpt6k91756m",
+    "typographie_suggestion": {
+        "category": "Script",
+        "subtype": "Cursive",
+        "explanation": "These are handwritten notes in a fluid, connected style typical of 19th-century clerical handwriting.",
+        "raw": "For the primary printed text (e.g., \"Silicate\", \"C. Weltzien\"):\n\nCategory: Serif/Roman\nSubtype: Slab Serif (Egyptian)\nExplanation: The typeface features thick, block-like serifs with little to no bracketing between the serif and the stem, which is characteristic of the Slab Serif style popular in the mid-19th century.\n\nFor the handwritten annotations:\n\nCategory: Script\nSubtype: Cursive\nExplanation: These are handwritten notes in a fluid, connected style typical of 19th-century clerical handwriting."
+    },
+    "typographie": {
+        "category": "Script",
+        "subtype": "Cursive"
+    },
     "_annotations": {
         "metadata.title": {
             "lisibilite": "Lisible",
@@ -39,7 +50,15 @@
         },
         "langue": {
             "lisibilite": "Lisible"
+        },
+        "metadata.identifier": {
+            "lisibilite": "Lisible"
+        },
+        "metadata.iiif_manifest": {
+            "lisibilite": "Lisible"
+        },
+        "ark": {
+            "lisibilite": "Lisible"
         }
-    },
-    "ark": "bpt6k91756m"
+    }
 }

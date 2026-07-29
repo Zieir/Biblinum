@@ -3,7 +3,7 @@
         "title": "TRAITÉ DE CHIMIE",
         "title_complement": "APPLIQUÉE AUX ARTS",
         "volume_number": "TOME QUATRIÈME",
-        "authors": "DUMAS, M.",
+        "authors": "DUMAS",
         "publisher": "BÉCHET JEUNE",
         "publication_place": "PARIS",
         "date": "1833",
@@ -11,6 +11,17 @@
         "iiif_manifest": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k90628v/manifest.json"
     },
     "langue": "fr (French)",
+    "ark": "bpt6k90628v",
+    "typographie_suggestion": {
+        "category": "Serif/Roman",
+        "subtype": "Didone (Modern)",
+        "explanation": "The main titles (\"TRAITÉ DE CHIMIE\") exhibit the high contrast between thick and thin strokes and vertical stress characteristic of the Didone style, which was the dominant typographic trend in France during the early 19th century (e.g., Didot). The body text follows a similar Modern Serif structure.",
+        "raw": "Category: Serif/Roman\nSubtype: Didone (Modern)\nExplanation: The main titles (\"TRAITÉ DE CHIMIE\") exhibit the high contrast between thick and thin strokes and vertical stress characteristic of the Didone style, which was the dominant typographic trend in France during the early 19th century (e.g., Didot). The body text follows a similar Modern Serif structure."
+    },
+    "typographie": {
+        "category": "Serif/Roman",
+        "subtype": "Didone (Modern)"
+    },
     "_annotations": {
         "metadata.title": {
             "lisibilite": "Lisible"
@@ -22,7 +33,8 @@
             "lisibilite": "Lisible"
         },
         "metadata.authors": {
-            "lisibilite": "Lisible"
+            "lisibilite": "Lisible",
+            "correction": "DUMAS"
         },
         "metadata.publisher": {
             "lisibilite": "Lisible"
@@ -38,7 +50,15 @@
         "langue": {
             "lisibilite": "Lisible"
         },
-        "_note": "The font for the date is confusing"
-    },
-    "ark": "bpt6k90628v"
+        "_note": "The font for the date is confusing",
+        "metadata.identifier": {
+            "lisibilite": "Lisible"
+        },
+        "metadata.iiif_manifest": {
+            "lisibilite": "Lisible"
+        },
+        "ark": {
+            "lisibilite": "Lisible"
+        }
+    }
 }

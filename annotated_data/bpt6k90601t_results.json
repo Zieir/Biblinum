@@ -3,7 +3,7 @@
         "title": "SCRITTE intorno alla",
         "title_complement": "TEORIA MOLECOLARE ED ATOMICA ALLA NOTAZIONE CHIMICA",
         "volume_number": "",
-        "authors": "CANNIZZARO, S.",
+        "authors": "S. CANNIZZARO",
         "publisher": "Lo Statuto",
         "publication_place": "PALERMO",
         "date": "1896",
@@ -11,6 +11,17 @@
         "iiif_manifest": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k90601t/manifest.json"
     },
     "langue": "it (Italian)",
+    "ark": "bpt6k90601t",
+    "typographie_suggestion": {
+        "category": "Serif/Roman",
+        "subtype": "Didone (Modern)",
+        "explanation": "The typeface features the high contrast between thick and thin strokes and the vertical stress characteristic of the \"Modern\" or Didone style (similar to Bodoni or Didot), which was prevalent in formal printing during the late 18th and 19th centuries.",
+        "raw": "Category: Serif/Roman\nSubtype: Didone (Modern)\nExplanation: The typeface features the high contrast between thick and thin strokes and the vertical stress characteristic of the \"Modern\" or Didone style (similar to Bodoni or Didot), which was prevalent in formal printing during the late 18th and 19th centuries."
+    },
+    "typographie": {
+        "category": "Serif/Roman",
+        "subtype": "Didone (Modern)"
+    },
     "_annotations": {
         "metadata.title": {
             "lisibilite": "Non lisible",
@@ -27,7 +38,7 @@
         "metadata.authors": {
             "lisibilite": "Non lisible",
             "cause": "qualite",
-            "correction": "CANNIZZARO, S."
+            "correction": "S. CANNIZZARO"
         },
         "metadata.publisher": {
             "lisibilite": "Non lisible",
@@ -44,7 +55,15 @@
         },
         "langue": {
             "lisibilite": "Lisible"
+        },
+        "metadata.identifier": {
+            "lisibilite": "Lisible"
+        },
+        "metadata.iiif_manifest": {
+            "lisibilite": "Lisible"
+        },
+        "ark": {
+            "lisibilite": "Lisible"
         }
-    },
-    "ark": "bpt6k90601t"
+    }
 }

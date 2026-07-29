@@ -1,9 +1,9 @@
 {
     "metadata": {
-        "title": "ESSAI DE MÉCANIQUE CHIMIQUE",
-        "title_complement": "FONDÉE SUR LA THERMOCHIMIE",
+        "title": "ESSAI DE MÉCANIQUE CHIMIQUE FONDÉE SUR LA THERMOCHIMIE",
+        "title_complement": "",
         "volume_number": "TOME SECOND",
-        "authors": "BERTHELOT, M.",
+        "authors": "M. BERTHELOT",
         "publisher": "DUNOD, ÉDITEUR",
         "publication_place": "PARIS",
         "date": "1879",
@@ -11,18 +11,33 @@
         "iiif_manifest": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k90302b/manifest.json"
     },
     "langue": "fr (French)",
+    "ark": "bpt6k90302b",
+    "typographie_suggestion": {
+        "category": "Serif/Roman",
+        "subtype": "Modern (Didone)",
+        "explanation": "The typeface features a high contrast between thick and thin strokes, vertical stress, and small, horizontal serifs, which are characteristic of the Modern/Didone style popular in 19th-century academic and formal publishing.",
+        "raw": "Category: Serif/Roman\nSubtype: Modern (Didone)\nExplanation: The typeface features a high contrast between thick and thin strokes, vertical stress, and small, horizontal serifs, which are characteristic of the Modern/Didone style popular in 19th-century academic and formal publishing."
+    },
+    "typographie": {
+        "category": "Serif/Roman",
+        "subtype": "Modern (Didone)"
+    },
     "_annotations": {
         "metadata.title": {
-            "lisibilite": "Lisible"
+            "lisibilite": "Lisible",
+            "correction": "ESSAI DE MÉCANIQUE CHIMIQUE FONDÉE SUR LA THERMOCHIMIE"
         },
         "metadata.title_complement": {
-            "lisibilite": "Lisible"
+            "lisibilite": "Non lisible",
+            "cause": "absent",
+            "correction": ""
         },
         "metadata.volume_number": {
             "lisibilite": "Lisible"
         },
         "metadata.authors": {
-            "lisibilite": "Lisible"
+            "lisibilite": "Lisible",
+            "correction": "M. BERTHELOT"
         },
         "metadata.publisher": {
             "lisibilite": "Lisible"
@@ -35,7 +50,15 @@
         },
         "langue": {
             "lisibilite": "Lisible"
+        },
+        "metadata.identifier": {
+            "lisibilite": "Lisible"
+        },
+        "metadata.iiif_manifest": {
+            "lisibilite": "Lisible"
+        },
+        "ark": {
+            "lisibilite": "Lisible"
         }
-    },
-    "ark": "bpt6k90302b"
+    }
 }

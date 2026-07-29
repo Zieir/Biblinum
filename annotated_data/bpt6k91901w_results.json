@@ -3,7 +3,7 @@
         "title": "COURS DE CHIMIE GÉNÉRALE",
         "title_complement": "",
         "volume_number": "TOME TROISIEME",
-        "authors": "PELOUZE, J. ; FREMY, E.",
+        "authors": "J. PELOUZE; E. FREMY",
         "publisher": "VICTOR MASSON",
         "publication_place": "PARIS",
         "date": "1850",
@@ -11,6 +11,17 @@
         "iiif_manifest": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k91901w/manifest.json"
     },
     "langue": "fr (French)",
+    "ark": "bpt6k91901w",
+    "typographie_suggestion": {
+        "category": "Serif/Roman",
+        "subtype": "Didone (Modern)",
+        "explanation": "The typeface features the high contrast between thick and thin strokes, vertical stress, and small, unbracketed (hairline) serifs characteristic of the \"Modern\" style popular in the early to mid-19th century.",
+        "raw": "Category: Serif/Roman\nSubtype: Didone (Modern)\nExplanation: The typeface features the high contrast between thick and thin strokes, vertical stress, and small, unbracketed (hairline) serifs characteristic of the \"Modern\" style popular in the early to mid-19th century."
+    },
+    "typographie": {
+        "category": "Serif/Roman",
+        "subtype": "Didone (Modern)"
+    },
     "_annotations": {
         "metadata.title": {
             "lisibilite": "Lisible",
@@ -24,7 +35,8 @@
             "lisibilite": "Lisible"
         },
         "metadata.authors": {
-            "lisibilite": "Lisible"
+            "lisibilite": "Lisible",
+            "correction": "J. PELOUZE; E. FREMY"
         },
         "metadata.publisher": {
             "lisibilite": "Lisible"
@@ -37,7 +49,15 @@
         },
         "langue": {
             "lisibilite": "Lisible"
+        },
+        "metadata.identifier": {
+            "lisibilite": "Lisible"
+        },
+        "metadata.iiif_manifest": {
+            "lisibilite": "Lisible"
+        },
+        "ark": {
+            "lisibilite": "Lisible"
         }
-    },
-    "ark": "bpt6k91901w"
+    }
 }

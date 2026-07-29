@@ -1,9 +1,9 @@
 {
     "metadata": {
         "title": "PRÉCIS DE CHIMIE INDUSTRIELLE",
-        "title_complement": "",
+        "title_complement": "à l'usage des écoles d'arts et manufactures et d'arts et métiers, des écoles préparatoires aux professions industrielles, des fabricants et des agriculteurs",
         "volume_number": "TOME PREMIER",
-        "authors": "PAYEN, A.",
+        "authors": "A. PAYEN",
         "publisher": "LIBRAIRIE DE L. HACHETTE ET C^ie",
         "publication_place": "PARIS",
         "date": "1859",
@@ -11,19 +11,31 @@
         "iiif_manifest": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k90807f/manifest.json"
     },
     "langue": "fr (French)",
+    "ark": "bpt6k90807f",
+    "typographie_suggestion": {
+        "category": "Serif/Roman",
+        "subtype": "Didone (Modern)",
+        "explanation": "The typeface features the high contrast between thick and thin strokes, vertical stress, and small, unbracketed (hairline) serifs characteristic of the late 18th and 19th-century \"Modern\" style (similar to Bodoni or Didot), which was standard for French academic printing of this era.",
+        "raw": "Category: Serif/Roman\nSubtype: Didone (Modern)\nExplanation: The typeface features the high contrast between thick and thin strokes, vertical stress, and small, unbracketed (hairline) serifs characteristic of the late 18th and 19th-century \"Modern\" style (similar to Bodoni or Didot), which was standard for French academic printing of this era."
+    },
+    "typographie": {
+        "category": "Serif/Roman",
+        "subtype": "Didone (Modern)"
+    },
     "_annotations": {
         "metadata.title": {
             "lisibilite": "Lisible"
         },
         "metadata.title_complement": {
-            "lisibilite": "Non lisible",
-            "cause": "absent"
+            "lisibilite": "Lisible",
+            "correction": "à l'usage des écoles d'arts et manufactures et d'arts et métiers, des écoles préparatoires aux professions industrielles, des fabricants et des agriculteurs"
         },
         "metadata.volume_number": {
             "lisibilite": "Lisible"
         },
         "metadata.authors": {
-            "lisibilite": "Lisible"
+            "lisibilite": "Lisible",
+            "correction": "A. PAYEN"
         },
         "metadata.publisher": {
             "lisibilite": "Lisible"
@@ -36,7 +48,15 @@
         },
         "langue": {
             "lisibilite": "Lisible"
+        },
+        "metadata.identifier": {
+            "lisibilite": "Lisible"
+        },
+        "metadata.iiif_manifest": {
+            "lisibilite": "Lisible"
+        },
+        "ark": {
+            "lisibilite": "Lisible"
         }
-    },
-    "ark": "bpt6k90807f"
+    }
 }

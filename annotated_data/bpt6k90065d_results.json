@@ -1,6 +1,6 @@
 {
     "metadata": {
-        "title": "Carl Friedrich Plattner's Probirkunst mit dem Löthrohre ",
+        "title": "Carl Friedrich Plattner's Probirkunst",
         "title_complement": "oder vollständige Anleitung zu qualitativen und quantitativen Löthrohr-Untersuchungen",
         "volume_number": "",
         "authors": "Carl Friedrich Plattner, Theodor Richter",
@@ -11,6 +11,17 @@
         "iiif_manifest": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k90065d/manifest.json"
     },
     "langue": "de (German)",
+    "ark": "bpt6k90065d",
+    "typographie_suggestion": {
+        "category": "Blackletter",
+        "subtype": "Fraktur",
+        "explanation": "The text exhibits the characteristic \"broken\" strokes, decorative flourishes, and verticality typical of German blackletter scripts. Specifically, the curved, ornate capitals and the specific shapes of the lowercase letters (such as the 's' and 't') identify it as Fraktur, which was the standard typeface for German printing during the 19th century.",
+        "raw": "Category: Blackletter\nSubtype: Fraktur\nExplanation: The text exhibits the characteristic \"broken\" strokes, decorative flourishes, and verticality typical of German blackletter scripts. Specifically, the curved, ornate capitals and the specific shapes of the lowercase letters (such as the 's' and 't') identify it as Fraktur, which was the standard typeface for German printing during the 19th century."
+    },
+    "typographie": {
+        "category": "Blackletter",
+        "subtype": "Fraktur"
+    },
     "_annotations": {
         "metadata.title": {
             "lisibilite": "Non lisible",
@@ -21,8 +32,8 @@
             "lisibilite": "Lisible"
         },
         "metadata.volume_number": {
-            "lisibilite": "Lisible",
-            "correction": ""
+            "lisibilite": "Non lisible",
+            "cause": "absent"
         },
         "metadata.authors": {
             "lisibilite": "Lisible",
@@ -39,7 +50,15 @@
         },
         "langue": {
             "lisibilite": "Lisible"
+        },
+        "metadata.identifier": {
+            "lisibilite": "Lisible"
+        },
+        "metadata.iiif_manifest": {
+            "lisibilite": "Lisible"
+        },
+        "ark": {
+            "lisibilite": "Lisible"
         }
-    },
-    "ark": "bpt6k90065d"
+    }
 }

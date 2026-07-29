@@ -1,47 +1,66 @@
 {
     "metadata": {
         "title": "TRAITÉ DE CHIMIE ÉLÉMENTAIRE",
-        "title_complement": "",
+        "title_complement": "conforme au programme et avec une théorie nouvelle",
         "volume_number": "",
-        "authors": "",
-        "publisher": "",
-        "publication_place": "PARIS",
-        "date": "",
+        "authors": "M. E.-J. Maumené",
+        "publisher": "Librairie BRIDAY",
+        "publication_place": "PARIS; LYON",
+        "date": "1885",
         "identifier": "http://gallica.bnf.fr/ark:/12148/bpt6k902320",
         "iiif_manifest": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k902320/manifest.json"
     },
     "langue": "fr (French)",
+    "ark": "bpt6k902320",
+    "typographie_suggestion": {
+        "category": "Slab Serif",
+        "subtype": "Egyptian",
+        "explanation": "The main title features heavy, block-like serifs with little to no contrast between the thick and thin strokes, characteristic of the \"Egyptian\" style of slab serifs popular in 19th-century printing for emphasis and titles.",
+        "raw": "Since this image contains multiple typefaces, I will identify the most prominent one used for the main title (\"CHIMIE ÉLÉMENTAIRE\").\n\nCategory: Slab Serif\nSubtype: Egyptian\nExplanation: The main title features heavy, block-like serifs with little to no contrast between the thick and thin strokes, characteristic of the \"Egyptian\" style of slab serifs popular in 19th-century printing for emphasis and titles."
+    },
+    "typographie": {
+        "category": "Slab Serif",
+        "subtype": "Egyptian"
+    },
     "_annotations": {
         "metadata.title": {
             "lisibilite": "Lisible"
         },
         "metadata.title_complement": {
-            "lisibilite": "Non lisible",
-            "cause": "absent"
+            "lisibilite": "Lisible",
+            "correction": "conforme au programme et avec une théorie nouvelle"
         },
         "metadata.volume_number": {
             "lisibilite": "Non lisible",
             "cause": "absent"
         },
         "metadata.authors": {
-            "lisibilite": "Non lisible",
-            "cause": "absent"
+            "lisibilite": "Lisible",
+            "correction": "M. E.-J. Maumené"
         },
         "metadata.publisher": {
-            "lisibilite": "Non lisible",
-            "cause": "absent",
-            "correction": ""
+            "lisibilite": "Lisible",
+            "correction": "Librairie BRIDAY"
         },
         "metadata.publication_place": {
-            "lisibilite": "Lisible"
+            "lisibilite": "Lisible",
+            "correction": "PARIS; LYON"
         },
         "metadata.date": {
-            "lisibilite": "Non lisible",
-            "cause": "absent"
+            "lisibilite": "Lisible",
+            "correction": "1885"
         },
         "langue": {
             "lisibilite": "Lisible"
+        },
+        "metadata.identifier": {
+            "lisibilite": "Lisible"
+        },
+        "metadata.iiif_manifest": {
+            "lisibilite": "Lisible"
+        },
+        "ark": {
+            "lisibilite": "Lisible"
         }
-    },
-    "ark": "bpt6k902320"
+    }
 }

@@ -4,13 +4,24 @@
         "title_complement": "",
         "volume_number": "",
         "authors": "ROBERT BUNSEN",
-        "publisher": "FRIEDRICH VIEWEG & SOHN",
+        "publisher": "FRIEDRICH VIEWEG UND SOHN",
         "publication_place": "BRAUNSCHWEIG",
         "date": "1877",
         "identifier": "http://gallica.bnf.fr/ark:/12148/bpt6k91721z",
         "iiif_manifest": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k91721z/manifest.json"
     },
     "langue": "de (German)",
+    "ark": "bpt6k91721z",
+    "typographie_suggestion": {
+        "category": "Script",
+        "subtype": "Cursive",
+        "explanation": "This is a fluid, connected handwriting style characterized by slanted strokes and loops, typical of personal archival notations.",
+        "raw": "Based on the image provided, there are two distinct styles of writing. I will identify the primary printed text and the handwritten annotation.\n\n**For the printed text (\"GASOMETRISCHE METHODEN\"):**\nCategory: Serif/Roman\nSubtype: Didone (Modern)\nExplanation: The text features a high contrast between thick and thin strokes and vertical stress, characteristic of the \"Modern\" or Didone style popular in the late 18th and 19th centuries.\n\n**For the handwritten numbers (\"1459\"):**\nCategory: Script\nSubtype: Cursive\nExplanation: This is a fluid, connected handwriting style characterized by slanted strokes and loops, typical of personal archival notations."
+    },
+    "typographie": {
+        "category": "Script",
+        "subtype": "Cursive"
+    },
     "_annotations": {
         "metadata.title": {
             "lisibilite": "Non lisible",
@@ -30,7 +41,6 @@
         },
         "metadata.publisher": {
             "lisibilite": "Lisible",
-            "cause": "absent",
             "correction": "FRIEDRICH VIEWEG UND SOHN"
         },
         "metadata.publication_place": {
@@ -43,7 +53,15 @@
         },
         "langue": {
             "lisibilite": "Lisible"
+        },
+        "metadata.identifier": {
+            "lisibilite": "Lisible"
+        },
+        "metadata.iiif_manifest": {
+            "lisibilite": "Lisible"
+        },
+        "ark": {
+            "lisibilite": "Lisible"
         }
-    },
-    "ark": "bpt6k91721z"
+    }
 }

@@ -3,7 +3,7 @@
         "title": "TRAITÉ DE CHIMIE GÉNÉRALE",
         "title_complement": "NOTIONS ET PRINCIPES FONDAMENTAUX",
         "volume_number": "",
-        "authors": "URBAIN, G. ; JOB, P. ; ALLARD, G.",
+        "authors": "G. URBAIN; P. JOB; G. ALLARD; G. CHAMPETIER",
         "publisher": "HERMANN & Cie, ÉDITEURS",
         "publication_place": "PARIS",
         "date": "1939",
@@ -11,6 +11,17 @@
         "iiif_manifest": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k90146d/manifest.json"
     },
     "langue": "fr (French)",
+    "ark": "bpt6k90146d",
+    "typographie_suggestion": {
+        "category": "Serif/Roman",
+        "subtype": "Didone (Modern)",
+        "explanation": "The typeface features a strong contrast between thick and thin strokes, vertical stress, and thin, horizontal serifs, which are characteristic of the \"Modern\" or Didone style (similar to Bodoni or Didot), commonly used in formal French academic publishing of this era.",
+        "raw": "Category: Serif/Roman\nSubtype: Didone (Modern)\nExplanation: The typeface features a strong contrast between thick and thin strokes, vertical stress, and thin, horizontal serifs, which are characteristic of the \"Modern\" or Didone style (similar to Bodoni or Didot), commonly used in formal French academic publishing of this era."
+    },
+    "typographie": {
+        "category": "Serif/Roman",
+        "subtype": "Didone (Modern)"
+    },
     "_annotations": {
         "metadata.title": {
             "lisibilite": "Lisible"
@@ -23,7 +34,8 @@
             "cause": "absent"
         },
         "metadata.authors": {
-            "lisibilite": "Lisible"
+            "lisibilite": "Lisible",
+            "correction": "G. URBAIN; P. JOB; G. ALLARD; G. CHAMPETIER"
         },
         "metadata.publisher": {
             "lisibilite": "Lisible"
@@ -36,7 +48,15 @@
         },
         "langue": {
             "lisibilite": "Lisible"
+        },
+        "metadata.identifier": {
+            "lisibilite": "Lisible"
+        },
+        "metadata.iiif_manifest": {
+            "lisibilite": "Lisible"
+        },
+        "ark": {
+            "lisibilite": "Lisible"
         }
-    },
-    "ark": "bpt6k90146d"
+    }
 }

@@ -3,14 +3,25 @@
         "title": "ABRÉGÉ ÉLÉMENTAIRE DE CHIMIE",
         "title_complement": "considérée comme science accessoire à l'étude de la médecine, de la pharmacie et de l'histoire naturelle",
         "volume_number": "DEUXIÈME PARTIE",
-        "authors": "LASSAIGNE, J.-L.",
+        "authors": "J.-L. LASSAIGNE",
         "publisher": "BÉCHET JEUNE, LIBRAIRE",
-        "publication_place": "PARIS",
+        "publication_place": "PARIS; BRUXELLES",
         "date": "1829",
         "identifier": "http://gallica.bnf.fr/ark:/12148/bpt6k90526w",
         "iiif_manifest": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k90526w/manifest.json"
     },
     "langue": "fr (French)",
+    "ark": "bpt6k90526w",
+    "typographie_suggestion": {
+        "category": "Serif/Roman",
+        "subtype": "Didone (Modern)",
+        "explanation": "The text exhibits the high contrast between thick and thin strokes, vertical stress, and flat, unbracketed serifs characteristic of the \"Modern\" or Didone style (popularized by Didot and Bodoni), which was the standard for formal French printing in the early 19th century.",
+        "raw": "Category: Serif/Roman\nSubtype: Didone (Modern)\nExplanation: The text exhibits the high contrast between thick and thin strokes, vertical stress, and flat, unbracketed serifs characteristic of the \"Modern\" or Didone style (popularized by Didot and Bodoni), which was the standard for formal French printing in the early 19th century."
+    },
+    "typographie": {
+        "category": "Serif/Roman",
+        "subtype": "Didone (Modern)"
+    },
     "_annotations": {
         "metadata.title": {
             "lisibilite": "Lisible"
@@ -22,20 +33,30 @@
             "lisibilite": "Lisible"
         },
         "metadata.authors": {
-            "lisibilite": "Lisible"
+            "lisibilite": "Lisible",
+            "correction": "J.-L. LASSAIGNE"
         },
         "metadata.publisher": {
             "lisibilite": "Lisible"
         },
         "metadata.publication_place": {
-            "lisibilite": "Lisible"
+            "lisibilite": "Lisible",
+            "correction": "PARIS; BRUXELLES"
         },
         "metadata.date": {
             "lisibilite": "Lisible"
         },
         "langue": {
             "lisibilite": "Lisible"
+        },
+        "metadata.identifier": {
+            "lisibilite": "Lisible"
+        },
+        "metadata.iiif_manifest": {
+            "lisibilite": "Lisible"
+        },
+        "ark": {
+            "lisibilite": "Lisible"
         }
-    },
-    "ark": "bpt6k90526w"
+    }
 }

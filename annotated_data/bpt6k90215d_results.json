@@ -3,7 +3,7 @@
         "title": "C. G. J. JACOBI'S GESAMMELTE WERKE",
         "title_complement": "HERAUSGEGEBEN AUS DER VERANLASSUNG DER KÖNIGLICH PREUSSISCHEN AKADEMIE DER WISSENSCHAFTEN",
         "volume_number": "ZWEITER BAND",
-        "authors": " C. G. J. JACOBI, K. WEIERSTRASS",
+        "authors": "C. G. J. JACOBI; K. WEIERSTRASS",
         "publisher": "G. REIMER",
         "publication_place": "BERLIN",
         "date": "1882",
@@ -11,6 +11,17 @@
         "iiif_manifest": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k90215d/manifest.json"
     },
     "langue": "de (German)",
+    "ark": "bpt6k90215d",
+    "typographie_suggestion": {
+        "category": "Serif/Roman",
+        "subtype": "Didone (Modern)",
+        "explanation": "The typeface features a high contrast between thick and thin strokes, vertical stress, and small, horizontal unbracketed serifs, which are characteristic of the Modern/Didone style popular in the late 18th and 19th centuries.",
+        "raw": "Category: Serif/Roman\nSubtype: Didone (Modern)\nExplanation: The typeface features a high contrast between thick and thin strokes, vertical stress, and small, horizontal unbracketed serifs, which are characteristic of the Modern/Didone style popular in the late 18th and 19th centuries."
+    },
+    "typographie": {
+        "category": "Serif/Roman",
+        "subtype": "Didone (Modern)"
+    },
     "_annotations": {
         "metadata.title": {
             "lisibilite": "Lisible",
@@ -26,7 +37,7 @@
         },
         "metadata.authors": {
             "lisibilite": "Lisible",
-            "correction": "C. G. J. JACOBI, K. WEIERSTRASS"
+            "correction": "C. G. J. JACOBI; K. WEIERSTRASS"
         },
         "metadata.publisher": {
             "lisibilite": "Lisible",
@@ -43,7 +54,15 @@
         "langue": {
             "lisibilite": "Lisible",
             "correction": "de (German)"
+        },
+        "metadata.identifier": {
+            "lisibilite": "Lisible"
+        },
+        "metadata.iiif_manifest": {
+            "lisibilite": "Lisible"
+        },
+        "ark": {
+            "lisibilite": "Lisible"
         }
-    },
-    "ark": "bpt6k90215d"
+    }
 }

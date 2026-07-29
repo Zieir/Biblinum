@@ -1,9 +1,9 @@
 {
     "metadata": {
-        "title": "CHIMIE ORGANIQUE",
-        "title_complement": "DES ALCALIS ORGANIQUES",
+        "title": "CHIMIE ORGANIQUE DES ALCALIS ORGANIQUES",
+        "title_complement": "",
         "volume_number": "",
-        "authors": "BOURGOIN, Edme",
+        "authors": "Edme BOURGOIN",
         "publisher": "ADRIEN DELAHAYE, LIBRAIRE-EDITEUR",
         "publication_place": "PARIS",
         "date": "1869",
@@ -11,12 +11,26 @@
         "iiif_manifest": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k91714p/manifest.json"
     },
     "langue": "fr (French)",
+    "ark": "bpt6k91714p",
+    "typographie_suggestion": {
+        "category": "Serif/Roman",
+        "subtype": "Didone (Modern)",
+        "explanation": "The typeface features a strong contrast between thick and thin strokes, vertical stress, and thin, horizontal serifs, which are characteristic of the \"Modern\" or Didone style popular in 18th and 19th-century printing.",
+        "raw": "Category: Serif/Roman\nSubtype: Didone (Modern)\nExplanation: The typeface features a strong contrast between thick and thin strokes, vertical stress, and thin, horizontal serifs, which are characteristic of the \"Modern\" or Didone style popular in 18th and 19th-century printing."
+    },
+    "typographie": {
+        "category": "Serif/Roman",
+        "subtype": "Didone (Modern)"
+    },
     "_annotations": {
         "metadata.title": {
-            "lisibilite": "Lisible"
+            "lisibilite": "Lisible",
+            "correction": "CHIMIE ORGANIQUE DES ALCALIS ORGANIQUES"
         },
         "metadata.title_complement": {
-            "lisibilite": "Lisible"
+            "lisibilite": "Non lisible",
+            "cause": "absent",
+            "correction": ""
         },
         "metadata.volume_number": {
             "lisibilite": "Non lisible",
@@ -24,7 +38,7 @@
         },
         "metadata.authors": {
             "lisibilite": "Lisible",
-            "correction": "BOURGOIN, Edme"
+            "correction": "Edme BOURGOIN"
         },
         "metadata.publisher": {
             "lisibilite": "Lisible"
@@ -38,7 +52,15 @@
         },
         "langue": {
             "lisibilite": "Lisible"
+        },
+        "metadata.identifier": {
+            "lisibilite": "Lisible"
+        },
+        "metadata.iiif_manifest": {
+            "lisibilite": "Lisible"
+        },
+        "ark": {
+            "lisibilite": "Lisible"
         }
-    },
-    "ark": "bpt6k91714p"
+    }
 }

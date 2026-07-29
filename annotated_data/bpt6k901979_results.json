@@ -1,9 +1,9 @@
 {
     "metadata": {
-        "title": "ŒUVRES COMPLÈTES",
-        "title_complement": " d'Augustin Cauchy",
-        "volume_number": "TOME V",
-        "authors": "CAUCHY, Augustin",
+        "title": "ŒUVRES COMPLÈTES d'Augustin Cauchy",
+        "title_complement": "",
+        "volume_number": "SÉRIE 2 - TOME V",
+        "authors": "Augustin CAUCHY",
         "publisher": "GAUTHIER-VILLARS, IMPRIMEUR-LIBRAIRE",
         "publication_place": "PARIS",
         "date": "1903",
@@ -11,19 +11,34 @@
         "iiif_manifest": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k901979/manifest.json"
     },
     "langue": "fr (French)",
+    "ark": "bpt6k901979",
+    "typographie_suggestion": {
+        "category": "Serif/Roman",
+        "subtype": "Slab Serif (Egyptian)",
+        "explanation": "The primary text (\"D'AUGUSTIN CAUCHY\") features heavy, block-like serifs with little to no bracketing, which is characteristic of the Slab Serif style popular in 19th-century academic and commercial printing.",
+        "raw": "Category: Serif/Roman\nSubtype: Slab Serif (Egyptian)\nExplanation: The primary text (\"D'AUGUSTIN CAUCHY\") features heavy, block-like serifs with little to no bracketing, which is characteristic of the Slab Serif style popular in 19th-century academic and commercial printing."
+    },
+    "typographie": {
+        "category": "Serif/Roman",
+        "subtype": "Slab Serif (Egyptian)"
+    },
     "_annotations": {
         "metadata.title": {
-            "lisibilite": "Lisible"
+            "lisibilite": "Lisible",
+            "correction": "ŒUVRES COMPLÈTES d'Augustin Cauchy"
         },
         "metadata.title_complement": {
-            "lisibilite": "Lisible",
-            "correction": " d'Augustin Cauchy"
+            "lisibilite": "Non lisible",
+            "cause": "absent",
+            "correction": ""
         },
         "metadata.volume_number": {
-            "lisibilite": "Lisible"
+            "lisibilite": "Lisible",
+            "correction": "SÉRIE 2 - TOME V"
         },
         "metadata.authors": {
-            "lisibilite": "Lisible"
+            "lisibilite": "Lisible",
+            "correction": "Augustin CAUCHY"
         },
         "metadata.publisher": {
             "lisibilite": "Lisible"
@@ -39,7 +54,15 @@
         "langue": {
             "lisibilite": "Lisible"
         },
-        "_note": "Date in roman numerals"
-    },
-    "ark": "bpt6k901979"
+        "_note": "Date in roman numerals",
+        "metadata.identifier": {
+            "lisibilite": "Lisible"
+        },
+        "metadata.iiif_manifest": {
+            "lisibilite": "Lisible"
+        },
+        "ark": {
+            "lisibilite": "Lisible"
+        }
+    }
 }

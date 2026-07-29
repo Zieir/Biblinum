@@ -3,7 +3,7 @@
         "title": "Bosquejos de la Historia de la Química desde sus albores hasta el periodo de la Síntesis Orgánica",
         "title_complement": "Marcelino Berthelot, su vida y su obra",
         "volume_number": "",
-        "authors": "GUGGIARI, Pedro Bruno",
+        "authors": "Pedro Bruno GUGGIARI",
         "publisher": "La Colmena S. A.",
         "publication_place": "Asunción",
         "date": "1920",
@@ -11,6 +11,17 @@
         "iiif_manifest": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k906563/manifest.json"
     },
     "langue": "es (Spanish)",
+    "ark": "bpt6k906563",
+    "typographie_suggestion": {
+        "category": "Serif/Roman",
+        "subtype": "Old Style / Transitional",
+        "explanation": "The text features clear serifs (small strokes attached to the ends of the larger strokes) and a moderate contrast between thick and thin lines, characteristic of traditional book typefaces used in early 20th-century printing.",
+        "raw": "Category: Serif/Roman\nSubtype: Old Style / Transitional\nExplanation: The text features clear serifs (small strokes attached to the ends of the larger strokes) and a moderate contrast between thick and thin lines, characteristic of traditional book typefaces used in early 20th-century printing."
+    },
+    "typographie": {
+        "category": "Serif/Roman",
+        "subtype": "Old Style / Transitional"
+    },
     "_annotations": {
         "metadata.title": {
             "lisibilite": "Lisible",
@@ -26,7 +37,8 @@
             "cause": "absent"
         },
         "metadata.authors": {
-            "lisibilite": "Lisible"
+            "lisibilite": "Lisible",
+            "correction": "Pedro Bruno GUGGIARI"
         },
         "metadata.publisher": {
             "lisibilite": "Non lisible",
@@ -43,7 +55,15 @@
         },
         "langue": {
             "lisibilite": "Lisible"
+        },
+        "metadata.identifier": {
+            "lisibilite": "Lisible"
+        },
+        "metadata.iiif_manifest": {
+            "lisibilite": "Lisible"
+        },
+        "ark": {
+            "lisibilite": "Lisible"
         }
-    },
-    "ark": "bpt6k906563"
+    }
 }

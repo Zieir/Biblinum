@@ -1,21 +1,34 @@
 {
     "metadata": {
         "title": "A SHORT MANUAL OF ANALYTICAL CHEMISTRY",
-        "title_complement": "",
+        "title_complement": "qualitative and quantitative-anorganic and organic",
         "volume_number": "",
         "authors": "MUTER, JOHN",
-        "publisher": "",
-        "publication_place": "",
-        "date": "",
+        "publisher": "W. Baxter",
+        "publication_place": "LONDON",
+        "date": "1887",
         "identifier": "http://gallica.bnf.fr/ark:/12148/bpt6k90012t",
         "iiif_manifest": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k90012t/manifest.json"
+    },
+    "langue": "en (English)",
+    "ark": "bpt6k90012t",
+    "typographie_suggestion": {
+        "category": "Sans-serif",
+        "subtype": "Grotesque",
+        "explanation": "The typeface features clean, blunt ends without serifs, a uniform stroke weight, and a utilitarian, industrial appearance characteristic of early 20th-century Grotesque sans-serifs.",
+        "raw": "Category: Sans-serif\nSubtype: Grotesque\nExplanation: The typeface features clean, blunt ends without serifs, a uniform stroke weight, and a utilitarian, industrial appearance characteristic of early 20th-century Grotesque sans-serifs."
+    },
+    "typographie": {
+        "category": "Sans-serif",
+        "subtype": "Grotesque"
     },
     "_annotations": {
         "metadata.title": {
             "lisibilite": "Lisible"
         },
         "metadata.title_complement": {
-            "lisibilite": "Lisible"
+            "lisibilite": "Lisible",
+            "correction": "qualitative and quantitative-anorganic and organic"
         },
         "metadata.volume_number": {
             "lisibilite": "Non lisible",
@@ -25,21 +38,28 @@
             "lisibilite": "Lisible"
         },
         "metadata.publisher": {
-            "lisibilite": "Non lisible",
-            "cause": "absent"
+            "lisibilite": "Lisible",
+            "correction": "W. Baxter"
         },
         "metadata.publication_place": {
-            "lisibilite": "Non lisible",
-            "cause": "absent"
+            "lisibilite": "Lisible",
+            "correction": "LONDON"
         },
         "metadata.date": {
-            "lisibilite": "Non lisible",
-            "cause": "manuscrit"
+            "lisibilite": "Lisible",
+            "correction": "1887"
         },
         "langue": {
             "lisibilite": "Lisible"
+        },
+        "metadata.identifier": {
+            "lisibilite": "Lisible"
+        },
+        "metadata.iiif_manifest": {
+            "lisibilite": "Lisible"
+        },
+        "ark": {
+            "lisibilite": "Lisible"
         }
-    },
-    "langue": "en (English)",
-    "ark": "bpt6k90012t"
+    }
 }

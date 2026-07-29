@@ -3,7 +3,7 @@
         "title": "DÉMONSTRATION EXPÉRIMENTALE SUR L'ALBUMINE",
         "title_complement": "et sur les substances inorganiques qui l'accompagnent",
         "volume_number": "",
-        "authors": "DENIS, P.-S.",
+        "authors": "P.-S. DENIS",
         "publisher": "Imprimerie de C.-F. Denis",
         "publication_place": "COMMERCY",
         "date": "1839",
@@ -11,6 +11,17 @@
         "iiif_manifest": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k919863/manifest.json"
     },
     "langue": "fr (French)",
+    "ark": "bpt6k919863",
+    "typographie_suggestion": {
+        "category": "Serif/Roman",
+        "subtype": "Modern Italic",
+        "explanation": "These sections maintain the high contrast of the Modern style but are slanted for emphasis, following the conventions of 19th-century typesetting.",
+        "raw": "Based on the provided image of the 1839 medical text, there are several typefaces used. The dominant styles are as follows:\n\n**For the main body text:**\nCategory: Serif/Roman\nSubtype: Modern (Didone)\nExplanation: The text features the high contrast between thick and thin strokes and vertical stress characteristic of the \"Modern\" style (similar to Bodoni or Didot), which was the standard for academic and official printing in France during the early-to-mid 19th century.\n\n**For the title \"L'ALBUMINE\":**\nCategory: Display\nSubtype: Fat Face / Slab Serif\nExplanation: This is a bold, high-contrast display face designed for emphasis, featuring heavy vertical strokes and blunt serifs typical of early 19th-century advertising and title typography.\n\n**For the italicized sections:**\nCategory: Serif/Roman\nSubtype: Modern Italic\nExplanation: These sections maintain the high contrast of the Modern style but are slanted for emphasis, following the conventions of 19th-century typesetting."
+    },
+    "typographie": {
+        "category": "Serif/Roman",
+        "subtype": "Modern Italic"
+    },
     "_annotations": {
         "metadata.title": {
             "lisibilite": "Lisible"
@@ -25,7 +36,7 @@
         "metadata.authors": {
             "lisibilite": "Non lisible",
             "cause": "qualite",
-            "correction": "DENIS, P.-S."
+            "correction": "P.-S. DENIS"
         },
         "metadata.publisher": {
             "lisibilite": "Lisible"
@@ -38,7 +49,15 @@
         },
         "langue": {
             "lisibilite": "Lisible"
+        },
+        "metadata.identifier": {
+            "lisibilite": "Lisible"
+        },
+        "metadata.iiif_manifest": {
+            "lisibilite": "Lisible"
+        },
+        "ark": {
+            "lisibilite": "Lisible"
         }
-    },
-    "ark": "bpt6k919863"
+    }
 }

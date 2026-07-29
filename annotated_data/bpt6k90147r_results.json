@@ -3,7 +3,7 @@
         "title": "A COURSE OF QUALITATIVE CHEMICAL ANALYSIS",
         "title_complement": "",
         "volume_number": "",
-        "authors": "VALENTIN, Wm. Geo.",
+        "authors": "Wm. Geo. VALENTIN",
         "publisher": "J. & A. Churchill",
         "publication_place": "London",
         "date": "1874",
@@ -11,6 +11,17 @@
         "iiif_manifest": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k90147r/manifest.json"
     },
     "langue": "en (English)",
+    "ark": "bpt6k90147r",
+    "typographie_suggestion": {
+        "category": "Serif/Roman",
+        "subtype": "Modern (Didone)",
+        "explanation": "The typeface features the high contrast between thick and thin strokes and vertical stress characteristic of the 19th-century Modern/Didone style, which was standard for academic and scientific publishing during the 1870s.",
+        "raw": "Category: Serif/Roman\nSubtype: Modern (Didone)\nExplanation: The typeface features the high contrast between thick and thin strokes and vertical stress characteristic of the 19th-century Modern/Didone style, which was standard for academic and scientific publishing during the 1870s."
+    },
+    "typographie": {
+        "category": "Serif/Roman",
+        "subtype": "Modern (Didone)"
+    },
     "_annotations": {
         "metadata.title": {
             "lisibilite": "Non lisible",
@@ -25,7 +36,8 @@
             "cause": "absent"
         },
         "metadata.authors": {
-            "lisibilite": "Lisible"
+            "lisibilite": "Lisible",
+            "correction": "Wm. Geo. VALENTIN"
         },
         "metadata.publisher": {
             "lisibilite": "Lisible"
@@ -38,7 +50,15 @@
         },
         "langue": {
             "lisibilite": "Lisible"
+        },
+        "metadata.identifier": {
+            "lisibilite": "Lisible"
+        },
+        "metadata.iiif_manifest": {
+            "lisibilite": "Lisible"
+        },
+        "ark": {
+            "lisibilite": "Lisible"
         }
-    },
-    "ark": "bpt6k90147r"
+    }
 }

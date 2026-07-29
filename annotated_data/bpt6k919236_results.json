@@ -1,19 +1,31 @@
 {
     "metadata": {
-        "title": "CORRESPONDANCE",
+        "title": "CORRESPONDANCE de Charles Gerhardt",
         "title_complement": "GERHARDT ET LES SAVANTS FRANÇAIS",
         "volume_number": "TOME II",
-        "authors": "GERHARDT, Charles",
-        "publisher": "",
-        "publication_place": "",
-        "date": "",
+        "authors": "Charles GERHARDT",
+        "publisher": "MASSON ET Cie",
+        "publication_place": "PARIS",
+        "date": "1925",
         "identifier": "http://gallica.bnf.fr/ark:/12148/bpt6k919236",
         "iiif_manifest": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k919236/manifest.json"
     },
     "langue": "fr (French)",
+    "ark": "bpt6k919236",
+    "typographie_suggestion": {
+        "category": "Serif/Roman",
+        "subtype": "Transitional / Modern (Didone influence)",
+        "explanation": "The typeface features a strong contrast between thick and thin strokes, vertical stress, and relatively flat, unbracketed serifs, which are characteristic of the Transitional and Modern styles common in academic and formal publishing from the late 18th through the 20th century.",
+        "raw": "Category: Serif/Roman\nSubtype: Transitional / Modern (Didone influence)\nExplanation: The typeface features a strong contrast between thick and thin strokes, vertical stress, and relatively flat, unbracketed serifs, which are characteristic of the Transitional and Modern styles common in academic and formal publishing from the late 18th through the 20th century."
+    },
+    "typographie": {
+        "category": "Serif/Roman",
+        "subtype": "Transitional / Modern (Didone influence)"
+    },
     "_annotations": {
         "metadata.title": {
-            "lisibilite": "Lisible"
+            "lisibilite": "Lisible",
+            "correction": "CORRESPONDANCE de Charles Gerhardt"
         },
         "metadata.title_complement": {
             "lisibilite": "Lisible"
@@ -22,23 +34,32 @@
             "lisibilite": "Lisible"
         },
         "metadata.authors": {
-            "lisibilite": "Lisible"
+            "lisibilite": "Lisible",
+            "correction": "Charles GERHARDT"
         },
         "metadata.publisher": {
-            "lisibilite": "Non lisible",
-            "cause": "absent"
+            "lisibilite": "Lisible",
+            "correction": "MASSON ET Cie"
         },
         "metadata.publication_place": {
-            "lisibilite": "Non lisible",
-            "cause": "absent"
+            "lisibilite": "Lisible",
+            "correction": "PARIS"
         },
         "metadata.date": {
-            "lisibilite": "Non lisible",
-            "cause": "absent"
+            "lisibilite": "Lisible",
+            "correction": "1925"
         },
         "langue": {
             "lisibilite": "Lisible"
+        },
+        "metadata.identifier": {
+            "lisibilite": "Lisible"
+        },
+        "metadata.iiif_manifest": {
+            "lisibilite": "Lisible"
+        },
+        "ark": {
+            "lisibilite": "Lisible"
         }
-    },
-    "ark": "bpt6k919236"
+    }
 }

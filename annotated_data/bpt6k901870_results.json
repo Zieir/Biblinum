@@ -1,9 +1,9 @@
 {
     "metadata": {
-        "title": "ŒUVRES COMPLÈTES",
-        "title_complement": "D'AUGUSTIN CAUCHY",
-        "volume_number": "TOME VII",
-        "authors": "Cauchy, Augustin",
+        "title": "ŒUVRES COMPLÈTES D'AUGUSTIN CAUCHY",
+        "title_complement": "",
+        "volume_number": "SÉRIE I TOME VII",
+        "authors": "Augustin Cauchy",
         "publisher": "Gauthier-Villars",
         "publication_place": "PARIS",
         "date": "1892",
@@ -11,18 +11,34 @@
         "iiif_manifest": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k901870/manifest.json"
     },
     "langue": "fr (French)",
+    "ark": "bpt6k901870",
+    "typographie_suggestion": {
+        "category": "Serif/Roman",
+        "subtype": "Didone (Modern)",
+        "explanation": "The typeface features the high contrast between thick and thin strokes, vertical stress, and small, unbracketed hair-line serifs characteristic of the \"Modern\" or Didone style (similar to Bodoni or Didot), which was prevalent in French academic printing during the 19th century.",
+        "raw": "Category: Serif/Roman\nSubtype: Didone (Modern)\nExplanation: The typeface features the high contrast between thick and thin strokes, vertical stress, and small, unbracketed hair-line serifs characteristic of the \"Modern\" or Didone style (similar to Bodoni or Didot), which was prevalent in French academic printing during the 19th century."
+    },
+    "typographie": {
+        "category": "Serif/Roman",
+        "subtype": "Didone (Modern)"
+    },
     "_annotations": {
         "metadata.title": {
-            "lisibilite": "Lisible"
+            "lisibilite": "Lisible",
+            "correction": "ŒUVRES COMPLÈTES D'AUGUSTIN CAUCHY"
         },
         "metadata.title_complement": {
-            "lisibilite": "Lisible"
+            "lisibilite": "Non lisible",
+            "cause": "absent",
+            "correction": ""
         },
         "metadata.volume_number": {
-            "lisibilite": "Lisible"
+            "lisibilite": "Lisible",
+            "correction": "SÉRIE I TOME VII"
         },
         "metadata.authors": {
-            "lisibilite": "Lisible"
+            "lisibilite": "Lisible",
+            "correction": "Augustin Cauchy"
         },
         "metadata.publisher": {
             "lisibilite": "Lisible"
@@ -37,7 +53,15 @@
         },
         "langue": {
             "lisibilite": "Lisible"
+        },
+        "metadata.identifier": {
+            "lisibilite": "Lisible"
+        },
+        "metadata.iiif_manifest": {
+            "lisibilite": "Lisible"
+        },
+        "ark": {
+            "lisibilite": "Lisible"
         }
-    },
-    "ark": "bpt6k901870"
+    }
 }

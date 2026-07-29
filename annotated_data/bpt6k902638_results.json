@@ -1,9 +1,9 @@
 {
     "metadata": {
-        "title": "LEÇONS DE CHIMIE GÉNÉRALE",
-        "title_complement": "ÉLÉMENTAIRE",
+        "title": "LEÇONS DE CHIMIE GÉNÉRALE ÉLÉMENTAIRE",
+        "title_complement": "professées à l'École centrale des arts et manufactures",
         "volume_number": "PREMIER",
-        "authors": "CAHOURS,  Auguste",
+        "authors": "Auguste CAHOURS",
         "publisher": "MALLET-BACHELIER",
         "publication_place": "PARIS",
         "date": "1855",
@@ -11,12 +11,25 @@
         "iiif_manifest": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k902638/manifest.json"
     },
     "langue": "fr (French)",
+    "ark": "bpt6k902638",
+    "typographie_suggestion": {
+        "category": "Serif/Roman",
+        "subtype": "Didone (Modern)",
+        "explanation": "The typeface features the high contrast between thick and thin strokes, vertical stress, and small, unbracketed hair-line serifs characteristic of the \"Modern\" or Didone style popular in 19th-century printing.",
+        "raw": "Category: Serif/Roman\nSubtype: Didone (Modern)\nExplanation: The typeface features the high contrast between thick and thin strokes, vertical stress, and small, unbracketed hair-line serifs characteristic of the \"Modern\" or Didone style popular in 19th-century printing."
+    },
+    "typographie": {
+        "category": "Serif/Roman",
+        "subtype": "Didone (Modern)"
+    },
     "_annotations": {
         "metadata.title": {
-            "lisibilite": "Lisible"
+            "lisibilite": "Lisible",
+            "correction": "LEÇONS DE CHIMIE GÉNÉRALE ÉLÉMENTAIRE"
         },
         "metadata.title_complement": {
-            "lisibilite": "Lisible"
+            "lisibilite": "Lisible",
+            "correction": "professées à l'École centrale des arts et manufactures"
         },
         "metadata.volume_number": {
             "lisibilite": "Lisible"
@@ -24,7 +37,7 @@
         "metadata.authors": {
             "lisibilite": "Non lisible",
             "cause": "recouvert",
-            "correction": "CAHOURS,  Auguste"
+            "correction": "Auguste CAHOURS"
         },
         "metadata.publisher": {
             "lisibilite": "Lisible"
@@ -37,7 +50,15 @@
         },
         "langue": {
             "lisibilite": "Lisible"
+        },
+        "metadata.identifier": {
+            "lisibilite": "Lisible"
+        },
+        "metadata.iiif_manifest": {
+            "lisibilite": "Lisible"
+        },
+        "ark": {
+            "lisibilite": "Lisible"
         }
-    },
-    "ark": "bpt6k902638"
+    }
 }

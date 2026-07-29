@@ -3,7 +3,7 @@
         "title": "TRAITÉ DE CHIMIE ORGANIQUE",
         "title_complement": "D'APRÈS LES THÉORIES MODERNES",
         "volume_number": "TOME SECOND",
-        "authors": "BÉHAL, Auguste ; VALEUR, Amand",
+        "authors": "Auguste BÉHAL; Amand VALEUR",
         "publisher": "OCTAVE DOIN ET FILS, ÉDITEURS",
         "publication_place": "PARIS",
         "date": "1911",
@@ -11,6 +11,17 @@
         "iiif_manifest": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k90373v/manifest.json"
     },
     "langue": "fr (French)",
+    "ark": "bpt6k90373v",
+    "typographie_suggestion": {
+        "category": "Serif/Roman",
+        "subtype": "Didone (Modern)",
+        "explanation": "The typeface features the high contrast between thick and thin strokes, vertical stress, and thin, horizontal serifs characteristic of the \"Modern\" or Didone style (similar to Bodoni or Didot), which was prevalent in French academic publishing during this era.",
+        "raw": "Category: Serif/Roman\nSubtype: Didone (Modern)\nExplanation: The typeface features the high contrast between thick and thin strokes, vertical stress, and thin, horizontal serifs characteristic of the \"Modern\" or Didone style (similar to Bodoni or Didot), which was prevalent in French academic publishing during this era."
+    },
+    "typographie": {
+        "category": "Serif/Roman",
+        "subtype": "Didone (Modern)"
+    },
     "_annotations": {
         "metadata.title": {
             "lisibilite": "Lisible"
@@ -22,7 +33,8 @@
             "lisibilite": "Lisible"
         },
         "metadata.authors": {
-            "lisibilite": "Lisible"
+            "lisibilite": "Lisible",
+            "correction": "Auguste BÉHAL; Amand VALEUR"
         },
         "metadata.publisher": {
             "lisibilite": "Lisible"
@@ -35,7 +47,15 @@
         },
         "langue": {
             "lisibilite": "Lisible"
+        },
+        "metadata.identifier": {
+            "lisibilite": "Lisible"
+        },
+        "metadata.iiif_manifest": {
+            "lisibilite": "Lisible"
+        },
+        "ark": {
+            "lisibilite": "Lisible"
         }
-    },
-    "ark": "bpt6k90373v"
+    }
 }

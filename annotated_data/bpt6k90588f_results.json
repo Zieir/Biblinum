@@ -1,9 +1,9 @@
 {
     "metadata": {
         "title": "RAPPORT ANNUEL SUR LES PROGRÈS DE LA CHIMIE",
-        "title_complement": "",
+        "title_complement": "présenté le 31 mars 1843 à l'Académie royale des sciences de Stockholm",
         "volume_number": "",
-        "authors": "BERZELIUS, J.",
+        "authors": "J. BERZELIUS",
         "publisher": "FORTIN, MASSON ET Cie",
         "publication_place": "PARIS",
         "date": "1844",
@@ -11,14 +11,25 @@
         "iiif_manifest": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k90588f/manifest.json"
     },
     "langue": "fr (French)",
+    "ark": "bpt6k90588f",
+    "typographie_suggestion": {
+        "category": "Serif/Roman",
+        "subtype": "Slab Serif (Egyptian)",
+        "explanation": "The primary headings (\"RAPPORT ANNUEL\" and \"PROGRÈS DE LA CHIMIE\") feature heavy, block-like serifs with little to no bracketing, which is characteristic of the Slab Serif style popular in 19th-century printing for emphasis and titles.",
+        "raw": "Category: Serif/Roman\nSubtype: Slab Serif (Egyptian)\nExplanation: The primary headings (\"RAPPORT ANNUEL\" and \"PROGRÈS DE LA CHIMIE\") feature heavy, block-like serifs with little to no bracketing, which is characteristic of the Slab Serif style popular in 19th-century printing for emphasis and titles."
+    },
+    "typographie": {
+        "category": "Serif/Roman",
+        "subtype": "Slab Serif (Egyptian)"
+    },
     "_annotations": {
         "metadata.title": {
             "lisibilite": "Non lisible",
             "cause": "recouvert"
         },
         "metadata.title_complement": {
-            "lisibilite": "Non lisible",
-            "cause": "absent"
+            "lisibilite": "Lisible",
+            "correction": "présenté le 31 mars 1843 à l'Académie royale des sciences de Stockholm"
         },
         "metadata.volume_number": {
             "lisibilite": "Non lisible",
@@ -26,7 +37,8 @@
             "correction": ""
         },
         "metadata.authors": {
-            "lisibilite": "Lisible"
+            "lisibilite": "Lisible",
+            "correction": "J. BERZELIUS"
         },
         "metadata.publisher": {
             "lisibilite": "Lisible"
@@ -39,7 +51,15 @@
         },
         "langue": {
             "lisibilite": "Lisible"
+        },
+        "metadata.identifier": {
+            "lisibilite": "Lisible"
+        },
+        "metadata.iiif_manifest": {
+            "lisibilite": "Lisible"
+        },
+        "ark": {
+            "lisibilite": "Lisible"
         }
-    },
-    "ark": "bpt6k90588f"
+    }
 }

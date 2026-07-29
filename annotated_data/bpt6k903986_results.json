@@ -3,7 +3,7 @@
         "title": "A vida e a obra de M. Berthelot",
         "title_complement": "",
         "volume_number": "",
-        "authors": "Cardoso Pereira, A.",
+        "authors": "A. Cardoso Pereira",
         "publisher": "",
         "publication_place": "",
         "date": "",
@@ -11,6 +11,17 @@
         "iiif_manifest": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k903986/manifest.json"
     },
     "langue": "pt (Portuguese)",
+    "ark": "bpt6k903986",
+    "typographie_suggestion": {
+        "category": "Serif/Roman",
+        "subtype": "Transitional / Modern",
+        "explanation": "The main body text features a high contrast between thick and thin strokes with vertical stress and refined serifs, characteristic of the Transitional or Modern (Didone) styles common in academic and formal printing of the late 19th and early 20th centuries.",
+        "raw": "Category: Serif/Roman\nSubtype: Transitional / Modern\nExplanation: The main body text features a high contrast between thick and thin strokes with vertical stress and refined serifs, characteristic of the Transitional or Modern (Didone) styles common in academic and formal printing of the late 19th and early 20th centuries."
+    },
+    "typographie": {
+        "category": "Serif/Roman",
+        "subtype": "Transitional / Modern"
+    },
     "_annotations": {
         "metadata.title": {
             "lisibilite": "Lisible"
@@ -24,7 +35,8 @@
             "cause": "absent"
         },
         "metadata.authors": {
-            "lisibilite": "Lisible"
+            "lisibilite": "Lisible",
+            "correction": "A. Cardoso Pereira"
         },
         "metadata.publisher": {
             "lisibilite": "Non lisible",
@@ -41,7 +53,15 @@
         },
         "langue": {
             "lisibilite": "Lisible"
+        },
+        "metadata.identifier": {
+            "lisibilite": "Lisible"
+        },
+        "metadata.iiif_manifest": {
+            "lisibilite": "Lisible"
+        },
+        "ark": {
+            "lisibilite": "Lisible"
         }
-    },
-    "ark": "bpt6k903986"
+    }
 }

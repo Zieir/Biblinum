@@ -3,14 +3,25 @@
         "title": "TRAITÉ DE LA DISTILLATION DU GOUDRON DE HOUILLE",
         "title_complement": "ET DU TRAITEMENT DE L'EAU AMMONIACALE",
         "volume_number": "",
-        "authors": "",
-        "publisher": "",
-        "publication_place": "",
+        "authors": "G. LUNGE",
+        "publisher": "MASSON ET Cie",
+        "publication_place": "PARIS",
         "date": "",
         "identifier": "http://gallica.bnf.fr/ark:/12148/bpt6k918577",
         "iiif_manifest": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k918577/manifest.json"
     },
     "langue": "fr (French)",
+    "ark": "bpt6k918577",
+    "typographie_suggestion": {
+        "category": "Serif/Roman",
+        "subtype": "Didone (Modern)",
+        "explanation": "The typeface features the characteristic high contrast between thick and thin strokes, vertical stress, and thin, horizontal serifs typical of the \"Modern\" or Didone style (such as Bodoni or Didot), which was standard for formal academic and scientific publications in France during the 19th century.",
+        "raw": "Category: Serif/Roman\nSubtype: Didone (Modern)\nExplanation: The typeface features the characteristic high contrast between thick and thin strokes, vertical stress, and thin, horizontal serifs typical of the \"Modern\" or Didone style (such as Bodoni or Didot), which was standard for formal academic and scientific publications in France during the 19th century."
+    },
+    "typographie": {
+        "category": "Serif/Roman",
+        "subtype": "Didone (Modern)"
+    },
     "_annotations": {
         "metadata.title": {
             "lisibilite": "Lisible"
@@ -24,16 +35,16 @@
             "cause": "absent"
         },
         "metadata.authors": {
-            "lisibilite": "Non lisible",
-            "cause": "absent"
+            "lisibilite": "Lisible",
+            "correction": "G. LUNGE"
         },
         "metadata.publisher": {
-            "lisibilite": "Non lisible",
-            "cause": "absent"
+            "lisibilite": "Lisible",
+            "correction": "MASSON ET Cie"
         },
         "metadata.publication_place": {
-            "lisibilite": "Non lisible",
-            "cause": "absent"
+            "lisibilite": "Lisible",
+            "correction": "PARIS"
         },
         "metadata.date": {
             "lisibilite": "Non lisible",
@@ -41,7 +52,15 @@
         },
         "langue": {
             "lisibilite": "Lisible"
+        },
+        "metadata.identifier": {
+            "lisibilite": "Lisible"
+        },
+        "metadata.iiif_manifest": {
+            "lisibilite": "Lisible"
+        },
+        "ark": {
+            "lisibilite": "Lisible"
         }
-    },
-    "ark": "bpt6k918577"
+    }
 }

@@ -3,7 +3,7 @@
         "title": "Lettres historiques sur la chimie,",
         "title_complement": " adressées à M. le professeur Courty",
         "volume_number": "",
-        "authors": "BÉCHAMP, A.",
+        "authors": "A. BÉCHAMP",
         "publisher": "G. MASSON, ÉDITEUR",
         "publication_place": "PARIS",
         "date": "1876",
@@ -11,6 +11,17 @@
         "iiif_manifest": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k90579g/manifest.json"
     },
     "langue": "fr (French)",
+    "ark": "bpt6k90579g",
+    "typographie_suggestion": {
+        "category": "Serif/Roman",
+        "subtype": "Modern (Didone)",
+        "explanation": "The text features the high contrast between thick and thin strokes and vertical stress characteristic of the Modern/Didone style (similar to Bodoni or Didot), which was the standard for academic and formal printing in France during the late 19th century.",
+        "raw": "Category: Serif/Roman\nSubtype: Modern (Didone)\nExplanation: The text features the high contrast between thick and thin strokes and vertical stress characteristic of the Modern/Didone style (similar to Bodoni or Didot), which was the standard for academic and formal printing in France during the late 19th century."
+    },
+    "typographie": {
+        "category": "Serif/Roman",
+        "subtype": "Modern (Didone)"
+    },
     "_annotations": {
         "metadata.title": {
             "lisibilite": "Lisible",
@@ -25,7 +36,8 @@
             "cause": "absent"
         },
         "metadata.authors": {
-            "lisibilite": "Lisible"
+            "lisibilite": "Lisible",
+            "correction": "A. BÉCHAMP"
         },
         "metadata.publisher": {
             "lisibilite": "Lisible"
@@ -38,7 +50,15 @@
         },
         "langue": {
             "lisibilite": "Lisible"
+        },
+        "metadata.identifier": {
+            "lisibilite": "Lisible"
+        },
+        "metadata.iiif_manifest": {
+            "lisibilite": "Lisible"
+        },
+        "ark": {
+            "lisibilite": "Lisible"
         }
-    },
-    "ark": "bpt6k90579g"
+    }
 }

@@ -1,22 +1,35 @@
 {
     "metadata": {
-        "title": "JUBILEE",
-        "title_complement": "OF THE DISCOVERY OF MAUVE AND OF THE FOUNDATION OF THE COAL-TAR COLOUR INDUSTRY",
+        "title": "JUBILEE OF THE DISCOVERY OF MAUVE",
+        "title_complement": "AND OF THE FOUNDATION OF THE COAL-TAR COLOUR INDUSTRY",
         "volume_number": "",
-        "authors": "Perkin, W. H.",
-        "publisher": "",
-        "publication_place": "",
+        "authors": "W. H. Perkin",
+        "publisher": "GEORGE EDWARD WRIGHT; THE PERKIN MEMORIAL COMMITTEE",
+        "publication_place": "LONDON",
         "date": "",
         "identifier": "http://gallica.bnf.fr/ark:/12148/bpt6k905486",
         "iiif_manifest": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k905486/manifest.json"
     },
     "langue": "en (English)",
+    "ark": "bpt6k905486",
+    "typographie_suggestion": {
+        "category": "Serif/Roman",
+        "subtype": "Transitional / Modern",
+        "explanation": "The typeface features a clear contrast between thick and thin strokes and vertical stress, characteristic of the Transitional and Modern (Didone) styles common in formal academic and official printing of the late 19th and early 20th centuries.",
+        "raw": "Category: Serif/Roman\nSubtype: Transitional / Modern\nExplanation: The typeface features a clear contrast between thick and thin strokes and vertical stress, characteristic of the Transitional and Modern (Didone) styles common in formal academic and official printing of the late 19th and early 20th centuries."
+    },
+    "typographie": {
+        "category": "Serif/Roman",
+        "subtype": "Transitional / Modern"
+    },
     "_annotations": {
         "metadata.title": {
-            "lisibilite": "Lisible"
+            "lisibilite": "Lisible",
+            "correction": "JUBILEE OF THE DISCOVERY OF MAUVE"
         },
         "metadata.title_complement": {
-            "lisibilite": "Lisible"
+            "lisibilite": "Lisible",
+            "correction": "AND OF THE FOUNDATION OF THE COAL-TAR COLOUR INDUSTRY"
         },
         "metadata.volume_number": {
             "lisibilite": "Non lisible",
@@ -24,15 +37,15 @@
         },
         "metadata.authors": {
             "lisibilite": "Lisible",
-            "correction": "Perkin, W. H."
+            "correction": "W. H. Perkin"
         },
         "metadata.publisher": {
-            "lisibilite": "Non lisible",
-            "cause": "absent"
+            "lisibilite": "Lisible",
+            "correction": "GEORGE EDWARD WRIGHT; THE PERKIN MEMORIAL COMMITTEE"
         },
         "metadata.publication_place": {
-            "lisibilite": "Non lisible",
-            "cause": "absent"
+            "lisibilite": "Lisible",
+            "correction": "LONDON"
         },
         "metadata.date": {
             "lisibilite": "Non lisible",
@@ -40,7 +53,15 @@
         },
         "langue": {
             "lisibilite": "Lisible"
+        },
+        "metadata.identifier": {
+            "lisibilite": "Lisible"
+        },
+        "metadata.iiif_manifest": {
+            "lisibilite": "Lisible"
+        },
+        "ark": {
+            "lisibilite": "Lisible"
         }
-    },
-    "ark": "bpt6k905486"
+    }
 }

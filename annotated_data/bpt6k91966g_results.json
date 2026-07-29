@@ -3,7 +3,7 @@
         "title": "COURS DE MINÉRALOGIE",
         "title_complement": "HISTOIRE NATURELLE",
         "volume_number": "PREMIÈRE PARTIE",
-        "authors": "LEYMERIE, A.",
+        "authors": "A. LEYMERIE",
         "publisher": "VICTOR MASSON ; LOUIS GIMET",
         "publication_place": "PARIS ; TOULOUSE",
         "date": "1857",
@@ -11,6 +11,17 @@
         "iiif_manifest": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k91966g/manifest.json"
     },
     "langue": "fr (French)",
+    "ark": "bpt6k91966g",
+    "typographie_suggestion": {
+        "category": "Serif/Roman",
+        "subtype": "Slab Serif (Egyptian)",
+        "explanation": "The main title \"MINÉRALOGIE\" features heavy, block-like serifs with little to no bracketing, which is characteristic of the Slab Serif style popular in the mid-19th century. The rest of the text uses a more traditional Transitional or Modern serif.",
+        "raw": "Category: Serif/Roman\nSubtype: Slab Serif (Egyptian)\nExplanation: The main title \"MINÉRALOGIE\" features heavy, block-like serifs with little to no bracketing, which is characteristic of the Slab Serif style popular in the mid-19th century. The rest of the text uses a more traditional Transitional or Modern serif."
+    },
+    "typographie": {
+        "category": "Serif/Roman",
+        "subtype": "Slab Serif (Egyptian)"
+    },
     "_annotations": {
         "metadata.title": {
             "lisibilite": "Lisible"
@@ -22,7 +33,8 @@
             "lisibilite": "Lisible"
         },
         "metadata.authors": {
-            "lisibilite": "Lisible"
+            "lisibilite": "Lisible",
+            "correction": "A. LEYMERIE"
         },
         "metadata.publisher": {
             "lisibilite": "Lisible"
@@ -35,7 +47,15 @@
         },
         "langue": {
             "lisibilite": "Lisible"
+        },
+        "metadata.identifier": {
+            "lisibilite": "Lisible"
+        },
+        "metadata.iiif_manifest": {
+            "lisibilite": "Lisible"
+        },
+        "ark": {
+            "lisibilite": "Lisible"
         }
-    },
-    "ark": "bpt6k91966g"
+    }
 }

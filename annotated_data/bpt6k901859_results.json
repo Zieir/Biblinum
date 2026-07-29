@@ -1,9 +1,9 @@
 {
     "metadata": {
-        "title": "Œuvres complètes",
-        "title_complement": "d'AUGUSTIN CAUCHY",
-        "volume_number": "Tome V",
-        "authors": "Cauchy, Augustin",
+        "title": "Œuvres complètes d'AUGUSTIN CAUCHY ",
+        "title_complement": "",
+        "volume_number": "SÉRIE I TOME V",
+        "authors": "Augustin Cauchy",
         "publisher": "Gauthier-Villars",
         "publication_place": "Paris",
         "date": "1885",
@@ -11,19 +11,34 @@
         "iiif_manifest": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k901859/manifest.json"
     },
     "langue": "fr (French)",
+    "ark": "bpt6k901859",
+    "typographie_suggestion": {
+        "category": "Serif/Roman",
+        "subtype": "Didone (Modern)",
+        "explanation": "The typeface features the high contrast between thick and thin strokes, vertical stress, and small, unbracketed (hairline) serifs characteristic of the \"Modern\" style popularized by Didot and Bodoni in the late 18th and 19th centuries.",
+        "raw": "Category: Serif/Roman\nSubtype: Didone (Modern)\nExplanation: The typeface features the high contrast between thick and thin strokes, vertical stress, and small, unbracketed (hairline) serifs characteristic of the \"Modern\" style popularized by Didot and Bodoni in the late 18th and 19th centuries."
+    },
+    "typographie": {
+        "category": "Serif/Roman",
+        "subtype": "Didone (Modern)"
+    },
     "_annotations": {
         "metadata.title": {
-            "lisibilite": "Lisible"
+            "lisibilite": "Lisible",
+            "correction": "Œuvres complètes d'AUGUSTIN CAUCHY "
         },
         "metadata.title_complement": {
-            "lisibilite": "Lisible",
-            "correction": "d'AUGUSTIN CAUCHY"
+            "lisibilite": "Non lisible",
+            "cause": "absent",
+            "correction": ""
         },
         "metadata.volume_number": {
-            "lisibilite": "Lisible"
+            "lisibilite": "Lisible",
+            "correction": "SÉRIE I TOME V"
         },
         "metadata.authors": {
-            "lisibilite": "Lisible"
+            "lisibilite": "Lisible",
+            "correction": "Augustin Cauchy"
         },
         "metadata.publisher": {
             "lisibilite": "Lisible"
@@ -36,7 +51,15 @@
         },
         "langue": {
             "lisibilite": "Lisible"
+        },
+        "metadata.identifier": {
+            "lisibilite": "Lisible"
+        },
+        "metadata.iiif_manifest": {
+            "lisibilite": "Lisible"
+        },
+        "ark": {
+            "lisibilite": "Lisible"
         }
-    },
-    "ark": "bpt6k901859"
+    }
 }

@@ -1,28 +1,44 @@
 {
     "metadata": {
-        "title": "TABLES",
-        "title_complement": "FOR THE QUALITATIVE ANALYSIS OF SIMPLE AND COMPOUND SUBSTANCES BOTH IN THE DRY AND WET WAY",
+        "title": "TABLES FOR THE QUALITATIVE ANALYSIS OF SIMPLE AND COMPOUND SUBSTANCES BOTH IN THE DRY AND WET WAY",
+        "title_complement": "",
         "volume_number": "",
-        "authors": "VALENTIN, WM. GEO.",
+        "authors": "WM. GEO. VALENTIN",
         "publisher": "J. & A. CHURCHILL",
         "publication_place": "LONDON",
         "date": "1876",
         "identifier": "http://gallica.bnf.fr/ark:/12148/bpt6k83735x",
         "iiif_manifest": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k83735x/manifest.json"
     },
+    "langue": "en (English)",
+    "ark": "bpt6k83735x",
+    "typographie_suggestion": {
+        "category": "Serif/Roman",
+        "subtype": "Modern (Didone)",
+        "explanation": "The typeface features a high contrast between thick and thin strokes, vertical stress, and small, horizontal serifs, which are characteristic of the \"Modern\" or Didone style popular in 19th-century printing.",
+        "raw": "Category: Serif/Roman\nSubtype: Modern (Didone)\nExplanation: The typeface features a high contrast between thick and thin strokes, vertical stress, and small, horizontal serifs, which are characteristic of the \"Modern\" or Didone style popular in 19th-century printing."
+    },
+    "typographie": {
+        "category": "Serif/Roman",
+        "subtype": "Modern (Didone)"
+    },
     "_annotations": {
         "metadata.title": {
-            "lisibilite": "Lisible"
+            "lisibilite": "Lisible",
+            "correction": "TABLES FOR THE QUALITATIVE ANALYSIS OF SIMPLE AND COMPOUND SUBSTANCES BOTH IN THE DRY AND WET WAY"
         },
         "metadata.title_complement": {
-            "lisibilite": "Lisible"
+            "lisibilite": "Non lisible",
+            "cause": "absent",
+            "correction": ""
         },
         "metadata.volume_number": {
             "lisibilite": "Non lisible",
             "cause": "absent"
         },
         "metadata.authors": {
-            "lisibilite": "Lisible"
+            "lisibilite": "Lisible",
+            "correction": "WM. GEO. VALENTIN"
         },
         "metadata.publisher": {
             "lisibilite": "Lisible"
@@ -35,8 +51,15 @@
         },
         "langue": {
             "lisibilite": "Lisible"
+        },
+        "metadata.identifier": {
+            "lisibilite": "Lisible"
+        },
+        "metadata.iiif_manifest": {
+            "lisibilite": "Lisible"
+        },
+        "ark": {
+            "lisibilite": "Lisible"
         }
-    },
-    "langue": "en (English)",
-    "ark": "bpt6k83735x"
+    }
 }

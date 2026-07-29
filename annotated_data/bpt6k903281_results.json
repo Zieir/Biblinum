@@ -3,7 +3,7 @@
         "title": "PRINCIPES GÉNÉRAUX DU TRAITEMENT DES MINERAIS MÉTALLIQUES",
         "title_complement": "TRAITÉ DE MÉTALLURGIE THÉORIQUE ET PRATIQUE",
         "volume_number": "TOME PREMIER",
-        "authors": "RIVOT, L. E.",
+        "authors": "L. E. RIVOT",
         "publisher": "DUNOD",
         "publication_place": "PARIS",
         "date": "1871",
@@ -11,6 +11,17 @@
         "iiif_manifest": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k903281/manifest.json"
     },
     "langue": "fr (French)",
+    "ark": "bpt6k903281",
+    "typographie_suggestion": {
+        "category": "Serif/Roman",
+        "subtype": "Slab Serif (Egyptian)",
+        "explanation": "The primary headings (such as \"MINERAIS MÉTALLIQUES\") feature heavy, block-like serifs with little to no bracketing, characteristic of the Slab Serif style popular in 19th-century technical and commercial printing. The smaller body text utilizes a more traditional Old Style or Transitional serif.",
+        "raw": "Category: Serif/Roman\nSubtype: Slab Serif (Egyptian)\nExplanation: The primary headings (such as \"MINERAIS MÉTALLIQUES\") feature heavy, block-like serifs with little to no bracketing, characteristic of the Slab Serif style popular in 19th-century technical and commercial printing. The smaller body text utilizes a more traditional Old Style or Transitional serif."
+    },
+    "typographie": {
+        "category": "Serif/Roman",
+        "subtype": "Slab Serif (Egyptian)"
+    },
     "_annotations": {
         "metadata.title": {
             "lisibilite": "Lisible"
@@ -23,7 +34,7 @@
         },
         "metadata.authors": {
             "lisibilite": "Lisible",
-            "correction": "RIVOT, L. E."
+            "correction": "L. E. RIVOT"
         },
         "metadata.publisher": {
             "lisibilite": "Lisible"
@@ -38,7 +49,15 @@
         },
         "langue": {
             "lisibilite": "Lisible"
+        },
+        "metadata.identifier": {
+            "lisibilite": "Lisible"
+        },
+        "metadata.iiif_manifest": {
+            "lisibilite": "Lisible"
+        },
+        "ark": {
+            "lisibilite": "Lisible"
         }
-    },
-    "ark": "bpt6k903281"
+    }
 }

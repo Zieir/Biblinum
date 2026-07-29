@@ -3,7 +3,7 @@
         "title": "EXPOSE DES TITRES",
         "title_complement": "ET DES TRAVAUX SCIENTIFIQUES",
         "volume_number": "",
-        "authors": "FLEURENT, Émile",
+        "authors": "Émile FLEURENT",
         "publisher": "IMPRIMERIE R. VINCENDEAU",
         "publication_place": "Levallois-Perret",
         "date": "1929",
@@ -11,6 +11,17 @@
         "iiif_manifest": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k90639h/manifest.json"
     },
     "langue": "fr (French)",
+    "ark": "bpt6k90639h",
+    "typographie_suggestion": {
+        "category": "Serif/Roman",
+        "subtype": "Slab Serif (Egyptian)",
+        "explanation": "The typeface features heavy, block-like serifs with little to no bracketing, creating a strong, mechanical appearance typical of 19th and early 20th-century printing for titles and emphasis.",
+        "raw": "Category: Serif/Roman\nSubtype: Slab Serif (Egyptian)\nExplanation: The typeface features heavy, block-like serifs with little to no bracketing, creating a strong, mechanical appearance typical of 19th and early 20th-century printing for titles and emphasis."
+    },
+    "typographie": {
+        "category": "Serif/Roman",
+        "subtype": "Slab Serif (Egyptian)"
+    },
     "_annotations": {
         "metadata.title": {
             "lisibilite": "Lisible"
@@ -24,7 +35,7 @@
         },
         "metadata.authors": {
             "lisibilite": "Lisible",
-            "correction": "FLEURENT, Émile"
+            "correction": "Émile FLEURENT"
         },
         "metadata.publisher": {
             "lisibilite": "Lisible"
@@ -37,7 +48,15 @@
         },
         "langue": {
             "lisibilite": "Lisible"
+        },
+        "metadata.identifier": {
+            "lisibilite": "Lisible"
+        },
+        "metadata.iiif_manifest": {
+            "lisibilite": "Lisible"
+        },
+        "ark": {
+            "lisibilite": "Lisible"
         }
-    },
-    "ark": "bpt6k90639h"
+    }
 }

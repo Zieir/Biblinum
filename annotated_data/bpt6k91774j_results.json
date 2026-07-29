@@ -3,14 +3,25 @@
         "title": "RECHERCHES SUR LES QUANTITÉS DE CHALEUR DÉGAGÉES",
         "title_complement": "DANS LES ACTIONS CHIMIQUES ET MOLÉCULAIRES",
         "volume_number": "",
-        "authors": "",
-        "publisher": "",
-        "publication_place": "",
-        "date": "",
+        "authors": "P.-A. FAVRE; J.-T. SILBERMANN",
+        "publisher": "BACHELIER",
+        "publication_place": "PARIS",
+        "date": "1853",
         "identifier": "http://gallica.bnf.fr/ark:/12148/bpt6k91774j",
         "iiif_manifest": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k91774j/manifest.json"
     },
     "langue": "fr (French)",
+    "ark": "bpt6k91774j",
+    "typographie_suggestion": {
+        "category": "Serif/Roman",
+        "subtype": "Didone (Modern)",
+        "explanation": "The text features the high contrast between thick and thin strokes, vertical stress, and thin, horizontal serifs characteristic of the \"Modern\" or Didone style (popularized by Didot and Bodoni), which was the standard for formal French printing in the 19th century.",
+        "raw": "Based on the provided image of the title page, there are several typefaces used. I will identify the dominant style used for the main titles (e.g., \"RECHERCHES\" and \"QUANTITÉS DE CHALEUR\").\n\nCategory: Serif/Roman\nSubtype: Didone (Modern)\nExplanation: The text features the high contrast between thick and thin strokes, vertical stress, and thin, horizontal serifs characteristic of the \"Modern\" or Didone style (popularized by Didot and Bodoni), which was the standard for formal French printing in the 19th century."
+    },
+    "typographie": {
+        "category": "Serif/Roman",
+        "subtype": "Didone (Modern)"
+    },
     "_annotations": {
         "metadata.title": {
             "lisibilite": "Lisible"
@@ -23,24 +34,32 @@
             "cause": "absent"
         },
         "metadata.authors": {
-            "lisibilite": "Non lisible",
-            "cause": "absent"
+            "lisibilite": "Lisible",
+            "correction": "P.-A. FAVRE; J.-T. SILBERMANN"
         },
         "metadata.publisher": {
-            "lisibilite": "Non lisible",
-            "cause": "absent"
+            "lisibilite": "Lisible",
+            "correction": "BACHELIER"
         },
         "metadata.publication_place": {
-            "lisibilite": "Non lisible",
-            "cause": "absent"
+            "lisibilite": "Lisible",
+            "correction": "PARIS"
         },
         "metadata.date": {
-            "lisibilite": "Non lisible",
-            "cause": "absent"
+            "lisibilite": "Lisible",
+            "correction": "1853"
         },
         "langue": {
             "lisibilite": "Lisible"
+        },
+        "metadata.identifier": {
+            "lisibilite": "Lisible"
+        },
+        "metadata.iiif_manifest": {
+            "lisibilite": "Lisible"
+        },
+        "ark": {
+            "lisibilite": "Lisible"
         }
-    },
-    "ark": "bpt6k91774j"
+    }
 }

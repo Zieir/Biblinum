@@ -3,7 +3,7 @@
         "title": "THE ELEMENTS OF ATOM-MECHANICS",
         "title_complement": "THE TRUE ATOMIC WEIGHTS OF THE CHEMICAL ELEMENTS AND THE UNITY OF MATTER",
         "volume_number": "VOLUME FIRST",
-        "authors": "HINRICHS, Gustavus Detlef",
+        "authors": "Gustavus Detlef HINRICOHS",
         "publisher": "CARL GUSTAVB HINRICHS",
         "publication_place": "ST. LOUIS, MO.",
         "date": "1894",
@@ -11,6 +11,17 @@
         "iiif_manifest": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k90474g/manifest.json"
     },
     "langue": "en (English)",
+    "ark": "bpt6k90474g",
+    "typographie_suggestion": {
+        "category": "Serif/Roman",
+        "subtype": "Modern (Didone)",
+        "explanation": "The typeface features a high contrast between thick and thin strokes, vertical stress, and small, horizontal serifs, which are characteristic of the Modern/Didone style prevalent in late 19th-century academic printing.",
+        "raw": "Category: Serif/Roman\nSubtype: Modern (Didone)\nExplanation: The typeface features a high contrast between thick and thin strokes, vertical stress, and small, horizontal serifs, which are characteristic of the Modern/Didone style prevalent in late 19th-century academic printing."
+    },
+    "typographie": {
+        "category": "Serif/Roman",
+        "subtype": "Modern (Didone)"
+    },
     "_annotations": {
         "metadata.title": {
             "lisibilite": "Lisible"
@@ -22,7 +33,8 @@
             "lisibilite": "Lisible"
         },
         "metadata.authors": {
-            "lisibilite": "Lisible"
+            "lisibilite": "Lisible",
+            "correction": "Gustavus Detlef HINRICOHS"
         },
         "metadata.publisher": {
             "lisibilite": "Lisible"
@@ -35,7 +47,15 @@
         },
         "langue": {
             "lisibilite": "Lisible"
+        },
+        "metadata.identifier": {
+            "lisibilite": "Lisible"
+        },
+        "metadata.iiif_manifest": {
+            "lisibilite": "Lisible"
+        },
+        "ark": {
+            "lisibilite": "Lisible"
         }
-    },
-    "ark": "bpt6k90474g"
+    }
 }

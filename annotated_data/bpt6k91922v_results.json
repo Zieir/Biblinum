@@ -1,44 +1,67 @@
 {
     "metadata": {
-        "title": "CORRESPONDANCE",
-        "title_complement": "DE CHARLES GERHARDT",
+        "title": "CORRESPONDANCE DE CHARLES GERHARDT",
+        "title_complement": "",
         "volume_number": "TOME I",
-        "authors": "Gerhardt, Charles",
-        "publisher": "",
-        "publication_place": "",
-        "date": "",
+        "authors": "Charles Gerhardt; Auguste Laurent",
+        "publisher": "MASSON ET Cie",
+        "publication_place": "PARIS",
+        "date": "1918",
         "identifier": "http://gallica.bnf.fr/ark:/12148/bpt6k91922v",
         "iiif_manifest": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k91922v/manifest.json"
     },
     "langue": "fr (French)",
+    "ark": "bpt6k91922v",
+    "typographie_suggestion": {
+        "category": "Serif/Roman",
+        "subtype": "Transitional / Didone",
+        "explanation": "The typeface features a strong contrast between thick and thin strokes, vertical stress, and relatively flat, thin serifs, which are characteristic of the late 18th and 19th-century French printing styles (similar to Didot).",
+        "raw": "Category: Serif/Roman\nSubtype: Transitional / Didone\nExplanation: The typeface features a strong contrast between thick and thin strokes, vertical stress, and relatively flat, thin serifs, which are characteristic of the late 18th and 19th-century French printing styles (similar to Didot)."
+    },
+    "typographie": {
+        "category": "Serif/Roman",
+        "subtype": "Transitional / Didone"
+    },
     "_annotations": {
         "metadata.title": {
-            "lisibilite": "Lisible"
+            "lisibilite": "Lisible",
+            "correction": "CORRESPONDANCE DE CHARLES GERHARDT"
         },
         "metadata.title_complement": {
-            "lisibilite": "Lisible"
+            "lisibilite": "Non lisible",
+            "cause": "absent",
+            "correction": ""
         },
         "metadata.volume_number": {
             "lisibilite": "Lisible"
         },
         "metadata.authors": {
-            "lisibilite": "Lisible"
+            "lisibilite": "Lisible",
+            "correction": "Charles Gerhardt; Auguste Laurent"
         },
         "metadata.publisher": {
-            "lisibilite": "Non lisible",
-            "cause": "absent"
+            "lisibilite": "Lisible",
+            "correction": "MASSON ET Cie"
         },
         "metadata.publication_place": {
-            "lisibilite": "Non lisible",
-            "cause": "absent"
+            "lisibilite": "Lisible",
+            "correction": "PARIS"
         },
         "metadata.date": {
-            "lisibilite": "Non lisible",
-            "cause": "absent"
+            "lisibilite": "Lisible",
+            "correction": "1918"
         },
         "langue": {
             "lisibilite": "Lisible"
+        },
+        "metadata.identifier": {
+            "lisibilite": "Lisible"
+        },
+        "metadata.iiif_manifest": {
+            "lisibilite": "Lisible"
+        },
+        "ark": {
+            "lisibilite": "Lisible"
         }
-    },
-    "ark": "bpt6k91922v"
+    }
 }

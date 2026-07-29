@@ -3,14 +3,25 @@
         "title": "IODOGNOSIE",
         "title_complement": "MONOGRAPHIE CHIMIQUE, MÉDICALE ET PHARMACEUTIQUE DES IODIQUES EN GÉNÉRAL ET EN PARTICULIER DE L'IODE ET DE L'IODURE DE POTASSIUM",
         "volume_number": "",
-        "authors": "",
-        "publisher": "",
-        "publication_place": "",
-        "date": "",
+        "authors": "Dorvault",
+        "publisher": "Labé ",
+        "publication_place": "Paris",
+        "date": "1850",
         "identifier": "http://gallica.bnf.fr/ark:/12148/bpt6k91988s",
         "iiif_manifest": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k91988s/manifest.json"
     },
     "langue": "fr (French)",
+    "ark": "bpt6k91988s",
+    "typographie_suggestion": {
+        "category": "Serif/Roman",
+        "subtype": "Didone (Modern)",
+        "explanation": "The typeface features the high contrast between thick and thin strokes, vertical stress, and small, unbracketed (hairline) serifs characteristic of the \"Modern\" or Didone style popular in 19th-century printing.",
+        "raw": "Category: Serif/Roman\nSubtype: Didone (Modern)\nExplanation: The typeface features the high contrast between thick and thin strokes, vertical stress, and small, unbracketed (hairline) serifs characteristic of the \"Modern\" or Didone style popular in 19th-century printing."
+    },
+    "typographie": {
+        "category": "Serif/Roman",
+        "subtype": "Didone (Modern)"
+    },
     "_annotations": {
         "metadata.title": {
             "lisibilite": "Lisible"
@@ -23,24 +34,32 @@
             "cause": "absent"
         },
         "metadata.authors": {
-            "lisibilite": "Non lisible",
-            "cause": "absent"
+            "lisibilite": "Lisible",
+            "correction": "Dorvault"
         },
         "metadata.publisher": {
-            "lisibilite": "Non lisible",
-            "cause": "absent"
+            "lisibilite": "Lisible",
+            "correction": "Labé "
         },
         "metadata.publication_place": {
-            "lisibilite": "Non lisible",
-            "cause": "absent"
+            "lisibilite": "Lisible",
+            "correction": "Paris"
         },
         "metadata.date": {
-            "lisibilite": "Non lisible",
-            "cause": "absent"
+            "lisibilite": "Lisible",
+            "correction": "1850"
         },
         "langue": {
             "lisibilite": "Lisible"
+        },
+        "metadata.identifier": {
+            "lisibilite": "Lisible"
+        },
+        "metadata.iiif_manifest": {
+            "lisibilite": "Lisible"
+        },
+        "ark": {
+            "lisibilite": "Lisible"
         }
-    },
-    "ark": "bpt6k91988s"
+    }
 }

@@ -1,9 +1,9 @@
 {
     "metadata": {
         "title": "RECHERCHES SUR LES GAS IONISÉS",
-        "title_complement": "PROPOSITIONS DONNÉES PAR LA FACULTÉ",
+        "title_complement": "Thèses présentées à la faculté des sciences de l'université de Paris pour obtenir le grade de docteur ès  sciences physiques ",
         "volume_number": "",
-        "authors": "LANGEVIN, P.",
+        "authors": "P. LANGEVIN",
         "publisher": "GAUTHIER-VILLARS, IMPRIMEUR-LIBRAIRE",
         "publication_place": "PARIS",
         "date": "1902",
@@ -11,12 +11,24 @@
         "iiif_manifest": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k91787w/manifest.json"
     },
     "langue": "fr (French)",
+    "ark": "bpt6k91787w",
+    "typographie_suggestion": {
+        "category": "Serif/Roman",
+        "subtype": "Didone (Modern)",
+        "explanation": "The primary text is set in a high-contrast serif typeface characterized by vertical stress and thin, horizontal serifs. This style is typical of the \"Modern\" or Didone faces (like Didot or Bodoni) which were standard for formal academic and official French printing in the late 19th and early 20th centuries.",
+        "raw": "Category: Serif/Roman\nSubtype: Didone (Modern)\nExplanation: The primary text is set in a high-contrast serif typeface characterized by vertical stress and thin, horizontal serifs. This style is typical of the \"Modern\" or Didone faces (like Didot or Bodoni) which were standard for formal academic and official French printing in the late 19th and early 20th centuries."
+    },
+    "typographie": {
+        "category": "Serif/Roman",
+        "subtype": "Didone (Modern)"
+    },
     "_annotations": {
         "metadata.title": {
             "lisibilite": "Lisible"
         },
         "metadata.title_complement": {
-            "lisibilite": "Lisible"
+            "lisibilite": "Lisible",
+            "correction": "Thèses présentées à la faculté des sciences de l'université de Paris pour obtenir le grade de docteur ès  sciences physiques "
         },
         "metadata.volume_number": {
             "lisibilite": "Non lisible",
@@ -24,7 +36,7 @@
         },
         "metadata.authors": {
             "lisibilite": "Lisible",
-            "correction": "LANGEVIN, P."
+            "correction": "P. LANGEVIN"
         },
         "metadata.publisher": {
             "lisibilite": "Lisible"
@@ -37,7 +49,15 @@
         },
         "langue": {
             "lisibilite": "Lisible"
+        },
+        "metadata.identifier": {
+            "lisibilite": "Lisible"
+        },
+        "metadata.iiif_manifest": {
+            "lisibilite": "Lisible"
+        },
+        "ark": {
+            "lisibilite": "Lisible"
         }
-    },
-    "ark": "bpt6k91787w"
+    }
 }

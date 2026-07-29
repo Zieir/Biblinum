@@ -1,9 +1,9 @@
 {
     "metadata": {
-        "title": "JAC. BERZELIUS BREF",
+        "title": "BREF",
         "title_complement": "STRÖDDA BREF (1809-1847)",
         "volume_number": "VII",
-        "authors": "SÖDERBAUM, H. G.",
+        "authors": "Jac. Berzelius",
         "publisher": "KUNGL. SVENSKA VETENSKAPSAKADEMIEN",
         "publication_place": "",
         "date": "",
@@ -11,9 +11,21 @@
         "iiif_manifest": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k90107h/manifest.json"
     },
     "langue": "sv (Swedish)",
+    "ark": "bpt6k90107h",
+    "typographie_suggestion": {
+        "category": "Serif/Roman",
+        "subtype": "Transitional / Modern (Didone influence)",
+        "explanation": "The typeface features a strong contrast between thick and thin strokes, vertical stress, and relatively flat, unbracketed serifs, which are characteristic of the Transitional and Modern styles developed in the late 18th and 19th centuries.",
+        "raw": "Category: Serif/Roman\nSubtype: Transitional / Modern (Didone influence)\nExplanation: The typeface features a strong contrast between thick and thin strokes, vertical stress, and relatively flat, unbracketed serifs, which are characteristic of the Transitional and Modern styles developed in the late 18th and 19th centuries."
+    },
+    "typographie": {
+        "category": "Serif/Roman",
+        "subtype": "Transitional / Modern (Didone influence)"
+    },
     "_annotations": {
         "metadata.title": {
-            "lisibilite": "Lisible"
+            "lisibilite": "Lisible",
+            "correction": "BREF"
         },
         "metadata.title_complement": {
             "lisibilite": "Lisible"
@@ -22,7 +34,8 @@
             "lisibilite": "Lisible"
         },
         "metadata.authors": {
-            "lisibilite": "Lisible"
+            "lisibilite": "Lisible",
+            "correction": "Jac. Berzelius"
         },
         "metadata.publisher": {
             "lisibilite": "Lisible"
@@ -37,7 +50,15 @@
         },
         "langue": {
             "lisibilite": "Lisible"
+        },
+        "metadata.identifier": {
+            "lisibilite": "Lisible"
+        },
+        "metadata.iiif_manifest": {
+            "lisibilite": "Lisible"
+        },
+        "ark": {
+            "lisibilite": "Lisible"
         }
-    },
-    "ark": "bpt6k90107h"
+    }
 }

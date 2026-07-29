@@ -4,16 +4,28 @@
         "title_complement": "TE ROTTERDAM",
         "volume_number": "",
         "authors": "",
-        "publisher": "",
-        "publication_place": "",
+        "publisher": "Naamlooze Vennootschap ;  Van Seldam",
+        "publication_place": "Amsterdam",
         "date": "",
         "identifier": "http://gallica.bnf.fr/ark:/12148/bpt6k90562r",
         "iiif_manifest": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k90562r/manifest.json"
     },
     "langue": "dut | néerlandais",
+    "ark": "bpt6k90562r",
+    "typographie_suggestion": {
+        "category": "Sans-serif",
+        "subtype": "Grotesque",
+        "explanation": "The typeface features clean, blunt ends without serifs and a relatively uniform stroke weight, characteristic of early 20th-century industrial sans-serifs.",
+        "raw": "Category: Sans-serif\nSubtype: Grotesque\nExplanation: The typeface features clean, blunt ends without serifs and a relatively uniform stroke weight, characteristic of early 20th-century industrial sans-serifs."
+    },
+    "typographie": {
+        "category": "Sans-serif",
+        "subtype": "Grotesque"
+    },
     "_annotations": {
         "metadata.title": {
-            "lisibilite": "Lisible"
+            "lisibilite": "Lisible",
+            "correction": "HET VAN 'T HOFF-MONUMENT"
         },
         "metadata.title_complement": {
             "lisibilite": "Lisible"
@@ -27,12 +39,12 @@
             "cause": "absent"
         },
         "metadata.publisher": {
-            "lisibilite": "Non lisible",
-            "cause": "absent"
+            "lisibilite": "Lisible",
+            "correction": "Naamlooze Vennootschap ;  Van Seldam"
         },
         "metadata.publication_place": {
-            "lisibilite": "Non lisible",
-            "cause": "absent"
+            "lisibilite": "Lisible",
+            "correction": "Amsterdam"
         },
         "metadata.date": {
             "lisibilite": "Non lisible",
@@ -40,7 +52,15 @@
         },
         "langue": {
             "lisibilite": "Lisible"
+        },
+        "metadata.identifier": {
+            "lisibilite": "Lisible"
+        },
+        "metadata.iiif_manifest": {
+            "lisibilite": "Lisible"
+        },
+        "ark": {
+            "lisibilite": "Lisible"
         }
-    },
-    "ark": "bpt6k90562r"
+    }
 }

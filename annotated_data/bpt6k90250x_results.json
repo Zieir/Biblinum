@@ -3,7 +3,7 @@
         "title": "NOUVELLES LETTRES SUR LA CHIMIE",
         "title_complement": "considérée dans ses applications à l'industrie, à la physiologie et à l'agriculture",
         "volume_number": "",
-        "authors": "LIEBIG, Justus ; GERRARDT, Charles",
+        "authors": "Justus LIEBIG",
         "publisher": "CHARPENTIER, LIBRAIRE-ÉDITEUR",
         "publication_place": "PARIS",
         "date": "1852",
@@ -11,6 +11,17 @@
         "iiif_manifest": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k90250x/manifest.json"
     },
     "langue": "fr (French)",
+    "ark": "bpt6k90250x",
+    "typographie_suggestion": {
+        "category": "Serif/Roman",
+        "subtype": "Didone (Modern)",
+        "explanation": "The main title \"LA CHIMIE\" exhibits the classic characteristics of the Didone style: a high contrast between thick and thin strokes, vertical stress, and small, unbracketed hair-line serifs. This style was highly prevalent in French printing during the early to mid-19th century.",
+        "raw": "Category: Serif/Roman\nSubtype: Didone (Modern)\nExplanation: The main title \"LA CHIMIE\" exhibits the classic characteristics of the Didone style: a high contrast between thick and thin strokes, vertical stress, and small, unbracketed hair-line serifs. This style was highly prevalent in French printing during the early to mid-19th century."
+    },
+    "typographie": {
+        "category": "Serif/Roman",
+        "subtype": "Didone (Modern)"
+    },
     "_annotations": {
         "metadata.title": {
             "lisibilite": "Lisible"
@@ -25,7 +36,8 @@
         },
         "metadata.authors": {
             "lisibilite": "Non lisible",
-            "cause": "qualite"
+            "cause": "qualite",
+            "correction": "Justus LIEBIG"
         },
         "metadata.publisher": {
             "lisibilite": "Lisible"
@@ -38,7 +50,15 @@
         },
         "langue": {
             "lisibilite": "Lisible"
+        },
+        "metadata.identifier": {
+            "lisibilite": "Lisible"
+        },
+        "metadata.iiif_manifest": {
+            "lisibilite": "Lisible"
+        },
+        "ark": {
+            "lisibilite": "Lisible"
         }
-    },
-    "ark": "bpt6k90250x"
+    }
 }

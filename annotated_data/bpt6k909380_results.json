@@ -3,7 +3,7 @@
         "title": "ROSCOE-SCHORLEMMER'S LEHRBUCH DER ORGANISCHEN CHEMIE",
         "title_complement": "",
         "volume_number": "VIERTER THEIL",
-        "authors": "JUL. WILH. BRÜHL, EDVARD HJELT, OSSIAN ASCHAN",
+        "authors": "JUL. WILH. BRÜHL; EDVARD HJELT; OSSIAN ASCHAN",
         "publisher": "FRIEDRICH VIEWEG UND SOHN",
         "publication_place": "BRAUNSCHWEIG",
         "date": "1898",
@@ -11,6 +11,17 @@
         "iiif_manifest": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k909380/manifest.json"
     },
     "langue": "de (German)",
+    "ark": "bpt6k909380",
+    "typographie_suggestion": {
+        "category": "Serif/Roman",
+        "subtype": "Didone (Modern)",
+        "explanation": "The typeface features the high contrast between thick and thin strokes, vertical stress, and small, unbracketed (hairline) serifs characteristic of the Modern/Didone style popular in the late 18th and 19th centuries.",
+        "raw": "Category: Serif/Roman\nSubtype: Didone (Modern)\nExplanation: The typeface features the high contrast between thick and thin strokes, vertical stress, and small, unbracketed (hairline) serifs characteristic of the Modern/Didone style popular in the late 18th and 19th centuries."
+    },
+    "typographie": {
+        "category": "Serif/Roman",
+        "subtype": "Didone (Modern)"
+    },
     "_annotations": {
         "metadata.title": {
             "lisibilite": "Lisible",
@@ -24,7 +35,8 @@
             "lisibilite": "Lisible"
         },
         "metadata.authors": {
-            "lisibilite": "Lisible"
+            "lisibilite": "Lisible",
+            "correction": "JUL. WILH. BRÜHL; EDVARD HJELT; OSSIAN ASCHAN"
         },
         "metadata.publisher": {
             "lisibilite": "Lisible"
@@ -37,7 +49,15 @@
         },
         "langue": {
             "lisibilite": "Lisible"
+        },
+        "metadata.identifier": {
+            "lisibilite": "Lisible"
+        },
+        "metadata.iiif_manifest": {
+            "lisibilite": "Lisible"
+        },
+        "ark": {
+            "lisibilite": "Lisible"
         }
-    },
-    "ark": "bpt6k909380"
+    }
 }

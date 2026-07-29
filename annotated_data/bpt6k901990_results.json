@@ -1,9 +1,9 @@
 {
     "metadata": {
-        "title": "ŒUVRES COMPLÈTES",
-        "title_complement": "D'AUGUSTIN CAUCHY",
-        "volume_number": "TOME VII",
-        "authors": "Cauchy, Augustin",
+        "title": "ŒUVRES COMPLÈTES  d'Augustin Cauchy",
+        "title_complement": "",
+        "volume_number": "SÉRIE 2 - TOME VII",
+        "authors": "Augustin Cauchy",
         "publisher": "GAUTHIER-VILLARS ET FILS",
         "publication_place": "PARIS",
         "date": "1889",
@@ -11,18 +11,34 @@
         "iiif_manifest": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k901990/manifest.json"
     },
     "langue": "fr (French)",
+    "ark": "bpt6k901990",
+    "typographie_suggestion": {
+        "category": "Serif/Roman",
+        "subtype": "Didone (Modern)",
+        "explanation": "The typeface features the high contrast between thick and thin strokes, vertical stress, and small, unbracketed (hairline) serifs characteristic of the \"Modern\" or Didone style popular in 19th-century academic and official printing.",
+        "raw": "Category: Serif/Roman\nSubtype: Didone (Modern)\nExplanation: The typeface features the high contrast between thick and thin strokes, vertical stress, and small, unbracketed (hairline) serifs characteristic of the \"Modern\" or Didone style popular in 19th-century academic and official printing."
+    },
+    "typographie": {
+        "category": "Serif/Roman",
+        "subtype": "Didone (Modern)"
+    },
     "_annotations": {
         "metadata.title": {
-            "lisibilite": "Lisible"
+            "lisibilite": "Lisible",
+            "correction": "ŒUVRES COMPLÈTES  d'Augustin Cauchy"
         },
         "metadata.title_complement": {
-            "lisibilite": "Lisible"
+            "lisibilite": "Non lisible",
+            "cause": "absent",
+            "correction": ""
         },
         "metadata.volume_number": {
-            "lisibilite": "Lisible"
+            "lisibilite": "Lisible",
+            "correction": "SÉRIE 2 - TOME VII"
         },
         "metadata.authors": {
-            "lisibilite": "Lisible"
+            "lisibilite": "Lisible",
+            "correction": "Augustin Cauchy"
         },
         "metadata.publisher": {
             "lisibilite": "Lisible"
@@ -36,7 +52,15 @@
         "langue": {
             "lisibilite": "Lisible"
         },
-        "_note": "Date in roman numerals"
-    },
-    "ark": "bpt6k901990"
+        "_note": "Date in roman numerals",
+        "metadata.identifier": {
+            "lisibilite": "Lisible"
+        },
+        "metadata.iiif_manifest": {
+            "lisibilite": "Lisible"
+        },
+        "ark": {
+            "lisibilite": "Lisible"
+        }
+    }
 }

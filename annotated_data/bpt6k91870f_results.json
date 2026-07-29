@@ -3,7 +3,7 @@
         "title": "ETUDE DES DISSOLUTIONS AQUEUSES",
         "title_complement": "FONDÉE SUR LES CHANGEMENTS DE LEURS POIDS SPÉCIFIQUES",
         "volume_number": "",
-        "authors": "MENDELEEFF, D.",
+        "authors": "D. MENDELEEFF",
         "publisher": "",
         "publication_place": "ST. PETERSBOURG",
         "date": "1887",
@@ -11,6 +11,17 @@
         "iiif_manifest": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k91870f/manifest.json"
     },
     "langue": "ru (Russian)",
+    "ark": "bpt6k91870f",
+    "typographie_suggestion": {
+        "category": "Serif/Roman",
+        "subtype": "Modern (Didone)",
+        "explanation": "The primary text features the high contrast between thick and thin strokes and the vertical stress characteristic of the Modern/Didone style, which was prevalent in academic and official printing during the late 19th century.",
+        "raw": "Category: Serif/Roman\nSubtype: Modern (Didone)\nExplanation: The primary text features the high contrast between thick and thin strokes and the vertical stress characteristic of the Modern/Didone style, which was prevalent in academic and official printing during the late 19th century."
+    },
+    "typographie": {
+        "category": "Serif/Roman",
+        "subtype": "Modern (Didone)"
+    },
     "_annotations": {
         "metadata.title": {
             "lisibilite": "Lisible"
@@ -23,7 +34,8 @@
             "cause": "absent"
         },
         "metadata.authors": {
-            "lisibilite": "Lisible"
+            "lisibilite": "Lisible",
+            "correction": "D. MENDELEEFF"
         },
         "metadata.publisher": {
             "lisibilite": "Non lisible",
@@ -37,7 +49,15 @@
         },
         "langue": {
             "lisibilite": "Lisible"
+        },
+        "metadata.identifier": {
+            "lisibilite": "Lisible"
+        },
+        "metadata.iiif_manifest": {
+            "lisibilite": "Lisible"
+        },
+        "ark": {
+            "lisibilite": "Lisible"
         }
-    },
-    "ark": "bpt6k91870f"
+    }
 }

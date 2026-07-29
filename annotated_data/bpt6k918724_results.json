@@ -3,7 +3,7 @@
         "title": "ÉLEMENS DE CHIMIE",
         "title_complement": "",
         "volume_number": "TOME PREMIER",
-        "authors": "MITSCHERLICH, E.; VALÉRIUS, M. B.",
+        "authors": "E. MITSCHERLICH",
         "publisher": "LOUIS HAUMAN ET COMP^e, LIBRAIRES",
         "publication_place": "BRUXELLES",
         "date": "1835",
@@ -11,6 +11,17 @@
         "iiif_manifest": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k918724/manifest.json"
     },
     "langue": "fr (French)",
+    "ark": "bpt6k918724",
+    "typographie_suggestion": {
+        "category": "Serif/Roman",
+        "subtype": "Didone (Modern)",
+        "explanation": "The typeface features the high contrast between thick and thin strokes, vertical stress, and small, unbracketed (hairline) serifs characteristic of the \"Modern\" style popularized by Didot and Bodoni in the late 18th and early 19th centuries.",
+        "raw": "Category: Serif/Roman\nSubtype: Didone (Modern)\nExplanation: The typeface features the high contrast between thick and thin strokes, vertical stress, and small, unbracketed (hairline) serifs characteristic of the \"Modern\" style popularized by Didot and Bodoni in the late 18th and early 19th centuries."
+    },
+    "typographie": {
+        "category": "Serif/Roman",
+        "subtype": "Didone (Modern)"
+    },
     "_annotations": {
         "metadata.title": {
             "lisibilite": "Lisible"
@@ -24,7 +35,7 @@
         },
         "metadata.authors": {
             "lisibilite": "Lisible",
-            "correction": "MITSCHERLICH, E.; VALÉRIUS, M. B."
+            "correction": "E. MITSCHERLICH"
         },
         "metadata.publisher": {
             "lisibilite": "Lisible"
@@ -37,7 +48,15 @@
         },
         "langue": {
             "lisibilite": "Lisible"
+        },
+        "metadata.identifier": {
+            "lisibilite": "Lisible"
+        },
+        "metadata.iiif_manifest": {
+            "lisibilite": "Lisible"
+        },
+        "ark": {
+            "lisibilite": "Lisible"
         }
-    },
-    "ark": "bpt6k918724"
+    }
 }

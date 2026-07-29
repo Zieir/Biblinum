@@ -1,7 +1,7 @@
 {
     "metadata": {
-        "title": "Jubilé",
-        "title_complement": "de Monsieur le Professeur Amé Pictet",
+        "title": "Jubilé de Monsieur le Professeur Amé Pictet",
+        "title_complement": "",
         "volume_number": "",
         "authors": "",
         "publisher": "Aula de L'Université",
@@ -11,12 +11,26 @@
         "iiif_manifest": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k905664/manifest.json"
     },
     "langue": "fr (French)",
+    "ark": "bpt6k905664",
+    "typographie_suggestion": {
+        "category": "Serif/Roman",
+        "subtype": "Old Style",
+        "explanation": "The typeface features moderate contrast between thick and thin strokes, slanted serifs, and a humanist influence in the letterforms (such as the rounded bowls and the shape of the 'e'), which are characteristic of Old Style faces common in early 20th-century academic printing.",
+        "raw": "Category: Serif/Roman\nSubtype: Old Style\nExplanation: The typeface features moderate contrast between thick and thin strokes, slanted serifs, and a humanist influence in the letterforms (such as the rounded bowls and the shape of the 'e'), which are characteristic of Old Style faces common in early 20th-century academic printing."
+    },
+    "typographie": {
+        "category": "Serif/Roman",
+        "subtype": "Old Style"
+    },
     "_annotations": {
         "metadata.title": {
-            "lisibilite": "Lisible"
+            "lisibilite": "Lisible",
+            "correction": "Jubilé de Monsieur le Professeur Amé Pictet"
         },
         "metadata.title_complement": {
-            "lisibilite": "Lisible"
+            "lisibilite": "Non lisible",
+            "cause": "absent",
+            "correction": ""
         },
         "metadata.volume_number": {
             "lisibilite": "Non lisible",
@@ -39,7 +53,15 @@
         },
         "langue": {
             "lisibilite": "Lisible"
+        },
+        "metadata.identifier": {
+            "lisibilite": "Lisible"
+        },
+        "metadata.iiif_manifest": {
+            "lisibilite": "Lisible"
+        },
+        "ark": {
+            "lisibilite": "Lisible"
         }
-    },
-    "ark": "bpt6k905664"
+    }
 }

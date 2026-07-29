@@ -3,7 +3,7 @@
         "title": "ЗАПИСКИ О УЗЛОВОЙ ТЕОРІИ",
         "title_complement": "ХИМИЧЕСКИХЪ СОЕДИНЕНІЙ",
         "volume_number": "",
-        "authors": "Теплова, Михаил Николаевич",
+        "authors": "Михаил Николаевич Теплова",
         "publisher": "Тино-Литографія А. Ф. Маркова",
         "publication_place": "С.-ПЕТЕРБУРГЪ",
         "date": "1903",
@@ -11,6 +11,17 @@
         "iiif_manifest": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k901274/manifest.json"
     },
     "langue": "ru (Russian)",
+    "ark": "bpt6k901274",
+    "typographie_suggestion": {
+        "category": "Script",
+        "subtype": "Cursive / Handwriting",
+        "explanation": "This is a fluid, connected handwriting style typical of early 20th-century personal correspondence and scholarly annotations.",
+        "raw": "Since the image contains multiple typefaces, I will identify the most prominent ones:\n\n**For the main title (\"ЗАПИСКИ\"):**\nCategory: Display\nSubtype: Inline/Decorative\nExplanation: This is a heavy, stylized display face featuring an \"inline\" or \"engraved\" effect where the center of the strokes is hollowed out.\n\n**For the secondary titles (\"О УЗЛОВОЙ ТЕОРІИ...\"):**\nCategory: Serif/Roman\nSubtype: Slab Serif (Egyptian)\nExplanation: These characters feature thick, block-like serifs of consistent weight, typical of late 19th and early 20th-century industrial and academic printing.\n\n**For the handwritten sections (\"Mémoires en brouillon...\", \"Teploff\"):**\nCategory: Script\nSubtype: Cursive / Handwriting\nExplanation: This is a fluid, connected handwriting style typical of early 20th-century personal correspondence and scholarly annotations."
+    },
+    "typographie": {
+        "category": "Script",
+        "subtype": "Cursive / Handwriting"
+    },
     "_annotations": {
         "metadata.title": {
             "lisibilite": "Lisible"
@@ -22,7 +33,8 @@
             "lisibilite": "Lisible"
         },
         "metadata.authors": {
-            "lisibilite": "Lisible"
+            "lisibilite": "Lisible",
+            "correction": "Михаил Николаевич Теплова"
         },
         "metadata.publisher": {
             "lisibilite": "Lisible"
@@ -36,7 +48,15 @@
         "langue": {
             "lisibilite": "Lisible"
         },
-        "_note": "A revoir"
-    },
-    "ark": "bpt6k901274"
+        "_note": "A revoir",
+        "metadata.identifier": {
+            "lisibilite": "Lisible"
+        },
+        "metadata.iiif_manifest": {
+            "lisibilite": "Lisible"
+        },
+        "ark": {
+            "lisibilite": "Lisible"
+        }
+    }
 }

@@ -3,7 +3,7 @@
         "title": "COURS DE CHIMIE",
         "title_complement": "CHIMIE MINÉRALE",
         "volume_number": "TOME PREMIER",
-        "authors": "GAUTIER, ARMAND",
+        "authors": "ARMAND GAUTIER",
         "publisher": "LIBRAIRIE F. SAVY",
         "publication_place": "PARIS",
         "date": "1887",
@@ -11,6 +11,17 @@
         "iiif_manifest": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k906443/manifest.json"
     },
     "langue": "fr (French)",
+    "ark": "bpt6k906443",
+    "typographie_suggestion": {
+        "category": "Serif/Roman",
+        "subtype": "Didone (Modern)",
+        "explanation": "The primary text (especially \"DE CHIMIE\") features the high contrast between thick and thin strokes, vertical stress, and unbracketed, hairline serifs characteristic of the Didone style popular in the 19th century.",
+        "raw": "Category: Serif/Roman\nSubtype: Didone (Modern)\nExplanation: The primary text (especially \"DE CHIMIE\") features the high contrast between thick and thin strokes, vertical stress, and unbracketed, hairline serifs characteristic of the Didone style popular in the 19th century."
+    },
+    "typographie": {
+        "category": "Serif/Roman",
+        "subtype": "Didone (Modern)"
+    },
     "_annotations": {
         "metadata.title": {
             "lisibilite": "Lisible"
@@ -22,7 +33,8 @@
             "lisibilite": "Lisible"
         },
         "metadata.authors": {
-            "lisibilite": "Lisible"
+            "lisibilite": "Lisible",
+            "correction": "ARMAND GAUTIER"
         },
         "metadata.publisher": {
             "lisibilite": "Non lisible",
@@ -37,7 +49,15 @@
         },
         "langue": {
             "lisibilite": "Lisible"
+        },
+        "metadata.identifier": {
+            "lisibilite": "Lisible"
+        },
+        "metadata.iiif_manifest": {
+            "lisibilite": "Lisible"
+        },
+        "ark": {
+            "lisibilite": "Lisible"
         }
-    },
-    "ark": "bpt6k906443"
+    }
 }

@@ -1,42 +1,66 @@
 {
     "metadata": {
         "title": "TRAITÉ PRATIQUE D'ANALYSE CHIMIQUE",
-        "title_complement": "TABLES SERVANT, DANS LES ANALYSES, A CALCULER LA QUANTITÉ D'UNE SUBSTANCE D'APRÈS CELLE QUI A ÉTÉ TROUVÉE D'UNE AUTRE SUBSTANCE",
+        "title_complement": "",
         "volume_number": "TOME SECOND",
-        "authors": "ROSE, Henri",
-        "publisher": "J.B. BAILLIÈRE",
-        "publication_place": "PARIS",
+        "authors": "Henri ROSE",
+        "publisher": "J.B. BAILLIÈRE; H. BAILLIÈRE",
+        "publication_place": "PARIS; LONDRES",
         "date": "1843",
         "identifier": "http://gallica.bnf.fr/ark:/12148/bpt6k90075q",
         "iiif_manifest": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k90075q/manifest.json"
     },
     "langue": "fr (French)",
+    "ark": "bpt6k90075q",
+    "typographie_suggestion": {
+        "category": "Serif/Roman",
+        "subtype": "Modern (Didone)",
+        "explanation": "The typeface features the high contrast between thick and thin strokes, vertical stress, and small, unbracketed serifs characteristic of the \"Modern\" or Didone style (similar to Bodoni or Didot), which was the standard for academic and formal printing in France during the mid-19th century.",
+        "raw": "Category: Serif/Roman\nSubtype: Modern (Didone)\nExplanation: The typeface features the high contrast between thick and thin strokes, vertical stress, and small, unbracketed serifs characteristic of the \"Modern\" or Didone style (similar to Bodoni or Didot), which was the standard for academic and formal printing in France during the mid-19th century."
+    },
+    "typographie": {
+        "category": "Serif/Roman",
+        "subtype": "Modern (Didone)"
+    },
     "_annotations": {
         "metadata.title": {
             "lisibilite": "Non lisible",
             "cause": "recouvert"
         },
         "metadata.title_complement": {
-            "lisibilite": "Lisible"
+            "lisibilite": "Non lisible",
+            "cause": "absent",
+            "correction": ""
         },
         "metadata.volume_number": {
             "lisibilite": "Lisible"
         },
         "metadata.authors": {
-            "lisibilite": "Lisible"
+            "lisibilite": "Lisible",
+            "correction": "Henri ROSE"
         },
         "metadata.publisher": {
-            "lisibilite": "Lisible"
+            "lisibilite": "Lisible",
+            "correction": "J.B. BAILLIÈRE; H. BAILLIÈRE"
         },
         "metadata.publication_place": {
-            "lisibilite": "Lisible"
+            "lisibilite": "Lisible",
+            "correction": "PARIS; LONDRES"
         },
         "metadata.date": {
             "lisibilite": "Lisible"
         },
         "langue": {
             "lisibilite": "Lisible"
+        },
+        "metadata.identifier": {
+            "lisibilite": "Lisible"
+        },
+        "metadata.iiif_manifest": {
+            "lisibilite": "Lisible"
+        },
+        "ark": {
+            "lisibilite": "Lisible"
         }
-    },
-    "ark": "bpt6k90075q"
+    }
 }

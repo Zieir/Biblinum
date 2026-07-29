@@ -3,14 +3,25 @@
         "title": "COURS D'ANALYSE de L'Ecole Polythechnique",
         "title_complement": "",
         "volume_number": "",
-        "authors": "",
-        "publisher": "",
-        "publication_place": "",
-        "date": "",
+        "authors": "STURM",
+        "publisher": "GAUTHIER-VILLARS",
+        "publication_place": "PARIS",
+        "date": "1864",
         "identifier": "http://gallica.bnf.fr/ark:/12148/bpt6k900940",
         "iiif_manifest": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k900940/manifest.json"
     },
     "langue": "fr (French)",
+    "ark": "bpt6k900940",
+    "typographie_suggestion": {
+        "category": "Serif/Roman",
+        "subtype": "Didone (Modern)",
+        "explanation": "The text features the high contrast between thick and thin strokes, vertical stress, and unbracketed, hairline serifs characteristic of the \"Modern\" or Didone style (popularized by Didot and Bodoni), which was the standard for formal French academic printing in the mid-19th century.",
+        "raw": "Category: Serif/Roman\nSubtype: Didone (Modern)\nExplanation: The text features the high contrast between thick and thin strokes, vertical stress, and unbracketed, hairline serifs characteristic of the \"Modern\" or Didone style (popularized by Didot and Bodoni), which was the standard for formal French academic printing in the mid-19th century."
+    },
+    "typographie": {
+        "category": "Serif/Roman",
+        "subtype": "Didone (Modern)"
+    },
     "_annotations": {
         "metadata.title": {
             "lisibilite": "Lisible",
@@ -25,25 +36,32 @@
             "cause": "absent"
         },
         "metadata.authors": {
-            "lisibilite": "Non lisible",
-            "cause": "absent"
+            "lisibilite": "Lisible",
+            "correction": "STURM"
         },
         "metadata.publisher": {
-            "lisibilite": "Non lisible",
-            "cause": "absent",
-            "correction": ""
+            "lisibilite": "Lisible",
+            "correction": "GAUTHIER-VILLARS"
         },
         "metadata.publication_place": {
-            "lisibilite": "Non lisible",
-            "cause": "absent"
+            "lisibilite": "Lisible",
+            "correction": "PARIS"
         },
         "metadata.date": {
-            "lisibilite": "Non lisible",
-            "cause": "absent"
+            "lisibilite": "Lisible",
+            "correction": "1864"
         },
         "langue": {
             "lisibilite": "Lisible"
+        },
+        "metadata.identifier": {
+            "lisibilite": "Lisible"
+        },
+        "metadata.iiif_manifest": {
+            "lisibilite": "Lisible"
+        },
+        "ark": {
+            "lisibilite": "Lisible"
         }
-    },
-    "ark": "bpt6k900940"
+    }
 }

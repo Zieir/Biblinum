@@ -3,7 +3,7 @@
         "title": "TRAITÉ DE CHIMIE GÉNÉRALE ÉLÉMENTAIRE",
         "title_complement": "CHIMIE ORGANIQUE. LEÇONS PROFESSÉES À L'ÉCOLE POLYTECHNIQUE",
         "volume_number": "TOME DEUXIÈME",
-        "authors": "CAROURS, Auguste",
+        "authors": "Auguste CAHOURS",
         "publisher": "GAUTHIER-VILLARS, IMPRIMEUR-LIBRAIRE",
         "publication_place": "PARIS",
         "date": "1874",
@@ -11,6 +11,17 @@
         "iiif_manifest": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k90600g/manifest.json"
     },
     "langue": "fr (French)",
+    "ark": "bpt6k90600g",
+    "typographie_suggestion": {
+        "category": "Serif/Roman",
+        "subtype": "Didone (Modern)",
+        "explanation": "The typeface features the high contrast between thick and thin strokes, vertical stress, and small, unbracketed hair-line serifs characteristic of the \"Modern\" or Didone style popular in 19th-century academic and scientific publishing.",
+        "raw": "Category: Serif/Roman\nSubtype: Didone (Modern)\nExplanation: The typeface features the high contrast between thick and thin strokes, vertical stress, and small, unbracketed hair-line serifs characteristic of the \"Modern\" or Didone style popular in 19th-century academic and scientific publishing."
+    },
+    "typographie": {
+        "category": "Serif/Roman",
+        "subtype": "Didone (Modern)"
+    },
     "_annotations": {
         "metadata.title": {
             "lisibilite": "Lisible"
@@ -22,7 +33,8 @@
             "lisibilite": "Lisible"
         },
         "metadata.authors": {
-            "lisibilite": "Lisible"
+            "lisibilite": "Lisible",
+            "correction": "Auguste CAHOURS"
         },
         "metadata.publisher": {
             "lisibilite": "Lisible"
@@ -35,7 +47,15 @@
         },
         "langue": {
             "lisibilite": "Lisible"
+        },
+        "metadata.identifier": {
+            "lisibilite": "Lisible"
+        },
+        "metadata.iiif_manifest": {
+            "lisibilite": "Lisible"
+        },
+        "ark": {
+            "lisibilite": "Lisible"
         }
-    },
-    "ark": "bpt6k90600g"
+    }
 }

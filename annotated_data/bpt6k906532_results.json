@@ -3,7 +3,7 @@
         "title": "CHEMICAL RECREATIONS",
         "title_complement": "A Popular Manual of Experimental Chemistry",
         "volume_number": "SECOND DIVISION",
-        "authors": "GRIFFIN, John Joseph",
+        "authors": "John Joseph GRIFFIN",
         "publisher": "John Joseph Griffin and Richard Griffin and Co.",
         "publication_place": "London",
         "date": "1860",
@@ -11,6 +11,17 @@
         "iiif_manifest": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k906532/manifest.json"
     },
     "langue": "en (English)",
+    "ark": "bpt6k906532",
+    "typographie_suggestion": {
+        "category": "Blackletter",
+        "subtype": "Fraktur",
+        "explanation": "This specific line uses a broken-script style with decorative, angular flourishes typical of German-influenced Fraktur typefaces.",
+        "raw": "Since the image contains multiple typefaces, I will identify the two most prominent styles used:\n\n**Primary Text (Main Titles/Body):**\nCategory: Serif/Roman\nSubtype: Modern/Didone\nExplanation: The text features a high contrast between thick and thin strokes with horizontal, hairline serifs, characteristic of the 19th-century \"Modern\" style.\n\n**Secondary Text (\"A Popular Manual\"):**\nCategory: Blackletter\nSubtype: Fraktur\nExplanation: This specific line uses a broken-script style with decorative, angular flourishes typical of German-influenced Fraktur typefaces."
+    },
+    "typographie": {
+        "category": "Blackletter",
+        "subtype": "Fraktur"
+    },
     "_annotations": {
         "metadata.title": {
             "lisibilite": "Lisible"
@@ -22,7 +33,8 @@
             "lisibilite": "Lisible"
         },
         "metadata.authors": {
-            "lisibilite": "Lisible"
+            "lisibilite": "Lisible",
+            "correction": "John Joseph GRIFFIN"
         },
         "metadata.publisher": {
             "lisibilite": "Lisible"
@@ -35,7 +47,15 @@
         },
         "langue": {
             "lisibilite": "Lisible"
+        },
+        "metadata.identifier": {
+            "lisibilite": "Lisible"
+        },
+        "metadata.iiif_manifest": {
+            "lisibilite": "Lisible"
+        },
+        "ark": {
+            "lisibilite": "Lisible"
         }
-    },
-    "ark": "bpt6k906532"
+    }
 }

@@ -3,7 +3,7 @@
         "title": "PRÉCIS DE CHIMIE INDUSTRIELLE",
         "title_complement": "À l'usage des écoles préparatoires aux professions industrielles des fabricants et des agriculteurs",
         "volume_number": "",
-        "authors": "PAYEN, A.",
+        "authors": "A. PAYEN",
         "publisher": "LIBRAIRIE DE L. HACHETTE ET Cie",
         "publication_place": "PARIS",
         "date": "1855",
@@ -11,6 +11,17 @@
         "iiif_manifest": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k91883s/manifest.json"
     },
     "langue": "fr (French)",
+    "ark": "bpt6k91883s",
+    "typographie_suggestion": {
+        "category": "Serif/Roman",
+        "subtype": "Didone (Modern)",
+        "explanation": "The typeface features the high contrast between thick and thin strokes, vertical stress, and small, unbracketed hair-line serifs characteristic of the \"Modern\" or Didone style (similar to Bodoni or Didot), which was standard for French academic and formal printing in the 19th century.",
+        "raw": "Category: Serif/Roman\nSubtype: Didone (Modern)\nExplanation: The typeface features the high contrast between thick and thin strokes, vertical stress, and small, unbracketed hair-line serifs characteristic of the \"Modern\" or Didone style (similar to Bodoni or Didot), which was standard for French academic and formal printing in the 19th century."
+    },
+    "typographie": {
+        "category": "Serif/Roman",
+        "subtype": "Didone (Modern)"
+    },
     "_annotations": {
         "metadata.title": {
             "lisibilite": "Lisible"
@@ -23,7 +34,8 @@
             "cause": "absent"
         },
         "metadata.authors": {
-            "lisibilite": "Lisible"
+            "lisibilite": "Lisible",
+            "correction": "A. PAYEN"
         },
         "metadata.publisher": {
             "lisibilite": "Lisible"
@@ -36,7 +48,15 @@
         },
         "langue": {
             "lisibilite": "Lisible"
+        },
+        "metadata.identifier": {
+            "lisibilite": "Lisible"
+        },
+        "metadata.iiif_manifest": {
+            "lisibilite": "Lisible"
+        },
+        "ark": {
+            "lisibilite": "Lisible"
         }
-    },
-    "ark": "bpt6k91883s"
+    }
 }

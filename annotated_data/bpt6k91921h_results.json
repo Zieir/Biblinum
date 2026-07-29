@@ -1,9 +1,9 @@
 {
     "metadata": {
-        "title": "CONFÉRENCES SCIENTIFIQUES",
-        "title_complement": "ET ALLOCUTIONS",
+        "title": "CONFÉRENCES SCIENTIFIQUES ET ALLOCUTIONS",
+        "title_complement": "nstitution de la matière",
         "volume_number": "",
-        "authors": "Thomson, William",
+        "authors": "William Thomson",
         "publisher": "GAUTHIER-VILLARS ET FILS",
         "publication_place": "PARIS",
         "date": "1893",
@@ -11,12 +11,26 @@
         "iiif_manifest": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k91921h/manifest.json"
     },
     "langue": "fr (French)",
+    "ark": "bpt6k91921h",
+    "typographie_suggestion": {
+        "category": "Serif/Roman",
+        "subtype": "Modern (Didone)",
+        "explanation": "The typeface features the high contrast between thick and thin strokes, vertical stress, and small, unbracketed serifs characteristic of the \"Modern\" or Didone style (similar to Bodoni or Didot), which was standard for formal academic and scientific publishing in the late 19th century.",
+        "raw": "Category: Serif/Roman\nSubtype: Modern (Didone)\nExplanation: The typeface features the high contrast between thick and thin strokes, vertical stress, and small, unbracketed serifs characteristic of the \"Modern\" or Didone style (similar to Bodoni or Didot), which was standard for formal academic and scientific publishing in the late 19th century."
+    },
+    "typographie": {
+        "category": "Serif/Roman",
+        "subtype": "Modern (Didone)"
+    },
     "_annotations": {
         "metadata.title": {
-            "lisibilite": "Lisible"
+            "lisibilite": "Lisible",
+            "correction": "CONFÉRENCES SCIENTIFIQUES ET ALLOCUTIONS"
         },
         "metadata.title_complement": {
-            "lisibilite": "Lisible"
+            "lisibilite": "Non lisible",
+            "cause": "recouvert",
+            "correction": "nstitution de la matière"
         },
         "metadata.volume_number": {
             "lisibilite": "Non lisible",
@@ -24,7 +38,7 @@
         },
         "metadata.authors": {
             "lisibilite": "Lisible",
-            "correction": "Thomson, William"
+            "correction": "William Thomson"
         },
         "metadata.publisher": {
             "lisibilite": "Lisible"
@@ -37,7 +51,15 @@
         },
         "langue": {
             "lisibilite": "Lisible"
+        },
+        "metadata.identifier": {
+            "lisibilite": "Lisible"
+        },
+        "metadata.iiif_manifest": {
+            "lisibilite": "Lisible"
+        },
+        "ark": {
+            "lisibilite": "Lisible"
         }
-    },
-    "ark": "bpt6k91921h"
+    }
 }

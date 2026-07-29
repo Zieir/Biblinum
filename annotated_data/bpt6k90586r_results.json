@@ -1,37 +1,52 @@
 {
     "metadata": {
         "title": "RAPPORT ANNUEL PROGRÈS DE LA CHIMIE",
-        "title_complement": "",
+        "title_complement": "présenté le 31 mars 1846 à l'Académie royale des sciences de Stockholm",
         "volume_number": "",
-        "authors": "BERZELIUS, J.",
-        "publisher": "VICTOR MASSON",
-        "publication_place": "PARIS",
+        "authors": "J. BERZELIUS",
+        "publisher": "VICTOR MASSON; VICTOR MASSON",
+        "publication_place": "PARIS; LEIPZIG",
         "date": "1847",
         "identifier": "http://gallica.bnf.fr/ark:/12148/bpt6k90586r",
         "iiif_manifest": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k90586r/manifest.json"
     },
     "langue": "fr (French)",
+    "ark": "bpt6k90586r",
+    "typographie_suggestion": {
+        "category": "Serif/Roman",
+        "subtype": "Slab Serif (Egyptian)",
+        "explanation": "The main title features heavy, block-like serifs with little to no bracketing, which is characteristic of the Slab Serif style popular in the 19th century for headings and posters.",
+        "raw": "Based on the image provided, there are several typefaces used. I will identify the most prominent one used for the main title (\"PROGRÈS DE LA CHIMIE\").\n\nCategory: Serif/Roman\nSubtype: Slab Serif (Egyptian)\nExplanation: The main title features heavy, block-like serifs with little to no bracketing, which is characteristic of the Slab Serif style popular in the 19th century for headings and posters."
+    },
+    "typographie": {
+        "category": "Serif/Roman",
+        "subtype": "Slab Serif (Egyptian)"
+    },
     "_annotations": {
         "metadata.title": {
             "lisibilite": "Lisible"
         },
         "metadata.title_complement": {
             "lisibilite": "Non lisible",
-            "cause": "absent"
+            "cause": "qualite",
+            "correction": "présenté le 31 mars 1846 à l'Académie royale des sciences de Stockholm"
         },
         "metadata.volume_number": {
             "lisibilite": "Non lisible",
             "cause": "absent"
         },
         "metadata.authors": {
-            "lisibilite": "Lisible"
+            "lisibilite": "Lisible",
+            "correction": "J. BERZELIUS"
         },
         "metadata.publisher": {
-            "lisibilite": "Lisible"
+            "lisibilite": "Lisible",
+            "correction": "VICTOR MASSON; VICTOR MASSON"
         },
         "metadata.publication_place": {
             "lisibilite": "Non lisible",
-            "cause": "qualite"
+            "cause": "qualite",
+            "correction": "PARIS; LEIPZIG"
         },
         "metadata.date": {
             "lisibilite": "Non lisible",
@@ -39,7 +54,15 @@
         },
         "langue": {
             "lisibilite": "Lisible"
+        },
+        "metadata.identifier": {
+            "lisibilite": "Lisible"
+        },
+        "metadata.iiif_manifest": {
+            "lisibilite": "Lisible"
+        },
+        "ark": {
+            "lisibilite": "Lisible"
         }
-    },
-    "ark": "bpt6k90586r"
+    }
 }

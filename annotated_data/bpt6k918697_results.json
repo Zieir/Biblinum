@@ -1,49 +1,66 @@
 {
     "metadata": {
         "title": "TRAITÉ DE LA FABRICATION DU SUCRE",
-        "title_complement": "",
-        "volume_number": "",
-        "authors": "",
-        "publisher": "",
-        "publication_place": "",
-        "date": "",
+        "title_complement": "Comprenant la culture des plantes saccharines, l'extraction du sucre brut, le raffinage, le traitement des mélasses, la distillation et les opérations relatives au travail des salins et potasses, l'analyse des matières utiles à la culture et à la fabrication, etc., etc.",
+        "volume_number": "TOME II",
+        "authors": "E.-J. MAUMENÉ",
+        "publisher": "DUNOD",
+        "publication_place": "PARIS",
+        "date": "1878",
         "identifier": "http://gallica.bnf.fr/ark:/12148/bpt6k918697",
         "iiif_manifest": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k918697/manifest.json"
     },
     "langue": "fr (French)",
+    "ark": "bpt6k918697",
+    "typographie_suggestion": {
+        "category": "Serif/Roman",
+        "subtype": "Modern (Didone)",
+        "explanation": "The typeface features the high contrast between thick and thin strokes, vertical stress, and small, unbracketed (hairline) serifs characteristic of the \"Modern\" or Didone style popular in 19th-century academic and formal publishing.",
+        "raw": "Category: Serif/Roman\nSubtype: Modern (Didone)\nExplanation: The typeface features the high contrast between thick and thin strokes, vertical stress, and small, unbracketed (hairline) serifs characteristic of the \"Modern\" or Didone style popular in 19th-century academic and formal publishing."
+    },
+    "typographie": {
+        "category": "Serif/Roman",
+        "subtype": "Modern (Didone)"
+    },
     "_annotations": {
         "metadata.title": {
             "lisibilite": "Lisible"
         },
         "metadata.title_complement": {
-            "lisibilite": "Non lisible",
-            "cause": "absent"
+            "lisibilite": "Lisible",
+            "correction": "Comprenant la culture des plantes saccharines, l'extraction du sucre brut, le raffinage, le traitement des mélasses, la distillation et les opérations relatives au travail des salins et potasses, l'analyse des matières utiles à la culture et à la fabrication, etc., etc."
         },
         "metadata.volume_number": {
-            "lisibilite": "Non lisible",
-            "cause": "absent"
+            "lisibilite": "Lisible",
+            "correction": "TOME II"
         },
         "metadata.authors": {
-            "lisibilite": "Non lisible",
-            "cause": "absent"
+            "lisibilite": "Lisible",
+            "correction": "E.-J. MAUMENÉ"
         },
         "metadata.publisher": {
-            "lisibilite": "Non lisible",
-            "cause": "absent",
-            "correction": ""
+            "lisibilite": "Lisible",
+            "correction": "DUNOD"
         },
         "metadata.publication_place": {
-            "lisibilite": "Non lisible",
-            "cause": "absent",
-            "correction": ""
+            "lisibilite": "Lisible",
+            "correction": "PARIS"
         },
         "metadata.date": {
-            "lisibilite": "Non lisible",
-            "cause": "absent"
+            "lisibilite": "Lisible",
+            "correction": "1878"
         },
         "langue": {
             "lisibilite": "Lisible"
+        },
+        "metadata.identifier": {
+            "lisibilite": "Lisible"
+        },
+        "metadata.iiif_manifest": {
+            "lisibilite": "Lisible"
+        },
+        "ark": {
+            "lisibilite": "Lisible"
         }
-    },
-    "ark": "bpt6k918697"
+    }
 }

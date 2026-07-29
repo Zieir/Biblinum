@@ -3,7 +3,7 @@
         "title": "RECUEIL DES TRAVAUX CHIMIQUES",
         "title_complement": "Suivi des recherches sur la cause, la nature et le traitement de LA FIÈVRE JAUNE",
         "volume_number": "",
-        "authors": "FREIRE, Domingos",
+        "authors": "Domingos FREIRE",
         "publisher": "Imprimerie de Molarinho",
         "publication_place": "RIO DE JANEIRO",
         "date": "1880",
@@ -11,6 +11,17 @@
         "iiif_manifest": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k91738p/manifest.json"
     },
     "langue": "fr (French)",
+    "ark": "bpt6k91738p",
+    "typographie_suggestion": {
+        "category": "Serif/Roman",
+        "subtype": "Didone (Modern)",
+        "explanation": "The text features the high contrast between thick and thin strokes, vertical stress, and thin, horizontal serifs characteristic of the \"Modern\" or Didone style (similar to Bodoni or Didot), which was prevalent in formal printing during the 19th century.",
+        "raw": "Based on the provided image of the title page, there are several typefaces used. I will identify the dominant printed typefaces used for the main titles (e.g., \"TRAVAUX CHIMIQUES\" and \"LA FIÈVRE JAUNE\").\n\nCategory: Serif/Roman\nSubtype: Didone (Modern)\nExplanation: The text features the high contrast between thick and thin strokes, vertical stress, and thin, horizontal serifs characteristic of the \"Modern\" or Didone style (similar to Bodoni or Didot), which was prevalent in formal printing during the 19th century."
+    },
+    "typographie": {
+        "category": "Serif/Roman",
+        "subtype": "Didone (Modern)"
+    },
     "_annotations": {
         "metadata.title": {
             "lisibilite": "Lisible"
@@ -23,7 +34,8 @@
             "cause": "absent"
         },
         "metadata.authors": {
-            "lisibilite": "Lisible"
+            "lisibilite": "Lisible",
+            "correction": "Domingos FREIRE"
         },
         "metadata.publisher": {
             "lisibilite": "Lisible",
@@ -40,7 +52,15 @@
         },
         "langue": {
             "lisibilite": "Lisible"
+        },
+        "metadata.identifier": {
+            "lisibilite": "Lisible"
+        },
+        "metadata.iiif_manifest": {
+            "lisibilite": "Lisible"
+        },
+        "ark": {
+            "lisibilite": "Lisible"
         }
-    },
-    "ark": "bpt6k91738p"
+    }
 }

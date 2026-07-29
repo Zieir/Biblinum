@@ -3,7 +3,7 @@
         "title": "TRAITÉ DE CHIMIE ORGANIQUE",
         "title_complement": "",
         "volume_number": "",
-        "authors": "GRAHAM, Th.",
+        "authors": "Th. GRAHAM",
         "publisher": "J.-B. BAILLIÈRE ; L. MATHIAS (AUGUSTIN)",
         "publication_place": "PARIS",
         "date": "1843",
@@ -11,6 +11,17 @@
         "iiif_manifest": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k90652q/manifest.json"
     },
     "langue": "fr (French)",
+    "ark": "bpt6k90652q",
+    "typographie_suggestion": {
+        "category": "Serif",
+        "subtype": "Slab Serif (Egyptian)",
+        "explanation": "The typeface features thick, block-like serifs with little to no contrast between the thick and thin strokes of the letters, which is characteristic of the Slab Serif style popular in the 19th century.",
+        "raw": "Based on the provided image of the title page, there are several typefaces used. I will identify the most prominent one used for the main title (\"CHIMIE ORGANIQUE\").\n\nCategory: Serif\nSubtype: Slab Serif (Egyptian)\nExplanation: The typeface features thick, block-like serifs with little to no contrast between the thick and thin strokes of the letters, which is characteristic of the Slab Serif style popular in the 19th century."
+    },
+    "typographie": {
+        "category": "Serif",
+        "subtype": "Slab Serif (Egyptian)"
+    },
     "_annotations": {
         "metadata.title": {
             "lisibilite": "Lisible"
@@ -25,7 +36,7 @@
         },
         "metadata.authors": {
             "lisibilite": "Lisible",
-            "correction": "GRAHAM, Th."
+            "correction": "Th. GRAHAM"
         },
         "metadata.publisher": {
             "lisibilite": "Lisible"
@@ -38,7 +49,15 @@
         },
         "langue": {
             "lisibilite": "Lisible"
+        },
+        "metadata.identifier": {
+            "lisibilite": "Lisible"
+        },
+        "metadata.iiif_manifest": {
+            "lisibilite": "Lisible"
+        },
+        "ark": {
+            "lisibilite": "Lisible"
         }
-    },
-    "ark": "bpt6k90652q"
+    }
 }

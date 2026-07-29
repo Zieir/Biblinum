@@ -1,9 +1,9 @@
 {
     "metadata": {
-        "title": "PRINCIPES DE LA CHIMIE",
-        "title_complement": "ÉTABLIS PAR LES EXPÉRIENCES; OU ESSAI SUR LES PROPORTIONS DÉFINIES DANS LA COMPOSITION DES CORPS",
+        "title": "PRINCIPES DE LA CHIMIE ÉTABLIS PAR LES EXPÉRIENCES;",
+        "title_complement": "OU ESSAI SUR LES PROPORTIONS DÉFINIES DANS LA COMPOSITION DES CORPS",
         "volume_number": "TOME SECOND",
-        "authors": "THOMSON, TH.",
+        "authors": "TH. THOMSON",
         "publisher": "CREVOT, LIBRAIRE-ÉDITEUR",
         "publication_place": "Paris",
         "date": "1825",
@@ -11,19 +11,32 @@
         "iiif_manifest": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k90129t/manifest.json"
     },
     "langue": "fr (French)",
+    "ark": "bpt6k90129t",
+    "typographie_suggestion": {
+        "category": "Serif/Roman",
+        "subtype": "Didone (Modern)",
+        "explanation": "The typeface features the high contrast between thick and thin strokes, vertical stress, and small, horizontal serifs characteristic of the late 18th and early 19th-century \"Modern\" style (similar to Bodoni or Didot), which was standard for academic and formal printing in France during 1825.",
+        "raw": "Category: Serif/Roman\nSubtype: Didone (Modern)\nExplanation: The typeface features the high contrast between thick and thin strokes, vertical stress, and small, horizontal serifs characteristic of the late 18th and early 19th-century \"Modern\" style (similar to Bodoni or Didot), which was standard for academic and formal printing in France during 1825."
+    },
+    "typographie": {
+        "category": "Serif/Roman",
+        "subtype": "Didone (Modern)"
+    },
     "_annotations": {
         "metadata.title": {
-            "lisibilite": "Lisible"
+            "lisibilite": "Lisible",
+            "correction": "PRINCIPES DE LA CHIMIE ÉTABLIS PAR LES EXPÉRIENCES;"
         },
         "metadata.title_complement": {
-            "lisibilite": "Lisible"
+            "lisibilite": "Lisible",
+            "correction": "OU ESSAI SUR LES PROPORTIONS DÉFINIES DANS LA COMPOSITION DES CORPS"
         },
         "metadata.volume_number": {
             "lisibilite": "Lisible"
         },
         "metadata.authors": {
             "lisibilite": "Lisible",
-            "correction": "THOMSON, TH."
+            "correction": "TH. THOMSON"
         },
         "metadata.publisher": {
             "lisibilite": "Lisible"
@@ -36,7 +49,15 @@
         },
         "langue": {
             "lisibilite": "Lisible"
+        },
+        "metadata.identifier": {
+            "lisibilite": "Lisible"
+        },
+        "metadata.iiif_manifest": {
+            "lisibilite": "Lisible"
+        },
+        "ark": {
+            "lisibilite": "Lisible"
         }
-    },
-    "ark": "bpt6k90129t"
+    }
 }

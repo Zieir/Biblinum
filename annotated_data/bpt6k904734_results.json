@@ -3,7 +3,7 @@
         "title": "THE PRINCIPLES OF PHYSICAL SCIENCE",
         "title_complement": "DEMONSTRATED BY THE STUDENT'S OWN EXPERIMENTS AND OBSERVATIONS",
         "volume_number": "VOL. II",
-        "authors": "HINRICOHS, Dr. Gustavus",
+        "authors": "Gustavus HINRICOHS",
         "publisher": "DAY, EGBERT, & FIDLAR",
         "publication_place": "DAVENPORT, IOWA, U. S.",
         "date": "1874",
@@ -11,6 +11,17 @@
         "iiif_manifest": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k904734/manifest.json"
     },
     "langue": "en (English)",
+    "ark": "bpt6k904734",
+    "typographie_suggestion": {
+        "category": "Serif/Roman",
+        "subtype": "Modern / Didone",
+        "explanation": "The typeface features a strong contrast between thick and thin strokes, vertical stress, and thin, horizontal serifs, which are characteristic of the \"Modern\" style (such as Bodoni or Didot) prevalent in 19th-century printing.",
+        "raw": "Category: Serif/Roman\nSubtype: Modern / Didone\nExplanation: The typeface features a strong contrast between thick and thin strokes, vertical stress, and thin, horizontal serifs, which are characteristic of the \"Modern\" style (such as Bodoni or Didot) prevalent in 19th-century printing."
+    },
+    "typographie": {
+        "category": "Serif/Roman",
+        "subtype": "Modern / Didone"
+    },
     "_annotations": {
         "metadata.title": {
             "lisibilite": "Lisible"
@@ -22,7 +33,8 @@
             "lisibilite": "Lisible"
         },
         "metadata.authors": {
-            "lisibilite": "Lisible"
+            "lisibilite": "Lisible",
+            "correction": "Gustavus HINRICOHS"
         },
         "metadata.publisher": {
             "lisibilite": "Lisible"
@@ -35,7 +47,15 @@
         },
         "langue": {
             "lisibilite": "Lisible"
+        },
+        "metadata.identifier": {
+            "lisibilite": "Lisible"
+        },
+        "metadata.iiif_manifest": {
+            "lisibilite": "Lisible"
+        },
+        "ark": {
+            "lisibilite": "Lisible"
         }
-    },
-    "ark": "bpt6k904734"
+    }
 }

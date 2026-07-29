@@ -11,6 +11,17 @@
         "iiif_manifest": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k916868/manifest.json"
     },
     "langue": "fr (French)",
+    "ark": "bpt6k916868",
+    "typographie_suggestion": {
+        "category": "Sans-serif",
+        "subtype": "Grotesque",
+        "explanation": "The main title \"DISSOLUTION\" features clean, blunt ends without serifs, with a uniform stroke weight and a geometric structure characteristic of early 20th-century Grotesque sans-serifs.",
+        "raw": "Category: Sans-serif\nSubtype: Grotesque\nExplanation: The main title \"DISSOLUTION\" features clean, blunt ends without serifs, with a uniform stroke weight and a geometric structure characteristic of early 20th-century Grotesque sans-serifs."
+    },
+    "typographie": {
+        "category": "Sans-serif",
+        "subtype": "Grotesque"
+    },
     "_annotations": {
         "metadata.title": {
             "lisibilite": "Lisible"
@@ -38,7 +49,15 @@
         },
         "langue": {
             "lisibilite": "Lisible"
+        },
+        "metadata.identifier": {
+            "lisibilite": "Lisible"
+        },
+        "metadata.iiif_manifest": {
+            "lisibilite": "Lisible"
+        },
+        "ark": {
+            "lisibilite": "Lisible"
         }
-    },
-    "ark": "bpt6k916868"
+    }
 }

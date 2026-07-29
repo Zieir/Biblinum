@@ -3,7 +3,7 @@
         "title": "MANUAL OF ELEMENTARY CHEMISTRY",
         "title_complement": "BEING A PRACTICAL CLASS-BOOK",
         "volume_number": "",
-        "authors": "GLOVER, Robert Mortimer",
+        "authors": "Robert Mortimer GLOVER",
         "publisher": "WILLIAM TEGG AND CO.",
         "publication_place": "LONDON",
         "date": "1855",
@@ -11,6 +11,17 @@
         "iiif_manifest": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k904556/manifest.json"
     },
     "langue": "en (English)",
+    "ark": "bpt6k904556",
+    "typographie_suggestion": {
+        "category": "Serif/Roman",
+        "subtype": "Modern / Didone",
+        "explanation": "The text features the high contrast between thick and thin strokes and vertical stress characteristic of the \"Modern\" style (such as Bodoni or Didot), which was prevalent in 19th-century printing.",
+        "raw": "Category: Serif/Roman\nSubtype: Modern / Didone\nExplanation: The text features the high contrast between thick and thin strokes and vertical stress characteristic of the \"Modern\" style (such as Bodoni or Didot), which was prevalent in 19th-century printing."
+    },
+    "typographie": {
+        "category": "Serif/Roman",
+        "subtype": "Modern / Didone"
+    },
     "_annotations": {
         "metadata.title": {
             "lisibilite": "Lisible"
@@ -23,7 +34,8 @@
             "cause": "absent"
         },
         "metadata.authors": {
-            "lisibilite": "Lisible"
+            "lisibilite": "Lisible",
+            "correction": "Robert Mortimer GLOVER"
         },
         "metadata.publisher": {
             "lisibilite": "Lisible"
@@ -36,7 +48,15 @@
         },
         "langue": {
             "lisibilite": "Lisible"
+        },
+        "metadata.identifier": {
+            "lisibilite": "Lisible"
+        },
+        "metadata.iiif_manifest": {
+            "lisibilite": "Lisible"
+        },
+        "ark": {
+            "lisibilite": "Lisible"
         }
-    },
-    "ark": "bpt6k904556"
+    }
 }

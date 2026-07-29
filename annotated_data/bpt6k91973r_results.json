@@ -11,6 +11,17 @@
         "iiif_manifest": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k91973r/manifest.json"
     },
     "langue": "de (German)",
+    "ark": "bpt6k91973r",
+    "typographie_suggestion": {
+        "category": "Serif/Roman",
+        "subtype": "Transitional / Modern (Didone influence)",
+        "explanation": "The typeface features a strong contrast between thick and thin strokes, vertical stress, and relatively fine, horizontal serifs. This style is characteristic of the \"Modern\" or \"Didone\" era of typography, which was widely used in academic and scientific publishing in Germany during the early 20th century.",
+        "raw": "Category: Serif/Roman\nSubtype: Transitional / Modern (Didone influence)\nExplanation: The typeface features a strong contrast between thick and thin strokes, vertical stress, and relatively fine, horizontal serifs. This style is characteristic of the \"Modern\" or \"Didone\" era of typography, which was widely used in academic and scientific publishing in Germany during the early 20th century."
+    },
+    "typographie": {
+        "category": "Serif/Roman",
+        "subtype": "Transitional / Modern (Didone influence)"
+    },
     "_annotations": {
         "metadata.title": {
             "lisibilite": "Lisible"
@@ -36,7 +47,15 @@
         },
         "langue": {
             "lisibilite": "Lisible"
+        },
+        "metadata.identifier": {
+            "lisibilite": "Lisible"
+        },
+        "metadata.iiif_manifest": {
+            "lisibilite": "Lisible"
+        },
+        "ark": {
+            "lisibilite": "Lisible"
         }
-    },
-    "ark": "bpt6k91973r"
+    }
 }

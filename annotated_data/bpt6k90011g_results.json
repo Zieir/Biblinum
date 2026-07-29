@@ -10,6 +10,18 @@
         "identifier": "http://gallica.bnf.fr/ark:/12148/bpt6k90011g",
         "iiif_manifest": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k90011g/manifest.json"
     },
+    "langue": "ru (Russian)",
+    "ark": "bpt6k90011g",
+    "typographie_suggestion": {
+        "category": "Serif/Roman",
+        "subtype": "Slab Serif (Egyptian)",
+        "explanation": "The main title \"ОСНОВЫ ХИМИИ\" features heavy, block-like serifs with little to no bracketing, characteristic of the Slab Serif style common in early 20th-century industrial and academic printing.",
+        "raw": "Category: Serif/Roman\nSubtype: Slab Serif (Egyptian)\nExplanation: The main title \"ОСНОВЫ ХИМИИ\" features heavy, block-like serifs with little to no bracketing, characteristic of the Slab Serif style common in early 20th-century industrial and academic printing."
+    },
+    "typographie": {
+        "category": "Serif/Roman",
+        "subtype": "Slab Serif (Egyptian)"
+    },
     "_annotations": {
         "metadata.title": {
             "lisibilite": "Lisible"
@@ -35,8 +47,15 @@
         },
         "langue": {
             "lisibilite": "Lisible"
+        },
+        "metadata.identifier": {
+            "lisibilite": "Lisible"
+        },
+        "metadata.iiif_manifest": {
+            "lisibilite": "Lisible"
+        },
+        "ark": {
+            "lisibilite": "Lisible"
         }
-    },
-    "langue": "ru (Russian)",
-    "ark": "bpt6k90011g"
+    }
 }

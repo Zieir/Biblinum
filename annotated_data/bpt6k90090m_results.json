@@ -3,7 +3,7 @@
         "title": "TRAITÉ PRATIQUE DES ESSAIS AU CHALUMEAU",
         "title_complement": "CONTENANT TOUT CE QUI EST RELATIF A L'EMPLOI DE CET INSTRUMENT ET AUX REACTIONS QUE LES CORPS DE LA CHIMIE PRESENTENT DANS LES ESSAIS PYROGNOSTIQUES; LA DESCRIPTION DES PROPRIETES PHYSIQUES DES MINERAUX ET LES CARACTERES CHIMIQUES QUI PERMETTENT DE LES FAIRE RECONNAITRE DANS LES ESSAIS AU CHALUMEAU",
         "volume_number": "",
-        "authors": "TERREIL, A.",
+        "authors": "A. TERREIL",
         "publisher": "LIBRAIRIE F. SAVY",
         "publication_place": "PARIS",
         "date": "1875",
@@ -11,6 +11,17 @@
         "iiif_manifest": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k90090m/manifest.json"
     },
     "langue": "fr (French)",
+    "ark": "bpt6k90090m",
+    "typographie_suggestion": {
+        "category": "Serif/Roman",
+        "subtype": "Didone (Modern)",
+        "explanation": "The typeface features the high contrast between thick and thin strokes, vertical stress, and small, horizontal serifs characteristic of the \"Modern\" or Didone style (similar to Bodoni or Didot), which was prevalent in 19th-century French printing.",
+        "raw": "Category: Serif/Roman\nSubtype: Didone (Modern)\nExplanation: The typeface features the high contrast between thick and thin strokes, vertical stress, and small, horizontal serifs characteristic of the \"Modern\" or Didone style (similar to Bodoni or Didot), which was prevalent in 19th-century French printing."
+    },
+    "typographie": {
+        "category": "Serif/Roman",
+        "subtype": "Didone (Modern)"
+    },
     "_annotations": {
         "metadata.title": {
             "lisibilite": "Lisible"
@@ -23,7 +34,8 @@
             "cause": "absent"
         },
         "metadata.authors": {
-            "lisibilite": "Lisible"
+            "lisibilite": "Lisible",
+            "correction": "A. TERREIL"
         },
         "metadata.publisher": {
             "lisibilite": "Lisible"
@@ -36,7 +48,15 @@
         },
         "langue": {
             "lisibilite": "Lisible"
+        },
+        "metadata.identifier": {
+            "lisibilite": "Lisible"
+        },
+        "metadata.iiif_manifest": {
+            "lisibilite": "Lisible"
+        },
+        "ark": {
+            "lisibilite": "Lisible"
         }
-    },
-    "ark": "bpt6k90090m"
+    }
 }

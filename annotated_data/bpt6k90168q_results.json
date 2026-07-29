@@ -1,9 +1,9 @@
 {
     "metadata": {
-        "title": "TRAITÉ DE CHIMIE",
-        "title_complement": "MINÉRALE ET ORGANIQUE",
+        "title": "TRAITÉ DE CHIMIE MINÉRALE ET ORGANIQUE",
+        "title_complement": "",
         "volume_number": "TOME I",
-        "authors": "WILLM, Ed. ; HANRIOT, M.",
+        "authors": "Ed. WILLM; M. HANRIOT",
         "publisher": "G. MASSON, ÉDITEUR",
         "publication_place": "PARIS",
         "date": "1888",
@@ -11,18 +11,33 @@
         "iiif_manifest": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k90168q/manifest.json"
     },
     "langue": "fr (French)",
+    "ark": "bpt6k90168q",
+    "typographie_suggestion": {
+        "category": "Serif/Roman",
+        "subtype": "Didone (Modern)",
+        "explanation": "The typeface features the high contrast between thick and thin strokes, vertical stress, and small, unbracketed (hairline) serifs characteristic of the \"Modern\" or Didone style popular in 19th-century academic publishing.",
+        "raw": "Category: Serif/Roman\nSubtype: Didone (Modern)\nExplanation: The typeface features the high contrast between thick and thin strokes, vertical stress, and small, unbracketed (hairline) serifs characteristic of the \"Modern\" or Didone style popular in 19th-century academic publishing."
+    },
+    "typographie": {
+        "category": "Serif/Roman",
+        "subtype": "Didone (Modern)"
+    },
     "_annotations": {
         "metadata.title": {
-            "lisibilite": "Lisible"
+            "lisibilite": "Lisible",
+            "correction": "TRAITÉ DE CHIMIE MINÉRALE ET ORGANIQUE"
         },
         "metadata.title_complement": {
-            "lisibilite": "Lisible"
+            "lisibilite": "Non lisible",
+            "cause": "absent",
+            "correction": ""
         },
         "metadata.volume_number": {
             "lisibilite": "Lisible"
         },
         "metadata.authors": {
-            "lisibilite": "Lisible"
+            "lisibilite": "Lisible",
+            "correction": "Ed. WILLM; M. HANRIOT"
         },
         "metadata.publisher": {
             "lisibilite": "Lisible"
@@ -35,7 +50,15 @@
         },
         "langue": {
             "lisibilite": "Lisible"
+        },
+        "metadata.identifier": {
+            "lisibilite": "Lisible"
+        },
+        "metadata.iiif_manifest": {
+            "lisibilite": "Lisible"
+        },
+        "ark": {
+            "lisibilite": "Lisible"
         }
-    },
-    "ark": "bpt6k90168q"
+    }
 }

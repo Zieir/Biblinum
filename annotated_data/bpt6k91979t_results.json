@@ -1,9 +1,9 @@
 {
     "metadata": {
-        "title": "MINERAIS DE FER",
-        "title_complement": "DE LA FRANCE DE L'ALGÉRIE ET DE LA TUNISIE ANALYSÉES AU BUREAU D'ESSAIS DE L'ÉCOLE DES MINES DE 1845 A 1889",
+        "title": "MINERAIS DE FER DE LA FRANCE DE L'ALGÉRIE ET DE LA TUNISIE ",
+        "title_complement": "ANALYSÉES AU BUREAU D'ESSAIS DE L'ÉCOLE DES MINES DE 1845 A 1889",
         "volume_number": "",
-        "authors": "CARNOT, Ad.",
+        "authors": "Ad. CARNOT",
         "publisher": "Vve Ch. DUNOD, EDITEUR",
         "publication_place": "PARIS",
         "date": "1890",
@@ -11,12 +11,25 @@
         "iiif_manifest": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k91979t/manifest.json"
     },
     "langue": "fr (French)",
+    "ark": "bpt6k91979t",
+    "typographie_suggestion": {
+        "category": "Serif/Roman",
+        "subtype": "Didone (Modern)",
+        "explanation": "The typeface features the high contrast between thick and thin strokes, vertical stress, and small, horizontal serifs characteristic of the \"Modern\" or Didone style popular in 19th-century academic and official printing.",
+        "raw": "Category: Serif/Roman\nSubtype: Didone (Modern)\nExplanation: The typeface features the high contrast between thick and thin strokes, vertical stress, and small, horizontal serifs characteristic of the \"Modern\" or Didone style popular in 19th-century academic and official printing."
+    },
+    "typographie": {
+        "category": "Serif/Roman",
+        "subtype": "Didone (Modern)"
+    },
     "_annotations": {
         "metadata.title": {
-            "lisibilite": "Lisible"
+            "lisibilite": "Lisible",
+            "correction": "MINERAIS DE FER DE LA FRANCE DE L'ALGÉRIE ET DE LA TUNISIE "
         },
         "metadata.title_complement": {
-            "lisibilite": "Lisible"
+            "lisibilite": "Lisible",
+            "correction": "ANALYSÉES AU BUREAU D'ESSAIS DE L'ÉCOLE DES MINES DE 1845 A 1889"
         },
         "metadata.volume_number": {
             "lisibilite": "Non lisible",
@@ -24,7 +37,7 @@
         },
         "metadata.authors": {
             "lisibilite": "Lisible",
-            "correction": "CARNOT, Ad."
+            "correction": "Ad. CARNOT"
         },
         "metadata.publisher": {
             "lisibilite": "Lisible"
@@ -37,7 +50,15 @@
         },
         "langue": {
             "lisibilite": "Lisible"
+        },
+        "metadata.identifier": {
+            "lisibilite": "Lisible"
+        },
+        "metadata.iiif_manifest": {
+            "lisibilite": "Lisible"
+        },
+        "ark": {
+            "lisibilite": "Lisible"
         }
-    },
-    "ark": "bpt6k91979t"
+    }
 }

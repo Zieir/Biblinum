@@ -3,7 +3,7 @@
         "title": "COURS DE CHIMIE GÉNÉRALE",
         "title_complement": "",
         "volume_number": "TOME PREMIER",
-        "authors": "PELOUZE, J. ; FREMY, E.",
+        "authors": "J. PELOUZE; E. FREMY",
         "publisher": "VICTOR MASSON",
         "publication_place": "PARIS",
         "date": "1848",
@@ -11,6 +11,17 @@
         "iiif_manifest": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k918995/manifest.json"
     },
     "langue": "fr (French)",
+    "ark": "bpt6k918995",
+    "typographie_suggestion": {
+        "category": "Serif/Roman",
+        "subtype": "Didone (Modern)",
+        "explanation": "The main title \"CHIMIE GÉNÉRALE\" exhibits the classic characteristics of the Didone style: a high contrast between thick and thin strokes, vertical stress, and small, unbracketed (hairline) serifs. This style was highly prevalent in academic and formal printing during the early to mid-19th century.",
+        "raw": "Category: Serif/Roman\nSubtype: Didone (Modern)\nExplanation: The main title \"CHIMIE GÉNÉRALE\" exhibits the classic characteristics of the Didone style: a high contrast between thick and thin strokes, vertical stress, and small, unbracketed (hairline) serifs. This style was highly prevalent in academic and formal printing during the early to mid-19th century."
+    },
+    "typographie": {
+        "category": "Serif/Roman",
+        "subtype": "Didone (Modern)"
+    },
     "_annotations": {
         "metadata.title": {
             "lisibilite": "Lisible"
@@ -23,7 +34,8 @@
             "lisibilite": "Lisible"
         },
         "metadata.authors": {
-            "lisibilite": "Lisible"
+            "lisibilite": "Lisible",
+            "correction": "J. PELOUZE; E. FREMY"
         },
         "metadata.publisher": {
             "lisibilite": "Lisible"
@@ -36,7 +48,15 @@
         },
         "langue": {
             "lisibilite": "Lisible"
+        },
+        "metadata.identifier": {
+            "lisibilite": "Lisible"
+        },
+        "metadata.iiif_manifest": {
+            "lisibilite": "Lisible"
+        },
+        "ark": {
+            "lisibilite": "Lisible"
         }
-    },
-    "ark": "bpt6k918995"
+    }
 }

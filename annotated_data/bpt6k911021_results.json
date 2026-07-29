@@ -3,7 +3,7 @@
         "title": "SUR LES RELATIONS D'ISOMORPHISME",
         "title_complement": "QUI EXISTENT ENTRE LES MÉTAUX DU GROUPE DE L'AZOTE",
         "volume_number": "",
-        "authors": "NICKLÈS, J.",
+        "authors": "J. NICKLÈS",
         "publisher": "Vve RAYBOIS, IMPRIMEUR DE L'ACADÉMIE DE STANISLAS",
         "publication_place": "NANCY",
         "date": "1862",
@@ -11,6 +11,17 @@
         "iiif_manifest": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k911021/manifest.json"
     },
     "langue": "fr (French)",
+    "ark": "bpt6k911021",
+    "typographie_suggestion": {
+        "category": "Serif/Roman",
+        "subtype": "Didone (Modern)",
+        "explanation": "The typeface features a strong contrast between thick and thin strokes, vertical stress, and thin, horizontal serifs, which are characteristic of the \"Modern\" or Didone style (similar to Bodoni or Didot) common in academic and formal printing of the 19th and early 20th centuries.",
+        "raw": "Category: Serif/Roman\nSubtype: Didone (Modern)\nExplanation: The typeface features a strong contrast between thick and thin strokes, vertical stress, and thin, horizontal serifs, which are characteristic of the \"Modern\" or Didone style (similar to Bodoni or Didot) common in academic and formal printing of the 19th and early 20th centuries."
+    },
+    "typographie": {
+        "category": "Serif/Roman",
+        "subtype": "Didone (Modern)"
+    },
     "_annotations": {
         "metadata.title": {
             "lisibilite": "Lisible",
@@ -25,7 +36,7 @@
         },
         "metadata.authors": {
             "lisibilite": "Lisible",
-            "correction": "NICKLÈS, J."
+            "correction": "J. NICKLÈS"
         },
         "metadata.publisher": {
             "lisibilite": "Lisible",
@@ -39,7 +50,15 @@
         },
         "langue": {
             "lisibilite": "Lisible"
+        },
+        "metadata.identifier": {
+            "lisibilite": "Lisible"
+        },
+        "metadata.iiif_manifest": {
+            "lisibilite": "Lisible"
+        },
+        "ark": {
+            "lisibilite": "Lisible"
         }
-    },
-    "ark": "bpt6k911021"
+    }
 }

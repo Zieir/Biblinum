@@ -3,7 +3,7 @@
         "title": "HENRI FAYOL",
         "title_complement": "LE FONDATEUR DE LA DOCTRINE ADMINISTRATIVE",
         "volume_number": "",
-        "authors": "VERNEY, Henri",
+        "authors": "Henri VERNEY",
         "publisher": "DUNOD",
         "publication_place": "PARIS",
         "date": "1925",
@@ -11,6 +11,17 @@
         "iiif_manifest": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k90141p/manifest.json"
     },
     "langue": "fr (French)",
+    "ark": "bpt6k90141p",
+    "typographie_suggestion": {
+        "category": "Serif/Roman",
+        "subtype": "Transitional / Didone",
+        "explanation": "The typeface features a strong contrast between thick and thin strokes, vertical stress, and relatively flat, thin serifs, which are characteristic of the Transitional and Didone styles common in early 20th-century formal printing.",
+        "raw": "Category: Serif/Roman\nSubtype: Transitional / Didone\nExplanation: The typeface features a strong contrast between thick and thin strokes, vertical stress, and relatively flat, thin serifs, which are characteristic of the Transitional and Didone styles common in early 20th-century formal printing."
+    },
+    "typographie": {
+        "category": "Serif/Roman",
+        "subtype": "Transitional / Didone"
+    },
     "_annotations": {
         "metadata.title": {
             "lisibilite": "Lisible"
@@ -19,10 +30,12 @@
             "lisibilite": "Lisible"
         },
         "metadata.volume_number": {
-            "lisibilite": "Lisible"
+            "lisibilite": "Non lisible",
+            "cause": "absent"
         },
         "metadata.authors": {
-            "lisibilite": "Lisible"
+            "lisibilite": "Lisible",
+            "correction": "Henri VERNEY"
         },
         "metadata.publisher": {
             "lisibilite": "Lisible"
@@ -35,7 +48,15 @@
         },
         "langue": {
             "lisibilite": "Lisible"
+        },
+        "metadata.identifier": {
+            "lisibilite": "Lisible"
+        },
+        "metadata.iiif_manifest": {
+            "lisibilite": "Lisible"
+        },
+        "ark": {
+            "lisibilite": "Lisible"
         }
-    },
-    "ark": "bpt6k90141p"
+    }
 }

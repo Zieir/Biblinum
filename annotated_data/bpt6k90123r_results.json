@@ -3,7 +3,7 @@
         "title": "Supplément à la traduction française de la 5e édition du Système de chimie",
         "title_complement": "",
         "volume_number": "",
-        "authors": "Thomsen, Th. ; Riffault, J.",
+        "authors": "Thomson, Th.",
         "publisher": "Méquignon-Marvis",
         "publication_place": "Paris",
         "date": "1822",
@@ -11,6 +11,17 @@
         "iiif_manifest": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k90123r/manifest.json"
     },
     "langue": "fr (French)",
+    "ark": "bpt6k90123r",
+    "typographie_suggestion": {
+        "category": "Script",
+        "subtype": "Cursive",
+        "explanation": "The annotations are written in a fluid, connected handwriting style typical of 19th-century personal correspondence or scholarly notes.",
+        "raw": "Based on the provided image, there are two distinct styles of writing present. I will identify both:\n\n**For the printed text (Main body):**\nCategory: Serif/Roman\nSubtype: Didone (Modern)\nExplanation: The printed text features the high contrast between thick and thin strokes and vertical stress characteristic of early 19th-century French printing (similar to Didot or Bodoni).\n\n**For the handwritten notes (Annotations):**\nCategory: Script\nSubtype: Cursive\nExplanation: The annotations are written in a fluid, connected handwriting style typical of 19th-century personal correspondence or scholarly notes."
+    },
+    "typographie": {
+        "category": "Script",
+        "subtype": "Cursive"
+    },
     "_annotations": {
         "metadata.title": {
             "lisibilite": "Non lisible",
@@ -27,7 +38,9 @@
             "cause": "absent"
         },
         "metadata.authors": {
-            "lisibilite": "Lisible"
+            "lisibilite": "Non lisible",
+            "cause": "recouvert",
+            "correction": "Thomson, Th."
         },
         "metadata.publisher": {
             "lisibilite": "Lisible"
@@ -40,7 +53,15 @@
         },
         "langue": {
             "lisibilite": "Lisible"
+        },
+        "metadata.identifier": {
+            "lisibilite": "Lisible"
+        },
+        "metadata.iiif_manifest": {
+            "lisibilite": "Lisible"
+        },
+        "ark": {
+            "lisibilite": "Lisible"
         }
-    },
-    "ark": "bpt6k90123r"
+    }
 }

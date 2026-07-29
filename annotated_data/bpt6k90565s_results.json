@@ -1,7 +1,7 @@
 {
     "metadata": {
         "title": "Journée Victor GRIGNARD",
-        "title_complement": "",
+        "title_complement": "13 mai 1950",
         "volume_number": "",
         "authors": "",
         "publisher": "Université de Lyon",
@@ -11,13 +11,24 @@
         "iiif_manifest": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k90565s/manifest.json"
     },
     "langue": "fr (French)",
+    "ark": "bpt6k90565s",
+    "typographie_suggestion": {
+        "category": "Serif/Roman",
+        "subtype": "Transitional / Didone",
+        "explanation": "The typeface features a strong contrast between thick and thin strokes, vertical stress, and relatively flat, horizontal serifs. This is characteristic of the \"Modern\" or Didone style (like Bodoni or Didot), which was standard for formal academic and official French publications of this era.",
+        "raw": "Category: Serif/Roman\nSubtype: Transitional / Didone\nExplanation: The typeface features a strong contrast between thick and thin strokes, vertical stress, and relatively flat, horizontal serifs. This is characteristic of the \"Modern\" or Didone style (like Bodoni or Didot), which was standard for formal academic and official French publications of this era."
+    },
+    "typographie": {
+        "category": "Serif/Roman",
+        "subtype": "Transitional / Didone"
+    },
     "_annotations": {
         "metadata.title": {
             "lisibilite": "Lisible"
         },
         "metadata.title_complement": {
-            "lisibilite": "Non lisible",
-            "cause": "absent"
+            "lisibilite": "Lisible",
+            "correction": "13 mai 1950"
         },
         "metadata.volume_number": {
             "lisibilite": "Non lisible",
@@ -38,7 +49,15 @@
         },
         "langue": {
             "lisibilite": "Lisible"
+        },
+        "metadata.identifier": {
+            "lisibilite": "Lisible"
+        },
+        "metadata.iiif_manifest": {
+            "lisibilite": "Lisible"
+        },
+        "ark": {
+            "lisibilite": "Lisible"
         }
-    },
-    "ark": "bpt6k90565s"
+    }
 }

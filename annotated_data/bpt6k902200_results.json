@@ -1,9 +1,9 @@
 {
     "metadata": {
-        "title": "ŒUVRES",
-        "title_complement": "de Charles Hermite",
+        "title": "ŒUVRES de Charles Hermite",
+        "title_complement": "",
         "volume_number": "TOME III",
-        "authors": "Hermite, Charles",
+        "authors": "Charles Hermite",
         "publisher": "Gauthier-Villars",
         "publication_place": "Paris",
         "date": "1912",
@@ -11,19 +11,33 @@
         "iiif_manifest": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k902200/manifest.json"
     },
     "langue": "fr (French)",
+    "ark": "bpt6k902200",
+    "typographie_suggestion": {
+        "category": "Serif/Roman",
+        "subtype": "Slab Serif (Egyptian)",
+        "explanation": "The primary text (\"CHARLES HERMITE\") features heavy, block-like serifs with little to no bracketing, characteristic of Slab Serif typefaces common in 19th and early 20th-century printing.",
+        "raw": "Category: Serif/Roman\nSubtype: Slab Serif (Egyptian)\nExplanation: The primary text (\"CHARLES HERMITE\") features heavy, block-like serifs with little to no bracketing, characteristic of Slab Serif typefaces common in 19th and early 20th-century printing."
+    },
+    "typographie": {
+        "category": "Serif/Roman",
+        "subtype": "Slab Serif (Egyptian)"
+    },
     "_annotations": {
         "metadata.title": {
-            "lisibilite": "Lisible"
+            "lisibilite": "Lisible",
+            "correction": "ŒUVRES de Charles Hermite"
         },
         "metadata.title_complement": {
-            "lisibilite": "Lisible",
-            "correction": "de Charles Hermite"
+            "lisibilite": "Non lisible",
+            "cause": "absent",
+            "correction": ""
         },
         "metadata.volume_number": {
             "lisibilite": "Lisible"
         },
         "metadata.authors": {
-            "lisibilite": "Lisible"
+            "lisibilite": "Lisible",
+            "correction": "Charles Hermite"
         },
         "metadata.publisher": {
             "lisibilite": "Lisible"
@@ -36,7 +50,15 @@
         },
         "langue": {
             "lisibilite": "Lisible"
+        },
+        "metadata.identifier": {
+            "lisibilite": "Lisible"
+        },
+        "metadata.iiif_manifest": {
+            "lisibilite": "Lisible"
+        },
+        "ark": {
+            "lisibilite": "Lisible"
         }
-    },
-    "ark": "bpt6k902200"
+    }
 }

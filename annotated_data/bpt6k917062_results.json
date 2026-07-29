@@ -1,46 +1,67 @@
 {
     "metadata": {
-        "title": "TRAITÉ DES ESSAIS",
-        "title_complement": "PAR LA VOIE SÈCHE",
-        "volume_number": "",
-        "authors": "",
-        "publisher": "",
-        "publication_place": "",
-        "date": "",
+        "title": "TRAITÉ DES ESSAIS PAR LA VOIE SÈCHE",
+        "title_complement": "ou Des propriétés, de la composition et de l'essai des substances métalliques et des combustibles",
+        "volume_number": "TOME SECOND",
+        "authors": "P. BERTHIER",
+        "publisher": "THOMINE",
+        "publication_place": "PARIS",
+        "date": "1834",
         "identifier": "http://gallica.bnf.fr/ark:/12148/bpt6k917062",
         "iiif_manifest": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k917062/manifest.json"
     },
     "langue": "fr (French)",
+    "ark": "bpt6k917062",
+    "typographie_suggestion": {
+        "category": "Serif/Roman",
+        "subtype": "Didone (Modern)",
+        "explanation": "The typeface features the high contrast between thick and thin strokes, vertical stress, and thin, horizontal serifs characteristic of the \"Modern\" or Didone style (popularized by Didot and Bodoni), which was the standard for formal French printing in the early 19th century.",
+        "raw": "Category: Serif/Roman\nSubtype: Didone (Modern)\nExplanation: The typeface features the high contrast between thick and thin strokes, vertical stress, and thin, horizontal serifs characteristic of the \"Modern\" or Didone style (popularized by Didot and Bodoni), which was the standard for formal French printing in the early 19th century."
+    },
+    "typographie": {
+        "category": "Serif/Roman",
+        "subtype": "Didone (Modern)"
+    },
     "_annotations": {
         "metadata.title": {
-            "lisibilite": "Lisible"
+            "lisibilite": "Lisible",
+            "correction": "TRAITÉ DES ESSAIS PAR LA VOIE SÈCHE"
         },
         "metadata.title_complement": {
-            "lisibilite": "Lisible"
+            "lisibilite": "Lisible",
+            "correction": "ou Des propriétés, de la composition et de l'essai des substances métalliques et des combustibles"
         },
         "metadata.volume_number": {
-            "lisibilite": "Non lisible",
-            "cause": "absent"
+            "lisibilite": "Lisible",
+            "correction": "TOME SECOND"
         },
         "metadata.authors": {
-            "lisibilite": "Non lisible",
-            "cause": "absent"
+            "lisibilite": "Lisible",
+            "correction": "P. BERTHIER"
         },
         "metadata.publisher": {
-            "lisibilite": "Non lisible",
-            "cause": "absent"
+            "lisibilite": "Lisible",
+            "correction": "THOMINE"
         },
         "metadata.publication_place": {
-            "lisibilite": "Non lisible",
-            "cause": "absent"
+            "lisibilite": "Lisible",
+            "correction": "PARIS"
         },
         "metadata.date": {
-            "lisibilite": "Non lisible",
-            "cause": "absent"
+            "lisibilite": "Lisible",
+            "correction": "1834"
         },
         "langue": {
             "lisibilite": "Lisible"
+        },
+        "metadata.identifier": {
+            "lisibilite": "Lisible"
+        },
+        "metadata.iiif_manifest": {
+            "lisibilite": "Lisible"
+        },
+        "ark": {
+            "lisibilite": "Lisible"
         }
-    },
-    "ark": "bpt6k917062"
+    }
 }

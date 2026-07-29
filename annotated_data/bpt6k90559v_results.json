@@ -11,6 +11,17 @@
         "iiif_manifest": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k90559v/manifest.json"
     },
     "langue": "es (Spanish)",
+    "ark": "bpt6k90559v",
+    "typographie_suggestion": {
+        "category": "Serif/Roman",
+        "subtype": "Slab Serif (Egyptian)",
+        "explanation": "The primary text (specifically the title \"CENTENARIO...\") features heavy, block-like serifs with little to no bracketing, characteristic of Slab Serif typefaces common in 19th and early 20th-century printing.",
+        "raw": "Category: Serif/Roman\nSubtype: Slab Serif (Egyptian)\nExplanation: The primary text (specifically the title \"CENTENARIO...\") features heavy, block-like serifs with little to no bracketing, characteristic of Slab Serif typefaces common in 19th and early 20th-century printing."
+    },
+    "typographie": {
+        "category": "Serif/Roman",
+        "subtype": "Slab Serif (Egyptian)"
+    },
     "_annotations": {
         "metadata.title": {
             "lisibilite": "Lisible",
@@ -41,7 +52,15 @@
         },
         "langue": {
             "lisibilite": "Lisible"
+        },
+        "metadata.identifier": {
+            "lisibilite": "Lisible"
+        },
+        "metadata.iiif_manifest": {
+            "lisibilite": "Lisible"
+        },
+        "ark": {
+            "lisibilite": "Lisible"
         }
-    },
-    "ark": "bpt6k90559v"
+    }
 }

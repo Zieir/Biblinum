@@ -3,7 +3,7 @@
         "title": "PRINCIPE DE CHIMIE",
         "title_complement": "SUR LES THÉORIES MODERNES",
         "volume_number": "TOME SECOND",
-        "authors": "NAQUET, A. ; HANRIOT, M.",
+        "authors": "A. NAQUET; M. HANRIOT",
         "publisher": "LIBRAIRIE F. SAVY",
         "publication_place": "PARIS",
         "date": "1885",
@@ -11,6 +11,17 @@
         "iiif_manifest": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k91934v/manifest.json"
     },
     "langue": "fr (French)",
+    "ark": "bpt6k91934v",
+    "typographie_suggestion": {
+        "category": "Serif/Roman",
+        "subtype": "Didone (Modern)",
+        "explanation": "The main title \"DE CHIMIE\" exhibits the high contrast between thick and thin strokes and the vertical stress characteristic of the Didone style, which was prevalent in French printing during the late 18th and 19th centuries.",
+        "raw": "Category: Serif/Roman\nSubtype: Didone (Modern)\nExplanation: The main title \"DE CHIMIE\" exhibits the high contrast between thick and thin strokes and the vertical stress characteristic of the Didone style, which was prevalent in French printing during the late 18th and 19th centuries."
+    },
+    "typographie": {
+        "category": "Serif/Roman",
+        "subtype": "Didone (Modern)"
+    },
     "_annotations": {
         "metadata.title": {
             "lisibilite": "Non lisible",
@@ -24,7 +35,8 @@
             "lisibilite": "Lisible"
         },
         "metadata.authors": {
-            "lisibilite": "Lisible"
+            "lisibilite": "Lisible",
+            "correction": "A. NAQUET; M. HANRIOT"
         },
         "metadata.publisher": {
             "lisibilite": "Lisible"
@@ -37,7 +49,15 @@
         },
         "langue": {
             "lisibilite": "Lisible"
+        },
+        "metadata.identifier": {
+            "lisibilite": "Lisible"
+        },
+        "metadata.iiif_manifest": {
+            "lisibilite": "Lisible"
+        },
+        "ark": {
+            "lisibilite": "Lisible"
         }
-    },
-    "ark": "bpt6k91934v"
+    }
 }

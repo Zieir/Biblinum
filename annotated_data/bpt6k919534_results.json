@@ -3,7 +3,7 @@
         "title": "ROSCOES-SCHORLEMMER'S AUSFÜHRLICHES LEHRBUCH DER CHEMIE",
         "title_complement": "DIE KOHLENWASSERSTOFFE UND IHRE DERIVATE ODER ORGANISCHE CHEMIE",
         "volume_number": "ACHTER BAND, SECHSTER THEIL",
-        "authors": "JUL. WILH. BRÜHL, EDVARD HJELT, OSSIAN ASCHAN",
+        "authors": "JUL. WILH. BRÜHL; EDVARD HJELT; OSSIAN ASCHAN",
         "publisher": "FRIEDRICH VIEWEG UND SOHN",
         "publication_place": "BRAUNSCHWEIG",
         "date": "1901",
@@ -11,6 +11,17 @@
         "iiif_manifest": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k919534/manifest.json"
     },
     "langue": "de (German)",
+    "ark": "bpt6k919534",
+    "typographie_suggestion": {
+        "category": "Serif/Roman",
+        "subtype": "Modern / Didone",
+        "explanation": "The typeface features a high contrast between thick and thin strokes, vertical stress, and small, horizontal serifs, which are characteristic of the Modern (Didone) style popular in academic and formal printing during the late 19th and early 20th centuries.",
+        "raw": "Category: Serif/Roman\nSubtype: Modern / Didone\nExplanation: The typeface features a high contrast between thick and thin strokes, vertical stress, and small, horizontal serifs, which are characteristic of the Modern (Didone) style popular in academic and formal printing during the late 19th and early 20th centuries."
+    },
+    "typographie": {
+        "category": "Serif/Roman",
+        "subtype": "Modern / Didone"
+    },
     "_annotations": {
         "metadata.title": {
             "lisibilite": "Lisible",
@@ -24,7 +35,8 @@
             "correction": "ACHTER BAND, SECHSTER THEIL"
         },
         "metadata.authors": {
-            "lisibilite": "Lisible"
+            "lisibilite": "Lisible",
+            "correction": "JUL. WILH. BRÜHL; EDVARD HJELT; OSSIAN ASCHAN"
         },
         "metadata.publisher": {
             "lisibilite": "Lisible"
@@ -37,7 +49,15 @@
         },
         "langue": {
             "lisibilite": "Lisible"
+        },
+        "metadata.identifier": {
+            "lisibilite": "Lisible"
+        },
+        "metadata.iiif_manifest": {
+            "lisibilite": "Lisible"
+        },
+        "ark": {
+            "lisibilite": "Lisible"
         }
-    },
-    "ark": "bpt6k919534"
+    }
 }

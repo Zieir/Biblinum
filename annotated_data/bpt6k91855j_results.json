@@ -3,7 +3,7 @@
         "title": "TRAITÉ DE CHIMIE ORGANIQUE",
         "title_complement": "",
         "volume_number": "TOME TROISIÈME",
-        "authors": "LIEBIG, Justus",
+        "authors": "Justus LIEBIG",
         "publisher": "LIBRAIRIE DE FORTIN, MASSON ET C°",
         "publication_place": "PARIS",
         "date": "1844",
@@ -11,6 +11,17 @@
         "iiif_manifest": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k91855j/manifest.json"
     },
     "langue": "fr (French)",
+    "ark": "bpt6k91855j",
+    "typographie_suggestion": {
+        "category": "Serif/Roman",
+        "subtype": "Slab Serif (Egyptian)",
+        "explanation": "The main title features heavy, block-like serifs with little to no bracketing between the serif and the stem, which is characteristic of the Slab Serif style popular in the mid-19th century.",
+        "raw": "Based on the image provided, there are multiple typefaces used. I will identify the most prominent one (the main title \"CHIMIE ORGANIQUE\").\n\nCategory: Serif/Roman\nSubtype: Slab Serif (Egyptian)\nExplanation: The main title features heavy, block-like serifs with little to no bracketing between the serif and the stem, which is characteristic of the Slab Serif style popular in the mid-19th century."
+    },
+    "typographie": {
+        "category": "Serif/Roman",
+        "subtype": "Slab Serif (Egyptian)"
+    },
     "_annotations": {
         "metadata.title": {
             "lisibilite": "Lisible"
@@ -23,7 +34,8 @@
             "lisibilite": "Lisible"
         },
         "metadata.authors": {
-            "lisibilite": "Lisible"
+            "lisibilite": "Lisible",
+            "correction": "Justus LIEBIG"
         },
         "metadata.publisher": {
             "lisibilite": "Lisible"
@@ -36,7 +48,15 @@
         },
         "langue": {
             "lisibilite": "Lisible"
+        },
+        "metadata.identifier": {
+            "lisibilite": "Lisible"
+        },
+        "metadata.iiif_manifest": {
+            "lisibilite": "Lisible"
+        },
+        "ark": {
+            "lisibilite": "Lisible"
         }
-    },
-    "ark": "bpt6k91855j"
+    }
 }

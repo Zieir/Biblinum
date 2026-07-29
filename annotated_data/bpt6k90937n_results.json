@@ -3,7 +3,7 @@
         "title": "Ausfürliches Lehrbuch der Chemie",
         "title_complement": "Die Kohlenwasserstoffe und ihre Derivate oder Organische Chemie",
         "volume_number": "Fünfter Band, Dritter Theil",
-        "authors": "H.E. Roscoe, C. Schorlemmer, Jul. Wilh. Brühl, Edvard Hjelt, Ossian Aschan",
+        "authors": "H.E. Roscoe; C. Schorlemmer; Jul. Wilh. Brühl; Edvard Hjelt; Ossian Aschan",
         "publisher": "Friedrich Vieweg und Sohn",
         "publication_place": "Braunschweig",
         "date": "1896",
@@ -11,6 +11,17 @@
         "iiif_manifest": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k90937n/manifest.json"
     },
     "langue": "de (German)",
+    "ark": "bpt6k90937n",
+    "typographie_suggestion": {
+        "category": "Serif/Roman",
+        "subtype": "Modern / Didone",
+        "explanation": "The typeface features a strong contrast between thick and thin strokes, vertical stress, and fine, horizontal serifs, which are characteristic of the Modern/Didone style common in 19th-century printing.",
+        "raw": "Category: Serif/Roman\nSubtype: Modern / Didone\nExplanation: The typeface features a strong contrast between thick and thin strokes, vertical stress, and fine, horizontal serifs, which are characteristic of the Modern/Didone style common in 19th-century printing."
+    },
+    "typographie": {
+        "category": "Serif/Roman",
+        "subtype": "Modern / Didone"
+    },
     "_annotations": {
         "metadata.title": {
             "lisibilite": "Lisible"
@@ -24,7 +35,7 @@
         },
         "metadata.authors": {
             "lisibilite": "Lisible",
-            "correction":"H.E. Roscoe, C. Schorlemmer, Jul. Wilh. Brühl, Edvard Hjelt, Ossian Aschan"
+            "correction": "H.E. Roscoe; C. Schorlemmer; Jul. Wilh. Brühl; Edvard Hjelt; Ossian Aschan"
         },
         "metadata.publisher": {
             "lisibilite": "Lisible"
@@ -38,7 +49,15 @@
         },
         "langue": {
             "lisibilite": "Lisible"
+        },
+        "metadata.identifier": {
+            "lisibilite": "Lisible"
+        },
+        "metadata.iiif_manifest": {
+            "lisibilite": "Lisible"
+        },
+        "ark": {
+            "lisibilite": "Lisible"
         }
-    },
-    "ark": "bpt6k90937n"
+    }
 }

@@ -1,9 +1,9 @@
 {
     "metadata": {
         "title": "EQUIVALENTS, ATOMES, MOLÉCULES",
-        "title_complement": "",
+        "title_complement": "thèse présentée et soutenue ",
         "volume_number": "",
-        "authors": "GRIMAUX, Édouard",
+        "authors": "Édouard GRIMAUX",
         "publisher": "F. Savy",
         "publication_place": "Paris",
         "date": "1866",
@@ -11,13 +11,24 @@
         "iiif_manifest": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k91806b/manifest.json"
     },
     "langue": "fr (French)",
+    "ark": "bpt6k91806b",
+    "typographie_suggestion": {
+        "category": "Serif/Roman",
+        "subtype": "Didone (Modern)",
+        "explanation": "The text exhibits the high contrast between thick and thin strokes, vertical stress, and flat, unbracketed serifs characteristic of the \"Modern\" or Didone style (such as Bodoni or Didot), which was the standard for formal French academic printing in the 19th century.",
+        "raw": "Since the image contains multiple typefaces, I will identify the dominant printed style used for the main titles and body text.\n\nCategory: Serif/Roman\nSubtype: Didone (Modern)\nExplanation: The text exhibits the high contrast between thick and thin strokes, vertical stress, and flat, unbracketed serifs characteristic of the \"Modern\" or Didone style (such as Bodoni or Didot), which was the standard for formal French academic printing in the 19th century."
+    },
+    "typographie": {
+        "category": "Serif/Roman",
+        "subtype": "Didone (Modern)"
+    },
     "_annotations": {
         "metadata.title": {
             "lisibilite": "Lisible"
         },
         "metadata.title_complement": {
-            "lisibilite": "Non lisible",
-            "cause": "absent"
+            "lisibilite": "Lisible",
+            "correction": "thèse présentée et soutenue "
         },
         "metadata.volume_number": {
             "lisibilite": "Non lisible",
@@ -25,7 +36,7 @@
         },
         "metadata.authors": {
             "lisibilite": "Lisible",
-            "correction": "GRIMAUX, Édouard"
+            "correction": "Édouard GRIMAUX"
         },
         "metadata.publisher": {
             "lisibilite": "Lisible"
@@ -38,7 +49,15 @@
         },
         "langue": {
             "lisibilite": "Lisible"
+        },
+        "metadata.identifier": {
+            "lisibilite": "Lisible"
+        },
+        "metadata.iiif_manifest": {
+            "lisibilite": "Lisible"
+        },
+        "ark": {
+            "lisibilite": "Lisible"
         }
-    },
-    "ark": "bpt6k91806b"
+    }
 }

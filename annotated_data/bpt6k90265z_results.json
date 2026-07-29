@@ -3,7 +3,7 @@
         "title": "PRINCIPES THÉORIQUES ET PRATIQUES D'ANALYSE MINÉRALE",
         "title_complement": "",
         "volume_number": "",
-        "authors": "CHESNEAU, G.",
+        "authors": "G. CHESNEAU",
         "publisher": "CH. BÉRANGER ÉDITEUR",
         "publication_place": "PARIS & LIÈGE",
         "date": "",
@@ -11,6 +11,17 @@
         "iiif_manifest": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k90265z/manifest.json"
     },
     "langue": "fr (French)",
+    "ark": "bpt6k90265z",
+    "typographie_suggestion": {
+        "category": "Serif/Roman",
+        "subtype": "Didone (Modern)",
+        "explanation": "The typeface features the high contrast between thick and thin strokes, vertical stress, and small, horizontal serifs characteristic of the \"Modern\" or Didone style (similar to Bodoni or Didot), which was prevalent in 19th-century academic and scientific publishing.",
+        "raw": "Category: Serif/Roman\nSubtype: Didone (Modern)\nExplanation: The typeface features the high contrast between thick and thin strokes, vertical stress, and small, horizontal serifs characteristic of the \"Modern\" or Didone style (similar to Bodoni or Didot), which was prevalent in 19th-century academic and scientific publishing."
+    },
+    "typographie": {
+        "category": "Serif/Roman",
+        "subtype": "Didone (Modern)"
+    },
     "_annotations": {
         "metadata.title": {
             "lisibilite": "Lisible"
@@ -25,7 +36,8 @@
         },
         "metadata.authors": {
             "lisibilite": "Non lisible",
-            "cause": "qualite"
+            "cause": "qualite",
+            "correction": "G. CHESNEAU"
         },
         "metadata.publisher": {
             "lisibilite": "Non lisible",
@@ -41,7 +53,15 @@
         },
         "langue": {
             "lisibilite": "Lisible"
+        },
+        "metadata.identifier": {
+            "lisibilite": "Lisible"
+        },
+        "metadata.iiif_manifest": {
+            "lisibilite": "Lisible"
+        },
+        "ark": {
+            "lisibilite": "Lisible"
         }
-    },
-    "ark": "bpt6k90265z"
+    }
 }

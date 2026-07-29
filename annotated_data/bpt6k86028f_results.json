@@ -3,12 +3,24 @@
         "title": "LEÇONS DE CHIMIE PHYSIQUE",
         "title_complement": "professées à l'Université de Berlin. LA STATIQUE CHIMIQUE",
         "volume_number": "DEUXIÈME PARTIE",
-        "authors": "VAN'T HOFF, J. H.",
+        "authors": "J. H. VAN'T HOFF",
         "publisher": "LIBRAIRIE SCIENTIFIQUE A. HERMANN",
         "publication_place": "PARIS",
         "date": "1899",
         "identifier": "http://gallica.bnf.fr/ark:/12148/bpt6k86028f",
         "iiif_manifest": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k86028f/manifest.json"
+    },
+    "langue": "fr (French)",
+    "ark": "bpt6k86028f",
+    "typographie_suggestion": {
+        "category": "Serif/Roman",
+        "subtype": "Modern (Didone)",
+        "explanation": "The typeface features a high contrast between thick and thin strokes, vertical stress, and small, horizontal serifs, which are characteristic of the Modern/Didone style prevalent in academic and formal publishing during the late 19th century.",
+        "raw": "Category: Serif/Roman\nSubtype: Modern (Didone)\nExplanation: The typeface features a high contrast between thick and thin strokes, vertical stress, and small, horizontal serifs, which are characteristic of the Modern/Didone style prevalent in academic and formal publishing during the late 19th century."
+    },
+    "typographie": {
+        "category": "Serif/Roman",
+        "subtype": "Modern (Didone)"
     },
     "_annotations": {
         "metadata.title": {
@@ -22,7 +34,8 @@
             "lisibilite": "Lisible"
         },
         "metadata.authors": {
-            "lisibilite": "Lisible"
+            "lisibilite": "Lisible",
+            "correction": "J. H. VAN'T HOFF"
         },
         "metadata.publisher": {
             "lisibilite": "Lisible"
@@ -35,8 +48,15 @@
         },
         "langue": {
             "lisibilite": "Lisible"
+        },
+        "metadata.identifier": {
+            "lisibilite": "Lisible"
+        },
+        "metadata.iiif_manifest": {
+            "lisibilite": "Lisible"
+        },
+        "ark": {
+            "lisibilite": "Lisible"
         }
-    },
-    "langue": "fr (French)",
-    "ark": "bpt6k86028f"
+    }
 }

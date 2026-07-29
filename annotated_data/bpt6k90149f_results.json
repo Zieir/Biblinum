@@ -3,14 +3,25 @@
         "title": "NOUVELLES MANIPULATIONS CHIMIQUES SIMPLIFIÉES",
         "title_complement": "OU LABORATOIRE ÉCONOMIQUE DE L'ETUDIANT",
         "volume_number": "",
-        "authors": "Violette, Henry",
+        "authors": "Henry Violette",
         "publisher": "LACROIX ET BAUDY",
         "publication_place": "PARIS",
-        "date": "1868",
+        "date": "1860",
         "identifier": "http://gallica.bnf.fr/ark:/12148/bpt6k90149f",
         "iiif_manifest": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k90149f/manifest.json"
     },
     "langue": "fr (French)",
+    "ark": "bpt6k90149f",
+    "typographie_suggestion": {
+        "category": "Serif/Roman",
+        "subtype": "Didone (Modern)",
+        "explanation": "The main titles exhibit the high contrast between thick and thin strokes and vertical stress characteristic of the Didone style (similar to Bodoni or Didot), which was the standard for French academic and scientific publishing in the early 19th century.",
+        "raw": "Category: Serif/Roman\nSubtype: Didone (Modern)\nExplanation: The main titles exhibit the high contrast between thick and thin strokes and vertical stress characteristic of the Didone style (similar to Bodoni or Didot), which was the standard for French academic and scientific publishing in the early 19th century."
+    },
+    "typographie": {
+        "category": "Serif/Roman",
+        "subtype": "Didone (Modern)"
+    },
     "_annotations": {
         "metadata.title": {
             "lisibilite": "Lisible"
@@ -23,7 +34,8 @@
             "cause": "absent"
         },
         "metadata.authors": {
-            "lisibilite": "Lisible"
+            "lisibilite": "Lisible",
+            "correction": "Henry Violette"
         },
         "metadata.publisher": {
             "lisibilite": "Lisible"
@@ -34,11 +46,19 @@
         "metadata.date": {
             "lisibilite": "Non lisible",
             "cause": "qualite",
-            "correction": "1868"
+            "correction": "1860"
         },
         "langue": {
             "lisibilite": "Lisible"
+        },
+        "metadata.identifier": {
+            "lisibilite": "Lisible"
+        },
+        "metadata.iiif_manifest": {
+            "lisibilite": "Lisible"
+        },
+        "ark": {
+            "lisibilite": "Lisible"
         }
-    },
-    "ark": "bpt6k90149f"
+    }
 }

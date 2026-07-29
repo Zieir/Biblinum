@@ -3,7 +3,7 @@
         "title": "Mémoires et Notes",
         "title_complement": "",
         "volume_number": "deuxième",
-        "authors": "Lieben, Adolf",
+        "authors": "Adolf Lieben",
         "publisher": "",
         "publication_place": "Paris",
         "date": "",
@@ -11,6 +11,17 @@
         "iiif_manifest": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k91720m/manifest.json"
     },
     "langue": "fr (French)",
+    "ark": "bpt6k91720m",
+    "typographie_suggestion": {
+        "category": "Script",
+        "subtype": "Cursive / Copperplate influence",
+        "explanation": "The text features fluid, connected strokes with a distinct contrast between thick and thin lines, characteristic of formal handwritten calligraphy or a script typeface designed to mimic 18th-19th century penmanship.",
+        "raw": "Category: Script\nSubtype: Cursive / Copperplate influence\nExplanation: The text features fluid, connected strokes with a distinct contrast between thick and thin lines, characteristic of formal handwritten calligraphy or a script typeface designed to mimic 18th-19th century penmanship."
+    },
+    "typographie": {
+        "category": "Script",
+        "subtype": "Cursive / Copperplate influence"
+    },
     "_annotations": {
         "metadata.title": {
             "lisibilite": "Lisible"
@@ -23,7 +34,8 @@
             "lisibilite": "Lisible"
         },
         "metadata.authors": {
-            "lisibilite": "Lisible"
+            "lisibilite": "Lisible",
+            "correction": "Adolf Lieben"
         },
         "metadata.publisher": {
             "lisibilite": "Non lisible",
@@ -40,7 +52,15 @@
         "langue": {
             "lisibilite": "Lisible",
             "correction": "fr (French)"
+        },
+        "metadata.identifier": {
+            "lisibilite": "Lisible"
+        },
+        "metadata.iiif_manifest": {
+            "lisibilite": "Lisible"
+        },
+        "ark": {
+            "lisibilite": "Lisible"
         }
-    },
-    "ark": "bpt6k91720m"
+    }
 }

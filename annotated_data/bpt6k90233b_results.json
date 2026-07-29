@@ -3,7 +3,7 @@
         "title": "RECHERCHES CHIMIQUES SUR L'ISOLEMENT DU FLUOR",
         "title_complement": "",
         "volume_number": "",
-        "authors": "MOISSAN, Henri",
+        "authors": "Henri MOISSAN",
         "publisher": "GAUTHIER-VILLARS, IMPRIMEUR-LIBRAIRE",
         "publication_place": "PARIS",
         "date": "1887",
@@ -11,6 +11,17 @@
         "iiif_manifest": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k90233b/manifest.json"
     },
     "langue": "fr (French)",
+    "ark": "bpt6k90233b",
+    "typographie_suggestion": {
+        "category": "Serif/Roman",
+        "subtype": "Modern (Didone)",
+        "explanation": "The primary text features the high contrast between thick and thin strokes and vertical stress characteristic of the Modern/Didone style (similar to Bodoni or Didot), which was standard for academic and official French printing in the late 19th century.",
+        "raw": "Category: Serif/Roman\nSubtype: Modern (Didone)\nExplanation: The primary text features the high contrast between thick and thin strokes and vertical stress characteristic of the Modern/Didone style (similar to Bodoni or Didot), which was standard for academic and official French printing in the late 19th century."
+    },
+    "typographie": {
+        "category": "Serif/Roman",
+        "subtype": "Modern (Didone)"
+    },
     "_annotations": {
         "metadata.title": {
             "lisibilite": "Lisible"
@@ -24,7 +35,8 @@
             "cause": "absent"
         },
         "metadata.authors": {
-            "lisibilite": "Lisible"
+            "lisibilite": "Lisible",
+            "correction": "Henri MOISSAN"
         },
         "metadata.publisher": {
             "lisibilite": "Lisible"
@@ -37,7 +49,15 @@
         },
         "langue": {
             "lisibilite": "Lisible"
+        },
+        "metadata.identifier": {
+            "lisibilite": "Lisible"
+        },
+        "metadata.iiif_manifest": {
+            "lisibilite": "Lisible"
+        },
+        "ark": {
+            "lisibilite": "Lisible"
         }
-    },
-    "ark": "bpt6k90233b"
+    }
 }

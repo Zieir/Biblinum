@@ -3,7 +3,7 @@
         "title": "EXPOSÉ DE QUELQUES PROPRIÉTÉS GÉNÉRALES DES CORPS",
         "title_complement": "",
         "volume_number": "",
-        "authors": "DITTE, Alfred",
+        "authors": "Alfred DITTE",
         "publisher": "DUNOD",
         "publication_place": "PARIS",
         "date": "1881",
@@ -11,6 +11,17 @@
         "iiif_manifest": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k91759n/manifest.json"
     },
     "langue": "fr (French)",
+    "ark": "bpt6k91759n",
+    "typographie_suggestion": {
+        "category": "Serif",
+        "subtype": "Slab Serif (Egyptian)",
+        "explanation": "The main title features heavy, block-like serifs with little to no bracketing, characteristic of the \"Egyptian\" or Slab Serif styles popular in 19th-century printing for emphasis and titles.",
+        "raw": "Based on the image provided, there are several typefaces used. I will identify the most prominent one (the main title \"QUELQUES PROPRIÉTÉS GÉNÉRALES\").\n\nCategory: Serif\nSubtype: Slab Serif (Egyptian)\nExplanation: The main title features heavy, block-like serifs with little to no bracketing, characteristic of the \"Egyptian\" or Slab Serif styles popular in 19th-century printing for emphasis and titles."
+    },
+    "typographie": {
+        "category": "Serif",
+        "subtype": "Slab Serif (Egyptian)"
+    },
     "_annotations": {
         "metadata.title": {
             "lisibilite": "Lisible"
@@ -24,7 +35,8 @@
             "cause": "absent"
         },
         "metadata.authors": {
-            "lisibilite": "Lisible"
+            "lisibilite": "Lisible",
+            "correction": "Alfred DITTE"
         },
         "metadata.publisher": {
             "lisibilite": "Lisible"
@@ -37,7 +49,15 @@
         },
         "langue": {
             "lisibilite": "Lisible"
+        },
+        "metadata.identifier": {
+            "lisibilite": "Lisible"
+        },
+        "metadata.iiif_manifest": {
+            "lisibilite": "Lisible"
+        },
+        "ark": {
+            "lisibilite": "Lisible"
         }
-    },
-    "ark": "bpt6k91759n"
+    }
 }

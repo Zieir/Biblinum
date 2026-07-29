@@ -11,6 +11,17 @@
         "iiif_manifest": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k90619w/manifest.json"
     },
     "langue": "fr (French)",
+    "ark": "bpt6k90619w",
+    "typographie_suggestion": {
+        "category": "Slab Serif",
+        "subtype": "Egyptian",
+        "explanation": "The typeface features heavy, block-like serifs with little to no bracketing, characteristic of the \"Egyptian\" style popular in the 19th century for titles and advertising.",
+        "raw": "Based on the most prominent text in the image (\"CHIMIE ÉLÉMENTAIRE\"):\n\nCategory: Slab Serif\nSubtype: Egyptian\nExplanation: The typeface features heavy, block-like serifs with little to no bracketing, characteristic of the \"Egyptian\" style popular in the 19th century for titles and advertising."
+    },
+    "typographie": {
+        "category": "Slab Serif",
+        "subtype": "Egyptian"
+    },
     "_annotations": {
         "metadata.title": {
             "lisibilite": "Lisible"
@@ -38,7 +49,15 @@
         },
         "langue": {
             "lisibilite": "Lisible"
+        },
+        "metadata.identifier": {
+            "lisibilite": "Lisible"
+        },
+        "metadata.iiif_manifest": {
+            "lisibilite": "Lisible"
+        },
+        "ark": {
+            "lisibilite": "Lisible"
         }
-    },
-    "ark": "bpt6k90619w"
+    }
 }

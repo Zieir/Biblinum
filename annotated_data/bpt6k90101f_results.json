@@ -3,7 +3,7 @@
         "title": "DU PLATINE",
         "title_complement": "DES METAUX QUI L'ACCOMPAGNENT",
         "volume_number": "",
-        "authors": "SAINTE-CLAIRE COTILLE, H. ; DEBRAY, H.",
+        "authors": "H.  SAINTE-CLAIRE DEVILLE; H. DEBRAY",
         "publisher": "",
         "publication_place": "",
         "date": "",
@@ -11,6 +11,17 @@
         "iiif_manifest": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k90101f/manifest.json"
     },
     "langue": "fr (French)",
+    "ark": "bpt6k90101f",
+    "typographie_suggestion": {
+        "category": "Serif/Roman",
+        "subtype": "Didone (Modern)",
+        "explanation": "The main body text and titles feature the high contrast between thick and thin strokes, vertical stress, and small, horizontal serifs characteristic of the Didone style (similar to Bodoni or Didot), which was prevalent in French printing during the late 18th and 19th centuries.",
+        "raw": "Category: Serif/Roman\nSubtype: Didone (Modern)\nExplanation: The main body text and titles feature the high contrast between thick and thin strokes, vertical stress, and small, horizontal serifs characteristic of the Didone style (similar to Bodoni or Didot), which was prevalent in French printing during the late 18th and 19th centuries."
+    },
+    "typographie": {
+        "category": "Serif/Roman",
+        "subtype": "Didone (Modern)"
+    },
     "_annotations": {
         "metadata.title": {
             "lisibilite": "Lisible"
@@ -25,7 +36,7 @@
         "metadata.authors": {
             "lisibilite": "Non lisible",
             "cause": "qualite",
-            "correction": "SAINTE-CLAIRE COTILLE, H. ; DEBRAY, H."
+            "correction": "H.  SAINTE-CLAIRE DEVILLE; H. DEBRAY"
         },
         "metadata.publisher": {
             "lisibilite": "Non lisible",
@@ -41,7 +52,15 @@
         },
         "langue": {
             "lisibilite": "Lisible"
+        },
+        "metadata.identifier": {
+            "lisibilite": "Lisible"
+        },
+        "metadata.iiif_manifest": {
+            "lisibilite": "Lisible"
+        },
+        "ark": {
+            "lisibilite": "Lisible"
         }
-    },
-    "ark": "bpt6k90101f"
+    }
 }

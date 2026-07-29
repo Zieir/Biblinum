@@ -3,14 +3,25 @@
         "title": "DICTIONNAIRE DE CHIMIE INDUSTRIELLE",
         "title_complement": "",
         "volume_number": "TOME QUATRIÈME",
-        "authors": "",
-        "publisher": "",
-        "publication_place": "",
-        "date": "",
+        "authors": "Barreswil; Aimé Girard",
+        "publisher": "Fd TANDOU ET Cie",
+        "publication_place": "PARIS",
+        "date": "1864",
         "identifier": "http://gallica.bnf.fr/ark:/12148/bpt6k90360h",
         "iiif_manifest": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k90360h/manifest.json"
     },
     "langue": "fr (French)",
+    "ark": "bpt6k90360h",
+    "typographie_suggestion": {
+        "category": "Serif/Roman",
+        "subtype": "Didone (Modern)",
+        "explanation": "The typeface features the high contrast between thick and thin strokes, vertical stress, and thin, horizontal serifs characteristic of the \"Modern\" or Didone style (similar to Bodoni or Didot), which was prevalent in French publishing during the 19th century.",
+        "raw": "Based on the provided image of the title page, the dominant typography used for the main titles (\"DICTIONNAIRE\" and \"CHIMIE INDUSTRIELLE\") is as follows:\n\nCategory: Serif/Roman\nSubtype: Didone (Modern)\nExplanation: The typeface features the high contrast between thick and thin strokes, vertical stress, and thin, horizontal serifs characteristic of the \"Modern\" or Didone style (similar to Bodoni or Didot), which was prevalent in French publishing during the 19th century."
+    },
+    "typographie": {
+        "category": "Serif/Roman",
+        "subtype": "Didone (Modern)"
+    },
     "_annotations": {
         "metadata.title": {
             "lisibilite": "Lisible"
@@ -23,24 +34,32 @@
             "lisibilite": "Lisible"
         },
         "metadata.authors": {
-            "lisibilite": "Non lisible",
-            "cause": "absent"
+            "lisibilite": "Lisible",
+            "correction": "Barreswil; Aimé Girard"
         },
         "metadata.publisher": {
-            "lisibilite": "Non lisible",
-            "cause": "absent"
+            "lisibilite": "Lisible",
+            "correction": "Fd TANDOU ET Cie"
         },
         "metadata.publication_place": {
-            "lisibilite": "Non lisible",
-            "cause": "absent"
+            "lisibilite": "Lisible",
+            "correction": "PARIS"
         },
         "metadata.date": {
-            "lisibilite": "Non lisible",
-            "cause": "absent"
+            "lisibilite": "Lisible",
+            "correction": "1864"
         },
         "langue": {
             "lisibilite": "Lisible"
+        },
+        "metadata.identifier": {
+            "lisibilite": "Lisible"
+        },
+        "metadata.iiif_manifest": {
+            "lisibilite": "Lisible"
+        },
+        "ark": {
+            "lisibilite": "Lisible"
         }
-    },
-    "ark": "bpt6k90360h"
+    }
 }

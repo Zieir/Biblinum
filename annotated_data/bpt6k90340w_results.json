@@ -11,6 +11,17 @@
         "iiif_manifest": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k90340w/manifest.json"
     },
     "langue": "de (German)",
+    "ark": "bpt6k90340w",
+    "typographie_suggestion": {
+        "category": "Blackletter",
+        "subtype": "Fraktur",
+        "explanation": "The typeface features the characteristic broken strokes, angular forms, and decorative flourishes typical of the Fraktur style, which was the standard for German printing during the 19th century.",
+        "raw": "Category: Blackletter\nSubtype: Fraktur\nExplanation: The typeface features the characteristic broken strokes, angular forms, and decorative flourishes typical of the Fraktur style, which was the standard for German printing during the 19th century."
+    },
+    "typographie": {
+        "category": "Blackletter",
+        "subtype": "Fraktur"
+    },
     "_annotations": {
         "metadata.title": {
             "lisibilite": "Lisible"
@@ -38,7 +49,15 @@
         "langue": {
             "lisibilite": "Lisible"
         },
-        "_note": "A revoir"
-    },
-    "ark": "bpt6k90340w"
+        "_note": "A revoir",
+        "metadata.identifier": {
+            "lisibilite": "Lisible"
+        },
+        "metadata.iiif_manifest": {
+            "lisibilite": "Lisible"
+        },
+        "ark": {
+            "lisibilite": "Lisible"
+        }
+    }
 }

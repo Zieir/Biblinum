@@ -3,14 +3,25 @@
         "title": "A DICTIONARY OF APPLIED CHEMISTRY",
         "title_complement": "",
         "volume_number": "VOL. II.",
-        "authors": "Thorpe, Edward",
+        "authors": "Edward Thorpe",
         "publisher": "LONGMANS, GREEN, AND CO.",
-        "publication_place": "LONDON",
+        "publication_place": "LONDON; NEW-YORK; BOMBAY; CALCUTTA; MADRAS",
         "date": "1921",
         "identifier": "http://gallica.bnf.fr/ark:/12148/bpt6k90116g",
         "iiif_manifest": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k90116g/manifest.json"
     },
     "langue": "en (English)",
+    "ark": "bpt6k90116g",
+    "typographie_suggestion": {
+        "category": "Serif/Roman",
+        "subtype": "Transitional / Modern",
+        "explanation": "The typeface features a clear contrast between thick and thin strokes with horizontal serifs, characteristic of the \"Modern\" or \"Didone\" influence common in early 20th-century academic publishing.",
+        "raw": "Category: Serif/Roman\nSubtype: Transitional / Modern\nExplanation: The typeface features a clear contrast between thick and thin strokes with horizontal serifs, characteristic of the \"Modern\" or \"Didone\" influence common in early 20th-century academic publishing."
+    },
+    "typographie": {
+        "category": "Serif/Roman",
+        "subtype": "Transitional / Modern"
+    },
     "_annotations": {
         "metadata.title": {
             "lisibilite": "Lisible"
@@ -24,20 +35,30 @@
         },
         "metadata.authors": {
             "lisibilite": "Lisible",
-            "correction": "Thorpe, Edward"
+            "correction": "Edward Thorpe"
         },
         "metadata.publisher": {
             "lisibilite": "Lisible"
         },
         "metadata.publication_place": {
-            "lisibilite": "Lisible"
+            "lisibilite": "Non lisible",
+            "cause": "qualite",
+            "correction": "LONDON; NEW-YORK; BOMBAY; CALCUTTA; MADRAS"
         },
         "metadata.date": {
             "lisibilite": "Lisible"
         },
         "langue": {
             "lisibilite": "Lisible"
+        },
+        "metadata.identifier": {
+            "lisibilite": "Lisible"
+        },
+        "metadata.iiif_manifest": {
+            "lisibilite": "Lisible"
+        },
+        "ark": {
+            "lisibilite": "Lisible"
         }
-    },
-    "ark": "bpt6k90116g"
+    }
 }

@@ -1,45 +1,67 @@
 {
     "metadata": {
-        "title": "TRAITÉ DE CHIMIE ANATOMIQUE",
-        "title_complement": "ET PHYSIOLOGIQUE",
+        "title": "TRAITÉ DE CHIMIE ANATOMIQUE ET PHYSIOLOGIQUE NORMALE ET PATHOLOGIQUE",
+        "title_complement": ", ou Des principes immédiats normaux et morbides qui constituent le corps de l'homme et des mammifères",
         "volume_number": "I",
-        "authors": "",
-        "publisher": "",
-        "publication_place": "PARIS",
-        "date": "",
+        "authors": "Charles ROBIN; F. Verdeil",
+        "publisher": "J.-B. Baillière; H. Baillière; H. Baillière; C. BAILLY Baillière ",
+        "publication_place": "PARIS; LONDRES; NEW-YORK; MADRID",
+        "date": "1853",
         "identifier": "http://gallica.bnf.fr/ark:/12148/bpt6k90060p",
         "iiif_manifest": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k90060p/manifest.json"
     },
     "langue": "fr (French)",
+    "ark": "bpt6k90060p",
+    "typographie_suggestion": {
+        "category": "Serif/Roman",
+        "subtype": "Didone (Modern)",
+        "explanation": "The typeface features the high contrast between thick and thin strokes, vertical stress, and small, horizontal serifs characteristic of the \"Modern\" or Didone style (similar to Bodoni or Didot), which was prevalent in academic and scientific publishing during the 19th century.",
+        "raw": "Category: Serif/Roman\nSubtype: Didone (Modern)\nExplanation: The typeface features the high contrast between thick and thin strokes, vertical stress, and small, horizontal serifs characteristic of the \"Modern\" or Didone style (similar to Bodoni or Didot), which was prevalent in academic and scientific publishing during the 19th century."
+    },
+    "typographie": {
+        "category": "Serif/Roman",
+        "subtype": "Didone (Modern)"
+    },
     "_annotations": {
         "metadata.title": {
-            "lisibilite": "Lisible"
+            "lisibilite": "Lisible",
+            "correction": "TRAITÉ DE CHIMIE ANATOMIQUE ET PHYSIOLOGIQUE NORMALE ET PATHOLOGIQUE"
         },
         "metadata.title_complement": {
-            "lisibilite": "Lisible"
+            "lisibilite": "Lisible",
+            "correction": ", ou Des principes immédiats normaux et morbides qui constituent le corps de l'homme et des mammifères"
         },
         "metadata.volume_number": {
             "lisibilite": "Lisible"
         },
         "metadata.authors": {
-            "lisibilite": "Non lisible",
-            "cause": "absent"
+            "lisibilite": "Lisible",
+            "correction": "Charles ROBIN; F. Verdeil"
         },
         "metadata.publisher": {
             "lisibilite": "Non lisible",
             "cause": "absent",
-            "correction": ""
+            "correction": "J.-B. Baillière; H. Baillière; H. Baillière; C. BAILLY Baillière "
         },
         "metadata.publication_place": {
-            "lisibilite": "Lisible"
+            "lisibilite": "Lisible",
+            "correction": "PARIS; LONDRES; NEW-YORK; MADRID"
         },
         "metadata.date": {
-            "lisibilite": "Non lisible",
-            "cause": "absent"
+            "lisibilite": "Lisible",
+            "correction": "1853"
         },
         "langue": {
             "lisibilite": "Lisible"
+        },
+        "metadata.identifier": {
+            "lisibilite": "Lisible"
+        },
+        "metadata.iiif_manifest": {
+            "lisibilite": "Lisible"
+        },
+        "ark": {
+            "lisibilite": "Lisible"
         }
-    },
-    "ark": "bpt6k90060p"
+    }
 }

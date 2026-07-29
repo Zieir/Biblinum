@@ -1,46 +1,67 @@
 {
     "metadata": {
-        "title": "TRAITÉ",
-        "title_complement": "DES CARACTÈRES PHYSIQUES DES PIERRES PRÉCIEUSES",
+        "title": "TRAITÉ DES CARACTÈRES PHYSIQUES DES PIERRES PRÉCIEUSES",
+        "title_complement": "pour servir à leur détermination, lorsqu'elles ont été taillées",
         "volume_number": "",
-        "authors": "",
-        "publisher": "",
-        "publication_place": "",
-        "date": "",
+        "authors": "Haüy",
+        "publisher": "Vve Courcier ",
+        "publication_place": "Paris",
+        "date": "1817",
         "identifier": "http://gallica.bnf.fr/ark:/12148/bpt6k91813m",
         "iiif_manifest": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k91813m/manifest.json"
     },
     "langue": "fr (French)",
+    "ark": "bpt6k91813m",
+    "typographie_suggestion": {
+        "category": "Serif/Roman",
+        "subtype": "Didone (Modern)",
+        "explanation": "The text exhibits the high contrast between thick and thin strokes, vertical stress, and small, horizontal serifs characteristic of the \"Modern\" or Didone style (popularized by Bodoni and Didot) prevalent in early 19th-century French printing.",
+        "raw": "Category: Serif/Roman\nSubtype: Didone (Modern)\nExplanation: The text exhibits the high contrast between thick and thin strokes, vertical stress, and small, horizontal serifs characteristic of the \"Modern\" or Didone style (popularized by Bodoni and Didot) prevalent in early 19th-century French printing."
+    },
+    "typographie": {
+        "category": "Serif/Roman",
+        "subtype": "Didone (Modern)"
+    },
     "_annotations": {
         "metadata.title": {
-            "lisibilite": "Lisible"
+            "lisibilite": "Lisible",
+            "correction": "TRAITÉ DES CARACTÈRES PHYSIQUES DES PIERRES PRÉCIEUSES"
         },
         "metadata.title_complement": {
-            "lisibilite": "Lisible"
+            "lisibilite": "Lisible",
+            "correction": "pour servir à leur détermination, lorsqu'elles ont été taillées"
         },
         "metadata.volume_number": {
             "lisibilite": "Non lisible",
             "cause": "absent"
         },
         "metadata.authors": {
-            "lisibilite": "Non lisible",
-            "cause": "absent"
+            "lisibilite": "Lisible",
+            "correction": "Haüy"
         },
         "metadata.publisher": {
-            "lisibilite": "Non lisible",
-            "cause": "absent"
+            "lisibilite": "Lisible",
+            "correction": "Vve Courcier "
         },
         "metadata.publication_place": {
-            "lisibilite": "Non lisible",
-            "cause": "absent"
+            "lisibilite": "Lisible",
+            "correction": "Paris"
         },
         "metadata.date": {
-            "lisibilite": "Non lisible",
-            "cause": "absent"
+            "lisibilite": "Lisible",
+            "correction": "1817"
         },
         "langue": {
             "lisibilite": "Lisible"
+        },
+        "metadata.identifier": {
+            "lisibilite": "Lisible"
+        },
+        "metadata.iiif_manifest": {
+            "lisibilite": "Lisible"
+        },
+        "ark": {
+            "lisibilite": "Lisible"
         }
-    },
-    "ark": "bpt6k91813m"
+    }
 }

@@ -3,7 +3,7 @@
         "title": "REMARQUES SUR LES SYSTÈMES D'UNITÉS",
         "title_complement": "",
         "volume_number": "Tome IX, n° 52",
-        "authors": "BERTHELOT, Daniel",
+        "authors": "Daniel BERTHELOT",
         "publisher": "GAUTHIER-VILLARS",
         "publication_place": "PARIS",
         "date": "1909",
@@ -11,6 +11,17 @@
         "iiif_manifest": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k90381g/manifest.json"
     },
     "langue": "fr (French)",
+    "ark": "bpt6k90381g",
+    "typographie_suggestion": {
+        "category": "Serif/Roman",
+        "subtype": "Didone (Modern)",
+        "explanation": "The main headings feature the high contrast between thick and thin strokes, vertical stress, and unbracketed, hairline serifs characteristic of the Didone style (similar to Bodoni or Didot), which was prevalent in formal French printing of this era.",
+        "raw": "Category: Serif/Roman\nSubtype: Didone (Modern)\nExplanation: The main headings feature the high contrast between thick and thin strokes, vertical stress, and unbracketed, hairline serifs characteristic of the Didone style (similar to Bodoni or Didot), which was prevalent in formal French printing of this era."
+    },
+    "typographie": {
+        "category": "Serif/Roman",
+        "subtype": "Didone (Modern)"
+    },
     "_annotations": {
         "metadata.title": {
             "lisibilite": "Lisible"
@@ -24,7 +35,7 @@
         },
         "metadata.authors": {
             "lisibilite": "Lisible",
-            "correction": "BERTHELOT, Daniel"
+            "correction": "Daniel BERTHELOT"
         },
         "metadata.publisher": {
             "lisibilite": "Lisible"
@@ -37,7 +48,15 @@
         },
         "langue": {
             "lisibilite": "Lisible"
+        },
+        "metadata.identifier": {
+            "lisibilite": "Lisible"
+        },
+        "metadata.iiif_manifest": {
+            "lisibilite": "Lisible"
+        },
+        "ark": {
+            "lisibilite": "Lisible"
         }
-    },
-    "ark": "bpt6k90381g"
+    }
 }

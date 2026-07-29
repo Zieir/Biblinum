@@ -4,13 +4,24 @@
         "title_complement": "nach neuen Funden",
         "volume_number": "",
         "authors": "JUSTUS LIEBIG",
-        "publisher": "",
-        "publication_place": "",
+        "publisher": "Selbstverlag der Gesellschaft Liebig-Museum; Selbstverlag der Liebighaus-Stiftung ",
+        "publication_place": "Giessen; Darmstadt",
         "date": "",
         "identifier": "http://gallica.bnf.fr/ark:/12148/bpt6k905811/f2.item",
         "iiif_manifest": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k905811/manifest.json"
     },
     "langue": "de (German)",
+    "ark": "bpt6k905811",
+    "typographie_suggestion": {
+        "category": "Serif/Roman",
+        "subtype": "Old Style / Transitional",
+        "explanation": "The typeface features moderate contrast between thick and thin strokes, bracketed serifs, and a classical structure typical of early 20th-century academic printing, leaning towards the Old Style or Transitional tradition (similar to Garamond or Baskerville).",
+        "raw": "Category: Serif/Roman\nSubtype: Old Style / Transitional\nExplanation: The typeface features moderate contrast between thick and thin strokes, bracketed serifs, and a classical structure typical of early 20th-century academic printing, leaning towards the Old Style or Transitional tradition (similar to Garamond or Baskerville)."
+    },
+    "typographie": {
+        "category": "Serif/Roman",
+        "subtype": "Old Style / Transitional"
+    },
     "_annotations": {
         "metadata.title": {
             "lisibilite": "Lisible",
@@ -27,12 +38,12 @@
             "lisibilite": "Lisible"
         },
         "metadata.publisher": {
-            "lisibilite": "Non lisible",
-            "cause": "absent"
+            "lisibilite": "Lisible",
+            "correction": "Selbstverlag der Gesellschaft Liebig-Museum; Selbstverlag der Liebighaus-Stiftung "
         },
         "metadata.publication_place": {
-            "lisibilite": "Non lisible",
-            "cause": "absent"
+            "lisibilite": "Lisible",
+            "correction": "Giessen; Darmstadt"
         },
         "metadata.date": {
             "lisibilite": "Non lisible",
@@ -40,7 +51,15 @@
         },
         "langue": {
             "lisibilite": "Lisible"
+        },
+        "metadata.identifier": {
+            "lisibilite": "Lisible"
+        },
+        "metadata.iiif_manifest": {
+            "lisibilite": "Lisible"
+        },
+        "ark": {
+            "lisibilite": "Lisible"
         }
-    },
-    "ark": "bpt6k905811"
+    }
 }

@@ -3,7 +3,7 @@
         "title": "Les Récents Progrès de la Chimie",
         "title_complement": "CONFÉRENCES faites au Laboratoire de Chimie organique de la Sorbonne",
         "volume_number": "DEUXIÈME SÉRIE",
-        "authors": "HALLER, A.",
+        "authors": "A. HALLER",
         "publisher": "GAUTHIER-VILLARS, IMPRIMEUR-LIBRAIRE",
         "publication_place": "PARIS",
         "date": "1906",
@@ -11,6 +11,17 @@
         "iiif_manifest": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k919654/manifest.json"
     },
     "langue": "fr (French)",
+    "ark": "bpt6k919654",
+    "typographie_suggestion": {
+        "category": "Serif/Roman",
+        "subtype": "Transitional / Modern (Didone influence)",
+        "explanation": "The main title (\"Récents Progrès de la Chimie\") features high contrast between thick and thin strokes and vertical stress, characteristic of the Transitional and Modern styles popular in French printing during the late 19th and early 20th centuries.",
+        "raw": "Category: Serif/Roman\nSubtype: Transitional / Modern (Didone influence)\nExplanation: The main title (\"Récents Progrès de la Chimie\") features high contrast between thick and thin strokes and vertical stress, characteristic of the Transitional and Modern styles popular in French printing during the late 19th and early 20th centuries."
+    },
+    "typographie": {
+        "category": "Serif/Roman",
+        "subtype": "Transitional / Modern (Didone influence)"
+    },
     "_annotations": {
         "metadata.title": {
             "lisibilite": "Lisible"
@@ -23,7 +34,7 @@
         },
         "metadata.authors": {
             "lisibilite": "Lisible",
-            "correction": "HALLER, A."
+            "correction": "A. HALLER"
         },
         "metadata.publisher": {
             "lisibilite": "Lisible"
@@ -36,7 +47,15 @@
         },
         "langue": {
             "lisibilite": "Lisible"
+        },
+        "metadata.identifier": {
+            "lisibilite": "Lisible"
+        },
+        "metadata.iiif_manifest": {
+            "lisibilite": "Lisible"
+        },
+        "ark": {
+            "lisibilite": "Lisible"
         }
-    },
-    "ark": "bpt6k919654"
+    }
 }

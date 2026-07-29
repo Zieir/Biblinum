@@ -3,7 +3,7 @@
         "title": "A SELECT BIBLIOGRAPHY OF CHEMISTRY",
         "title_complement": "1492-1897",
         "volume_number": "Section VIII",
-        "authors": "Bolton, Henry Carrington",
+        "authors": "Henry Carrington BOLTON",
         "publisher": "Smithsonian Institution",
         "publication_place": "City of Washington",
         "date": "1901",
@@ -11,6 +11,17 @@
         "iiif_manifest": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k90387j/manifest.json"
     },
     "langue": "en (English)",
+    "ark": "bpt6k90387j",
+    "typographie_suggestion": {
+        "category": "Serif/Roman",
+        "subtype": "Transitional / Modern (Didone influence)",
+        "explanation": "The typeface features a strong contrast between thick and thin strokes, vertical stress, and relatively fine, horizontal serifs, which are characteristic of the Transitional and Modern styles common in academic publishing from the late 19th to early 20th centuries.",
+        "raw": "Category: Serif/Roman\nSubtype: Transitional / Modern (Didone influence)\nExplanation: The typeface features a strong contrast between thick and thin strokes, vertical stress, and relatively fine, horizontal serifs, which are characteristic of the Transitional and Modern styles common in academic publishing from the late 19th to early 20th centuries."
+    },
+    "typographie": {
+        "category": "Serif/Roman",
+        "subtype": "Transitional / Modern (Didone influence)"
+    },
     "_annotations": {
         "metadata.title": {
             "lisibilite": "Lisible"
@@ -22,7 +33,8 @@
             "lisibilite": "Lisible"
         },
         "metadata.authors": {
-            "lisibilite": "Lisible"
+            "lisibilite": "Lisible",
+            "correction": "Henry Carrington BOLTON"
         },
         "metadata.publisher": {
             "lisibilite": "Lisible"
@@ -35,7 +47,15 @@
         },
         "langue": {
             "lisibilite": "Lisible"
+        },
+        "metadata.identifier": {
+            "lisibilite": "Lisible"
+        },
+        "metadata.iiif_manifest": {
+            "lisibilite": "Lisible"
+        },
+        "ark": {
+            "lisibilite": "Lisible"
         }
-    },
-    "ark": "bpt6k90387j"
+    }
 }

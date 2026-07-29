@@ -1,9 +1,9 @@
 {
     "metadata": {
-        "title": "ÉLOGE",
-        "title_complement": "DE M. LE BARON GEORGES CUVIER",
+        "title": "ÉLOGE DE M. LE BARON GEORGES CUVIER",
+        "title_complement": "",
         "volume_number": "",
-        "authors": "PASQUIER, le Baron",
+        "authors": "le Baron PASQUIER",
         "publisher": "",
         "publication_place": "PARIS",
         "date": "1832",
@@ -11,12 +11,26 @@
         "iiif_manifest": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k90326b/manifest.json"
     },
     "langue": "fr (French)",
+    "ark": "bpt6k90326b",
+    "typographie_suggestion": {
+        "category": "Serif/Roman",
+        "subtype": "Didone (Modern)",
+        "explanation": "The text exhibits the high contrast between thick and thin strokes, vertical stress, and flat, unbracketed serifs characteristic of the \"Modern\" or Didone style (similar to Didot or Bodoni), which was the standard for official French printing in the early 19th century.",
+        "raw": "Category: Serif/Roman\nSubtype: Didone (Modern)\nExplanation: The text exhibits the high contrast between thick and thin strokes, vertical stress, and flat, unbracketed serifs characteristic of the \"Modern\" or Didone style (similar to Didot or Bodoni), which was the standard for official French printing in the early 19th century."
+    },
+    "typographie": {
+        "category": "Serif/Roman",
+        "subtype": "Didone (Modern)"
+    },
     "_annotations": {
         "metadata.title": {
-            "lisibilite": "Lisible"
+            "lisibilite": "Lisible",
+            "correction": "ÉLOGE DE M. LE BARON GEORGES CUVIER"
         },
         "metadata.title_complement": {
-            "lisibilite": "Lisible"
+            "lisibilite": "Non lisible",
+            "cause": "absent",
+            "correction": ""
         },
         "metadata.volume_number": {
             "lisibilite": "Non lisible",
@@ -24,7 +38,7 @@
         },
         "metadata.authors": {
             "lisibilite": "Lisible",
-            "correction": "PASQUIER, le Baron"
+            "correction": "le Baron PASQUIER"
         },
         "metadata.publisher": {
             "lisibilite": "Non lisible",
@@ -39,7 +53,15 @@
         },
         "langue": {
             "lisibilite": "Lisible"
+        },
+        "metadata.identifier": {
+            "lisibilite": "Lisible"
+        },
+        "metadata.iiif_manifest": {
+            "lisibilite": "Lisible"
+        },
+        "ark": {
+            "lisibilite": "Lisible"
         }
-    },
-    "ark": "bpt6k90326b"
+    }
 }

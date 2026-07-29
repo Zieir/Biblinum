@@ -1,47 +1,65 @@
 {
     "metadata": {
         "title": "COURS ÉLÉMENTAIRE DE CHIMIE",
-        "title_complement": "",
+        "title_complement": "à l'usage des lycées et collèges, des candidats au baccalauréat et des élèves en médecine ",
         "volume_number": "",
-        "authors": "",
-        "publisher": "",
+        "authors": "C.-I. Istrat",
+        "publisher": "GEORGES CARRÉ",
         "publication_place": "PARIS",
-        "date": "",
+        "date": "1893",
         "identifier": "http://gallica.bnf.fr/ark:/12148/bpt6k904885",
         "iiif_manifest": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k904885/manifest.json"
     },
     "langue": "fr (French)",
+    "ark": "bpt6k904885",
+    "typographie_suggestion": {
+        "category": "Serif/Roman",
+        "subtype": "Didone (Modern)",
+        "explanation": "The typeface features the high contrast between thick and thin strokes, vertical stress, and small, unbracketed (hairline) serifs characteristic of the \"Modern\" or Didone style popular in 19th-century academic printing.",
+        "raw": "Category: Serif/Roman\nSubtype: Didone (Modern)\nExplanation: The typeface features the high contrast between thick and thin strokes, vertical stress, and small, unbracketed (hairline) serifs characteristic of the \"Modern\" or Didone style popular in 19th-century academic printing."
+    },
+    "typographie": {
+        "category": "Serif/Roman",
+        "subtype": "Didone (Modern)"
+    },
     "_annotations": {
         "metadata.title": {
             "lisibilite": "Lisible"
         },
         "metadata.title_complement": {
-            "lisibilite": "Non lisible",
-            "cause": "absent"
+            "lisibilite": "Lisible",
+            "correction": "à l'usage des lycées et collèges, des candidats au baccalauréat et des élèves en médecine "
         },
         "metadata.volume_number": {
             "lisibilite": "Non lisible",
             "cause": "absent"
         },
         "metadata.authors": {
-            "lisibilite": "Non lisible",
-            "cause": "absent"
+            "lisibilite": "Lisible",
+            "correction": "C.-I. Istrat"
         },
         "metadata.publisher": {
-            "lisibilite": "Non lisible",
-            "cause": "absent",
-            "correction": ""
+            "lisibilite": "Lisible",
+            "correction": "GEORGES CARRÉ"
         },
         "metadata.publication_place": {
             "lisibilite": "Lisible"
         },
         "metadata.date": {
-            "lisibilite": "Non lisible",
-            "cause": "absent"
+            "lisibilite": "Lisible",
+            "correction": "1893"
         },
         "langue": {
             "lisibilite": "Lisible"
+        },
+        "metadata.identifier": {
+            "lisibilite": "Lisible"
+        },
+        "metadata.iiif_manifest": {
+            "lisibilite": "Lisible"
+        },
+        "ark": {
+            "lisibilite": "Lisible"
         }
-    },
-    "ark": "bpt6k904885"
+    }
 }

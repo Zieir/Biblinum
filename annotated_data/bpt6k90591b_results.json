@@ -11,6 +11,17 @@
         "iiif_manifest": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k90591b/manifest.json"
     },
     "langue": "de (German)",
+    "ark": "bpt6k90591b",
+    "typographie_suggestion": {
+        "category": "Serif/Roman",
+        "subtype": "Slab Serif (Egyptian)",
+        "explanation": "The main title \"CHEMIE DER JETZTZEIT\" features heavy, block-like serifs with little to no bracketing, which is characteristic of the Slab Serif style popular in 19th-century academic and scientific publishing.",
+        "raw": "Category: Serif/Roman\nSubtype: Slab Serif (Egyptian)\nExplanation: The main title \"CHEMIE DER JETZTZEIT\" features heavy, block-like serifs with little to no bracketing, which is characteristic of the Slab Serif style popular in 19th-century academic and scientific publishing."
+    },
+    "typographie": {
+        "category": "Serif/Roman",
+        "subtype": "Slab Serif (Egyptian)"
+    },
     "_annotations": {
         "metadata.title": {
             "lisibilite": "Lisible",
@@ -38,7 +49,15 @@
         },
         "langue": {
             "lisibilite": "Lisible"
+        },
+        "metadata.identifier": {
+            "lisibilite": "Lisible"
+        },
+        "metadata.iiif_manifest": {
+            "lisibilite": "Lisible"
+        },
+        "ark": {
+            "lisibilite": "Lisible"
         }
-    },
-    "ark": "bpt6k90591b"
+    }
 }

@@ -3,7 +3,7 @@
         "title": "PRÉCIS DE CHIMIE INDUSTRIELLE",
         "title_complement": "À L'USAGE 1° DES ÉCOLES D'ARTS ET MANUFACTURES ET D'ARTS ET MÉTIERS 2° DES ÉCOLES PRÉPARATOIRES AUX PROFESSIONS INDUSTRIELLES 3° DES FABRICANTS ET DES AGRICULTEURS",
         "volume_number": "TOME SECOND",
-        "authors": "PAYEN, A. ; VINCENT, Camille",
+        "authors": "A. PAYEN ",
         "publisher": "LIBRAIRIE HACHETTE ET C^ie",
         "publication_place": "PARIS",
         "date": "1878",
@@ -11,6 +11,17 @@
         "iiif_manifest": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k91889v/manifest.json"
     },
     "langue": "fr (French)",
+    "ark": "bpt6k91889v",
+    "typographie_suggestion": {
+        "category": "Serif/Roman",
+        "subtype": "Slab Serif (Egyptian)",
+        "explanation": "The main title \"CHIMIE INDUSTRIELLE\" features heavy, block-like serifs with little to no bracketing, which is characteristic of the Slab Serif style popular in 19th-century industrial and academic printing.",
+        "raw": "Category: Serif/Roman\nSubtype: Slab Serif (Egyptian)\nExplanation: The main title \"CHIMIE INDUSTRIELLE\" features heavy, block-like serifs with little to no bracketing, which is characteristic of the Slab Serif style popular in 19th-century industrial and academic printing."
+    },
+    "typographie": {
+        "category": "Serif/Roman",
+        "subtype": "Slab Serif (Egyptian)"
+    },
     "_annotations": {
         "metadata.title": {
             "lisibilite": "Lisible"
@@ -22,7 +33,8 @@
             "lisibilite": "Lisible"
         },
         "metadata.authors": {
-            "lisibilite": "Lisible"
+            "lisibilite": "Lisible",
+            "correction": "A. PAYEN "
         },
         "metadata.publisher": {
             "lisibilite": "Lisible"
@@ -35,7 +47,15 @@
         },
         "langue": {
             "lisibilite": "Lisible"
+        },
+        "metadata.identifier": {
+            "lisibilite": "Lisible"
+        },
+        "metadata.iiif_manifest": {
+            "lisibilite": "Lisible"
+        },
+        "ark": {
+            "lisibilite": "Lisible"
         }
-    },
-    "ark": "bpt6k91889v"
+    }
 }

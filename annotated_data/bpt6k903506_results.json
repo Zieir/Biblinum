@@ -3,7 +3,7 @@
         "title": "ANTON ROSING",
         "title_complement": "BIOGRAPHIE",
         "volume_number": "",
-        "authors": "ASBJÖRNSEN, P. Chr.",
+        "authors": "P. Chr. ASBJÖRNSEN",
         "publisher": "IMPRIMERIE DE CHR. JOHNSEN",
         "publication_place": "CHRISTIANIA",
         "date": "1869",
@@ -11,6 +11,17 @@
         "iiif_manifest": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k903506/manifest.json"
     },
     "langue": "fr (French)",
+    "ark": "bpt6k903506",
+    "typographie_suggestion": {
+        "category": "Serif/Roman",
+        "subtype": "Slab Serif (Egyptian)",
+        "explanation": "The primary text (specifically \"ANTON ROSING\") features heavy, block-like serifs with little to no bracketing, characteristic of the Slab Serif style popular in the 19th century. The secondary text uses a more traditional Roman serif.",
+        "raw": "Category: Serif/Roman\nSubtype: Slab Serif (Egyptian)\nExplanation: The primary text (specifically \"ANTON ROSING\") features heavy, block-like serifs with little to no bracketing, characteristic of the Slab Serif style popular in the 19th century. The secondary text uses a more traditional Roman serif."
+    },
+    "typographie": {
+        "category": "Serif/Roman",
+        "subtype": "Slab Serif (Egyptian)"
+    },
     "_annotations": {
         "metadata.title": {
             "lisibilite": "Lisible"
@@ -25,7 +36,7 @@
         "metadata.authors": {
             "lisibilite": "Non lisible",
             "cause": "qualite",
-            "correction": "ASBJÖRNSEN, P. Chr."
+            "correction": "P. Chr. ASBJÖRNSEN"
         },
         "metadata.publisher": {
             "lisibilite": "Lisible"
@@ -38,7 +49,15 @@
         },
         "langue": {
             "lisibilite": "Lisible"
+        },
+        "metadata.identifier": {
+            "lisibilite": "Lisible"
+        },
+        "metadata.iiif_manifest": {
+            "lisibilite": "Lisible"
+        },
+        "ark": {
+            "lisibilite": "Lisible"
         }
-    },
-    "ark": "bpt6k903506"
+    }
 }

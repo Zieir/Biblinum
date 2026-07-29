@@ -1,9 +1,9 @@
 {
     "metadata": {
-        "title": "CHIMIE ORGANIQUE",
-        "title_complement": "ÉLÉMENTAIRE",
+        "title": "CHIMIE ORGANIQUE ÉLÉMENTAIRE",
+        "title_complement": "leçons professées à la faculté de médecine ",
         "volume_number": "",
-        "authors": "GRIMAUX, Édouard",
+        "authors": "Edouard Grimaux",
         "publisher": "ANCIENNE LIBRAIRIE GERMER BAILLIÈRE ET Cie, FELIX ALCAN, ÉDITEUR",
         "publication_place": "PARIS",
         "date": "1889",
@@ -11,19 +11,33 @@
         "iiif_manifest": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k90298x/manifest.json"
     },
     "langue": "fr (French)",
+    "ark": "bpt6k90298x",
+    "typographie_suggestion": {
+        "category": "Serif/Roman",
+        "subtype": "Didone (Modern)",
+        "explanation": "The main title \"CHIMIE ORGANIQUE\" features the high contrast between thick and thin strokes, vertical stress, and unbracketed, hairline serifs characteristic of the Didone style (popularized by Didot and Bodoni).",
+        "raw": "Category: Serif/Roman\nSubtype: Didone (Modern)\nExplanation: The main title \"CHIMIE ORGANIQUE\" features the high contrast between thick and thin strokes, vertical stress, and unbracketed, hairline serifs characteristic of the Didone style (popularized by Didot and Bodoni)."
+    },
+    "typographie": {
+        "category": "Serif/Roman",
+        "subtype": "Didone (Modern)"
+    },
     "_annotations": {
         "metadata.title": {
-            "lisibilite": "Lisible"
+            "lisibilite": "Lisible",
+            "correction": "CHIMIE ORGANIQUE ÉLÉMENTAIRE"
         },
         "metadata.title_complement": {
-            "lisibilite": "Lisible"
+            "lisibilite": "Lisible",
+            "correction": "leçons professées à la faculté de médecine "
         },
         "metadata.volume_number": {
             "lisibilite": "Non lisible",
             "cause": "absent"
         },
         "metadata.authors": {
-            "lisibilite": "Lisible"
+            "lisibilite": "Lisible",
+            "correction": "Edouard Grimaux"
         },
         "metadata.publisher": {
             "lisibilite": "Lisible"
@@ -36,7 +50,15 @@
         },
         "langue": {
             "lisibilite": "Lisible"
+        },
+        "metadata.identifier": {
+            "lisibilite": "Lisible"
+        },
+        "metadata.iiif_manifest": {
+            "lisibilite": "Lisible"
+        },
+        "ark": {
+            "lisibilite": "Lisible"
         }
-    },
-    "ark": "bpt6k90298x"
+    }
 }

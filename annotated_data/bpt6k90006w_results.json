@@ -3,12 +3,24 @@
         "title": "LEHRBUCH DER CHEMIE",
         "title_complement": "",
         "volume_number": "ZWEITER BAND, ERSTE ABTHEILUNG",
-        "authors": "MITSCHERLICH, E.",
+        "authors": "E. MITSCHERLICH",
         "publisher": "ERNST SIEGFRIED MITTLER",
         "publication_place": "BERLIN",
         "date": "1835",
         "identifier": "http://gallica.bnf.fr/ark:/12148/bpt6k90006w",
         "iiif_manifest": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k90006w/manifest.json"
+    },
+    "langue": "de (German)",
+    "ark": "bpt6k90006w",
+    "typographie_suggestion": {
+        "category": "Serif/Roman",
+        "subtype": "Didone (Modern)",
+        "explanation": "The printed text features the high contrast between thick and thin strokes and vertical stress characteristic of the \"Modern\" or Didone style (such as Bodoni or Didot), which was prevalent in academic and formal publishing in the early 19th century.",
+        "raw": "Category: Serif/Roman\nSubtype: Didone (Modern)\nExplanation: The printed text features the high contrast between thick and thin strokes and vertical stress characteristic of the \"Modern\" or Didone style (such as Bodoni or Didot), which was prevalent in academic and formal publishing in the early 19th century."
+    },
+    "typographie": {
+        "category": "Serif/Roman",
+        "subtype": "Didone (Modern)"
     },
     "_annotations": {
         "metadata.title": {
@@ -22,7 +34,8 @@
             "lisibilite": "Lisible"
         },
         "metadata.authors": {
-            "lisibilite": "Lisible"
+            "lisibilite": "Lisible",
+            "correction": "E. MITSCHERLICH"
         },
         "metadata.publisher": {
             "lisibilite": "Lisible"
@@ -35,8 +48,15 @@
         },
         "langue": {
             "lisibilite": "Lisible"
+        },
+        "metadata.identifier": {
+            "lisibilite": "Lisible"
+        },
+        "metadata.iiif_manifest": {
+            "lisibilite": "Lisible"
+        },
+        "ark": {
+            "lisibilite": "Lisible"
         }
-    },
-    "langue": "de (German)",
-    "ark": "bpt6k90006w"
+    }
 }

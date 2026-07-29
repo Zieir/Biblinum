@@ -3,14 +3,25 @@
         "title": "SÉRIE DU CYANOGÈNE",
         "title_complement": "",
         "volume_number": "",
-        "authors": "Moissan, H.",
-        "publisher": "Imprimerie a Parent, A. Davy, Succ^r",
+        "authors": "H. Moissan",
+        "publisher": "Imprimerie a Parent, A. Davy",
         "publication_place": "Paris",
         "date": "1882",
         "identifier": "http://gallica.bnf.fr/ark:/12148/bpt6k90549j",
         "iiif_manifest": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k90549j/manifest.json"
     },
     "langue": "fr (French)",
+    "ark": "bpt6k90549j",
+    "typographie_suggestion": {
+        "category": "Serif/Roman",
+        "subtype": "Didone (Modern)",
+        "explanation": "The typeface features a strong contrast between thick and thin strokes, vertical stress, and thin, horizontal serifs, which are the hallmarks of the \"Modern\" or Didone style (similar to Bodoni or Didot), very common in 19th-century French academic printing.",
+        "raw": "Since the image contains multiple styles, I will identify the primary printed typeface used for the main titles (e.g., \"SÉRIE DU CYANOGÈNE\").\n\nCategory: Serif/Roman\nSubtype: Didone (Modern)\nExplanation: The typeface features a strong contrast between thick and thin strokes, vertical stress, and thin, horizontal serifs, which are the hallmarks of the \"Modern\" or Didone style (similar to Bodoni or Didot), very common in 19th-century French academic printing."
+    },
+    "typographie": {
+        "category": "Serif/Roman",
+        "subtype": "Didone (Modern)"
+    },
     "_annotations": {
         "metadata.title": {
             "lisibilite": "Lisible"
@@ -24,10 +35,12 @@
             "cause": "absent"
         },
         "metadata.authors": {
-            "lisibilite": "Lisible"
+            "lisibilite": "Lisible",
+            "correction": "H. Moissan"
         },
         "metadata.publisher": {
-            "lisibilite": "Lisible"
+            "lisibilite": "Lisible",
+            "correction": "Imprimerie a Parent, A. Davy"
         },
         "metadata.publication_place": {
             "lisibilite": "Lisible"
@@ -37,7 +50,15 @@
         },
         "langue": {
             "lisibilite": "Lisible"
+        },
+        "metadata.identifier": {
+            "lisibilite": "Lisible"
+        },
+        "metadata.iiif_manifest": {
+            "lisibilite": "Lisible"
+        },
+        "ark": {
+            "lisibilite": "Lisible"
         }
-    },
-    "ark": "bpt6k90549j"
+    }
 }

@@ -1,9 +1,9 @@
 {
     "metadata": {
         "title": "PHARMACOPEE UNIVERSELLE",
-        "title_complement": "CONTENANT TOUTES LES COMPOSITIONS DE PHARMACIE qui'funt en usage dans la Médecine, tant en France que par toute l'Europe",
-        "volume_number": "TOME SE COND",
-        "authors": "LEMERY, Nicolas",
+        "title_complement": "Contenant toutes les compositions de pharmacie qui sont en usage dans la médecine, tant en France que par toute l'Europe ; leurs vertus, leurs doses, les manières d'opérer les plus simples & les meilleures : avec un lexicon pharmaceutique, plusieurs remarques, et des raisonnemens sur chaque opération",
+        "volume_number": "TOME SECOND",
+        "authors": "Nicolas LEMERY",
         "publisher": "DE SAINT & SAILLANT ; JEAN-THOMAS HÉRISSANT ; NYON ; SAVOYE ; DHOURY ; DIDOT",
         "publication_place": "PARIS",
         "date": "1764",
@@ -11,18 +11,32 @@
         "iiif_manifest": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k91862t/manifest.json"
     },
     "langue": "fr (French)",
+    "ark": "bpt6k91862t",
+    "typographie_suggestion": {
+        "category": "Serif/Roman",
+        "subtype": "Old Style (Garalde)",
+        "explanation": "The text features the characteristic moderate contrast between thick and thin strokes, slanted serifs, and a humanist axis typical of the \"Old Style\" faces (such as Garamond) prevalent in 17th and 18th-century French printing.",
+        "raw": "Based on the provided image of the title page, here is the identification of the primary typography used for the main body text:\n\nCategory: Serif/Roman\nSubtype: Old Style (Garalde)\nExplanation: The text features the characteristic moderate contrast between thick and thin strokes, slanted serifs, and a humanist axis typical of the \"Old Style\" faces (such as Garamond) prevalent in 17th and 18th-century French printing.\n\n*(Note: The image also contains a \"Display\" style for the main title \"PHARMACOPEE UNIVERSELLE\" and a \"Script\" style for the handwritten ink annotations, but the primary typeface of the publication is an Old Style Serif.)*"
+    },
+    "typographie": {
+        "category": "Serif/Roman",
+        "subtype": "Old Style (Garalde)"
+    },
     "_annotations": {
         "metadata.title": {
             "lisibilite": "Lisible"
         },
         "metadata.title_complement": {
-            "lisibilite": "Lisible"
+            "lisibilite": "Lisible",
+            "correction": "Contenant toutes les compositions de pharmacie qui sont en usage dans la médecine, tant en France que par toute l'Europe ; leurs vertus, leurs doses, les manières d'opérer les plus simples & les meilleures : avec un lexicon pharmaceutique, plusieurs remarques, et des raisonnemens sur chaque opération"
         },
         "metadata.volume_number": {
-            "lisibilite": "Lisible"
+            "lisibilite": "Lisible",
+            "correction": "TOME SECOND"
         },
         "metadata.authors": {
-            "lisibilite": "Lisible"
+            "lisibilite": "Lisible",
+            "correction": "Nicolas LEMERY"
         },
         "metadata.publisher": {
             "lisibilite": "Lisible"
@@ -35,7 +49,15 @@
         },
         "langue": {
             "lisibilite": "Lisible"
+        },
+        "metadata.identifier": {
+            "lisibilite": "Lisible"
+        },
+        "metadata.iiif_manifest": {
+            "lisibilite": "Lisible"
+        },
+        "ark": {
+            "lisibilite": "Lisible"
         }
-    },
-    "ark": "bpt6k91862t"
+    }
 }

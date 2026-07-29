@@ -3,14 +3,25 @@
         "title": "GUIDE PRATIQUE DU DOREUR, DE L'ARGENTEUR ET DU GALVANOPLASTE",
         "title_complement": "",
         "volume_number": "",
-        "authors": "",
-        "publisher": "",
-        "publication_place": "",
-        "date": "",
+        "authors": "Alfred ROSELEUR",
+        "publisher": "M. DE PLAZANET",
+        "publication_place": "PARIS",
+        "date": "1873",
         "identifier": "http://gallica.bnf.fr/ark:/12148/bpt6k90327p",
         "iiif_manifest": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k90327p/manifest.json"
     },
     "langue": "fr (French)",
+    "ark": "bpt6k90327p",
+    "typographie_suggestion": {
+        "category": "Serif/Roman",
+        "subtype": "Slab Serif (Egyptian)",
+        "explanation": "The main title features heavy, block-like serifs with little to no bracketing, which is characteristic of the Slab Serif style popular in 19th-century advertising and technical manuals.",
+        "raw": "Based on the provided image, there are several typefaces used. The most prominent one (used for \"DU DOREUR, DE L'ARGENTEUR\") is the primary focus:\n\nCategory: Serif/Roman\nSubtype: Slab Serif (Egyptian)\nExplanation: The main title features heavy, block-like serifs with little to no bracketing, which is characteristic of the Slab Serif style popular in 19th-century advertising and technical manuals.\n\n***\n\nFor the other text in the image:\n- **\"MANIPULATIONS HYDROPLASTIQUES\"**: Sans-serif (Grotesque)\n- **\"GUIDE PRATIQUE\"**: Serif (Modern/Didone)\n- **\"ALFRED ROSELEUR\"**: Serif (Modern/Didone)"
+    },
+    "typographie": {
+        "category": "Serif/Roman",
+        "subtype": "Slab Serif (Egyptian)"
+    },
     "_annotations": {
         "metadata.title": {
             "lisibilite": "Lisible"
@@ -24,24 +35,32 @@
             "cause": "absent"
         },
         "metadata.authors": {
-            "lisibilite": "Non lisible",
-            "cause": "absent"
+            "lisibilite": "Lisible",
+            "correction": "Alfred ROSELEUR"
         },
         "metadata.publisher": {
-            "lisibilite": "Non lisible",
-            "cause": "absent"
+            "lisibilite": "Lisible",
+            "correction": "M. DE PLAZANET"
         },
         "metadata.publication_place": {
-            "lisibilite": "Non lisible",
-            "cause": "absent"
+            "lisibilite": "Lisible",
+            "correction": "PARIS"
         },
         "metadata.date": {
-            "lisibilite": "Non lisible",
-            "cause": "absent"
+            "lisibilite": "Lisible",
+            "correction": "1873"
         },
         "langue": {
             "lisibilite": "Lisible"
+        },
+        "metadata.identifier": {
+            "lisibilite": "Lisible"
+        },
+        "metadata.iiif_manifest": {
+            "lisibilite": "Lisible"
+        },
+        "ark": {
+            "lisibilite": "Lisible"
         }
-    },
-    "ark": "bpt6k90327p"
+    }
 }

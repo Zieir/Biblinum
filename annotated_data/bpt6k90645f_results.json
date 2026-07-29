@@ -3,7 +3,7 @@
         "title": "COURS DE CHIMIE",
         "title_complement": "MINÉRALE, ORGANIQUE ET BIOLOGIQUE",
         "volume_number": "",
-        "authors": "GAUTIER, ARMAND",
+        "authors": "ARMAND GAUTIER",
         "publisher": "MASSON",
         "publication_place": "PARIS",
         "date": "1895",
@@ -11,6 +11,17 @@
         "iiif_manifest": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k90645f/manifest.json"
     },
     "langue": "fr (French)",
+    "ark": "bpt6k90645f",
+    "typographie_suggestion": {
+        "category": "Serif/Roman",
+        "subtype": "Modern (Didone)",
+        "explanation": "The primary headings (\"COURS DE CHIMIE\") feature the high contrast between thick and thin strokes and vertical stress characteristic of the Modern/Didone style, which was prevalent in academic and formal publishing during the 19th century.",
+        "raw": "Category: Serif/Roman\nSubtype: Modern (Didone)\nExplanation: The primary headings (\"COURS DE CHIMIE\") feature the high contrast between thick and thin strokes and vertical stress characteristic of the Modern/Didone style, which was prevalent in academic and formal publishing during the 19th century."
+    },
+    "typographie": {
+        "category": "Serif/Roman",
+        "subtype": "Modern (Didone)"
+    },
     "_annotations": {
         "metadata.title": {
             "lisibilite": "Lisible"
@@ -23,7 +34,8 @@
             "cause": "absent"
         },
         "metadata.authors": {
-            "lisibilite": "Lisible"
+            "lisibilite": "Lisible",
+            "correction": "ARMAND GAUTIER"
         },
         "metadata.publisher": {
             "lisibilite": "Lisible"
@@ -36,7 +48,15 @@
         },
         "langue": {
             "lisibilite": "Lisible"
+        },
+        "metadata.identifier": {
+            "lisibilite": "Lisible"
+        },
+        "metadata.iiif_manifest": {
+            "lisibilite": "Lisible"
+        },
+        "ark": {
+            "lisibilite": "Lisible"
         }
-    },
-    "ark": "bpt6k90645f"
+    }
 }

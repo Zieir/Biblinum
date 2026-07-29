@@ -3,7 +3,7 @@
         "title": "HISTORY OF THE INSTITUTE",
         "title_complement": "1877—1914",
         "volume_number": "",
-        "authors": "Pilcher, Richard B.",
+        "authors": "Richard B. Pilcher",
         "publisher": "The Institute of Chemistry of Great Britain and Ireland",
         "publication_place": "London",
         "date": "1914",
@@ -11,6 +11,17 @@
         "iiif_manifest": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k91903k/manifest.json"
     },
     "langue": "en (English)",
+    "ark": "bpt6k91903k",
+    "typographie_suggestion": {
+        "category": "Serif/Roman",
+        "subtype": "Transitional / Modern",
+        "explanation": "The typeface features a strong contrast between thick and thin strokes with horizontal serifs, characteristic of the \"Modern\" or \"Didone\" influence common in early 20th-century formal printing.",
+        "raw": "Category: Serif/Roman\nSubtype: Transitional / Modern\nExplanation: The typeface features a strong contrast between thick and thin strokes with horizontal serifs, characteristic of the \"Modern\" or \"Didone\" influence common in early 20th-century formal printing."
+    },
+    "typographie": {
+        "category": "Serif/Roman",
+        "subtype": "Transitional / Modern"
+    },
     "_annotations": {
         "metadata.title": {
             "lisibilite": "Lisible"
@@ -23,7 +34,8 @@
             "cause": "absent"
         },
         "metadata.authors": {
-            "lisibilite": "Lisible"
+            "lisibilite": "Lisible",
+            "correction": "Richard B. Pilcher"
         },
         "metadata.publisher": {
             "lisibilite": "Lisible"
@@ -36,7 +48,15 @@
         },
         "langue": {
             "lisibilite": "Lisible"
+        },
+        "metadata.identifier": {
+            "lisibilite": "Lisible"
+        },
+        "metadata.iiif_manifest": {
+            "lisibilite": "Lisible"
+        },
+        "ark": {
+            "lisibilite": "Lisible"
         }
-    },
-    "ark": "bpt6k91903k"
+    }
 }

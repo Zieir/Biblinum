@@ -3,7 +3,7 @@
         "title": "LE CHIMISTE Z. ROUSSIN",
         "title_complement": "CHIMIE — PHYSIOLOGIE — EXPERTISES MÉDICO-LÉGALES",
         "volume_number": "",
-        "authors": "Roussin, Z.",
+        "authors": "",
         "publisher": "",
         "publication_place": "Paris",
         "date": "",
@@ -11,6 +11,17 @@
         "iiif_manifest": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k90355x/manifest.json"
     },
     "langue": "fr (French)",
+    "ark": "bpt6k90355x",
+    "typographie_suggestion": {
+        "category": "Serif/Roman",
+        "subtype": "Didone (Modern)",
+        "explanation": "The typeface features a high contrast between thick and thin strokes, vertical stress, and small, horizontal unbracketed serifs, which are characteristic of the Modern/Didone style popular in 18th and 19th-century printing.",
+        "raw": "Category: Serif/Roman\nSubtype: Didone (Modern)\nExplanation: The typeface features a high contrast between thick and thin strokes, vertical stress, and small, horizontal unbracketed serifs, which are characteristic of the Modern/Didone style popular in 18th and 19th-century printing."
+    },
+    "typographie": {
+        "category": "Serif/Roman",
+        "subtype": "Didone (Modern)"
+    },
     "_annotations": {
         "metadata.title": {
             "lisibilite": "Lisible"
@@ -23,7 +34,9 @@
             "cause": "absent"
         },
         "metadata.authors": {
-            "lisibilite": "Lisible"
+            "lisibilite": "Non lisible",
+            "cause": "absent",
+            "correction": ""
         },
         "metadata.publisher": {
             "lisibilite": "Non lisible",
@@ -39,7 +52,15 @@
         },
         "langue": {
             "lisibilite": "Lisible"
+        },
+        "metadata.identifier": {
+            "lisibilite": "Lisible"
+        },
+        "metadata.iiif_manifest": {
+            "lisibilite": "Lisible"
+        },
+        "ark": {
+            "lisibilite": "Lisible"
         }
-    },
-    "ark": "bpt6k90355x"
+    }
 }

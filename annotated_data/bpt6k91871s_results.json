@@ -3,7 +3,7 @@
         "title": "LES THÉORIES MODERNES DE LA CHIMIE",
         "title_complement": "ET LEUR APPLICATION A LA MÉCANIQUE CHIMIQUE",
         "volume_number": "PREMIER VOLUME",
-        "authors": "MEYER, Lothar",
+        "authors": "Lothar MEYER",
         "publisher": "GEORGES CARRÉ, ÉDITEUR",
         "publication_place": "PARIS",
         "date": "1887",
@@ -11,6 +11,17 @@
         "iiif_manifest": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k91871s/manifest.json"
     },
     "langue": "fr (French)",
+    "ark": "bpt6k91871s",
+    "typographie_suggestion": {
+        "category": "Display",
+        "subtype": "Victorian / Ornamental",
+        "explanation": "The typeface features heavy, decorative inline detailing and high-contrast strokes typical of 19th-century commercial and book title typography. It is designed for impact and ornamentation rather than body text legibility.",
+        "raw": "Based on the main title \"THÉORIES MODERNES DE LA CHIMIE\":\n\nCategory: Display\nSubtype: Victorian / Ornamental\nExplanation: The typeface features heavy, decorative inline detailing and high-contrast strokes typical of 19th-century commercial and book title typography. It is designed for impact and ornamentation rather than body text legibility."
+    },
+    "typographie": {
+        "category": "Display",
+        "subtype": "Victorian / Ornamental"
+    },
     "_annotations": {
         "metadata.title": {
             "lisibilite": "Lisible"
@@ -22,7 +33,8 @@
             "lisibilite": "Lisible"
         },
         "metadata.authors": {
-            "lisibilite": "Lisible"
+            "lisibilite": "Lisible",
+            "correction": "Lothar MEYER"
         },
         "metadata.publisher": {
             "lisibilite": "Lisible"
@@ -35,7 +47,15 @@
         },
         "langue": {
             "lisibilite": "Lisible"
+        },
+        "metadata.identifier": {
+            "lisibilite": "Lisible"
+        },
+        "metadata.iiif_manifest": {
+            "lisibilite": "Lisible"
+        },
+        "ark": {
+            "lisibilite": "Lisible"
         }
-    },
-    "ark": "bpt6k91871s"
+    }
 }

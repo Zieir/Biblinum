@@ -3,7 +3,7 @@
         "title": "ФИЗИКО-ХИМЕСКИЯ ТЕОРІИ",
         "title_complement": "",
         "volume_number": "",
-        "authors": "Залькинда, Ю. С. ; Ярковскаго, В. И.",
+        "authors": "Ю. С. Залькинда ; В. И. Ярковскаго",
         "publisher": "Изданіе И. Н. БАЗЛОВИДЗ",
         "publication_place": "С-ПЕТЕРБУРГЪ",
         "date": "1908",
@@ -11,6 +11,17 @@
         "iiif_manifest": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k91907z/manifest.json"
     },
     "langue": "ru (Russian)",
+    "ark": "bpt6k91907z",
+    "typographie_suggestion": {
+        "category": "Serif/Roman",
+        "subtype": "Transitional / Modern (Cyrillic)",
+        "explanation": "The smaller text uses a standard high-contrast serif typeface common in Russian printing of the 1903 era, characterized by clear vertical stress and sharp serifs.",
+        "raw": "For the main title text (**ФИЗИКО-ХИМИЧЕСКІЯ ТЕОРІИ**):\n\nCategory: Display\nSubtype: Geometric / Art Nouveau influence\nExplanation: The letters feature heavy, blocky strokes with stylized, squared-off terminals and a consistent thickness, typical of early 20th-century Russian industrial and academic display faces.\n\nFor the body text (the rest of the page):\n\nCategory: Serif/Roman\nSubtype: Transitional / Modern (Cyrillic)\nExplanation: The smaller text uses a standard high-contrast serif typeface common in Russian printing of the 1903 era, characterized by clear vertical stress and sharp serifs."
+    },
+    "typographie": {
+        "category": "Serif/Roman",
+        "subtype": "Transitional / Modern (Cyrillic)"
+    },
     "_annotations": {
         "metadata.title": {
             "lisibilite": "Lisible"
@@ -22,7 +33,8 @@
             "lisibilite": "Lisible"
         },
         "metadata.authors": {
-            "lisibilite": "Lisible"
+            "lisibilite": "Lisible",
+            "correction": "Ю. С. Залькинда ; В. И. Ярковскаго"
         },
         "metadata.publisher": {
             "lisibilite": "Lisible"
@@ -36,7 +48,15 @@
         "langue": {
             "lisibilite": "Lisible"
         },
-        "_note": "A revoir TODO"
-    },
-    "ark": "bpt6k91907z"
+        "_note": "A revoir TODO",
+        "metadata.identifier": {
+            "lisibilite": "Lisible"
+        },
+        "metadata.iiif_manifest": {
+            "lisibilite": "Lisible"
+        },
+        "ark": {
+            "lisibilite": "Lisible"
+        }
+    }
 }

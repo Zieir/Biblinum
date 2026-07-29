@@ -1,47 +1,68 @@
 {
     "metadata": {
         "title": "PRÉCIS DE CHIMIE LÉGALE",
-        "title_complement": "",
+        "title_complement": "guide pour la recherche des poisons, l'examen des armes à feu, l'analyse des cendres, l'altération des écritures, des monnaies, des alliages, des denrées et la détermination des taches dans les expertises chimico-légales, à l'usage des médecins, pharmaciens, chimistes, experts, avocats, etc. ",
         "volume_number": "",
-        "authors": "",
-        "publisher": "",
-        "publication_place": "",
-        "date": "",
+        "authors": "A. NAQUET",
+        "publisher": "F. SAVY",
+        "publication_place": "PARIS",
+        "date": "1873",
         "identifier": "http://gallica.bnf.fr/ark:/12148/bpt6k902351",
         "iiif_manifest": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k902351/manifest.json"
     },
     "langue": "fr (French)",
+    "ark": "bpt6k902351",
+    "typographie_suggestion": {
+        "category": "Serif/Roman",
+        "subtype": "Didone (Modern)",
+        "explanation": "The typeface features the high contrast between thick and thin strokes, vertical stress, and unbracketed, hairline serifs characteristic of the \"Modern\" or Didone style (similar to Didot or Bodoni), which was prevalent in French printing during the 19th century.",
+        "raw": "Based on the main title \"CHIMIE LÉGALE\" and the surrounding body text in the provided image:\n\nCategory: Serif/Roman\nSubtype: Didone (Modern)\nExplanation: The typeface features the high contrast between thick and thin strokes, vertical stress, and unbracketed, hairline serifs characteristic of the \"Modern\" or Didone style (similar to Didot or Bodoni), which was prevalent in French printing during the 19th century."
+    },
+    "typographie": {
+        "category": "Serif/Roman",
+        "subtype": "Didone (Modern)"
+    },
     "_annotations": {
         "metadata.title": {
             "lisibilite": "Lisible"
         },
         "metadata.title_complement": {
-            "lisibilite": "Non lisible",
-            "cause": "absent"
+            "lisibilite": "Lisible",
+            "correction": "guide pour la recherche des poisons, l'examen des armes à feu, l'analyse des cendres, l'altération des écritures, des monnaies, des alliages, des denrées et la détermination des taches dans les expertises chimico-légales, à l'usage des médecins, pharmaciens, chimistes, experts, avocats, etc. "
         },
         "metadata.volume_number": {
             "lisibilite": "Non lisible",
             "cause": "absent"
         },
         "metadata.authors": {
-            "lisibilite": "Non lisible",
-            "cause": "absent"
+            "lisibilite": "Lisible",
+            "correction": "A. NAQUET"
         },
         "metadata.publisher": {
             "lisibilite": "Non lisible",
-            "cause": "absent"
+            "cause": "recouvert",
+            "correction": "F. SAVY"
         },
         "metadata.publication_place": {
             "lisibilite": "Non lisible",
-            "cause": "absent"
+            "cause": "recouvert",
+            "correction": "PARIS"
         },
         "metadata.date": {
-            "lisibilite": "Non lisible",
-            "cause": "absent"
+            "lisibilite": "Lisible",
+            "correction": "1873"
         },
         "langue": {
             "lisibilite": "Lisible"
+        },
+        "metadata.identifier": {
+            "lisibilite": "Lisible"
+        },
+        "metadata.iiif_manifest": {
+            "lisibilite": "Lisible"
+        },
+        "ark": {
+            "lisibilite": "Lisible"
         }
-    },
-    "ark": "bpt6k902351"
+    }
 }

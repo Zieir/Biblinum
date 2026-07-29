@@ -1,9 +1,9 @@
 {
     "metadata": {
-        "title": "MÉTHODIQUE DE CHIMIE",
+        "title": "MÉTHODE DE CHIMIE",
         "title_complement": "",
         "volume_number": "",
-        "authors": "LAURENT, AUGUSTE",
+        "authors": "AUGUSTE LAURENT",
         "publisher": "MALLET-BACHELIER",
         "publication_place": "PARIS",
         "date": "1854",
@@ -11,10 +11,22 @@
         "iiif_manifest": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k902680/manifest.json"
     },
     "langue": "fr (French)",
+    "ark": "bpt6k902680",
+    "typographie_suggestion": {
+        "category": "Serif/Roman",
+        "subtype": "Didone (Modern)",
+        "explanation": "The text exhibits the hallmarks of the \"Modern\" or Didone style popular in 19th-century French printing. This is characterized by a strong contrast between thick and thin strokes, vertical stress, and thin, horizontal serifs.",
+        "raw": "Based on the provided image of the title page:\n\nCategory: Serif/Roman\nSubtype: Didone (Modern)\nExplanation: The text exhibits the hallmarks of the \"Modern\" or Didone style popular in 19th-century French printing. This is characterized by a strong contrast between thick and thin strokes, vertical stress, and thin, horizontal serifs."
+    },
+    "typographie": {
+        "category": "Serif/Roman",
+        "subtype": "Didone (Modern)"
+    },
     "_annotations": {
         "metadata.title": {
             "lisibilite": "Non lisible",
-            "cause": "recouvert"
+            "cause": "recouvert",
+            "correction": "MÉTHODE DE CHIMIE"
         },
         "metadata.title_complement": {
             "lisibilite": "Non lisible",
@@ -25,7 +37,8 @@
             "cause": "absent"
         },
         "metadata.authors": {
-            "lisibilite": "Lisible"
+            "lisibilite": "Lisible",
+            "correction": "AUGUSTE LAURENT"
         },
         "metadata.publisher": {
             "lisibilite": "Lisible"
@@ -38,7 +51,15 @@
         },
         "langue": {
             "lisibilite": "Lisible"
+        },
+        "metadata.identifier": {
+            "lisibilite": "Lisible"
+        },
+        "metadata.iiif_manifest": {
+            "lisibilite": "Lisible"
+        },
+        "ark": {
+            "lisibilite": "Lisible"
         }
-    },
-    "ark": "bpt6k902680"
+    }
 }

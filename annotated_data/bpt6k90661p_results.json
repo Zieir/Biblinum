@@ -11,6 +11,17 @@
         "iiif_manifest": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k90661p/manifest.json"
     },
     "langue": "de (German)",
+    "ark": "bpt6k90661p",
+    "typographie_suggestion": {
+        "category": "Serif/Roman",
+        "subtype": "Modern / Didone",
+        "explanation": "The main body text features high contrast between thick and thin strokes with horizontal, hairline serifs, which are characteristic of the Modern/Didone style popular in 19th-century academic printing. (Note: The title \"TAFELN\" is a separate Display face).",
+        "raw": "Category: Serif/Roman\nSubtype: Modern / Didone\nExplanation: The main body text features high contrast between thick and thin strokes with horizontal, hairline serifs, which are characteristic of the Modern/Didone style popular in 19th-century academic printing. (Note: The title \"TAFELN\" is a separate Display face)."
+    },
+    "typographie": {
+        "category": "Serif/Roman",
+        "subtype": "Modern / Didone"
+    },
     "_annotations": {
         "metadata.title": {
             "lisibilite": "Lisible",
@@ -42,7 +53,15 @@
         },
         "langue": {
             "lisibilite": "Lisible"
+        },
+        "metadata.identifier": {
+            "lisibilite": "Lisible"
+        },
+        "metadata.iiif_manifest": {
+            "lisibilite": "Lisible"
+        },
+        "ark": {
+            "lisibilite": "Lisible"
         }
-    },
-    "ark": "bpt6k90661p"
+    }
 }

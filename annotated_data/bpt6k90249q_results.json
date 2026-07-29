@@ -3,7 +3,7 @@
         "title": "LETTRES SUR LA CHIMIE",
         "title_complement": "considérée dans ses applications, A L'INDUSTRIE, A LA PHYSIOLOGIE ET A L'AGRICULTURE",
         "volume_number": "",
-        "authors": "LIEBIG, Justus",
+        "authors": "Justus LIEBIG",
         "publisher": "CHARPENTIER ; VICTOR MASSON",
         "publication_place": "PARIS",
         "date": "1847",
@@ -11,6 +11,17 @@
         "iiif_manifest": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k90249q/manifest.json"
     },
     "langue": "fr (French)",
+    "ark": "bpt6k90249q",
+    "typographie_suggestion": {
+        "category": "Serif/Roman",
+        "subtype": "Didone (Modern)",
+        "explanation": "The primary text (specifically \"LA CHIMIE\") features the high contrast between thick and thin strokes, vertical stress, and unbracketed, hairline serifs characteristic of the Didone style (popularized by Didot and Bodoni) common in early 19th-century French printing.",
+        "raw": "Category: Serif/Roman\nSubtype: Didone (Modern)\nExplanation: The primary text (specifically \"LA CHIMIE\") features the high contrast between thick and thin strokes, vertical stress, and unbracketed, hairline serifs characteristic of the Didone style (popularized by Didot and Bodoni) common in early 19th-century French printing."
+    },
+    "typographie": {
+        "category": "Serif/Roman",
+        "subtype": "Didone (Modern)"
+    },
     "_annotations": {
         "metadata.title": {
             "lisibilite": "Lisible"
@@ -24,7 +35,7 @@
         },
         "metadata.authors": {
             "lisibilite": "Lisible",
-            "correction": "LIEBIG, Justus"
+            "correction": "Justus LIEBIG"
         },
         "metadata.publisher": {
             "lisibilite": "Lisible"
@@ -38,7 +49,15 @@
         },
         "langue": {
             "lisibilite": "Lisible"
+        },
+        "metadata.identifier": {
+            "lisibilite": "Lisible"
+        },
+        "metadata.iiif_manifest": {
+            "lisibilite": "Lisible"
+        },
+        "ark": {
+            "lisibilite": "Lisible"
         }
-    },
-    "ark": "bpt6k90249q"
+    }
 }

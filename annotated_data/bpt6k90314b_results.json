@@ -3,45 +3,62 @@
         "title": "Mémoires de J.-B. Boussingault",
         "title_complement": "",
         "volume_number": "TOME TROISIÈME",
-        "authors": "BOUSSINGAULT, J.-B.",
-        "publisher": "",
+        "authors": "J.-B. BOUSSINGAULT",
+        "publisher": "Chamerot et Renouard ",
         "publication_place": "PARIS",
-        "date": "",
+        "date": "1900",
         "identifier": "http://gallica.bnf.fr/ark:/12148/bpt6k90314b",
         "iiif_manifest": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k90314b/manifest.json"
     },
     "langue": "fr (French)",
+    "ark": "bpt6k90314b",
+    "typographie_suggestion": {
+        "category": "Serif/Roman",
+        "subtype": "Didone (Modern)",
+        "explanation": "The typeface features the characteristic high contrast between thick and thin strokes, vertical stress, and thin, horizontal serifs typical of the \"Modern\" or Didone style (such as Didot or Bodoni), which was prevalent in French printing during the 19th and early 20th centuries.",
+        "raw": "Category: Serif/Roman\nSubtype: Didone (Modern)\nExplanation: The typeface features the characteristic high contrast between thick and thin strokes, vertical stress, and thin, horizontal serifs typical of the \"Modern\" or Didone style (such as Didot or Bodoni), which was prevalent in French printing during the 19th and early 20th centuries."
+    },
+    "typographie": {
+        "category": "Serif/Roman",
+        "subtype": "Didone (Modern)"
+    },
     "_annotations": {
         "metadata.title": {
             "lisibilite": "Lisible",
             "correction": "Mémoires de J.-B. Boussingault"
         },
         "metadata.title_complement": {
-            "lisibilite": "Non lisible",
-            "cause": "absent"
+            "lisibilite": "Lisible"
         },
         "metadata.volume_number": {
             "lisibilite": "Lisible"
         },
         "metadata.authors": {
-            "lisibilite": "Lisible"
+            "lisibilite": "Lisible",
+            "correction": "J.-B. BOUSSINGAULT"
         },
         "metadata.publisher": {
-            "lisibilite": "Non lisible",
-            "cause": "absent",
-            "correction": ""
+            "lisibilite": "Lisible",
+            "correction": "Chamerot et Renouard "
         },
         "metadata.publication_place": {
             "lisibilite": "Lisible"
         },
         "metadata.date": {
-            "lisibilite": "Non lisible",
-            "cause": "absent",
-            "correction": ""
+            "lisibilite": "Lisible",
+            "correction": "1900"
         },
         "langue": {
             "lisibilite": "Lisible"
+        },
+        "metadata.identifier": {
+            "lisibilite": "Lisible"
+        },
+        "metadata.iiif_manifest": {
+            "lisibilite": "Lisible"
+        },
+        "ark": {
+            "lisibilite": "Lisible"
         }
-    },
-    "ark": "bpt6k90314b"
+    }
 }

@@ -3,7 +3,7 @@
         "title": "CHEMICAL AND PHYSICAL RESEARCHES",
         "title_complement": "",
         "volume_number": "",
-        "authors": "GRAHAM, Thomas",
+        "authors": "Thomas GRAHAM",
         "publisher": "",
         "publication_place": "EDINBURGH",
         "date": "1876",
@@ -11,6 +11,17 @@
         "iiif_manifest": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k906501/manifest.json"
     },
     "langue": "en (English)",
+    "ark": "bpt6k906501",
+    "typographie_suggestion": {
+        "category": "Serif/Roman",
+        "subtype": "Modern / Didone",
+        "explanation": "The typeface features a strong contrast between thick and thin strokes, vertical stress, and horizontal, unbracketed serifs, which are characteristic of the \"Modern\" style (such as Bodoni or Didot) prevalent in 19th-century academic and formal printing.",
+        "raw": "Category: Serif/Roman\nSubtype: Modern / Didone\nExplanation: The typeface features a strong contrast between thick and thin strokes, vertical stress, and horizontal, unbracketed serifs, which are characteristic of the \"Modern\" style (such as Bodoni or Didot) prevalent in 19th-century academic and formal printing."
+    },
+    "typographie": {
+        "category": "Serif/Roman",
+        "subtype": "Modern / Didone"
+    },
     "_annotations": {
         "metadata.title": {
             "lisibilite": "Lisible"
@@ -24,7 +35,8 @@
             "cause": "absent"
         },
         "metadata.authors": {
-            "lisibilite": "Lisible"
+            "lisibilite": "Lisible",
+            "correction": "Thomas GRAHAM"
         },
         "metadata.publisher": {
             "lisibilite": "Non lisible",
@@ -38,7 +50,15 @@
         },
         "langue": {
             "lisibilite": "Lisible"
+        },
+        "metadata.identifier": {
+            "lisibilite": "Lisible"
+        },
+        "metadata.iiif_manifest": {
+            "lisibilite": "Lisible"
+        },
+        "ark": {
+            "lisibilite": "Lisible"
         }
-    },
-    "ark": "bpt6k906501"
+    }
 }

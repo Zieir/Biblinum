@@ -1,9 +1,9 @@
 {
     "metadata": {
-        "title": "PRÉCIS DE CHIMIE",
-        "title_complement": "GÉNÉRALE ET DESCRIPTIVE EXPOSÉS AU POINT DE VUE DES DOCTRINES MODERNES",
+        "title": "PRÉCIS DE CHIMIE GÉNÉRALE ET DESCRIPTIVE ",
+        "title_complement": "EXPOSÉS AU POINT DE VUE DES DOCTRINES MODERNES",
         "volume_number": "TOME PREMIER",
-        "authors": "SWARTS, TH.",
+        "authors": "TH. SWARTS",
         "publisher": "LIBRAIRIE GÉNÉRALE DE AD. HOSTE",
         "publication_place": "GAND",
         "date": "1887",
@@ -11,18 +11,32 @@
         "iiif_manifest": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k90086c/manifest.json"
     },
     "langue": "fr (French)",
+    "ark": "bpt6k90086c",
+    "typographie_suggestion": {
+        "category": "Serif/Roman",
+        "subtype": "Didone (Modern)",
+        "explanation": "The typeface features the characteristic high contrast between thick and thin strokes, vertical stress, and small, horizontal unbracketed serifs typical of the late 18th and 19th-century \"Modern\" style (similar to Bodoni or Didot).",
+        "raw": "Category: Serif/Roman\nSubtype: Didone (Modern)\nExplanation: The typeface features the characteristic high contrast between thick and thin strokes, vertical stress, and small, horizontal unbracketed serifs typical of the late 18th and 19th-century \"Modern\" style (similar to Bodoni or Didot)."
+    },
+    "typographie": {
+        "category": "Serif/Roman",
+        "subtype": "Didone (Modern)"
+    },
     "_annotations": {
         "metadata.title": {
-            "lisibilite": "Lisible"
+            "lisibilite": "Lisible",
+            "correction": "PRÉCIS DE CHIMIE GÉNÉRALE ET DESCRIPTIVE "
         },
         "metadata.title_complement": {
-            "lisibilite": "Lisible"
+            "lisibilite": "Lisible",
+            "correction": "EXPOSÉS AU POINT DE VUE DES DOCTRINES MODERNES"
         },
         "metadata.volume_number": {
             "lisibilite": "Lisible"
         },
         "metadata.authors": {
-            "lisibilite": "Lisible"
+            "lisibilite": "Lisible",
+            "correction": "TH. SWARTS"
         },
         "metadata.publisher": {
             "lisibilite": "Lisible"
@@ -35,7 +49,15 @@
         },
         "langue": {
             "lisibilite": "Lisible"
+        },
+        "metadata.identifier": {
+            "lisibilite": "Lisible"
+        },
+        "metadata.iiif_manifest": {
+            "lisibilite": "Lisible"
+        },
+        "ark": {
+            "lisibilite": "Lisible"
         }
-    },
-    "ark": "bpt6k90086c"
+    }
 }

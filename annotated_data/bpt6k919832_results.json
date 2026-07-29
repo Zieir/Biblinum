@@ -1,9 +1,9 @@
 {
     "metadata": {
-        "title": "TRAITÉ DE PHYSIQUE",
-        "title_complement": "THÉORIQUE ET EXPÉRIMENTALE AVEC LES APPLICATIONS A LA MÉTÉOROLOGIE ET AUX ARTS INDUSTRIELS",
+        "title": "TRAITÉ DE PHYSIQUE THÉORIQUE ET EXPÉRIMENTALE ",
+        "title_complement": "AVEC LES APPLICATIONS A LA MÉTÉOROLOGIE ET AUX ARTS INDUSTRIELS",
         "volume_number": "TOME SECOND",
-        "authors": "DAGUIN, P. A.",
+        "authors": "P. A. DAGUIN",
         "publisher": "ÉDOUARD PRIVAT ; DEZOBBY & E. MADELEINE",
         "publication_place": "TOULOUSE ; PARIS",
         "date": "1861",
@@ -11,18 +11,32 @@
         "iiif_manifest": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k919832/manifest.json"
     },
     "langue": "fr (French)",
+    "ark": "bpt6k919832",
+    "typographie_suggestion": {
+        "category": "Serif/Roman",
+        "subtype": "Didone (Modern)",
+        "explanation": "The typeface features the high contrast between thick and thin strokes, vertical stress, and small, unbracketed (hairline) serifs characteristic of the \"Modern\" or Didone style popular in the 19th century.",
+        "raw": "Category: Serif/Roman\nSubtype: Didone (Modern)\nExplanation: The typeface features the high contrast between thick and thin strokes, vertical stress, and small, unbracketed (hairline) serifs characteristic of the \"Modern\" or Didone style popular in the 19th century."
+    },
+    "typographie": {
+        "category": "Serif/Roman",
+        "subtype": "Didone (Modern)"
+    },
     "_annotations": {
         "metadata.title": {
-            "lisibilite": "Lisible"
+            "lisibilite": "Lisible",
+            "correction": "TRAITÉ DE PHYSIQUE THÉORIQUE ET EXPÉRIMENTALE "
         },
         "metadata.title_complement": {
-            "lisibilite": "Lisible"
+            "lisibilite": "Lisible",
+            "correction": "AVEC LES APPLICATIONS A LA MÉTÉOROLOGIE ET AUX ARTS INDUSTRIELS"
         },
         "metadata.volume_number": {
             "lisibilite": "Lisible"
         },
         "metadata.authors": {
-            "lisibilite": "Lisible"
+            "lisibilite": "Lisible",
+            "correction": "P. A. DAGUIN"
         },
         "metadata.publisher": {
             "lisibilite": "Lisible"
@@ -37,7 +51,15 @@
         },
         "langue": {
             "lisibilite": "Lisible"
+        },
+        "metadata.identifier": {
+            "lisibilite": "Lisible"
+        },
+        "metadata.iiif_manifest": {
+            "lisibilite": "Lisible"
+        },
+        "ark": {
+            "lisibilite": "Lisible"
         }
-    },
-    "ark": "bpt6k919832"
+    }
 }

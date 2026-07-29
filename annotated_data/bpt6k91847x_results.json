@@ -3,7 +3,7 @@
         "title": "LE GRISOU",
         "title_complement": "",
         "volume_number": "",
-        "authors": "Le CHATELIER, H.",
+        "authors": "H. Le CHATELIER",
         "publisher": "GAUTHIER-VILLARS ET FILS ; G. MASSON",
         "publication_place": "PARIS",
         "date": "",
@@ -11,6 +11,17 @@
         "iiif_manifest": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k91847x/manifest.json"
     },
     "langue": "fr (French)",
+    "ark": "bpt6k91847x",
+    "typographie_suggestion": {
+        "category": "Serif/Roman",
+        "subtype": "Modern (Didone)",
+        "explanation": "The text features the high contrast between thick and thin strokes, vertical stress, and small, horizontal serifs characteristic of the Modern/Didone style (similar to Bodoni or Didot), which was standard for academic and formal French publishing in the 19th century.",
+        "raw": "Category: Serif/Roman\nSubtype: Modern (Didone)\nExplanation: The text features the high contrast between thick and thin strokes, vertical stress, and small, horizontal serifs characteristic of the Modern/Didone style (similar to Bodoni or Didot), which was standard for academic and formal French publishing in the 19th century."
+    },
+    "typographie": {
+        "category": "Serif/Roman",
+        "subtype": "Modern (Didone)"
+    },
     "_annotations": {
         "metadata.title": {
             "lisibilite": "Lisible"
@@ -25,7 +36,7 @@
         },
         "metadata.authors": {
             "lisibilite": "Lisible",
-            "correction": "Le CHATELIER, H."
+            "correction": "H. Le CHATELIER"
         },
         "metadata.publisher": {
             "lisibilite": "Lisible"
@@ -39,7 +50,15 @@
         },
         "langue": {
             "lisibilite": "Lisible"
+        },
+        "metadata.identifier": {
+            "lisibilite": "Lisible"
+        },
+        "metadata.iiif_manifest": {
+            "lisibilite": "Lisible"
+        },
+        "ark": {
+            "lisibilite": "Lisible"
         }
-    },
-    "ark": "bpt6k91847x"
+    }
 }

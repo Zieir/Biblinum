@@ -3,14 +3,25 @@
         "title": "ATOMIC FORM",
         "title_complement": "With special reference to the Configuration of the CARBON ATOM",
         "volume_number": "",
-        "authors": "PRICE, Edward E.",
-        "publisher": "",
-        "publication_place": "",
-        "date": "",
+        "authors": "Edward E. PRICE",
+        "publisher": "Longmans, Green & Company",
+        "publication_place": "LONDON; NEW-YORK; TORONTO; BOMBAY; GALOUTTA; MADRAS",
+        "date": "1922",
         "identifier": "http://gallica.bnf.fr/ark:/12148/bpt6k917469",
         "iiif_manifest": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k917469/manifest.json"
     },
     "langue": "en (English)",
+    "ark": "bpt6k917469",
+    "typographie_suggestion": {
+        "category": "Serif/Roman",
+        "subtype": "Old Style / Transitional",
+        "explanation": "The typeface features moderate contrast between thick and thin strokes, bracketed serifs, and a traditional axis of stress, characteristic of early 20th-century academic publishing and classical Roman-style book faces.",
+        "raw": "Category: Serif/Roman\nSubtype: Old Style / Transitional\nExplanation: The typeface features moderate contrast between thick and thin strokes, bracketed serifs, and a traditional axis of stress, characteristic of early 20th-century academic publishing and classical Roman-style book faces."
+    },
+    "typographie": {
+        "category": "Serif/Roman",
+        "subtype": "Old Style / Transitional"
+    },
     "_annotations": {
         "metadata.title": {
             "lisibilite": "Non lisible",
@@ -28,23 +39,31 @@
         "metadata.authors": {
             "lisibilite": "Non lisible",
             "cause": "qualite",
-            "correction": "PRICE, Edward E."
+            "correction": "Edward E. PRICE"
         },
         "metadata.publisher": {
-            "lisibilite": "Non lisible",
-            "cause": "absent"
+            "lisibilite": "Lisible",
+            "correction": "Longmans, Green & Company"
         },
         "metadata.publication_place": {
-            "lisibilite": "Non lisible",
-            "cause": "absent"
+            "lisibilite": "Lisible",
+            "correction": "LONDON; NEW-YORK; TORONTO; BOMBAY; GALOUTTA; MADRAS"
         },
         "metadata.date": {
-            "lisibilite": "Non lisible",
-            "cause": "absent"
+            "lisibilite": "Lisible",
+            "correction": "1922"
         },
         "langue": {
             "lisibilite": "Lisible"
+        },
+        "metadata.identifier": {
+            "lisibilite": "Lisible"
+        },
+        "metadata.iiif_manifest": {
+            "lisibilite": "Lisible"
+        },
+        "ark": {
+            "lisibilite": "Lisible"
         }
-    },
-    "ark": "bpt6k917469"
+    }
 }

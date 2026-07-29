@@ -1,45 +1,66 @@
 {
     "metadata": {
-        "title": "COURS ÉLÉMENTAIRE",
-        "title_complement": "THÉORIQUE ET PRATIQUE DE PHARMACIE-CHIMIQUE, OU MANUEL DU PHARMACIEN-CHIMISTE",
+        "title": "COURS ÉLÉMENTAIRE THÉORIQUE ET PRATIQUE DE PHARMACIE-CHIMIQUE",
+        "title_complement": "ou Manuel du pharmacien-chimiste ; contenant la définition des diverses opérations pharmaceuto-chimiques ; la description de tous les procédés connus, tant anciens que modernes ; le mode d'exercice-pratique relatif à chacun d'eux ; l'explication des divers phénomènes qui se passent dans chaque opération, conformément à la théorie la plus moderne ; l'exposition des vertus, de l'usage et des doses des médicaments, tant magistraux qu'officinaux ; avec l'application de l'art du Pharmacien aux autres arts qui lui sont relatifs, notamment à ceux du Distillateur, du Confiseur, du Parfumeur, du Fabricant de couleur et du Vernisseur ; et avec l'adoption et l'explication des nouveaux poids et mesures comparés aux anciens, et les anciens signes de médecine conservés",
         "volume_number": "TOME SECOND",
-        "authors": "",
-        "publisher": "",
-        "publication_place": "",
-        "date": "",
+        "authors": "Simon MORELOT",
+        "publisher": "Poignée",
+        "publication_place": "PARIS",
+        "date": "1803",
         "identifier": "http://gallica.bnf.fr/ark:/12148/bpt6k91877v",
         "iiif_manifest": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k91877v/manifest.json"
     },
     "langue": "fr (French)",
+    "ark": "bpt6k91877v",
+    "typographie_suggestion": {
+        "category": "Serif/Roman",
+        "subtype": "Didone (Modern)",
+        "explanation": "The text exhibits the high contrast between thick and thin strokes, vertical stress, and flat, unbracketed serifs characteristic of the \"Modern\" or Didone style (popularized by Didot and Bodoni), which was the standard for academic and professional printing in France during the early 19th century.",
+        "raw": "Category: Serif/Roman\nSubtype: Didone (Modern)\nExplanation: The text exhibits the high contrast between thick and thin strokes, vertical stress, and flat, unbracketed serifs characteristic of the \"Modern\" or Didone style (popularized by Didot and Bodoni), which was the standard for academic and professional printing in France during the early 19th century."
+    },
+    "typographie": {
+        "category": "Serif/Roman",
+        "subtype": "Didone (Modern)"
+    },
     "_annotations": {
         "metadata.title": {
-            "lisibilite": "Lisible"
+            "lisibilite": "Lisible",
+            "correction": "COURS ÉLÉMENTAIRE THÉORIQUE ET PRATIQUE DE PHARMACIE-CHIMIQUE"
         },
         "metadata.title_complement": {
-            "lisibilite": "Lisible"
+            "lisibilite": "Lisible",
+            "correction": "ou Manuel du pharmacien-chimiste ; contenant la définition des diverses opérations pharmaceuto-chimiques ; la description de tous les procédés connus, tant anciens que modernes ; le mode d'exercice-pratique relatif à chacun d'eux ; l'explication des divers phénomènes qui se passent dans chaque opération, conformément à la théorie la plus moderne ; l'exposition des vertus, de l'usage et des doses des médicaments, tant magistraux qu'officinaux ; avec l'application de l'art du Pharmacien aux autres arts qui lui sont relatifs, notamment à ceux du Distillateur, du Confiseur, du Parfumeur, du Fabricant de couleur et du Vernisseur ; et avec l'adoption et l'explication des nouveaux poids et mesures comparés aux anciens, et les anciens signes de médecine conservés"
         },
         "metadata.volume_number": {
             "lisibilite": "Lisible"
         },
         "metadata.authors": {
-            "lisibilite": "Non lisible",
-            "cause": "absent"
+            "lisibilite": "Lisible",
+            "correction": "Simon MORELOT"
         },
         "metadata.publisher": {
-            "lisibilite": "Non lisible",
-            "cause": "absent"
+            "lisibilite": "Lisible",
+            "correction": "Poignée"
         },
         "metadata.publication_place": {
-            "lisibilite": "Non lisible",
-            "cause": "absent"
+            "lisibilite": "Lisible",
+            "correction": "PARIS"
         },
         "metadata.date": {
-            "lisibilite": "Non lisible",
-            "cause": "absent"
+            "lisibilite": "Lisible",
+            "correction": "1803"
         },
         "langue": {
             "lisibilite": "Lisible"
+        },
+        "metadata.identifier": {
+            "lisibilite": "Lisible"
+        },
+        "metadata.iiif_manifest": {
+            "lisibilite": "Lisible"
+        },
+        "ark": {
+            "lisibilite": "Lisible"
         }
-    },
-    "ark": "bpt6k91877v"
+    }
 }

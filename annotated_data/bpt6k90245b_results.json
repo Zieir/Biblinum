@@ -3,7 +3,7 @@
         "title": "FORMES CHIMIQUES DE TRANSITION",
         "title_complement": "",
         "volume_number": "",
-        "authors": "JOB, André ; PERRIN, J. ; URBAIN, G.",
+        "authors": "André JOB",
         "publisher": "SOCIÉTÉ D'ÉDITIONS SCIENTIFIQUES",
         "publication_place": "PARIS",
         "date": "1931",
@@ -11,6 +11,17 @@
         "iiif_manifest": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k90245b/manifest.json"
     },
     "langue": "fr (French)",
+    "ark": "bpt6k90245b",
+    "typographie_suggestion": {
+        "category": "Sans-serif",
+        "subtype": "Geometric / Grotesque",
+        "explanation": "The primary title (\"FORMES CHIMIQUES DE TRANSITION\") and the author's name use a bold, clean typeface without serifs. The letterforms feature consistent stroke widths and a structured, industrial appearance typical of early 20th-century geometric sans-serifs.",
+        "raw": "Category: Sans-serif\nSubtype: Geometric / Grotesque\nExplanation: The primary title (\"FORMES CHIMIQUES DE TRANSITION\") and the author's name use a bold, clean typeface without serifs. The letterforms feature consistent stroke widths and a structured, industrial appearance typical of early 20th-century geometric sans-serifs."
+    },
+    "typographie": {
+        "category": "Sans-serif",
+        "subtype": "Geometric / Grotesque"
+    },
     "_annotations": {
         "metadata.title": {
             "lisibilite": "Lisible"
@@ -24,7 +35,8 @@
             "cause": "absent"
         },
         "metadata.authors": {
-            "lisibilite": "Lisible"
+            "lisibilite": "Lisible",
+            "correction": "André JOB"
         },
         "metadata.publisher": {
             "lisibilite": "Lisible"
@@ -37,7 +49,15 @@
         },
         "langue": {
             "lisibilite": "Lisible"
+        },
+        "metadata.identifier": {
+            "lisibilite": "Lisible"
+        },
+        "metadata.iiif_manifest": {
+            "lisibilite": "Lisible"
+        },
+        "ark": {
+            "lisibilite": "Lisible"
         }
-    },
-    "ark": "bpt6k90245b"
+    }
 }

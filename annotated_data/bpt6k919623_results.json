@@ -3,14 +3,25 @@
         "title": "MANUEL DE TOXICOLOGIE",
         "title_complement": "",
         "volume_number": "",
-        "authors": "",
-        "publisher": "",
-        "publication_place": "",
-        "date": "",
+        "authors": "Dragendorff",
+        "publisher": "F. SAVY",
+        "publication_place": "PARIS",
+        "date": "1873",
         "identifier": "http://gallica.bnf.fr/ark:/12148/bpt6k919623",
         "iiif_manifest": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k919623/manifest.json"
     },
     "langue": "fr (French)",
+    "ark": "bpt6k919623",
+    "typographie_suggestion": {
+        "category": "Serif/Roman",
+        "subtype": "Modern (Didone)",
+        "explanation": "The text features the high contrast between thick and thin strokes, vertical stress, and small, horizontal serifs characteristic of the Modern/Didone style (similar to Bodoni or Didot), which was standard for academic and legal printing in the 19th century.",
+        "raw": "Category: Serif/Roman\nSubtype: Modern (Didone)\nExplanation: The text features the high contrast between thick and thin strokes, vertical stress, and small, horizontal serifs characteristic of the Modern/Didone style (similar to Bodoni or Didot), which was standard for academic and legal printing in the 19th century."
+    },
+    "typographie": {
+        "category": "Serif/Roman",
+        "subtype": "Modern (Didone)"
+    },
     "_annotations": {
         "metadata.title": {
             "lisibilite": "Lisible"
@@ -24,24 +35,32 @@
             "cause": "absent"
         },
         "metadata.authors": {
-            "lisibilite": "Non lisible",
-            "cause": "absent"
+            "lisibilite": "Lisible",
+            "correction": "Dragendorff"
         },
         "metadata.publisher": {
-            "lisibilite": "Non lisible",
-            "cause": "absent"
+            "lisibilite": "Lisible",
+            "correction": "F. SAVY"
         },
         "metadata.publication_place": {
-            "lisibilite": "Non lisible",
-            "cause": "absent"
+            "lisibilite": "Lisible",
+            "correction": "PARIS"
         },
         "metadata.date": {
-            "lisibilite": "Non lisible",
-            "cause": "absent"
+            "lisibilite": "Lisible",
+            "correction": "1873"
         },
         "langue": {
             "lisibilite": "Lisible"
+        },
+        "metadata.identifier": {
+            "lisibilite": "Lisible"
+        },
+        "metadata.iiif_manifest": {
+            "lisibilite": "Lisible"
+        },
+        "ark": {
+            "lisibilite": "Lisible"
         }
-    },
-    "ark": "bpt6k919623"
+    }
 }

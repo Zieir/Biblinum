@@ -11,6 +11,17 @@
         "iiif_manifest": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k91886t/manifest.json"
     },
     "langue": "de (German)",
+    "ark": "bpt6k91886t",
+    "typographie_suggestion": {
+        "category": "Sans-serif",
+        "subtype": "Humanist / Grotesque",
+        "explanation": "The typeface lacks serifs (the small decorative strokes at the ends of characters) and features a clean, functional design typical of early 20th-century academic and technical publishing. The slight variation in stroke thickness suggests a Humanist influence rather than a purely geometric construction.",
+        "raw": "Category: Sans-serif\nSubtype: Humanist / Grotesque\nExplanation: The typeface lacks serifs (the small decorative strokes at the ends of characters) and features a clean, functional design typical of early 20th-century academic and technical publishing. The slight variation in stroke thickness suggests a Humanist influence rather than a purely geometric construction."
+    },
+    "typographie": {
+        "category": "Sans-serif",
+        "subtype": "Humanist / Grotesque"
+    },
     "_annotations": {
         "metadata.title": {
             "lisibilite": "Lisible"
@@ -36,7 +47,15 @@
         "langue": {
             "lisibilite": "Lisible"
         },
-        "_note": "A REVOIR TODO"
-    },
-    "ark": "bpt6k91886t"
+        "_note": "A REVOIR TODO",
+        "metadata.identifier": {
+            "lisibilite": "Lisible"
+        },
+        "metadata.iiif_manifest": {
+            "lisibilite": "Lisible"
+        },
+        "ark": {
+            "lisibilite": "Lisible"
+        }
+    }
 }

@@ -3,7 +3,7 @@
         "title": "Science et Industrie",
         "title_complement": "",
         "volume_number": "",
-        "authors": "LE CHATELIER, Henry",
+        "authors": "Henry LE CHATELIER",
         "publisher": "Ernest Flammarion",
         "publication_place": "Paris",
         "date": "",
@@ -11,6 +11,17 @@
         "iiif_manifest": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k902471/manifest.json"
     },
     "langue": "fr (French)",
+    "ark": "bpt6k902471",
+    "typographie_suggestion": {
+        "category": "Serif/Roman",
+        "subtype": "Didone (Modern)",
+        "explanation": "The primary text (specifically \"Science et Industrie\") features the high contrast between thick and thin strokes and vertical stress characteristic of the Didone style, which was prevalent in French publishing during the 19th and early 20th centuries.",
+        "raw": "Category: Serif/Roman\nSubtype: Didone (Modern)\nExplanation: The primary text (specifically \"Science et Industrie\") features the high contrast between thick and thin strokes and vertical stress characteristic of the Didone style, which was prevalent in French publishing during the 19th and early 20th centuries."
+    },
+    "typographie": {
+        "category": "Serif/Roman",
+        "subtype": "Didone (Modern)"
+    },
     "_annotations": {
         "metadata.title": {
             "lisibilite": "Lisible"
@@ -24,7 +35,8 @@
             "cause": "absent"
         },
         "metadata.authors": {
-            "lisibilite": "Lisible"
+            "lisibilite": "Lisible",
+            "correction": "Henry LE CHATELIER"
         },
         "metadata.publisher": {
             "lisibilite": "Lisible"
@@ -38,7 +50,15 @@
         },
         "langue": {
             "lisibilite": "Lisible"
+        },
+        "metadata.identifier": {
+            "lisibilite": "Lisible"
+        },
+        "metadata.iiif_manifest": {
+            "lisibilite": "Lisible"
+        },
+        "ark": {
+            "lisibilite": "Lisible"
         }
-    },
-    "ark": "bpt6k902471"
+    }
 }

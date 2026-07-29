@@ -3,7 +3,7 @@
         "title": "NOTICE SUR LES TRAVAUX SCIENTIFIQUES",
         "title_complement": "",
         "volume_number": "",
-        "authors": "BERTHELOT, M. Daniel",
+        "authors": "Daniel BERTHELOT",
         "publisher": "GAUTHIER-VILLARS ET Cie, EDITEURS",
         "publication_place": "PARIS",
         "date": "1917",
@@ -11,6 +11,17 @@
         "iiif_manifest": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k903804/manifest.json"
     },
     "langue": "fr (French)",
+    "ark": "bpt6k903804",
+    "typographie_suggestion": {
+        "category": "Serif/Roman",
+        "subtype": "Slab Serif (Egyptian)",
+        "explanation": "The primary heading \"TRAVAUX SCIENTIFIQUES\" features heavy, block-like serifs with little to no bracketing, which is characteristic of the Slab Serif style popular in 19th-century printing. The secondary text uses a more traditional Modern/Didone serif.",
+        "raw": "Category: Serif/Roman\nSubtype: Slab Serif (Egyptian)\nExplanation: The primary heading \"TRAVAUX SCIENTIFIQUES\" features heavy, block-like serifs with little to no bracketing, which is characteristic of the Slab Serif style popular in 19th-century printing. The secondary text uses a more traditional Modern/Didone serif."
+    },
+    "typographie": {
+        "category": "Serif/Roman",
+        "subtype": "Slab Serif (Egyptian)"
+    },
     "_annotations": {
         "metadata.title": {
             "lisibilite": "Lisible"
@@ -24,7 +35,8 @@
             "cause": "absent"
         },
         "metadata.authors": {
-            "lisibilite": "Lisible"
+            "lisibilite": "Lisible",
+            "correction": "Daniel BERTHELOT"
         },
         "metadata.publisher": {
             "lisibilite": "Lisible"
@@ -37,7 +49,15 @@
         },
         "langue": {
             "lisibilite": "Lisible"
+        },
+        "metadata.identifier": {
+            "lisibilite": "Lisible"
+        },
+        "metadata.iiif_manifest": {
+            "lisibilite": "Lisible"
+        },
+        "ark": {
+            "lisibilite": "Lisible"
         }
-    },
-    "ark": "bpt6k903804"
+    }
 }

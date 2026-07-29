@@ -3,7 +3,7 @@
         "title": "RECHERCHES SUR LES MODIFICATIONS MOLÉCULAIRES",
         "title_complement": "OU ÉTATS ISALLOTROPIQUES DE LA MATIÈRE AMYLACÉE",
         "volume_number": "",
-        "authors": "BÉCHAMP, A.",
+        "authors": "A. BÉCHAMP",
         "publisher": "",
         "publication_place": "",
         "date": "",
@@ -11,6 +11,17 @@
         "iiif_manifest": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k916957/manifest.json"
     },
     "langue": "fr (French)",
+    "ark": "bpt6k916957",
+    "typographie_suggestion": {
+        "category": "Serif/Roman",
+        "subtype": "Didone (Modern)",
+        "explanation": "The text features the high contrast between thick and thin strokes, vertical stress, and small, horizontal serifs characteristic of the \"Modern\" or Didone style (similar to Bodoni or Didot), which was standard for academic and official French printing in the 19th and early 20th centuries.",
+        "raw": "Category: Serif/Roman\nSubtype: Didone (Modern)\nExplanation: The text features the high contrast between thick and thin strokes, vertical stress, and small, horizontal serifs characteristic of the \"Modern\" or Didone style (similar to Bodoni or Didot), which was standard for academic and official French printing in the 19th and early 20th centuries."
+    },
+    "typographie": {
+        "category": "Serif/Roman",
+        "subtype": "Didone (Modern)"
+    },
     "_annotations": {
         "metadata.title": {
             "lisibilite": "Lisible"
@@ -24,7 +35,7 @@
         },
         "metadata.authors": {
             "lisibilite": "Lisible",
-            "correction": "BÉCHAMP, A."
+            "correction": "A. BÉCHAMP"
         },
         "metadata.publisher": {
             "lisibilite": "Non lisible",
@@ -42,7 +53,15 @@
         },
         "langue": {
             "lisibilite": "Lisible"
+        },
+        "metadata.identifier": {
+            "lisibilite": "Lisible"
+        },
+        "metadata.iiif_manifest": {
+            "lisibilite": "Lisible"
+        },
+        "ark": {
+            "lisibilite": "Lisible"
         }
-    },
-    "ark": "bpt6k916957"
+    }
 }

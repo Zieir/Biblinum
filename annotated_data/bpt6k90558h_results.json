@@ -2,15 +2,26 @@
     "metadata": {
         "title": "RECUEIL DES TRAVAUX SCIENTIFIQUES",
         "title_complement": "",
-        "volume_number": "",
-        "authors": "ÉBELMEN, M.",
-        "publisher": "",
-        "publication_place": "",
-        "date": "",
+        "volume_number": "TOME SECOND",
+        "authors": "ÉBELMEN",
+        "publisher": "Mallet-Bachelier ",
+        "publication_place": "PARIS",
+        "date": "1855",
         "identifier": "http://gallica.bnf.fr/ark:/12148/bpt6k90558h",
         "iiif_manifest": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k90558h/manifest.json"
     },
     "langue": "fr (French)",
+    "ark": "bpt6k90558h",
+    "typographie_suggestion": {
+        "category": "Serif/Roman",
+        "subtype": "Modern (Didone)",
+        "explanation": "The typeface features the high contrast between thick and thin strokes, vertical stress, and small, unbracketed serifs characteristic of the \"Modern\" or Didone style (similar to Bodoni or Didot), which was the standard for academic and official French printing in the mid-19th century.",
+        "raw": "Category: Serif/Roman\nSubtype: Modern (Didone)\nExplanation: The typeface features the high contrast between thick and thin strokes, vertical stress, and small, unbracketed serifs characteristic of the \"Modern\" or Didone style (similar to Bodoni or Didot), which was the standard for academic and official French printing in the mid-19th century."
+    },
+    "typographie": {
+        "category": "Serif/Roman",
+        "subtype": "Modern (Didone)"
+    },
     "_annotations": {
         "metadata.title": {
             "lisibilite": "Lisible"
@@ -20,27 +31,36 @@
             "cause": "absent"
         },
         "metadata.volume_number": {
-            "lisibilite": "Non lisible",
-            "cause": "absent"
+            "lisibilite": "Lisible",
+            "correction": "TOME SECOND"
         },
         "metadata.authors": {
-            "lisibilite": "Lisible"
+            "lisibilite": "Lisible",
+            "correction": "ÉBELMEN"
         },
         "metadata.publisher": {
-            "lisibilite": "Non lisible",
-            "cause": "absent"
+            "lisibilite": "Lisible",
+            "correction": "Mallet-Bachelier "
         },
         "metadata.publication_place": {
-            "lisibilite": "Non lisible",
-            "cause": "absent"
+            "lisibilite": "Lisible",
+            "correction": "PARIS"
         },
         "metadata.date": {
-            "lisibilite": "Non lisible",
-            "cause": "absent"
+            "lisibilite": "Lisible",
+            "correction": "1855"
         },
         "langue": {
             "lisibilite": "Lisible"
+        },
+        "metadata.identifier": {
+            "lisibilite": "Lisible"
+        },
+        "metadata.iiif_manifest": {
+            "lisibilite": "Lisible"
+        },
+        "ark": {
+            "lisibilite": "Lisible"
         }
-    },
-    "ark": "bpt6k90558h"
+    }
 }

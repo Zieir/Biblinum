@@ -3,7 +3,7 @@
         "title": "JAC. BERZELIUS BREF",
         "title_complement": "BREFVÄXLING MELLAN BERZELIUS OCH ALEXANDRE MARCET (1812—1822)",
         "volume_number": "III",
-        "authors": "SÖDERBAUM, H. G.",
+        "authors": "Jac. Berzelius; H. G. Söderbaum",
         "publisher": "",
         "publication_place": "",
         "date": "",
@@ -11,6 +11,17 @@
         "iiif_manifest": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k90083b/manifest.json"
     },
     "langue": "fr (French)",
+    "ark": "bpt6k90083b",
+    "typographie_suggestion": {
+        "category": "Serif/Roman",
+        "subtype": "Didone (Modern)",
+        "explanation": "The typeface features a high contrast between thick and thin strokes, vertical stress, and thin, horizontal serifs, which are the defining characteristics of the Didone/Modern style popular in the 18th and 19th centuries.",
+        "raw": "Category: Serif/Roman\nSubtype: Didone (Modern)\nExplanation: The typeface features a high contrast between thick and thin strokes, vertical stress, and thin, horizontal serifs, which are the defining characteristics of the Didone/Modern style popular in the 18th and 19th centuries."
+    },
+    "typographie": {
+        "category": "Serif/Roman",
+        "subtype": "Didone (Modern)"
+    },
     "_annotations": {
         "metadata.title": {
             "lisibilite": "Lisible"
@@ -22,12 +33,12 @@
             "lisibilite": "Lisible"
         },
         "metadata.authors": {
-            "lisibilite": "Lisible"
+            "lisibilite": "Lisible",
+            "correction": "Jac. Berzelius; H. G. Söderbaum"
         },
         "metadata.publisher": {
             "lisibilite": "Non lisible",
-            "cause": "absent",
-            "correction": ""
+            "cause": "absent"
         },
         "metadata.publication_place": {
             "lisibilite": "Non lisible",
@@ -39,7 +50,15 @@
         },
         "langue": {
             "lisibilite": "Lisible"
+        },
+        "metadata.identifier": {
+            "lisibilite": "Lisible"
+        },
+        "metadata.iiif_manifest": {
+            "lisibilite": "Lisible"
+        },
+        "ark": {
+            "lisibilite": "Lisible"
         }
-    },
-    "ark": "bpt6k90083b"
+    }
 }

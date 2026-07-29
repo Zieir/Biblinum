@@ -11,6 +11,17 @@
         "iiif_manifest": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k90346z/manifest.json"
     },
     "langue": "ru (Russian)",
+    "ark": "bpt6k90346z",
+    "typographie_suggestion": {
+        "category": "Serif/Roman",
+        "subtype": "Slab Serif (Egyptian)",
+        "explanation": "The primary text (specifically the name \"М. БЕРТЕЛО\") features heavy, block-like serifs with little to no bracketing, characteristic of Slab Serif typefaces. The smaller body text follows a traditional Roman/Serif style common in early 20th-century academic printing.",
+        "raw": "Category: Serif/Roman\nSubtype: Slab Serif (Egyptian)\nExplanation: The primary text (specifically the name \"М. БЕРТЕЛО\") features heavy, block-like serifs with little to no bracketing, characteristic of Slab Serif typefaces. The smaller body text follows a traditional Roman/Serif style common in early 20th-century academic printing."
+    },
+    "typographie": {
+        "category": "Serif/Roman",
+        "subtype": "Slab Serif (Egyptian)"
+    },
     "_annotations": {
         "metadata.title": {
             "lisibilite": "Lisible"
@@ -40,7 +51,15 @@
             "lisibilite": "Lisible",
             "correction": "ru (Russian)"
         },
-        "_note": "A revoir"
-    },
-    "ark": "bpt6k90346z"
+        "_note": "A revoir",
+        "metadata.identifier": {
+            "lisibilite": "Lisible"
+        },
+        "metadata.iiif_manifest": {
+            "lisibilite": "Lisible"
+        },
+        "ark": {
+            "lisibilite": "Lisible"
+        }
+    }
 }

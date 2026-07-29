@@ -3,14 +3,25 @@
         "title": "LA CHIMIE RAISONNÉE",
         "title_complement": "La chimie n'est pas une science de mémoire COMMENT ON DOIT L'APPRENDRE",
         "volume_number": "",
-        "authors": "LEMARCHANDS, M.",
-        "publisher": "GAUTHIER-VILLARS & Cie",
-        "publication_place": "PARIS",
+        "authors": "M. LEMARCHANDS",
+        "publisher": "GAUTHIER-VILLARS & Cie; JULES REY",
+        "publication_place": "PARIS; GRENOBLE",
         "date": "1918",
         "identifier": "http://gallica.bnf.fr/ark:/12148/bpt6k90532t",
         "iiif_manifest": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k90532t/manifest.json"
     },
     "langue": "fr (French)",
+    "ark": "bpt6k90532t",
+    "typographie_suggestion": {
+        "category": "Serif/Roman",
+        "subtype": "Didone (Modern)",
+        "explanation": "The primary titles and text exhibit the high contrast between thick and thin strokes, vertical stress, and unbracketed, hairline serifs characteristic of the Didone style (similar to Bodoni or Didot), which was standard for French academic publishing in the early 20th century.",
+        "raw": "Category: Serif/Roman\nSubtype: Didone (Modern)\nExplanation: The primary titles and text exhibit the high contrast between thick and thin strokes, vertical stress, and unbracketed, hairline serifs characteristic of the Didone style (similar to Bodoni or Didot), which was standard for French academic publishing in the early 20th century."
+    },
+    "typographie": {
+        "category": "Serif/Roman",
+        "subtype": "Didone (Modern)"
+    },
     "_annotations": {
         "metadata.title": {
             "lisibilite": "Lisible"
@@ -23,20 +34,31 @@
             "cause": "absent"
         },
         "metadata.authors": {
-            "lisibilite": "Lisible"
+            "lisibilite": "Lisible",
+            "correction": "M. LEMARCHANDS"
         },
         "metadata.publisher": {
-            "lisibilite": "Lisible"
+            "lisibilite": "Lisible",
+            "correction": "GAUTHIER-VILLARS & Cie; JULES REY"
         },
         "metadata.publication_place": {
-            "lisibilite": "Lisible"
+            "lisibilite": "Lisible",
+            "correction": "PARIS; GRENOBLE"
         },
         "metadata.date": {
             "lisibilite": "Lisible"
         },
         "langue": {
             "lisibilite": "Lisible"
+        },
+        "metadata.identifier": {
+            "lisibilite": "Lisible"
+        },
+        "metadata.iiif_manifest": {
+            "lisibilite": "Lisible"
+        },
+        "ark": {
+            "lisibilite": "Lisible"
         }
-    },
-    "ark": "bpt6k90532t"
+    }
 }

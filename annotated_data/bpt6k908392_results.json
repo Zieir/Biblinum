@@ -3,7 +3,7 @@
         "title": "RECHERCHES SUR LES SILICOTUNGSTATES",
         "title_complement": "",
         "volume_number": "tome XIX, n° 7",
-        "authors": "WYROUBOFF, G.",
+        "authors": "G. WYROUBOFF",
         "publisher": "IMPRIMERIE CHAIX",
         "publication_place": "PARIS",
         "date": "1896",
@@ -11,6 +11,17 @@
         "iiif_manifest": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k908392/manifest.json"
     },
     "langue": "fr (French)",
+    "ark": "bpt6k908392",
+    "typographie_suggestion": {
+        "category": "Serif/Roman",
+        "subtype": "Slab Serif (Egyptian)",
+        "explanation": "The primary headings (\"SILICOTUNGSTATES\", \"RECHERCHES\") feature heavy, block-like serifs with little to no bracketing between the serif and the stem, which is characteristic of the Slab Serif style common in 19th-century academic and industrial printing.",
+        "raw": "Category: Serif/Roman\nSubtype: Slab Serif (Egyptian)\nExplanation: The primary headings (\"SILICOTUNGSTATES\", \"RECHERCHES\") feature heavy, block-like serifs with little to no bracketing between the serif and the stem, which is characteristic of the Slab Serif style common in 19th-century academic and industrial printing."
+    },
+    "typographie": {
+        "category": "Serif/Roman",
+        "subtype": "Slab Serif (Egyptian)"
+    },
     "_annotations": {
         "metadata.title": {
             "lisibilite": "Lisible"
@@ -23,7 +34,8 @@
             "lisibilite": "Lisible"
         },
         "metadata.authors": {
-            "lisibilite": "Lisible"
+            "lisibilite": "Lisible",
+            "correction": "G. WYROUBOFF"
         },
         "metadata.publisher": {
             "lisibilite": "Non lisible",
@@ -37,7 +49,15 @@
         },
         "langue": {
             "lisibilite": "Lisible"
+        },
+        "metadata.identifier": {
+            "lisibilite": "Lisible"
+        },
+        "metadata.iiif_manifest": {
+            "lisibilite": "Lisible"
+        },
+        "ark": {
+            "lisibilite": "Lisible"
         }
-    },
-    "ark": "bpt6k908392"
+    }
 }

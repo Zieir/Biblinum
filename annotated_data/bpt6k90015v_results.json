@@ -3,7 +3,7 @@
         "title": "CHIMIE VRAIE",
         "title_complement": "APPLICATION RIGOUREUSE DES DEUX LOIS GÉNÉRALES DE L'ACTION CHIMIQUE",
         "volume_number": "",
-        "authors": "MAUMENE, R.-J.",
+        "authors": "E.-J. MAUMENE",
         "publisher": "P. VICQ-DUNOD ET CIE",
         "publication_place": "PARIS",
         "date": "1897",
@@ -11,6 +11,17 @@
         "iiif_manifest": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k90015v/manifest.json"
     },
     "langue": "fr (French)",
+    "ark": "bpt6k90015v",
+    "typographie_suggestion": {
+        "category": "Serif/Roman",
+        "subtype": "Slab Serif (Egyptian)",
+        "explanation": "The primary headings (e.g., \"CHIMIE VRAIE\") feature heavy, block-like serifs with little to no bracketing, which is characteristic of the Slab Serif style popular in 19th-century printing.",
+        "raw": "Category: Serif/Roman\nSubtype: Slab Serif (Egyptian)\nExplanation: The primary headings (e.g., \"CHIMIE VRAIE\") feature heavy, block-like serifs with little to no bracketing, which is characteristic of the Slab Serif style popular in 19th-century printing."
+    },
+    "typographie": {
+        "category": "Serif/Roman",
+        "subtype": "Slab Serif (Egyptian)"
+    },
     "_annotations": {
         "metadata.title": {
             "lisibilite": "Lisible"
@@ -23,7 +34,8 @@
             "cause": "absent"
         },
         "metadata.authors": {
-            "lisibilite": "Lisible"
+            "lisibilite": "Lisible",
+            "correction": "E.-J. MAUMENE"
         },
         "metadata.publisher": {
             "lisibilite": "Lisible"
@@ -36,7 +48,15 @@
         },
         "langue": {
             "lisibilite": "Lisible"
+        },
+        "metadata.identifier": {
+            "lisibilite": "Lisible"
+        },
+        "metadata.iiif_manifest": {
+            "lisibilite": "Lisible"
+        },
+        "ark": {
+            "lisibilite": "Lisible"
         }
-    },
-    "ark": "bpt6k90015v"
+    }
 }

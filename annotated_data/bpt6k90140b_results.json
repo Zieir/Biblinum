@@ -3,7 +3,7 @@
         "title": "HEAT",
         "title_complement": "A MODE OF MOTION",
         "volume_number": "",
-        "authors": "Tyndall, John",
+        "authors": "John Tyndall",
         "publisher": "Longmans, Green, and Co.",
         "publication_place": "London",
         "date": "1875",
@@ -11,6 +11,17 @@
         "iiif_manifest": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k90140b/manifest.json"
     },
     "langue": "en (English)",
+    "ark": "bpt6k90140b",
+    "typographie_suggestion": {
+        "category": "Serif/Roman",
+        "subtype": "Modern / Didone",
+        "explanation": "The typeface features the high contrast between thick and thin strokes and the horizontal, unbracketed serifs characteristic of the \"Modern\" style (such as Bodoni or Didot) which was prevalent in 19th-century academic and formal publishing.",
+        "raw": "Category: Serif/Roman\nSubtype: Modern / Didone\nExplanation: The typeface features the high contrast between thick and thin strokes and the horizontal, unbracketed serifs characteristic of the \"Modern\" style (such as Bodoni or Didot) which was prevalent in 19th-century academic and formal publishing."
+    },
+    "typographie": {
+        "category": "Serif/Roman",
+        "subtype": "Modern / Didone"
+    },
     "_annotations": {
         "metadata.title": {
             "lisibilite": "Lisible"
@@ -22,7 +33,8 @@
             "lisibilite": "Lisible"
         },
         "metadata.authors": {
-            "lisibilite": "Lisible"
+            "lisibilite": "Lisible",
+            "correction": "John Tyndall"
         },
         "metadata.publisher": {
             "lisibilite": "Lisible"
@@ -35,7 +47,15 @@
         },
         "langue": {
             "lisibilite": "Lisible"
+        },
+        "metadata.identifier": {
+            "lisibilite": "Lisible"
+        },
+        "metadata.iiif_manifest": {
+            "lisibilite": "Lisible"
+        },
+        "ark": {
+            "lisibilite": "Lisible"
         }
-    },
-    "ark": "bpt6k90140b"
+    }
 }

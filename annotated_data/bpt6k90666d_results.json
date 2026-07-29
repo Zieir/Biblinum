@@ -3,7 +3,7 @@
         "title": "ЯВЛЕНІЕ АССОЦІАЦІИ",
         "title_complement": "О МОЛЕКУЛАХЪ, ОБРАЗОВАННЫХЪ СОЕДИНЕНІЕМЪ ТОЖДЕСТВЕННЫХЪ ГРУППЪ",
         "volume_number": "",
-        "authors": "Нурбатова, В. Я.",
+        "authors": " В. Я. Нурбатова",
         "publisher": "Типо-литография М. П. Фролова",
         "publication_place": "С.-ПЕТЕРБУРГЪ",
         "date": "1908",
@@ -11,6 +11,17 @@
         "iiif_manifest": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k90666d/manifest.json"
     },
     "langue": "ru (Russian)",
+    "ark": "bpt6k90666d",
+    "typographie_suggestion": {
+        "category": "Serif/Roman",
+        "subtype": "Modern / Didone",
+        "explanation": "The typeface features a high contrast between thick and thin strokes, vertical stress, and small, horizontal serifs, which are characteristic of the Modern (Didone) style prevalent in academic and official printing during the late 19th and early 20th centuries.",
+        "raw": "Category: Serif/Roman\nSubtype: Modern / Didone\nExplanation: The typeface features a high contrast between thick and thin strokes, vertical stress, and small, horizontal serifs, which are characteristic of the Modern (Didone) style prevalent in academic and official printing during the late 19th and early 20th centuries."
+    },
+    "typographie": {
+        "category": "Serif/Roman",
+        "subtype": "Modern / Didone"
+    },
     "_annotations": {
         "metadata.title": {
             "lisibilite": "Lisible"
@@ -22,7 +33,8 @@
             "lisibilite": "Lisible"
         },
         "metadata.authors": {
-            "lisibilite": "Lisible"
+            "lisibilite": "Lisible",
+            "correction": " В. Я. Нурбатова"
         },
         "metadata.publisher": {
             "lisibilite": "Lisible"
@@ -36,7 +48,15 @@
         "langue": {
             "lisibilite": "Lisible"
         },
-        "_note": "TODO"
-    },
-    "ark": "bpt6k90666d"
+        "_note": "TODO",
+        "metadata.identifier": {
+            "lisibilite": "Lisible"
+        },
+        "metadata.iiif_manifest": {
+            "lisibilite": "Lisible"
+        },
+        "ark": {
+            "lisibilite": "Lisible"
+        }
+    }
 }

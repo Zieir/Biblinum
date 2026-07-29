@@ -3,7 +3,7 @@
         "title": "HISTOIRE DE L'ÉCOLE DE CHIMIE DE MULHOUSE",
         "title_complement": "COMPTE-RENDU DE LA FÊTE DU JUBILÉ CÉLÉBRÉE LE 6 MAI 1905",
         "volume_number": "",
-        "authors": "NŒLTING, Émilio",
+        "authors": "Émilio NŒLTING",
         "publisher": "L'École de Chimie de Mulhouse",
         "publication_place": "",
         "date": "1905",
@@ -11,6 +11,17 @@
         "iiif_manifest": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k918813/manifest.json"
     },
     "langue": "fr (French)",
+    "ark": "bpt6k918813",
+    "typographie_suggestion": {
+        "category": "Serif/Roman",
+        "subtype": "Didone (Modern)",
+        "explanation": "The typeface features a high contrast between thick and thin strokes, vertical stress, and small, unbracketed (hairline) serifs, which are characteristic of the Modern/Didone style popular in 18th and 19th-century printing.",
+        "raw": "Category: Serif/Roman\nSubtype: Didone (Modern)\nExplanation: The typeface features a high contrast between thick and thin strokes, vertical stress, and small, unbracketed (hairline) serifs, which are characteristic of the Modern/Didone style popular in 18th and 19th-century printing."
+    },
+    "typographie": {
+        "category": "Serif/Roman",
+        "subtype": "Didone (Modern)"
+    },
     "_annotations": {
         "metadata.title": {
             "lisibilite": "Lisible"
@@ -22,7 +33,8 @@
             "lisibilite": "Lisible"
         },
         "metadata.authors": {
-            "lisibilite": "Lisible"
+            "lisibilite": "Lisible",
+            "correction": "Émilio NŒLTING"
         },
         "metadata.publisher": {
             "lisibilite": "Lisible"
@@ -37,7 +49,15 @@
         },
         "langue": {
             "lisibilite": "Lisible"
+        },
+        "metadata.identifier": {
+            "lisibilite": "Lisible"
+        },
+        "metadata.iiif_manifest": {
+            "lisibilite": "Lisible"
+        },
+        "ark": {
+            "lisibilite": "Lisible"
         }
-    },
-    "ark": "bpt6k918813"
+    }
 }

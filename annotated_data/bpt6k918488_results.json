@@ -3,14 +3,25 @@
         "title": "MESURE DES TEMPÉRATURES ÉLEVÉES",
         "title_complement": "",
         "volume_number": "",
-        "authors": "",
-        "publisher": "",
-        "publication_place": "",
-        "date": "",
+        "authors": "H. LE CHATELIER; O. BOUDOUARD",
+        "publisher": "GEORGE CARRÉ; C. NAUD",
+        "publication_place": "PARIS",
+        "date": "1900",
         "identifier": "http://gallica.bnf.fr/ark:/12148/bpt6k918488",
         "iiif_manifest": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k918488/manifest.json"
     },
     "langue": "fr (French)",
+    "ark": "bpt6k918488",
+    "typographie_suggestion": {
+        "category": "Serif",
+        "subtype": "Slab Serif (Egyptian)",
+        "explanation": "The main title features heavy, block-like serifs with little to no bracketing, characteristic of the Slab Serif style popular in the 19th and early 20th centuries for emphasis and titles.",
+        "raw": "Based on the provided image, there are multiple typefaces used. I will identify the most prominent one (the main title \"TEMPÉRATURES ÉLEVÉES\").\n\nCategory: Serif\nSubtype: Slab Serif (Egyptian)\nExplanation: The main title features heavy, block-like serifs with little to no bracketing, characteristic of the Slab Serif style popular in the 19th and early 20th centuries for emphasis and titles."
+    },
+    "typographie": {
+        "category": "Serif",
+        "subtype": "Slab Serif (Egyptian)"
+    },
     "_annotations": {
         "metadata.title": {
             "lisibilite": "Lisible"
@@ -24,25 +35,32 @@
             "cause": "absent"
         },
         "metadata.authors": {
-            "lisibilite": "Non lisible",
-            "cause": "absent"
+            "lisibilite": "Lisible",
+            "correction": "H. LE CHATELIER; O. BOUDOUARD"
         },
         "metadata.publisher": {
-            "lisibilite": "Non lisible",
-            "cause": "absent",
-            "correction": ""
+            "lisibilite": "Lisible",
+            "correction": "GEORGE CARRÉ; C. NAUD"
         },
         "metadata.publication_place": {
-            "lisibilite": "Non lisible",
-            "cause": "absent"
+            "lisibilite": "Lisible",
+            "correction": "PARIS"
         },
         "metadata.date": {
-            "lisibilite": "Non lisible",
-            "cause": "absent"
+            "lisibilite": "Lisible",
+            "correction": "1900"
         },
         "langue": {
             "lisibilite": "Lisible"
+        },
+        "metadata.identifier": {
+            "lisibilite": "Lisible"
+        },
+        "metadata.iiif_manifest": {
+            "lisibilite": "Lisible"
+        },
+        "ark": {
+            "lisibilite": "Lisible"
         }
-    },
-    "ark": "bpt6k918488"
+    }
 }

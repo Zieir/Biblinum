@@ -3,7 +3,7 @@
         "title": "COURS DE CHYMIE",
         "title_complement": "CONTENANT LA MANIERE DE FAIRE LES OPERATIONS QUI SONT En usage dans la Médecine, par une Méthode facile.",
         "volume_number": "",
-        "authors": "LEMERY; BARON",
+        "authors": "LEMERY",
         "publisher": "Chez Laurent-Charles D'Houry, Fils",
         "publication_place": "PARIS",
         "date": "1757",
@@ -11,6 +11,17 @@
         "iiif_manifest": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k918604/manifest.json"
     },
     "langue": "fr (French)",
+    "ark": "bpt6k918604",
+    "typographie_suggestion": {
+        "category": "Serif/Roman",
+        "subtype": "Old Style (Garalde)",
+        "explanation": "The text features the characteristic traits of 17th and 18th-century French printing, characterized by moderate contrast between thick and thin strokes, slanted serifs, and a humanist axis. The large display capitals for \"COURS DE CHYMIE\" exhibit the classic proportions of the Old Style period.",
+        "raw": "Category: Serif/Roman\nSubtype: Old Style (Garalde)\nExplanation: The text features the characteristic traits of 17th and 18th-century French printing, characterized by moderate contrast between thick and thin strokes, slanted serifs, and a humanist axis. The large display capitals for \"COURS DE CHYMIE\" exhibit the classic proportions of the Old Style period."
+    },
+    "typographie": {
+        "category": "Serif/Roman",
+        "subtype": "Old Style (Garalde)"
+    },
     "_annotations": {
         "metadata.title": {
             "lisibilite": "Lisible"
@@ -24,7 +35,7 @@
         },
         "metadata.authors": {
             "lisibilite": "Lisible",
-            "correction": "LEMERY; BARON"
+            "correction": "LEMERY"
         },
         "metadata.publisher": {
             "lisibilite": "Lisible"
@@ -38,7 +49,15 @@
         },
         "langue": {
             "lisibilite": "Lisible"
+        },
+        "metadata.identifier": {
+            "lisibilite": "Lisible"
+        },
+        "metadata.iiif_manifest": {
+            "lisibilite": "Lisible"
+        },
+        "ark": {
+            "lisibilite": "Lisible"
         }
-    },
-    "ark": "bpt6k918604"
+    }
 }

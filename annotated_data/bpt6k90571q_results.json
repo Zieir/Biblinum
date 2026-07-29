@@ -11,6 +11,17 @@
         "iiif_manifest": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k90571q/manifest.json"
     },
     "langue": "fr (French)",
+    "ark": "bpt6k90571q",
+    "typographie_suggestion": {
+        "category": "Serif/Roman",
+        "subtype": "Old Style",
+        "explanation": "The typeface features moderate contrast between thick and thin strokes, bracketed serifs, and a slight diagonal stress in the letterforms, which are characteristic of Old Style faces common in traditional book publishing.",
+        "raw": "Category: Serif/Roman\nSubtype: Old Style\nExplanation: The typeface features moderate contrast between thick and thin strokes, bracketed serifs, and a slight diagonal stress in the letterforms, which are characteristic of Old Style faces common in traditional book publishing."
+    },
+    "typographie": {
+        "category": "Serif/Roman",
+        "subtype": "Old Style"
+    },
     "_annotations": {
         "metadata.title": {
             "lisibilite": "Lisible"
@@ -39,7 +50,15 @@
         },
         "langue": {
             "lisibilite": "Lisible"
+        },
+        "metadata.identifier": {
+            "lisibilite": "Lisible"
+        },
+        "metadata.iiif_manifest": {
+            "lisibilite": "Lisible"
+        },
+        "ark": {
+            "lisibilite": "Lisible"
         }
-    },
-    "ark": "bpt6k90571q"
+    }
 }

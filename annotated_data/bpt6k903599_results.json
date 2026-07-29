@@ -3,7 +3,7 @@
         "title": "DICTIONNAIRE DE CHIMIE INDUSTRIELLE",
         "title_complement": "",
         "volume_number": "TOME TROISIÈME",
-        "authors": "BARRESWIL ; GIRARD, AIMÉ",
+        "authors": "BARRESWIL ; AIMÉ GIRARD",
         "publisher": "Fd TANDOU Et Cie, LIBRAIRES-ÉDITEURS",
         "publication_place": "PARIS",
         "date": "1864",
@@ -11,6 +11,17 @@
         "iiif_manifest": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k903599/manifest.json"
     },
     "langue": "fr (French)",
+    "ark": "bpt6k903599",
+    "typographie_suggestion": {
+        "category": "Serif/Roman",
+        "subtype": "Slab Serif (Egyptian)",
+        "explanation": "The primary title \"CHIMIE INDUSTRIELLE\" features heavy, block-like serifs with little to no bracketing, which is characteristic of the Slab Serif style popular in the 19th century for titles and industrial printing.",
+        "raw": "Category: Serif/Roman\nSubtype: Slab Serif (Egyptian)\nExplanation: The primary title \"CHIMIE INDUSTRIELLE\" features heavy, block-like serifs with little to no bracketing, which is characteristic of the Slab Serif style popular in the 19th century for titles and industrial printing."
+    },
+    "typographie": {
+        "category": "Serif/Roman",
+        "subtype": "Slab Serif (Egyptian)"
+    },
     "_annotations": {
         "metadata.title": {
             "lisibilite": "Lisible"
@@ -23,7 +34,8 @@
             "lisibilite": "Lisible"
         },
         "metadata.authors": {
-            "lisibilite": "Lisible"
+            "lisibilite": "Lisible",
+            "correction": "BARRESWIL ; AIMÉ GIRARD"
         },
         "metadata.publisher": {
             "lisibilite": "Lisible",
@@ -37,7 +49,15 @@
         },
         "langue": {
             "lisibilite": "Lisible"
+        },
+        "metadata.identifier": {
+            "lisibilite": "Lisible"
+        },
+        "metadata.iiif_manifest": {
+            "lisibilite": "Lisible"
+        },
+        "ark": {
+            "lisibilite": "Lisible"
         }
-    },
-    "ark": "bpt6k903599"
+    }
 }

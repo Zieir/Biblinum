@@ -1,7 +1,7 @@
 {
     "metadata": {
-        "title": "CATALOGUE OFFICIEL",
-        "title_complement": "EXPOSITION UNIVERSELLE INTERNATIONALE DE 1878, À PARIS",
+        "title": "EXPOSITION UNIVERSELLE INTERNATIONALE DE 1878, À PARIS",
+        "title_complement": "CATALOGUE OFFICIEL publié par le commissariat général",
         "volume_number": "TOME III",
         "authors": "",
         "publisher": "COMMISSARIAT GÉNÉRAL",
@@ -11,12 +11,25 @@
         "iiif_manifest": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k904258/manifest.json"
     },
     "langue": "fr (French)",
+    "ark": "bpt6k904258",
+    "typographie_suggestion": {
+        "category": "Script",
+        "subtype": "Cursive",
+        "explanation": "This is a fluid, handwritten ink signature or notation characterized by connected letters and a rapid, personal stroke.",
+        "raw": "Based on the image provided, there are two distinct styles of writing. I will identify both:\n\n**For the printed text (e.g., \"CATALOGUE OFFICIEL\"):**\nCategory: Serif/Roman\nSubtype: Didone (Modern)\nExplanation: The printed text features the high contrast between thick and thin strokes and vertical stress characteristic of the late 18th and 19th-century French \"Modern\" style (similar to Didot).\n\n**For the handwritten ink mark:**\nCategory: Script\nSubtype: Cursive\nExplanation: This is a fluid, handwritten ink signature or notation characterized by connected letters and a rapid, personal stroke."
+    },
+    "typographie": {
+        "category": "Script",
+        "subtype": "Cursive"
+    },
     "_annotations": {
         "metadata.title": {
-            "lisibilite": "Lisible"
+            "lisibilite": "Lisible",
+            "correction": "EXPOSITION UNIVERSELLE INTERNATIONALE DE 1878, À PARIS"
         },
         "metadata.title_complement": {
-            "lisibilite": "Lisible"
+            "lisibilite": "Lisible",
+            "correction": "CATALOGUE OFFICIEL publié par le commissariat général"
         },
         "metadata.volume_number": {
             "lisibilite": "Lisible"
@@ -36,7 +49,15 @@
         },
         "langue": {
             "lisibilite": "Lisible"
+        },
+        "metadata.identifier": {
+            "lisibilite": "Lisible"
+        },
+        "metadata.iiif_manifest": {
+            "lisibilite": "Lisible"
+        },
+        "ark": {
+            "lisibilite": "Lisible"
         }
-    },
-    "ark": "bpt6k904258"
+    }
 }

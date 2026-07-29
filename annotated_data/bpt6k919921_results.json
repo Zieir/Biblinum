@@ -1,9 +1,9 @@
 {
     "metadata": {
-        "title": "ÉTUDES",
-        "title_complement": "SUR LES HAUTS-FOURNEAUX",
+        "title": "ÉTUDES SUR LES HAUTS-FOURNEAUX",
+        "title_complement": "",
         "volume_number": "",
-        "authors": "GRUNER, L.",
+        "authors": "L. GRUNER",
         "publisher": "IMPRIMERIE DE J. DESOER, LIBRAIRE",
         "publication_place": "LIÈGE",
         "date": "1873",
@@ -11,12 +11,26 @@
         "iiif_manifest": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k919921/manifest.json"
     },
     "langue": "fr (French)",
+    "ark": "bpt6k919921",
+    "typographie_suggestion": {
+        "category": "Serif/Roman",
+        "subtype": "Didone (Modern)",
+        "explanation": "The primary text (e.g., \"ÉTUDES\", \"HAUTS-FOURNEAUX\") features the high contrast between thick and thin strokes and vertical stress characteristic of the Didone style, which was prevalent in French printing during the late 18th and 19th centuries.",
+        "raw": "Category: Serif/Roman\nSubtype: Didone (Modern)\nExplanation: The primary text (e.g., \"ÉTUDES\", \"HAUTS-FOURNEAUX\") features the high contrast between thick and thin strokes and vertical stress characteristic of the Didone style, which was prevalent in French printing during the late 18th and 19th centuries."
+    },
+    "typographie": {
+        "category": "Serif/Roman",
+        "subtype": "Didone (Modern)"
+    },
     "_annotations": {
         "metadata.title": {
-            "lisibilite": "Lisible"
+            "lisibilite": "Lisible",
+            "correction": "ÉTUDES SUR LES HAUTS-FOURNEAUX"
         },
         "metadata.title_complement": {
-            "lisibilite": "Lisible"
+            "lisibilite": "Non lisible",
+            "cause": "absent",
+            "correction": ""
         },
         "metadata.volume_number": {
             "lisibilite": "Non lisible",
@@ -24,7 +38,7 @@
         },
         "metadata.authors": {
             "lisibilite": "Lisible",
-            "correction": "GRUNER, L."
+            "correction": "L. GRUNER"
         },
         "metadata.publisher": {
             "lisibilite": "Lisible",
@@ -40,7 +54,15 @@
         },
         "langue": {
             "lisibilite": "Lisible"
+        },
+        "metadata.identifier": {
+            "lisibilite": "Lisible"
+        },
+        "metadata.iiif_manifest": {
+            "lisibilite": "Lisible"
+        },
+        "ark": {
+            "lisibilite": "Lisible"
         }
-    },
-    "ark": "bpt6k919921"
+    }
 }

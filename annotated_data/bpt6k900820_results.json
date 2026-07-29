@@ -3,7 +3,7 @@
         "title": "JAC. BERZELIUS BREF",
         "title_complement": "BREFVÄXLING MELLAN BERZELIUS OCH SIR HUMPHRY DAVY (1808—1825)",
         "volume_number": "II",
-        "authors": "Söderbaum, H. G.",
+        "authors": "Jac. Berzelius; H. G. Söderbaum",
         "publisher": "KUNGL. SVENSKA VETENSKAPSAKADEMIEN",
         "publication_place": "",
         "date": "",
@@ -11,6 +11,17 @@
         "iiif_manifest": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k900820/manifest.json"
     },
     "langue": "fr (French)",
+    "ark": "bpt6k900820",
+    "typographie_suggestion": {
+        "category": "Serif/Roman",
+        "subtype": "Modern (Didone)",
+        "explanation": "The typeface features a high contrast between thick and thin strokes, vertical stress, and small, horizontal serifs, which are characteristic of the Modern/Didone style popular in the late 18th and 19th centuries.",
+        "raw": "Category: Serif/Roman\nSubtype: Modern (Didone)\nExplanation: The typeface features a high contrast between thick and thin strokes, vertical stress, and small, horizontal serifs, which are characteristic of the Modern/Didone style popular in the late 18th and 19th centuries."
+    },
+    "typographie": {
+        "category": "Serif/Roman",
+        "subtype": "Modern (Didone)"
+    },
     "_annotations": {
         "metadata.title": {
             "lisibilite": "Lisible"
@@ -22,20 +33,31 @@
             "lisibilite": "Lisible"
         },
         "metadata.authors": {
-            "lisibilite": "Lisible"
+            "lisibilite": "Lisible",
+            "correction": "Jac. Berzelius; H. G. Söderbaum"
         },
         "metadata.publisher": {
             "lisibilite": "Lisible"
         },
         "metadata.publication_place": {
-            "lisibilite": "Lisible"
+            "lisibilite": "Non lisible",
+            "cause": "absent"
         },
         "metadata.date": {
-            "lisibilite": "Lisible"
+            "lisibilite": "Non lisible",
+            "cause": "absent"
         },
         "langue": {
             "lisibilite": "Lisible"
+        },
+        "metadata.identifier": {
+            "lisibilite": "Lisible"
+        },
+        "metadata.iiif_manifest": {
+            "lisibilite": "Lisible"
+        },
+        "ark": {
+            "lisibilite": "Lisible"
         }
-    },
-    "ark": "bpt6k900820"
+    }
 }

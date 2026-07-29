@@ -3,7 +3,7 @@
         "title": "La Théorie atomique",
         "title_complement": "",
         "volume_number": "",
-        "authors": "Wiertz, A.",
+        "authors": "A. Wurtz",
         "publisher": "",
         "publication_place": "",
         "date": "",
@@ -11,6 +11,17 @@
         "iiif_manifest": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k90269b/manifest.json"
     },
     "langue": "fr (French)",
+    "ark": "bpt6k90269b",
+    "typographie_suggestion": {
+        "category": "Serif/Roman",
+        "subtype": "Didone (Modern)",
+        "explanation": "The typeface features the high contrast between thick and thin strokes and the flat, unbracketed serifs characteristic of the Didone style, which was prevalent in academic and formal publishing during the late 18th and 19th centuries.",
+        "raw": "Category: Serif/Roman\nSubtype: Didone (Modern)\nExplanation: The typeface features the high contrast between thick and thin strokes and the flat, unbracketed serifs characteristic of the Didone style, which was prevalent in academic and formal publishing during the late 18th and 19th centuries."
+    },
+    "typographie": {
+        "category": "Serif/Roman",
+        "subtype": "Didone (Modern)"
+    },
     "_annotations": {
         "metadata.title": {
             "lisibilite": "Non lisible",
@@ -26,7 +37,8 @@
             "cause": "absent"
         },
         "metadata.authors": {
-            "lisibilite": "Lisible"
+            "lisibilite": "Lisible",
+            "correction": "A. Wurtz"
         },
         "metadata.publisher": {
             "lisibilite": "Non lisible",
@@ -43,7 +55,15 @@
         },
         "langue": {
             "lisibilite": "Lisible"
+        },
+        "metadata.identifier": {
+            "lisibilite": "Lisible"
+        },
+        "metadata.iiif_manifest": {
+            "lisibilite": "Lisible"
+        },
+        "ark": {
+            "lisibilite": "Lisible"
         }
-    },
-    "ark": "bpt6k90269b"
+    }
 }

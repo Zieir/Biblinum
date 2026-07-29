@@ -3,7 +3,7 @@
         "title": "PRINCIPES DE CHIMIE",
         "title_complement": "FONDÉS SUR LES THÉORIES MODERNES",
         "volume_number": "TOME PREMIER",
-        "authors": "NAQUET, A.",
+        "authors": "A. NAQUET",
         "publisher": "F. SAVY, LIBRAIRE-ÉDITEUR",
         "publication_place": "PARIS",
         "date": "",
@@ -11,6 +11,17 @@
         "iiif_manifest": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k902293/manifest.json"
     },
     "langue": "fr (French)",
+    "ark": "bpt6k902293",
+    "typographie_suggestion": {
+        "category": "Serif/Roman",
+        "subtype": "Didone (Modern)",
+        "explanation": "The main title \"DE CHIMIE\" exhibits the high contrast between thick and thin strokes and vertical stress characteristic of the Didone style (similar to Bodoni or Didot), which was prevalent in French publishing during the 19th century.",
+        "raw": "Category: Serif/Roman\nSubtype: Didone (Modern)\nExplanation: The main title \"DE CHIMIE\" exhibits the high contrast between thick and thin strokes and vertical stress characteristic of the Didone style (similar to Bodoni or Didot), which was prevalent in French publishing during the 19th century."
+    },
+    "typographie": {
+        "category": "Serif/Roman",
+        "subtype": "Didone (Modern)"
+    },
     "_annotations": {
         "metadata.title": {
             "lisibilite": "Lisible"
@@ -23,7 +34,8 @@
             "cause": "recouvert"
         },
         "metadata.authors": {
-            "lisibilite": "Lisible"
+            "lisibilite": "Lisible",
+            "correction": "A. NAQUET"
         },
         "metadata.publisher": {
             "lisibilite": "Lisible"
@@ -37,7 +49,15 @@
         },
         "langue": {
             "lisibilite": "Lisible"
+        },
+        "metadata.identifier": {
+            "lisibilite": "Lisible"
+        },
+        "metadata.iiif_manifest": {
+            "lisibilite": "Lisible"
+        },
+        "ark": {
+            "lisibilite": "Lisible"
         }
-    },
-    "ark": "bpt6k902293"
+    }
 }

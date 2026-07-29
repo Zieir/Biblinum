@@ -3,7 +3,7 @@
         "title": "BRACONNOT",
         "title_complement": "SA VIE ET SES TRAVAUX",
         "volume_number": "",
-        "authors": "Nicklès, J.",
+        "authors": "J. Nicklès",
         "publisher": "MALLET-BACHELIER ; GRIMBLOT ET Ve RAYBOIS",
         "publication_place": "PARIS ; NANCY",
         "date": "1856",
@@ -11,6 +11,17 @@
         "iiif_manifest": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k905544/manifest.json"
     },
     "langue": "fr (French)",
+    "ark": "bpt6k905544",
+    "typographie_suggestion": {
+        "category": "Serif/Roman",
+        "subtype": "Modern (Didone)",
+        "explanation": "The primary text features high contrast between thick and thin strokes, vertical stress, and small, horizontal serifs, which are characteristic of the Modern/Didone style popular in 19th-century printing.",
+        "raw": "Category: Serif/Roman\nSubtype: Modern (Didone)\nExplanation: The primary text features high contrast between thick and thin strokes, vertical stress, and small, horizontal serifs, which are characteristic of the Modern/Didone style popular in 19th-century printing."
+    },
+    "typographie": {
+        "category": "Serif/Roman",
+        "subtype": "Modern (Didone)"
+    },
     "_annotations": {
         "metadata.title": {
             "lisibilite": "Lisible"
@@ -24,7 +35,7 @@
         },
         "metadata.authors": {
             "lisibilite": "Lisible",
-            "correction": "Nicklès, J."
+            "correction": "J. Nicklès"
         },
         "metadata.publisher": {
             "lisibilite": "Non lisible",
@@ -41,7 +52,15 @@
         },
         "langue": {
             "lisibilite": "Lisible"
+        },
+        "metadata.identifier": {
+            "lisibilite": "Lisible"
+        },
+        "metadata.iiif_manifest": {
+            "lisibilite": "Lisible"
+        },
+        "ark": {
+            "lisibilite": "Lisible"
         }
-    },
-    "ark": "bpt6k905544"
+    }
 }

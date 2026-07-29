@@ -3,14 +3,25 @@
         "title": "DETERMINATION OF THE POINTS OF ALLOTROPIC CHANGES OF IRON AND IT'S ALLOYS BY THE MEASUREMENT OF THE VARIATIONS IN THE ELECTRIC RESISTANCE",
         "title_complement": "",
         "volume_number": "",
-        "authors": "BOUDOUARD, O.",
+        "authors": "O. BOUDOUARD",
         "publisher": "Iron and Steel Institute",
-        "publication_place": "",
+        "publication_place": "PARIS",
         "date": "1903",
         "identifier": "http://gallica.bnf.fr/ark:/12148/bpt6k917120",
         "iiif_manifest": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k917120/manifest.json"
     },
     "langue": "en (English)",
+    "ark": "bpt6k917120",
+    "typographie_suggestion": {
+        "category": "Serif/Roman",
+        "subtype": "Modern / Didone",
+        "explanation": "The primary printed text features high contrast between thick and thin strokes, vertical stress, and thin, horizontal serifs, which are characteristic of the Modern/Didone style prevalent in academic and formal publishing during the late 19th and early 20th centuries.",
+        "raw": "Category: Serif/Roman\nSubtype: Modern / Didone\nExplanation: The primary printed text features high contrast between thick and thin strokes, vertical stress, and thin, horizontal serifs, which are characteristic of the Modern/Didone style prevalent in academic and formal publishing during the late 19th and early 20th centuries."
+    },
+    "typographie": {
+        "category": "Serif/Roman",
+        "subtype": "Modern / Didone"
+    },
     "_annotations": {
         "metadata.title": {
             "lisibilite": "Lisible"
@@ -24,14 +35,15 @@
             "cause": "absent"
         },
         "metadata.authors": {
-            "lisibilite": "Lisible"
+            "lisibilite": "Lisible",
+            "correction": "O. BOUDOUARD"
         },
         "metadata.publisher": {
             "lisibilite": "Lisible"
         },
         "metadata.publication_place": {
-            "lisibilite": "Non lisible",
-            "cause": "absent"
+            "lisibilite": "Lisible",
+            "correction": "PARIS"
         },
         "metadata.date": {
             "lisibilite": "Lisible",
@@ -39,7 +51,15 @@
         },
         "langue": {
             "lisibilite": "Lisible"
+        },
+        "metadata.identifier": {
+            "lisibilite": "Lisible"
+        },
+        "metadata.iiif_manifest": {
+            "lisibilite": "Lisible"
+        },
+        "ark": {
+            "lisibilite": "Lisible"
         }
-    },
-    "ark": "bpt6k917120"
+    }
 }

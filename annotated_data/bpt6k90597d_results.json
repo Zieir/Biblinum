@@ -3,7 +3,7 @@
         "title": "Introduction à la CHIMIE MODERNE",
         "title_complement": "RÉSUMÉ DES OUVRAGES ET DES TRAVAUX RÉCENTS DES CHIMISTES FRANÇAIS ET ALLEMANDS",
         "volume_number": "",
-        "authors": "BRÉLAZ, G.",
+        "authors": "G. BRÉLAZ",
         "publisher": "LIBRAIRIE VICTOR MASSON ET FILS; Librairie Jaques Chantrens",
         "publication_place": "PARIS; Lausanne",
         "date": "1868",
@@ -11,6 +11,17 @@
         "iiif_manifest": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k90597d/manifest.json"
     },
     "langue": "fr (French)",
+    "ark": "bpt6k90597d",
+    "typographie_suggestion": {
+        "category": "Serif/Roman",
+        "subtype": "Didone (Modern)",
+        "explanation": "The typeface features a high contrast between thick and thin strokes, vertical stress, and thin, horizontal serifs, which are the defining characteristics of the \"Modern\" or Didone style popular in the 19th century.",
+        "raw": "Based on the primary title text \"CHIMIE MODERNE\":\n\nCategory: Serif/Roman\nSubtype: Didone (Modern)\nExplanation: The typeface features a high contrast between thick and thin strokes, vertical stress, and thin, horizontal serifs, which are the defining characteristics of the \"Modern\" or Didone style popular in the 19th century."
+    },
+    "typographie": {
+        "category": "Serif/Roman",
+        "subtype": "Didone (Modern)"
+    },
     "_annotations": {
         "metadata.title": {
             "lisibilite": "Non lisible",
@@ -25,7 +36,8 @@
             "cause": "absent"
         },
         "metadata.authors": {
-            "lisibilite": "Lisible"
+            "lisibilite": "Lisible",
+            "correction": "G. BRÉLAZ"
         },
         "metadata.publisher": {
             "lisibilite": "Lisible",
@@ -40,7 +52,15 @@
         },
         "langue": {
             "lisibilite": "Lisible"
+        },
+        "metadata.identifier": {
+            "lisibilite": "Lisible"
+        },
+        "metadata.iiif_manifest": {
+            "lisibilite": "Lisible"
+        },
+        "ark": {
+            "lisibilite": "Lisible"
         }
-    },
-    "ark": "bpt6k90597d"
+    }
 }

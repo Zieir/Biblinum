@@ -3,7 +3,7 @@
         "title": "TRAITÉ DES ESSAIS",
         "title_complement": "PAR LA VOIE SÈCHE; ou DES PROPRIÉTÉS, DE LA COMPOSITION ET DE L'ESSAI DES SUBSTANCES MÉTALLIQUES ET DES COMBUSTIBLES",
         "volume_number": "TOME PREMIER",
-        "authors": "BERTHIER, P.",
+        "authors": "P. BERTHIER",
         "publisher": "THOMINE, LIBRAIRE",
         "publication_place": "PARIS",
         "date": "1834",
@@ -11,6 +11,17 @@
         "iiif_manifest": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k91705q/manifest.json"
     },
     "langue": "fr (French)",
+    "ark": "bpt6k91705q",
+    "typographie_suggestion": {
+        "category": "Serif/Roman",
+        "subtype": "Didone (Modern)",
+        "explanation": "The text features the high contrast between thick and thin strokes, vertical stress, and small, unbracketed hair-line serifs characteristic of the \"Modern\" or Didone style (popularized by Bodoni and Didot) common in 19th-century French printing.",
+        "raw": "Category: Serif/Roman\nSubtype: Didone (Modern)\nExplanation: The text features the high contrast between thick and thin strokes, vertical stress, and small, unbracketed hair-line serifs characteristic of the \"Modern\" or Didone style (popularized by Bodoni and Didot) common in 19th-century French printing."
+    },
+    "typographie": {
+        "category": "Serif/Roman",
+        "subtype": "Didone (Modern)"
+    },
     "_annotations": {
         "metadata.title": {
             "lisibilite": "Lisible"
@@ -23,7 +34,7 @@
         },
         "metadata.authors": {
             "lisibilite": "Lisible",
-            "correction": "BERTHIER, P."
+            "correction": "P. BERTHIER"
         },
         "metadata.publisher": {
             "lisibilite": "Lisible"
@@ -37,7 +48,15 @@
         },
         "langue": {
             "lisibilite": "Lisible"
+        },
+        "metadata.identifier": {
+            "lisibilite": "Lisible"
+        },
+        "metadata.iiif_manifest": {
+            "lisibilite": "Lisible"
+        },
+        "ark": {
+            "lisibilite": "Lisible"
         }
-    },
-    "ark": "bpt6k91705q"
+    }
 }

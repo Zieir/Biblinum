@@ -3,7 +3,7 @@
         "title": "CHIMICA DI GUERRA",
         "title_complement": "LE BRILLANTI VITTORIE DELLA CHIMICA",
         "volume_number": "",
-        "authors": "PAGNIELLO, Alfredo",
+        "authors": "Alfredo PAGNIELLO",
         "publisher": "FRATELLI BOCCA",
         "publication_place": "TORINO",
         "date": "1929",
@@ -11,6 +11,17 @@
         "iiif_manifest": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k918902/manifest.json"
     },
     "langue": "it (Italian)",
+    "ark": "bpt6k918902",
+    "typographie_suggestion": {
+        "category": "Serif/Roman",
+        "subtype": "Transitional / Modern (Didone influence)",
+        "explanation": "The typeface features a strong contrast between thick and thin strokes, vertical stress, and relatively small, sharp serifs, which are characteristic of the Transitional and Modern styles common in early 20th-century academic and formal printing.",
+        "raw": "Category: Serif/Roman\nSubtype: Transitional / Modern (Didone influence)\nExplanation: The typeface features a strong contrast between thick and thin strokes, vertical stress, and relatively small, sharp serifs, which are characteristic of the Transitional and Modern styles common in early 20th-century academic and formal printing."
+    },
+    "typographie": {
+        "category": "Serif/Roman",
+        "subtype": "Transitional / Modern (Didone influence)"
+    },
     "_annotations": {
         "metadata.title": {
             "lisibilite": "Lisible"
@@ -23,7 +34,8 @@
             "cause": "absent"
         },
         "metadata.authors": {
-            "lisibilite": "Lisible"
+            "lisibilite": "Lisible",
+            "correction": "Alfredo PAGNIELLO"
         },
         "metadata.publisher": {
             "lisibilite": "Lisible"
@@ -36,7 +48,15 @@
         },
         "langue": {
             "lisibilite": "Lisible"
+        },
+        "metadata.identifier": {
+            "lisibilite": "Lisible"
+        },
+        "metadata.iiif_manifest": {
+            "lisibilite": "Lisible"
+        },
+        "ark": {
+            "lisibilite": "Lisible"
         }
-    },
-    "ark": "bpt6k918902"
+    }
 }

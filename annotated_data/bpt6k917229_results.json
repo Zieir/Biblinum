@@ -3,14 +3,25 @@
         "title": "ÉTUDE SUR LES QUINQUINAS",
         "title_complement": "",
         "volume_number": "",
-        "authors": "",
-        "publisher": "",
-        "publication_place": "",
-        "date": "",
+        "authors": "PIERRE-PAULIN CARLES",
+        "publisher": "CH. MARÈCHAL",
+        "publication_place": "PARIS",
+        "date": "1871",
         "identifier": "http://gallica.bnf.fr/ark:/12148/bpt6k917229",
         "iiif_manifest": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k917229/manifest.json"
     },
     "langue": "fr (French)",
+    "ark": "bpt6k917229",
+    "typographie_suggestion": {
+        "category": "Serif/Roman",
+        "subtype": "Didone (Modern)",
+        "explanation": "The main title \"LES QUINQUINAS\" and the body text exhibit the high contrast between thick and thin strokes, vertical stress, and small, unbracketed serifs characteristic of the Didone style (popularized by Bodoni and Didot) common in 19th-century French printing.",
+        "raw": "Category: Serif/Roman\nSubtype: Didone (Modern)\nExplanation: The main title \"LES QUINQUINAS\" and the body text exhibit the high contrast between thick and thin strokes, vertical stress, and small, unbracketed serifs characteristic of the Didone style (popularized by Bodoni and Didot) common in 19th-century French printing."
+    },
+    "typographie": {
+        "category": "Serif/Roman",
+        "subtype": "Didone (Modern)"
+    },
     "_annotations": {
         "metadata.title": {
             "lisibilite": "Lisible"
@@ -24,24 +35,32 @@
             "cause": "absent"
         },
         "metadata.authors": {
-            "lisibilite": "Non lisible",
-            "cause": "absent"
+            "lisibilite": "Lisible",
+            "correction": "PIERRE-PAULIN CARLES"
         },
         "metadata.publisher": {
-            "lisibilite": "Non lisible",
-            "cause": "absent"
+            "lisibilite": "Lisible",
+            "correction": "CH. MARÈCHAL"
         },
         "metadata.publication_place": {
-            "lisibilite": "Non lisible",
-            "cause": "absent"
+            "lisibilite": "Lisible",
+            "correction": "PARIS"
         },
         "metadata.date": {
-            "lisibilite": "Non lisible",
-            "cause": "absent"
+            "lisibilite": "Lisible",
+            "correction": "1871"
         },
         "langue": {
             "lisibilite": "Lisible"
+        },
+        "metadata.identifier": {
+            "lisibilite": "Lisible"
+        },
+        "metadata.iiif_manifest": {
+            "lisibilite": "Lisible"
+        },
+        "ark": {
+            "lisibilite": "Lisible"
         }
-    },
-    "ark": "bpt6k917229"
+    }
 }

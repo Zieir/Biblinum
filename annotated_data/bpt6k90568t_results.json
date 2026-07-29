@@ -11,6 +11,17 @@
         "iiif_manifest": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k90568t/manifest.json"
     },
     "langue": "bul",
+    "ark": "bpt6k90568t",
+    "typographie_suggestion": {
+        "category": "Serif/Roman",
+        "subtype": "Slab Serif",
+        "explanation": "The main titles (\"ХИМИЯ И ИНДУСТРИЯ\") feature heavy, block-like serifs with little to no bracketing, which is characteristic of Slab Serif (or Egyptian) typefaces. The secondary text uses a more traditional transitional serif.",
+        "raw": "Category: Serif/Roman\nSubtype: Slab Serif\nExplanation: The main titles (\"ХИМИЯ И ИНДУСТРИЯ\") feature heavy, block-like serifs with little to no bracketing, which is characteristic of Slab Serif (or Egyptian) typefaces. The secondary text uses a more traditional transitional serif."
+    },
+    "typographie": {
+        "category": "Serif/Roman",
+        "subtype": "Slab Serif"
+    },
     "_annotations": {
         "metadata.title": {
             "lisibilite": "Lisible"
@@ -36,7 +47,15 @@
         "langue": {
             "lisibilite": "Lisible"
         },
-        "_note": "A revoir"
-    },
-    "ark": "bpt6k90568t"
+        "_note": "A revoir",
+        "metadata.identifier": {
+            "lisibilite": "Lisible"
+        },
+        "metadata.iiif_manifest": {
+            "lisibilite": "Lisible"
+        },
+        "ark": {
+            "lisibilite": "Lisible"
+        }
+    }
 }

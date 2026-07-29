@@ -1,46 +1,66 @@
 {
     "metadata": {
         "title": "TRAITÉ DE CHIMIE ORGANIQUE",
-        "title_complement": "",
+        "title_complement": "D'APRÈS LES THÉORIES MODERNES",
         "volume_number": "TOME PREMIER",
-        "authors": "",
-        "publisher": "",
-        "publication_place": "",
-        "date": "",
+        "authors": "Auguste BÉHAL; Amand VALEUR",
+        "publisher": "OCTAVE DOIN ET FILS ",
+        "publication_place": "PARIS",
+        "date": "1909",
         "identifier": "http://gallica.bnf.fr/ark:/12148/bpt6k90372h",
         "iiif_manifest": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k90372h/manifest.json"
     },
     "langue": "fr (French)",
+    "ark": "bpt6k90372h",
+    "typographie_suggestion": {
+        "category": "Serif/Roman",
+        "subtype": "Didone (Modern)",
+        "explanation": "The main title \"CHIMIE ORGANIQUE\" features the high contrast between thick and thin strokes, vertical stress, and small, unbracketed serifs characteristic of the Didone style (similar to Bodoni or Didot), which was prevalent in academic and formal French printing during this era.",
+        "raw": "Category: Serif/Roman\nSubtype: Didone (Modern)\nExplanation: The main title \"CHIMIE ORGANIQUE\" features the high contrast between thick and thin strokes, vertical stress, and small, unbracketed serifs characteristic of the Didone style (similar to Bodoni or Didot), which was prevalent in academic and formal French printing during this era."
+    },
+    "typographie": {
+        "category": "Serif/Roman",
+        "subtype": "Didone (Modern)"
+    },
     "_annotations": {
         "metadata.title": {
-            "lisibilite": "Lisible"
+            "lisibilite": "Lisible",
+            "correction": "TRAITÉ DE CHIMIE ORGANIQUE"
         },
         "metadata.title_complement": {
-            "lisibilite": "Non lisible",
-            "cause": "absent"
+            "lisibilite": "Lisible",
+            "correction": "D'APRÈS LES THÉORIES MODERNES"
         },
         "metadata.volume_number": {
             "lisibilite": "Lisible"
         },
         "metadata.authors": {
-            "lisibilite": "Non lisible",
-            "cause": "absent"
+            "lisibilite": "Lisible",
+            "correction": "Auguste BÉHAL; Amand VALEUR"
         },
         "metadata.publisher": {
-            "lisibilite": "Non lisible",
-            "cause": "absent"
+            "lisibilite": "Lisible",
+            "correction": "OCTAVE DOIN ET FILS "
         },
         "metadata.publication_place": {
-            "lisibilite": "Non lisible",
-            "cause": "absent"
+            "lisibilite": "Lisible",
+            "correction": "PARIS"
         },
         "metadata.date": {
-            "lisibilite": "Non lisible",
-            "cause": "absent"
+            "lisibilite": "Lisible",
+            "correction": "1909"
         },
         "langue": {
             "lisibilite": "Lisible"
+        },
+        "metadata.identifier": {
+            "lisibilite": "Lisible"
+        },
+        "metadata.iiif_manifest": {
+            "lisibilite": "Lisible"
+        },
+        "ark": {
+            "lisibilite": "Lisible"
         }
-    },
-    "ark": "bpt6k90372h"
+    }
 }

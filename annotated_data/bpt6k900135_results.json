@@ -3,12 +3,24 @@
         "title": "PRINCIPES DE CHIMIE",
         "title_complement": "FONDÉS SUR LES THÉORIES MODERNES",
         "volume_number": "TOME PREMIER",
-        "authors": "NAQUET, A. ; HANRIOT, M.",
+        "authors": "A. NAQUET; M. HANRIOT",
         "publisher": "LIBRAIRIE E. Savy",
         "publication_place": "PARIS",
         "date": "1883",
         "identifier": "http://gallica.bnf.fr/ark:/12148/bpt6k900135",
         "iiif_manifest": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k900135/manifest.json"
+    },
+    "langue": "fr (French)",
+    "ark": "bpt6k900135",
+    "typographie_suggestion": {
+        "category": "Serif/Roman",
+        "subtype": "Didone (Modern)",
+        "explanation": "The main title features the high contrast between thick and thin strokes and vertical stress characteristic of the Didone style (similar to Bodoni or Didot), which was the standard for academic and formal printing in France during the 19th century.",
+        "raw": "Based on the image provided, there are several typefaces used. I will identify the dominant style used for the main title (\"DE CHIMIE\").\n\nCategory: Serif/Roman\nSubtype: Didone (Modern)\nExplanation: The main title features the high contrast between thick and thin strokes and vertical stress characteristic of the Didone style (similar to Bodoni or Didot), which was the standard for academic and formal printing in France during the 19th century."
+    },
+    "typographie": {
+        "category": "Serif/Roman",
+        "subtype": "Didone (Modern)"
     },
     "_annotations": {
         "metadata.title": {
@@ -21,7 +33,8 @@
             "lisibilite": "Lisible"
         },
         "metadata.authors": {
-            "lisibilite": "Lisible"
+            "lisibilite": "Lisible",
+            "correction": "A. NAQUET; M. HANRIOT"
         },
         "metadata.publisher": {
             "lisibilite": "Lisible"
@@ -34,8 +47,15 @@
         },
         "langue": {
             "lisibilite": "Lisible"
+        },
+        "metadata.identifier": {
+            "lisibilite": "Lisible"
+        },
+        "metadata.iiif_manifest": {
+            "lisibilite": "Lisible"
+        },
+        "ark": {
+            "lisibilite": "Lisible"
         }
-    },
-    "langue": "fr (French)",
-    "ark": "bpt6k900135"
+    }
 }

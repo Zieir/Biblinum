@@ -3,7 +3,7 @@
         "title": "STÉRÉOCHIMIE",
         "title_complement": "NOUVELLE EDITION DE DIX ANNÉES DANS L'HISTOIRE D'UNE THÉORIE",
         "volume_number": "",
-        "authors": "VANT HOFF, J.-H.",
+        "authors": "J.-H. VAN'T HOFF",
         "publisher": "GEORGES CARRÉ",
         "publication_place": "PARIS",
         "date": "1892",
@@ -11,6 +11,17 @@
         "iiif_manifest": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k90285k/manifest.json"
     },
     "langue": "fr (French)",
+    "ark": "bpt6k90285k",
+    "typographie_suggestion": {
+        "category": "Serif/Roman",
+        "subtype": "Didone (Modern)",
+        "explanation": "The typeface features a strong contrast between thick and thin strokes, vertical stress, and thin, horizontal serifs, which are the defining characteristics of the Didone style (popularized by Didot and Bodoni) common in late 19th-century academic publishing.",
+        "raw": "Category: Serif/Roman\nSubtype: Didone (Modern)\nExplanation: The typeface features a strong contrast between thick and thin strokes, vertical stress, and thin, horizontal serifs, which are the defining characteristics of the Didone style (popularized by Didot and Bodoni) common in late 19th-century academic publishing."
+    },
+    "typographie": {
+        "category": "Serif/Roman",
+        "subtype": "Didone (Modern)"
+    },
     "_annotations": {
         "metadata.title": {
             "lisibilite": "Lisible"
@@ -24,7 +35,8 @@
             "cause": "absent"
         },
         "metadata.authors": {
-            "lisibilite": "Lisible"
+            "lisibilite": "Lisible",
+            "correction": "J.-H. VAN'T HOFF"
         },
         "metadata.publisher": {
             "lisibilite": "Lisible"
@@ -37,7 +49,15 @@
         },
         "langue": {
             "lisibilite": "Lisible"
+        },
+        "metadata.identifier": {
+            "lisibilite": "Lisible"
+        },
+        "metadata.iiif_manifest": {
+            "lisibilite": "Lisible"
+        },
+        "ark": {
+            "lisibilite": "Lisible"
         }
-    },
-    "ark": "bpt6k90285k"
+    }
 }

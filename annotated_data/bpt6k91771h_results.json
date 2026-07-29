@@ -3,7 +3,7 @@
         "title": "TRAITÉ ÉLÉMENTAIRE DE MÉCANIQUE CHIMIQUE",
         "title_complement": "FONDÉE SUR LA THERMODYNAMIQUE",
         "volume_number": "TOME IV",
-        "authors": "DUHEM, P.",
+        "authors": "P. DUHEM",
         "publisher": "LIBRAIRIE SCIENTIFIQUE A. HERMANN",
         "publication_place": "PARIS",
         "date": "1899",
@@ -11,6 +11,17 @@
         "iiif_manifest": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k91771h/manifest.json"
     },
     "langue": "fr (French)",
+    "ark": "bpt6k91771h",
+    "typographie_suggestion": {
+        "category": "Serif/Roman",
+        "subtype": "Didone (Modern)",
+        "explanation": "The typeface features the high contrast between thick and thin strokes, vertical stress, and small, unbracketed (hairline) serifs characteristic of the late 18th and 19th-century \"Modern\" style (similar to Bodoni or Didot), which was standard for academic and scientific publishing in France during that era.",
+        "raw": "Category: Serif/Roman\nSubtype: Didone (Modern)\nExplanation: The typeface features the high contrast between thick and thin strokes, vertical stress, and small, unbracketed (hairline) serifs characteristic of the late 18th and 19th-century \"Modern\" style (similar to Bodoni or Didot), which was standard for academic and scientific publishing in France during that era."
+    },
+    "typographie": {
+        "category": "Serif/Roman",
+        "subtype": "Didone (Modern)"
+    },
     "_annotations": {
         "metadata.title": {
             "lisibilite": "Lisible"
@@ -22,7 +33,8 @@
             "lisibilite": "Lisible"
         },
         "metadata.authors": {
-            "lisibilite": "Lisible"
+            "lisibilite": "Lisible",
+            "correction": "P. DUHEM"
         },
         "metadata.publisher": {
             "lisibilite": "Lisible"
@@ -35,7 +47,15 @@
         },
         "langue": {
             "lisibilite": "Lisible"
+        },
+        "metadata.identifier": {
+            "lisibilite": "Lisible"
+        },
+        "metadata.iiif_manifest": {
+            "lisibilite": "Lisible"
+        },
+        "ark": {
+            "lisibilite": "Lisible"
         }
-    },
-    "ark": "bpt6k91771h"
+    }
 }

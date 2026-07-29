@@ -3,7 +3,7 @@
         "title": "Leçons de Photométrie",
         "title_complement": "Professées à L'Institut d'Optique Théorique et Appliquée",
         "volume_number": "",
-        "authors": "Fabry, Charles",
+        "authors": "Charles Fabry",
         "publisher": "Editions de la Revue d'Optique théorique et instrumentale",
         "publication_place": "Paris",
         "date": "1928",
@@ -11,6 +11,17 @@
         "iiif_manifest": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k917736/manifest.json"
     },
     "langue": "fr (French)",
+    "ark": "bpt6k917736",
+    "typographie_suggestion": {
+        "category": "Script",
+        "subtype": "Cursive / Calligraphic",
+        "explanation": "The text features fluid, connected strokes, varying line weights (thick and thin), and decorative flourishes characteristic of handwritten calligraphy rather than a structured typeface.",
+        "raw": "Category: Script\nSubtype: Cursive / Calligraphic\nExplanation: The text features fluid, connected strokes, varying line weights (thick and thin), and decorative flourishes characteristic of handwritten calligraphy rather than a structured typeface."
+    },
+    "typographie": {
+        "category": "Script",
+        "subtype": "Cursive / Calligraphic"
+    },
     "_annotations": {
         "metadata.title": {
             "lisibilite": "Lisible"
@@ -23,7 +34,8 @@
             "cause": "absent"
         },
         "metadata.authors": {
-            "lisibilite": "Lisible"
+            "lisibilite": "Lisible",
+            "correction": "Charles Fabry"
         },
         "metadata.publisher": {
             "lisibilite": "Lisible"
@@ -36,7 +48,15 @@
         },
         "langue": {
             "lisibilite": "Lisible"
+        },
+        "metadata.identifier": {
+            "lisibilite": "Lisible"
+        },
+        "metadata.iiif_manifest": {
+            "lisibilite": "Lisible"
+        },
+        "ark": {
+            "lisibilite": "Lisible"
         }
-    },
-    "ark": "bpt6k917736"
+    }
 }

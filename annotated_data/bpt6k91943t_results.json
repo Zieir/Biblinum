@@ -1,47 +1,66 @@
 {
     "metadata": {
         "title": "MANUEL COMPLET DE L'ESSAYEUR",
-        "title_complement": "",
+        "title_complement": "suivi de l'Instruction de M. Gay-Lussac sur l'essai des matières d'argent par la voie humide. et des dispositions du laboratoire de la monnaie de Paris",
         "volume_number": "",
-        "authors": "",
-        "publisher": "",
-        "publication_place": "",
-        "date": "",
+        "authors": "VAUQUELIN; D'ARCET; GAY-LUSSAC",
+        "publisher": "Roret",
+        "publication_place": "PARIS",
+        "date": "1836",
         "identifier": "http://gallica.bnf.fr/ark:/12148/bpt6k91943t",
         "iiif_manifest": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k91943t/manifest.json"
     },
     "langue": "fr (French)",
+    "ark": "bpt6k91943t",
+    "typographie_suggestion": {
+        "category": "Serif/Roman",
+        "subtype": "Didone (Modern)",
+        "explanation": "The text exhibits the high contrast between thick and thin strokes, vertical stress, and small, horizontal serifs characteristic of the \"Modern\" or Didone style (popularized by Bodoni and Didot) common in early 19th-century printing.",
+        "raw": "Category: Serif/Roman\nSubtype: Didone (Modern)\nExplanation: The text exhibits the high contrast between thick and thin strokes, vertical stress, and small, horizontal serifs characteristic of the \"Modern\" or Didone style (popularized by Bodoni and Didot) common in early 19th-century printing."
+    },
+    "typographie": {
+        "category": "Serif/Roman",
+        "subtype": "Didone (Modern)"
+    },
     "_annotations": {
         "metadata.title": {
             "lisibilite": "Lisible"
         },
         "metadata.title_complement": {
-            "lisibilite": "Non lisible",
-            "cause": "absent"
+            "lisibilite": "Lisible",
+            "correction": "suivi de l'Instruction de M. Gay-Lussac sur l'essai des matières d'argent par la voie humide. et des dispositions du laboratoire de la monnaie de Paris"
         },
         "metadata.volume_number": {
             "lisibilite": "Non lisible",
             "cause": "absent"
         },
         "metadata.authors": {
-            "lisibilite": "Non lisible",
-            "cause": "absent"
+            "lisibilite": "Lisible",
+            "correction": "VAUQUELIN; D'ARCET; GAY-LUSSAC"
         },
         "metadata.publisher": {
-            "lisibilite": "Non lisible",
-            "cause": "absent"
+            "lisibilite": "Lisible",
+            "correction": "Roret"
         },
         "metadata.publication_place": {
-            "lisibilite": "Non lisible",
-            "cause": "absent"
+            "lisibilite": "Lisible",
+            "correction": "PARIS"
         },
         "metadata.date": {
-            "lisibilite": "Non lisible",
-            "cause": "absent"
+            "lisibilite": "Lisible",
+            "correction": "1836"
         },
         "langue": {
             "lisibilite": "Lisible"
+        },
+        "metadata.identifier": {
+            "lisibilite": "Lisible"
+        },
+        "metadata.iiif_manifest": {
+            "lisibilite": "Lisible"
+        },
+        "ark": {
+            "lisibilite": "Lisible"
         }
-    },
-    "ark": "bpt6k91943t"
+    }
 }

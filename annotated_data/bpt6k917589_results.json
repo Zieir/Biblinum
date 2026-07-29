@@ -3,7 +3,7 @@
         "title": "RECHERCHES SUR QUELQUES OXALATES",
         "title_complement": "",
         "volume_number": "T. XXIII",
-        "authors": "WYROUBOFF, G.",
+        "authors": "G. WYROUBOFF",
         "publisher": "IMPRIMERIE DESLIS FRÈRES",
         "publication_place": "TOURS",
         "date": "1900",
@@ -11,6 +11,17 @@
         "iiif_manifest": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k917589/manifest.json"
     },
     "langue": "fr (French)",
+    "ark": "bpt6k917589",
+    "typographie_suggestion": {
+        "category": "Serif/Roman",
+        "subtype": "Didone (Modern)",
+        "explanation": "The main text features the high contrast between thick and thin strokes, vertical stress, and small, horizontal serifs characteristic of the Didone style (similar to Bodoni or Didot), which was standard for academic and official French printing in the late 19th and early 20th centuries.",
+        "raw": "Category: Serif/Roman\nSubtype: Didone (Modern)\nExplanation: The main text features the high contrast between thick and thin strokes, vertical stress, and small, horizontal serifs characteristic of the Didone style (similar to Bodoni or Didot), which was standard for academic and official French printing in the late 19th and early 20th centuries."
+    },
+    "typographie": {
+        "category": "Serif/Roman",
+        "subtype": "Didone (Modern)"
+    },
     "_annotations": {
         "metadata.title": {
             "lisibilite": "Lisible"
@@ -24,7 +35,7 @@
         },
         "metadata.authors": {
             "lisibilite": "Lisible",
-            "correction": "WYROUBOFF, G."
+            "correction": "G. WYROUBOFF"
         },
         "metadata.publisher": {
             "lisibilite": "Non lisible",
@@ -41,7 +52,15 @@
         },
         "langue": {
             "lisibilite": "Lisible"
+        },
+        "metadata.identifier": {
+            "lisibilite": "Lisible"
+        },
+        "metadata.iiif_manifest": {
+            "lisibilite": "Lisible"
+        },
+        "ark": {
+            "lisibilite": "Lisible"
         }
-    },
-    "ark": "bpt6k917589"
+    }
 }

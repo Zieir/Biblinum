@@ -11,6 +11,17 @@
         "iiif_manifest": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k901630/manifest.json"
     },
     "langue": "es (Spanish)",
+    "ark": "bpt6k901630",
+    "typographie_suggestion": {
+        "category": "Serif/Roman",
+        "subtype": "Didone (Modern)",
+        "explanation": "The primary title \"QUÍMICA\" features the high contrast between thick and thin strokes and vertical stress characteristic of Didone typefaces (like Bodoni or Didot), which were prevalent in formal printing during the 19th century.",
+        "raw": "Category: Serif/Roman\nSubtype: Didone (Modern)\nExplanation: The primary title \"QUÍMICA\" features the high contrast between thick and thin strokes and vertical stress characteristic of Didone typefaces (like Bodoni or Didot), which were prevalent in formal printing during the 19th century."
+    },
+    "typographie": {
+        "category": "Serif/Roman",
+        "subtype": "Didone (Modern)"
+    },
     "_annotations": {
         "metadata.title": {
             "lisibilite": "Lisible"
@@ -38,7 +49,15 @@
         },
         "langue": {
             "lisibilite": "Lisible"
+        },
+        "metadata.identifier": {
+            "lisibilite": "Lisible"
+        },
+        "metadata.iiif_manifest": {
+            "lisibilite": "Lisible"
+        },
+        "ark": {
+            "lisibilite": "Lisible"
         }
-    },
-    "ark": "bpt6k901630"
+    }
 }

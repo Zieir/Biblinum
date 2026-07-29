@@ -3,7 +3,7 @@
         "title": "HISTORICAL INTRODUCTION TO CHEMISTRY",
         "title_complement": "",
         "volume_number": "",
-        "authors": "LOWRY, T. M.",
+        "authors": "T. M. LOWRY",
         "publisher": "MACMILLAN AND CO., LIMITED",
         "publication_place": "LONDON",
         "date": "1936",
@@ -11,6 +11,17 @@
         "iiif_manifest": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k90538w/manifest.json"
     },
     "langue": "en (English)",
+    "ark": "bpt6k90538w",
+    "typographie_suggestion": {
+        "category": "Serif/Roman",
+        "subtype": "Transitional / Modern",
+        "explanation": "The typeface features clear serifs with a moderate contrast between thick and thin strokes. The vertical stress and structured proportions are characteristic of the transitional styles (like Baskerville) or early Modern faces common in academic publishing during the early 20th century.",
+        "raw": "Category: Serif/Roman\nSubtype: Transitional / Modern\nExplanation: The typeface features clear serifs with a moderate contrast between thick and thin strokes. The vertical stress and structured proportions are characteristic of the transitional styles (like Baskerville) or early Modern faces common in academic publishing during the early 20th century."
+    },
+    "typographie": {
+        "category": "Serif/Roman",
+        "subtype": "Transitional / Modern"
+    },
     "_annotations": {
         "metadata.title": {
             "lisibilite": "Lisible"
@@ -24,7 +35,8 @@
             "cause": "absent"
         },
         "metadata.authors": {
-            "lisibilite": "Lisible"
+            "lisibilite": "Lisible",
+            "correction": "T. M. LOWRY"
         },
         "metadata.publisher": {
             "lisibilite": "Lisible"
@@ -37,7 +49,15 @@
         },
         "langue": {
             "lisibilite": "Lisible"
+        },
+        "metadata.identifier": {
+            "lisibilite": "Lisible"
+        },
+        "metadata.iiif_manifest": {
+            "lisibilite": "Lisible"
+        },
+        "ark": {
+            "lisibilite": "Lisible"
         }
-    },
-    "ark": "bpt6k90538w"
+    }
 }

@@ -1,9 +1,9 @@
 {
     "metadata": {
-        "title": "ŒUVRES",
-        "title_complement": "de Charles Hermite",
+        "title": "ŒUVRES de Charles Hermite",
+        "title_complement": "",
         "volume_number": "TOME I",
-        "authors": "HERMITE, Charles",
+        "authors": "Charles HERMITE",
         "publisher": "GAUTHIER-VILLARS",
         "publication_place": "PARIS",
         "date": "1905",
@@ -11,19 +11,33 @@
         "iiif_manifest": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k902084/manifest.json"
     },
     "langue": "fr (French)",
+    "ark": "bpt6k902084",
+    "typographie_suggestion": {
+        "category": "Serif/Roman",
+        "subtype": "Didone (Modern)",
+        "explanation": "The typeface features the characteristic high contrast between thick and thin strokes, vertical stress, and thin, horizontal serifs typical of the \"Modern\" or Didone style (such as Bodoni or Didot), which was prevalent in French printing during this era.",
+        "raw": "Category: Serif/Roman\nSubtype: Didone (Modern)\nExplanation: The typeface features the characteristic high contrast between thick and thin strokes, vertical stress, and thin, horizontal serifs typical of the \"Modern\" or Didone style (such as Bodoni or Didot), which was prevalent in French printing during this era."
+    },
+    "typographie": {
+        "category": "Serif/Roman",
+        "subtype": "Didone (Modern)"
+    },
     "_annotations": {
         "metadata.title": {
-            "lisibilite": "Lisible"
+            "lisibilite": "Lisible",
+            "correction": "ŒUVRES de Charles Hermite"
         },
         "metadata.title_complement": {
-            "lisibilite": "Lisible",
-            "correction": "de Charles Hermite"
+            "lisibilite": "Non lisible",
+            "cause": "absent",
+            "correction": ""
         },
         "metadata.volume_number": {
             "lisibilite": "Lisible"
         },
         "metadata.authors": {
-            "lisibilite": "Lisible"
+            "lisibilite": "Lisible",
+            "correction": "Charles HERMITE"
         },
         "metadata.publisher": {
             "lisibilite": "Lisible"
@@ -36,7 +50,15 @@
         },
         "langue": {
             "lisibilite": "Lisible"
+        },
+        "metadata.identifier": {
+            "lisibilite": "Lisible"
+        },
+        "metadata.iiif_manifest": {
+            "lisibilite": "Lisible"
+        },
+        "ark": {
+            "lisibilite": "Lisible"
         }
-    },
-    "ark": "bpt6k902084"
+    }
 }

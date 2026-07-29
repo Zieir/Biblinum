@@ -3,7 +3,7 @@
         "title": "THE RELATION BETWEEN THE ATOMIC WEIGHTS OF THE CHEMICAL ELEMENTS",
         "title_complement": "",
         "volume_number": "Vol. V",
-        "authors": "Cooke, Josiah P., Jr.",
+        "authors": "Josiah P. Cooke., Jr.",
         "publisher": "Metcalf and Company",
         "publication_place": "Cambridge",
         "date": "1854",
@@ -11,6 +11,17 @@
         "iiif_manifest": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k91783h/manifest.json"
     },
     "langue": "en (English)",
+    "ark": "bpt6k91783h",
+    "typographie_suggestion": {
+        "category": "Serif/Roman",
+        "subtype": "Modern / Didone",
+        "explanation": "The typeface features a strong contrast between thick and thin strokes, vertical stress, and fine, horizontal serifs, which are characteristic of the \"Modern\" style (such as Bodoni or Didot) prevalent in 19th-century printing.",
+        "raw": "Category: Serif/Roman\nSubtype: Modern / Didone\nExplanation: The typeface features a strong contrast between thick and thin strokes, vertical stress, and fine, horizontal serifs, which are characteristic of the \"Modern\" style (such as Bodoni or Didot) prevalent in 19th-century printing."
+    },
+    "typographie": {
+        "category": "Serif/Roman",
+        "subtype": "Modern / Didone"
+    },
     "_annotations": {
         "metadata.title": {
             "lisibilite": "Lisible"
@@ -23,7 +34,8 @@
             "lisibilite": "Lisible"
         },
         "metadata.authors": {
-            "lisibilite": "Lisible"
+            "lisibilite": "Lisible",
+            "correction": "Josiah P. Cooke., Jr."
         },
         "metadata.publisher": {
             "lisibilite": "Lisible"
@@ -36,7 +48,15 @@
         },
         "langue": {
             "lisibilite": "Lisible"
+        },
+        "metadata.identifier": {
+            "lisibilite": "Lisible"
+        },
+        "metadata.iiif_manifest": {
+            "lisibilite": "Lisible"
+        },
+        "ark": {
+            "lisibilite": "Lisible"
         }
-    },
-    "ark": "bpt6k91783h"
+    }
 }

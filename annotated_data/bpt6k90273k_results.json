@@ -1,9 +1,9 @@
 {
     "metadata": {
         "title": "PRÉCIS D'ANALYSE CHIMIQUE QUANTITATIVE",
-        "title_complement": "",
+        "title_complement": "Ouvrage contenant la description des appareils et des opérations générales de l'analyse quantitative, les méthodes de dosage et de séparation des bases et des acides, l'analyse par les liqueurs titrées, l'analyse organique, l'analyse des gaz, l'analyse des eaux minérales, des cendres, des terres arables, l'exposition du calcul des analyses",
         "volume_number": "",
-        "authors": "GERHARDT, Ch. ; Chancel, G.",
+        "authors": "Ch. GERHARDT ; G. Chancel",
         "publisher": "LIBRAIRIE DE VICTOR MASSON",
         "publication_place": "PARIS",
         "date": "1859",
@@ -11,13 +11,24 @@
         "iiif_manifest": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k90273k/manifest.json"
     },
     "langue": "fr (French)",
+    "ark": "bpt6k90273k",
+    "typographie_suggestion": {
+        "category": "Serif/Roman",
+        "subtype": "Didone (Modern)",
+        "explanation": "The typeface features the high contrast between thick and thin strokes, vertical stress, and small, horizontal serifs characteristic of the \"Modern\" or Didone style (similar to Bodoni or Didot), which was prevalent in 19th-century French printing.",
+        "raw": "Category: Serif/Roman\nSubtype: Didone (Modern)\nExplanation: The typeface features the high contrast between thick and thin strokes, vertical stress, and small, horizontal serifs characteristic of the \"Modern\" or Didone style (similar to Bodoni or Didot), which was prevalent in 19th-century French printing."
+    },
+    "typographie": {
+        "category": "Serif/Roman",
+        "subtype": "Didone (Modern)"
+    },
     "_annotations": {
         "metadata.title": {
             "lisibilite": "Lisible"
         },
         "metadata.title_complement": {
-            "lisibilite": "Non lisible",
-            "cause": "absent"
+            "lisibilite": "Lisible",
+            "correction": "Ouvrage contenant la description des appareils et des opérations générales de l'analyse quantitative, les méthodes de dosage et de séparation des bases et des acides, l'analyse par les liqueurs titrées, l'analyse organique, l'analyse des gaz, l'analyse des eaux minérales, des cendres, des terres arables, l'exposition du calcul des analyses"
         },
         "metadata.volume_number": {
             "lisibilite": "Non lisible",
@@ -25,7 +36,7 @@
         },
         "metadata.authors": {
             "lisibilite": "Lisible",
-            "correction": "GERHARDT, Ch. ; Chancel, G."
+            "correction": "Ch. GERHARDT ; G. Chancel"
         },
         "metadata.publisher": {
             "lisibilite": "Lisible"
@@ -38,7 +49,15 @@
         },
         "langue": {
             "lisibilite": "Lisible"
+        },
+        "metadata.identifier": {
+            "lisibilite": "Lisible"
+        },
+        "metadata.iiif_manifest": {
+            "lisibilite": "Lisible"
+        },
+        "ark": {
+            "lisibilite": "Lisible"
         }
-    },
-    "ark": "bpt6k90273k"
+    }
 }

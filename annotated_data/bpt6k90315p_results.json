@@ -3,14 +3,25 @@
         "title": "Mémoires de J.-B. Boussingault",
         "title_complement": "",
         "volume_number": "TOME QUATRIÈME",
-        "authors": "BOUSSINGAULT, J.-B.",
-        "publisher": "",
-        "publication_place": "",
-        "date": "",
+        "authors": "J.-B. BOUSSINGAULT",
+        "publisher": "Chamerot et Renouard ",
+        "publication_place": "PARIS",
+        "date": "1903",
         "identifier": "http://gallica.bnf.fr/ark:/12148/bpt6k90315p",
         "iiif_manifest": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k90315p/manifest.json"
     },
     "langue": "fr (French)",
+    "ark": "bpt6k90315p",
+    "typographie_suggestion": {
+        "category": "Serif/Roman",
+        "subtype": "Didone (Modern)",
+        "explanation": "The typeface features the high contrast between thick and thin strokes, vertical stress, and small, unbracketed (hairline) serifs characteristic of the \"Modern\" style popularized by Didot and Bodoni.",
+        "raw": "Category: Serif/Roman\nSubtype: Didone (Modern)\nExplanation: The typeface features the high contrast between thick and thin strokes, vertical stress, and small, unbracketed (hairline) serifs characteristic of the \"Modern\" style popularized by Didot and Bodoni."
+    },
+    "typographie": {
+        "category": "Serif/Roman",
+        "subtype": "Didone (Modern)"
+    },
     "_annotations": {
         "metadata.title": {
             "lisibilite": "Lisible",
@@ -24,24 +35,32 @@
             "lisibilite": "Lisible"
         },
         "metadata.authors": {
-            "lisibilite": "Lisible"
+            "lisibilite": "Lisible",
+            "correction": "J.-B. BOUSSINGAULT"
         },
         "metadata.publisher": {
-            "lisibilite": "Non lisible",
-            "cause": "absent",
-            "correction": ""
+            "lisibilite": "Lisible",
+            "correction": "Chamerot et Renouard "
         },
         "metadata.publication_place": {
-            "lisibilite": "Non lisible",
-            "cause": "absent"
+            "lisibilite": "Lisible",
+            "correction": "PARIS"
         },
         "metadata.date": {
-            "lisibilite": "Non lisible",
-            "cause": "absent"
+            "lisibilite": "Lisible",
+            "correction": "1903"
         },
         "langue": {
             "lisibilite": "Lisible"
+        },
+        "metadata.identifier": {
+            "lisibilite": "Lisible"
+        },
+        "metadata.iiif_manifest": {
+            "lisibilite": "Lisible"
+        },
+        "ark": {
+            "lisibilite": "Lisible"
         }
-    },
-    "ark": "bpt6k90315p"
+    }
 }
