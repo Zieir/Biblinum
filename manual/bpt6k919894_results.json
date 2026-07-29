@@ -1,65 +1,59 @@
 {
-    "metadata": {
-        "title": "L'OFFICINE",
-        "title_complement": "RÉPERTOIRE GÉNÉRAL DE PHARMACIE PRATIQUE",
-        "volume_number": "",
-        "authors": "Dorvault",
-        "publisher": "Asselin & Houzeau",
-        "publication_place": "PARIS",
-        "date": "1886",
-        "identifier": "http://gallica.bnf.fr/ark:/12148/bpt6k919894",
-        "iiif_manifest": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k919894/manifest.json"
+  "metadata": {
+    "title": "L'OFFICINE",
+    "title_complement": "RÉPERTOIRE GÉNÉRAL DE PHARMACIE PRATIQUE",
+    "volume_number": "",
+    "authors": "Dorvault",
+    "publisher": "Asselin & Houzeau",
+    "publication_place": "PARIS",
+    "date": "1886",
+    "identifier": "http://gallica.bnf.fr/ark:/12148/bpt6k919894",
+    "iiif_manifest": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k919894/manifest.json"
+  },
+  "ark": "bpt6k919894",
+  "typographie": {
+    "category": "Serif/Roman",
+    "subtype": "Didone (Modern)"
+  },
+  "_annotations": {
+    "metadata.title": {
+      "readability": "Readable"
     },
-    "langue": "fr (French)",
-    "ark": "bpt6k919894",
-    "typographie_suggestion": {
-        "category": "Serif/Roman",
-        "subtype": "Didone (Modern)",
-        "explanation": "The typeface features the high contrast between thick and thin strokes, vertical stress, and small, horizontal serifs characteristic of the \"Modern\" or Didone style (similar to Bodoni or Didot), which was the standard for academic and official French publications in the 1800s.",
-        "raw": "Based on the provided image, the text utilizes a combination of styles typical of 19th-century printing. The primary body and headings are set in the following:\n\nCategory: Serif/Roman\nSubtype: Didone (Modern)\nExplanation: The typeface features the high contrast between thick and thin strokes, vertical stress, and small, horizontal serifs characteristic of the \"Modern\" or Didone style (similar to Bodoni or Didot), which was the standard for academic and official French publications in the 1800s."
+    "metadata.title_complement": {
+      "readability": "Readable"
     },
-    "typographie": {
-        "category": "Serif/Roman",
-        "subtype": "Didone (Modern)"
+    "metadata.volume_number": {
+      "readability": "Not readable",
+      "cause": "absent"
     },
-    "_annotations": {
-        "metadata.title": {
-            "lisibilite": "Lisible"
-        },
-        "metadata.title_complement": {
-            "lisibilite": "Lisible"
-        },
-        "metadata.volume_number": {
-            "lisibilite": "Non lisible",
-            "cause": "absent"
-        },
-        "metadata.authors": {
-            "lisibilite": "Lisible",
-            "correction": "Dorvault"
-        },
-        "metadata.publisher": {
-            "lisibilite": "Lisible",
-            "correction": "Asselin & Houzeau"
-        },
-        "metadata.publication_place": {
-            "lisibilite": "Lisible",
-            "correction": "PARIS"
-        },
-        "metadata.date": {
-            "lisibilite": "Lisible",
-            "correction": "1886"
-        },
-        "langue": {
-            "lisibilite": "Lisible"
-        },
-        "metadata.identifier": {
-            "lisibilite": "Lisible"
-        },
-        "metadata.iiif_manifest": {
-            "lisibilite": "Lisible"
-        },
-        "ark": {
-            "lisibilite": "Lisible"
-        }
+    "metadata.authors": {
+      "readability": "Readable",
+      "correction": "Dorvault"
+    },
+    "metadata.publisher": {
+      "readability": "Readable",
+      "correction": "Asselin & Houzeau"
+    },
+    "metadata.publication_place": {
+      "readability": "Readable",
+      "correction": "PARIS"
+    },
+    "metadata.date": {
+      "readability": "Readable",
+      "correction": "1886"
+    },
+    "language": {
+      "readability": "Readable"
+    },
+    "metadata.identifier": {
+      "readability": "Readable"
+    },
+    "metadata.iiif_manifest": {
+      "readability": "Readable"
+    },
+    "ark": {
+      "readability": "Readable"
     }
+  },
+  "language": "fr (French)"
 }

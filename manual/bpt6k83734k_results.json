@@ -1,64 +1,58 @@
 {
-    "metadata": {
-        "title": "ÉTUDES DE CHIMIE ORGANIQUE",
-        "title_complement": "faites en vue des applications physiologiques et médicales",
-        "volume_number": "PREMIÈRE PARTIE",
-        "authors": "E. Millon",
-        "publisher": "L. Danel",
-        "publication_place": "Lille",
-        "date": "1819",
-        "identifier": "http://gallica.bnf.fr/ark:/12148/bpt6k83734k",
-        "iiif_manifest": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k83734k/manifest.json"
+  "metadata": {
+    "title": "ÉTUDES DE CHIMIE ORGANIQUE",
+    "title_complement": "faites en vue des applications physiologiques et médicales",
+    "volume_number": "PREMIÈRE PARTIE",
+    "authors": "E. Millon",
+    "publisher": "L. Danel",
+    "publication_place": "Lille",
+    "date": "1819",
+    "identifier": "http://gallica.bnf.fr/ark:/12148/bpt6k83734k",
+    "iiif_manifest": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k83734k/manifest.json"
+  },
+  "ark": "bpt6k83734k",
+  "typographie": {
+    "category": "Serif/Roman",
+    "subtype": "Modern (Didone)"
+  },
+  "_annotations": {
+    "metadata.title": {
+      "readability": "Readable"
     },
-    "langue": "fr (French)",
-    "ark": "bpt6k83734k",
-    "typographie_suggestion": {
-        "category": "Serif/Roman",
-        "subtype": "Modern (Didone)",
-        "explanation": "The typeface features a high contrast between thick and thin strokes, vertical stress, and small, horizontal serifs, which are characteristic of the Modern/Didone style prevalent in 19th-century printing.",
-        "raw": "Category: Serif/Roman\nSubtype: Modern (Didone)\nExplanation: The typeface features a high contrast between thick and thin strokes, vertical stress, and small, horizontal serifs, which are characteristic of the Modern/Didone style prevalent in 19th-century printing."
+    "metadata.title_complement": {
+      "readability": "Readable"
     },
-    "typographie": {
-        "category": "Serif/Roman",
-        "subtype": "Modern (Didone)"
+    "metadata.volume_number": {
+      "readability": "Readable"
     },
-    "_annotations": {
-        "metadata.title": {
-            "lisibilite": "Lisible"
-        },
-        "metadata.title_complement": {
-            "lisibilite": "Lisible"
-        },
-        "metadata.volume_number": {
-            "lisibilite": "Lisible"
-        },
-        "metadata.authors": {
-            "lisibilite": "Lisible",
-            "correction": "E. Millon"
-        },
-        "metadata.publisher": {
-            "lisibilite": "Lisible",
-            "correction": "L. Danel"
-        },
-        "metadata.publication_place": {
-            "lisibilite": "Lisible",
-            "correction": "Lille"
-        },
-        "metadata.date": {
-            "lisibilite": "Lisible",
-            "correction": "1819"
-        },
-        "langue": {
-            "lisibilite": "Lisible"
-        },
-        "metadata.identifier": {
-            "lisibilite": "Lisible"
-        },
-        "metadata.iiif_manifest": {
-            "lisibilite": "Lisible"
-        },
-        "ark": {
-            "lisibilite": "Lisible"
-        }
+    "metadata.authors": {
+      "readability": "Readable",
+      "correction": "E. Millon"
+    },
+    "metadata.publisher": {
+      "readability": "Readable",
+      "correction": "L. Danel"
+    },
+    "metadata.publication_place": {
+      "readability": "Readable",
+      "correction": "Lille"
+    },
+    "metadata.date": {
+      "readability": "Readable",
+      "correction": "1819"
+    },
+    "language": {
+      "readability": "Readable"
+    },
+    "metadata.identifier": {
+      "readability": "Readable"
+    },
+    "metadata.iiif_manifest": {
+      "readability": "Readable"
+    },
+    "ark": {
+      "readability": "Readable"
     }
+  },
+  "language": "fr (French)"
 }

@@ -1,67 +1,61 @@
 {
-    "metadata": {
-        "title": "PHARMACOPÉE UNIVERSELLE",
-        "title_complement": "Contenant toutes les compositions de pharmacie qui sont en usage dans la médecine, tant en France que par toute l'Europe ; leurs vertus, leurs doses, les manières d'opérer les plus simples & les meilleures : avec un lexicon pharmaceutique, plusieurs remarques, et des raisonnemens sur chaque opération",
-        "volume_number": "",
-        "authors": "Nicolas Lemery",
-        "publisher": "De Saint & Saillant; Jean-Thomas Herissant; Nyon; Savoye; D'Houry; Didot le jeune",
-        "publication_place": "PARIS",
-        "date": "1764",
-        "identifier": "http://gallica.bnf.fr/ark:/12148/bpt6k91861g",
-        "iiif_manifest": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k91861g/manifest.json"
+  "metadata": {
+    "title": "PHARMACOPÉE UNIVERSELLE",
+    "title_complement": "Contenant toutes les compositions de pharmacie qui sont en usage dans la médecine, tant en France que par toute l'Europe ; leurs vertus, leurs doses, les manières d'opérer les plus simples & les meilleures : avec un lexicon pharmaceutique, plusieurs remarques, et des raisonnemens sur chaque opération",
+    "volume_number": "",
+    "authors": "Nicolas Lemery",
+    "publisher": "De Saint & Saillant; Jean-Thomas Herissant; Nyon; Savoye; D'Houry; Didot le jeune",
+    "publication_place": "PARIS",
+    "date": "1764",
+    "identifier": "http://gallica.bnf.fr/ark:/12148/bpt6k91861g",
+    "iiif_manifest": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k91861g/manifest.json"
+  },
+  "ark": "bpt6k91861g",
+  "typographie": {
+    "category": "Serif/Roman",
+    "subtype": "Transitional / Old Style"
+  },
+  "_annotations": {
+    "metadata.title": {
+      "readability": "Readable",
+      "correction": "PHARMACOPÉE UNIVERSELLE"
     },
-    "langue": "fr (French)",
-    "ark": "bpt6k91861g",
-    "typographie_suggestion": {
-        "category": "Serif/Roman",
-        "subtype": "Transitional / Old Style",
-        "explanation": "The text features the characteristic \"feet\" (serifs) of Roman typefaces. The contrast between thick and thin strokes, combined with the vertical axis of the letters, is typical of 18th-century French printing (Transitional style), bridging the gap between the softer Old Style and the high-contrast Didone styles.",
-        "raw": "Category: Serif/Roman\nSubtype: Transitional / Old Style\nExplanation: The text features the characteristic \"feet\" (serifs) of Roman typefaces. The contrast between thick and thin strokes, combined with the vertical axis of the letters, is typical of 18th-century French printing (Transitional style), bridging the gap between the softer Old Style and the high-contrast Didone styles."
+    "metadata.title_complement": {
+      "readability": "Readable",
+      "correction": "Contenant toutes les compositions de pharmacie qui sont en usage dans la médecine, tant en France que par toute l'Europe ; leurs vertus, leurs doses, les manières d'opérer les plus simples & les meilleures : avec un lexicon pharmaceutique, plusieurs remarques, et des raisonnemens sur chaque opération"
     },
-    "typographie": {
-        "category": "Serif/Roman",
-        "subtype": "Transitional / Old Style"
+    "metadata.volume_number": {
+      "readability": "Not readable",
+      "cause": "absent"
     },
-    "_annotations": {
-        "metadata.title": {
-            "lisibilite": "Lisible",
-            "correction": "PHARMACOPÉE UNIVERSELLE"
-        },
-        "metadata.title_complement": {
-            "lisibilite": "Lisible",
-            "correction": "Contenant toutes les compositions de pharmacie qui sont en usage dans la médecine, tant en France que par toute l'Europe ; leurs vertus, leurs doses, les manières d'opérer les plus simples & les meilleures : avec un lexicon pharmaceutique, plusieurs remarques, et des raisonnemens sur chaque opération"
-        },
-        "metadata.volume_number": {
-            "lisibilite": "Non lisible",
-            "cause": "absent"
-        },
-        "metadata.authors": {
-            "lisibilite": "Lisible",
-            "correction": "Nicolas Lemery"
-        },
-        "metadata.publisher": {
-            "lisibilite": "Lisible",
-            "correction": "De Saint & Saillant; Jean-Thomas Herissant; Nyon; Savoye; D'Houry; Didot le jeune"
-        },
-        "metadata.publication_place": {
-            "lisibilite": "Lisible",
-            "correction": "PARIS"
-        },
-        "metadata.date": {
-            "lisibilite": "Lisible",
-            "correction": "1764"
-        },
-        "langue": {
-            "lisibilite": "Lisible"
-        },
-        "metadata.identifier": {
-            "lisibilite": "Lisible"
-        },
-        "metadata.iiif_manifest": {
-            "lisibilite": "Lisible"
-        },
-        "ark": {
-            "lisibilite": "Lisible"
-        }
+    "metadata.authors": {
+      "readability": "Readable",
+      "correction": "Nicolas Lemery"
+    },
+    "metadata.publisher": {
+      "readability": "Readable",
+      "correction": "De Saint & Saillant; Jean-Thomas Herissant; Nyon; Savoye; D'Houry; Didot le jeune"
+    },
+    "metadata.publication_place": {
+      "readability": "Readable",
+      "correction": "PARIS"
+    },
+    "metadata.date": {
+      "readability": "Readable",
+      "correction": "1764"
+    },
+    "language": {
+      "readability": "Readable"
+    },
+    "metadata.identifier": {
+      "readability": "Readable"
+    },
+    "metadata.iiif_manifest": {
+      "readability": "Readable"
+    },
+    "ark": {
+      "readability": "Readable"
     }
+  },
+  "language": "fr (French)"
 }

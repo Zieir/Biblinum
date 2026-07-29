@@ -1,67 +1,61 @@
 {
-    "metadata": {
-        "title": "Jubilé de Monsieur le Professeur Amé Pictet",
-        "title_complement": "",
-        "volume_number": "",
-        "authors": "",
-        "publisher": "Aula de L'Université",
-        "publication_place": "",
-        "date": "1927",
-        "identifier": "http://gallica.bnf.fr/ark:/12148/bpt6k905664",
-        "iiif_manifest": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k905664/manifest.json"
+  "metadata": {
+    "title": "Jubilé de Monsieur le Professeur Amé Pictet",
+    "title_complement": "",
+    "volume_number": "",
+    "authors": "",
+    "publisher": "Aula de L'Université",
+    "publication_place": "",
+    "date": "1927",
+    "identifier": "http://gallica.bnf.fr/ark:/12148/bpt6k905664",
+    "iiif_manifest": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k905664/manifest.json"
+  },
+  "ark": "bpt6k905664",
+  "typographie": {
+    "category": "Serif/Roman",
+    "subtype": "Old Style"
+  },
+  "_annotations": {
+    "metadata.title": {
+      "readability": "Readable",
+      "correction": "Jubilé de Monsieur le Professeur Amé Pictet"
     },
-    "langue": "fr (French)",
-    "ark": "bpt6k905664",
-    "typographie_suggestion": {
-        "category": "Serif/Roman",
-        "subtype": "Old Style",
-        "explanation": "The typeface features moderate contrast between thick and thin strokes, slanted serifs, and a humanist influence in the letterforms (such as the rounded bowls and the shape of the 'e'), which are characteristic of Old Style faces common in early 20th-century academic printing.",
-        "raw": "Category: Serif/Roman\nSubtype: Old Style\nExplanation: The typeface features moderate contrast between thick and thin strokes, slanted serifs, and a humanist influence in the letterforms (such as the rounded bowls and the shape of the 'e'), which are characteristic of Old Style faces common in early 20th-century academic printing."
+    "metadata.title_complement": {
+      "readability": "Not readable",
+      "cause": "absent",
+      "correction": ""
     },
-    "typographie": {
-        "category": "Serif/Roman",
-        "subtype": "Old Style"
+    "metadata.volume_number": {
+      "readability": "Not readable",
+      "cause": "absent"
     },
-    "_annotations": {
-        "metadata.title": {
-            "lisibilite": "Lisible",
-            "correction": "Jubilé de Monsieur le Professeur Amé Pictet"
-        },
-        "metadata.title_complement": {
-            "lisibilite": "Non lisible",
-            "cause": "absent",
-            "correction": ""
-        },
-        "metadata.volume_number": {
-            "lisibilite": "Non lisible",
-            "cause": "absent"
-        },
-        "metadata.authors": {
-            "lisibilite": "Non lisible",
-            "cause": "absent"
-        },
-        "metadata.publisher": {
-            "lisibilite": "Lisible",
-            "correction": "Aula de L'Université"
-        },
-        "metadata.publication_place": {
-            "lisibilite": "Non lisible",
-            "cause": "absent"
-        },
-        "metadata.date": {
-            "lisibilite": "Lisible"
-        },
-        "langue": {
-            "lisibilite": "Lisible"
-        },
-        "metadata.identifier": {
-            "lisibilite": "Lisible"
-        },
-        "metadata.iiif_manifest": {
-            "lisibilite": "Lisible"
-        },
-        "ark": {
-            "lisibilite": "Lisible"
-        }
+    "metadata.authors": {
+      "readability": "Not readable",
+      "cause": "absent"
+    },
+    "metadata.publisher": {
+      "readability": "Readable",
+      "correction": "Aula de L'Université"
+    },
+    "metadata.publication_place": {
+      "readability": "Not readable",
+      "cause": "absent"
+    },
+    "metadata.date": {
+      "readability": "Readable"
+    },
+    "language": {
+      "readability": "Readable"
+    },
+    "metadata.identifier": {
+      "readability": "Readable"
+    },
+    "metadata.iiif_manifest": {
+      "readability": "Readable"
+    },
+    "ark": {
+      "readability": "Readable"
     }
+  },
+  "language": "fr (French)"
 }

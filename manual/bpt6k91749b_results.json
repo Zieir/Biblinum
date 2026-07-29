@@ -1,62 +1,56 @@
 {
-    "metadata": {
-        "title": "L'OZONE",
-        "title_complement": "Recherches chimiques, anatomiques, physiologiques et médicales sur l'oxygène électrisé",
-        "volume_number": "",
-        "authors": "H. SCOUTETTEN",
-        "publisher": "Librairie de Victor Masson ; Librairie de M. Alcan",
-        "publication_place": "Paris ; Metz",
-        "date": "1856",
-        "identifier": "http://gallica.bnf.fr/ark:/12148/bpt6k91749b",
-        "iiif_manifest": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k91749b/manifest.json"
+  "metadata": {
+    "title": "L'OZONE",
+    "title_complement": "Recherches chimiques, anatomiques, physiologiques et médicales sur l'oxygène électrisé",
+    "volume_number": "",
+    "authors": "H. SCOUTETTEN",
+    "publisher": "Librairie de Victor Masson ; Librairie de M. Alcan",
+    "publication_place": "Paris ; Metz",
+    "date": "1856",
+    "identifier": "http://gallica.bnf.fr/ark:/12148/bpt6k91749b",
+    "iiif_manifest": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k91749b/manifest.json"
+  },
+  "ark": "bpt6k91749b",
+  "typographie": {
+    "category": "Serif/Roman",
+    "subtype": "Didone (Modern)"
+  },
+  "_annotations": {
+    "metadata.title": {
+      "readability": "Readable"
     },
-    "langue": "fr (French)",
-    "ark": "bpt6k91749b",
-    "typographie_suggestion": {
-        "category": "Serif/Roman",
-        "subtype": "Didone (Modern)",
-        "explanation": "The typeface features the high contrast between thick and thin strokes, vertical stress, and small, unbracketed hair-line serifs characteristic of the late 18th and 19th-century \"Modern\" style (similar to Bodoni or Didot), which was standard for academic and official French printing of that era.",
-        "raw": "Category: Serif/Roman\nSubtype: Didone (Modern)\nExplanation: The typeface features the high contrast between thick and thin strokes, vertical stress, and small, unbracketed hair-line serifs characteristic of the late 18th and 19th-century \"Modern\" style (similar to Bodoni or Didot), which was standard for academic and official French printing of that era."
+    "metadata.title_complement": {
+      "readability": "Readable"
     },
-    "typographie": {
-        "category": "Serif/Roman",
-        "subtype": "Didone (Modern)"
+    "metadata.volume_number": {
+      "readability": "Not readable",
+      "cause": "absent"
     },
-    "_annotations": {
-        "metadata.title": {
-            "lisibilite": "Lisible"
-        },
-        "metadata.title_complement": {
-            "lisibilite": "Lisible"
-        },
-        "metadata.volume_number": {
-            "lisibilite": "Non lisible",
-            "cause": "absent"
-        },
-        "metadata.authors": {
-            "lisibilite": "Lisible",
-            "correction": "H. SCOUTETTEN"
-        },
-        "metadata.publisher": {
-            "lisibilite": "Lisible"
-        },
-        "metadata.publication_place": {
-            "lisibilite": "Lisible"
-        },
-        "metadata.date": {
-            "lisibilite": "Lisible"
-        },
-        "langue": {
-            "lisibilite": "Lisible"
-        },
-        "metadata.identifier": {
-            "lisibilite": "Lisible"
-        },
-        "metadata.iiif_manifest": {
-            "lisibilite": "Lisible"
-        },
-        "ark": {
-            "lisibilite": "Lisible"
-        }
+    "metadata.authors": {
+      "readability": "Readable",
+      "correction": "H. SCOUTETTEN"
+    },
+    "metadata.publisher": {
+      "readability": "Readable"
+    },
+    "metadata.publication_place": {
+      "readability": "Readable"
+    },
+    "metadata.date": {
+      "readability": "Readable"
+    },
+    "language": {
+      "readability": "Readable"
+    },
+    "metadata.identifier": {
+      "readability": "Readable"
+    },
+    "metadata.iiif_manifest": {
+      "readability": "Readable"
+    },
+    "ark": {
+      "readability": "Readable"
     }
+  },
+  "language": "fr (French)"
 }

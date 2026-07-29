@@ -1,63 +1,57 @@
 {
-    "metadata": {
-        "title": "ROSCOES-SCHORLEMMER'S AUSFÜHRLICHES LEHRBUCH DER CHEMIE",
-        "title_complement": "DIE KOHLENWASSERSTOFFE UND IHRE DERIVATE ODER ORGANISCHE CHEMIE",
-        "volume_number": "ACHTER BAND, SECHSTER THEIL",
-        "authors": "JUL. WILH. BRÜHL; EDVARD HJELT; OSSIAN ASCHAN",
-        "publisher": "FRIEDRICH VIEWEG UND SOHN",
-        "publication_place": "BRAUNSCHWEIG",
-        "date": "1901",
-        "identifier": "http://gallica.bnf.fr/ark:/12148/bpt6k919534/f3.item",
-        "iiif_manifest": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k919534/manifest.json"
+  "metadata": {
+    "title": "ROSCOES-SCHORLEMMER'S AUSFÜHRLICHES LEHRBUCH DER CHEMIE",
+    "title_complement": "DIE KOHLENWASSERSTOFFE UND IHRE DERIVATE ODER ORGANISCHE CHEMIE",
+    "volume_number": "ACHTER BAND, SECHSTER THEIL",
+    "authors": "JUL. WILH. BRÜHL; EDVARD HJELT; OSSIAN ASCHAN",
+    "publisher": "FRIEDRICH VIEWEG UND SOHN",
+    "publication_place": "BRAUNSCHWEIG",
+    "date": "1901",
+    "identifier": "http://gallica.bnf.fr/ark:/12148/bpt6k919534/f3.item",
+    "iiif_manifest": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k919534/manifest.json"
+  },
+  "ark": "bpt6k919534",
+  "typographie": {
+    "category": "Serif/Roman",
+    "subtype": "Modern / Didone"
+  },
+  "_annotations": {
+    "metadata.title": {
+      "readability": "Readable",
+      "correction": "ROSCOES-SCHORLEMMER'S AUSFÜHRLICHES LEHRBUCH DER CHEMIE"
     },
-    "langue": "de (German)",
-    "ark": "bpt6k919534",
-    "typographie_suggestion": {
-        "category": "Serif/Roman",
-        "subtype": "Modern / Didone",
-        "explanation": "The typeface features a high contrast between thick and thin strokes, vertical stress, and small, horizontal serifs, which are characteristic of the Modern (Didone) style popular in academic and formal printing during the late 19th and early 20th centuries.",
-        "raw": "Category: Serif/Roman\nSubtype: Modern / Didone\nExplanation: The typeface features a high contrast between thick and thin strokes, vertical stress, and small, horizontal serifs, which are characteristic of the Modern (Didone) style popular in academic and formal printing during the late 19th and early 20th centuries."
+    "metadata.title_complement": {
+      "readability": "Readable"
     },
-    "typographie": {
-        "category": "Serif/Roman",
-        "subtype": "Modern / Didone"
+    "metadata.volume_number": {
+      "readability": "Readable",
+      "correction": "ACHTER BAND, SECHSTER THEIL"
     },
-    "_annotations": {
-        "metadata.title": {
-            "lisibilite": "Lisible",
-            "correction": "ROSCOES-SCHORLEMMER'S AUSFÜHRLICHES LEHRBUCH DER CHEMIE"
-        },
-        "metadata.title_complement": {
-            "lisibilite": "Lisible"
-        },
-        "metadata.volume_number": {
-            "lisibilite": "Lisible",
-            "correction": "ACHTER BAND, SECHSTER THEIL"
-        },
-        "metadata.authors": {
-            "lisibilite": "Lisible",
-            "correction": "JUL. WILH. BRÜHL; EDVARD HJELT; OSSIAN ASCHAN"
-        },
-        "metadata.publisher": {
-            "lisibilite": "Lisible"
-        },
-        "metadata.publication_place": {
-            "lisibilite": "Lisible"
-        },
-        "metadata.date": {
-            "lisibilite": "Lisible"
-        },
-        "langue": {
-            "lisibilite": "Lisible"
-        },
-        "metadata.identifier": {
-            "lisibilite": "Lisible"
-        },
-        "metadata.iiif_manifest": {
-            "lisibilite": "Lisible"
-        },
-        "ark": {
-            "lisibilite": "Lisible"
-        }
+    "metadata.authors": {
+      "readability": "Readable",
+      "correction": "JUL. WILH. BRÜHL; EDVARD HJELT; OSSIAN ASCHAN"
+    },
+    "metadata.publisher": {
+      "readability": "Readable"
+    },
+    "metadata.publication_place": {
+      "readability": "Readable"
+    },
+    "metadata.date": {
+      "readability": "Readable"
+    },
+    "language": {
+      "readability": "Readable"
+    },
+    "metadata.identifier": {
+      "readability": "Readable"
+    },
+    "metadata.iiif_manifest": {
+      "readability": "Readable"
+    },
+    "ark": {
+      "readability": "Readable"
     }
+  },
+  "language": "de (German)"
 }

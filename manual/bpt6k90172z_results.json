@@ -1,65 +1,59 @@
 {
-    "metadata": {
-        "title": "Halogènes et composés oxygénés du chlore ",
-        "title_complement": "",
-        "volume_number": "",
-        "authors": "Scheele, Berthollet, Gay-Lussac et Thénard, H. Davy, Balard, Courtois, H. Moissan, Millon ",
-        "publisher": "GAUTHIER-VILLARS",
-        "publication_place": "PARIS",
-        "date": "1938",
-        "identifier": "http://gallica.bnf.fr/ark:/12148/bpt6k90172z",
-        "iiif_manifest": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k90172z/manifest.json"
+  "metadata": {
+    "title": "Halogènes et composés oxygénés du chlore ",
+    "title_complement": "",
+    "volume_number": "",
+    "authors": "Scheele, Berthollet, Gay-Lussac et Thénard, H. Davy, Balard, Courtois, H. Moissan, Millon ",
+    "publisher": "GAUTHIER-VILLARS",
+    "publication_place": "PARIS",
+    "date": "1938",
+    "identifier": "http://gallica.bnf.fr/ark:/12148/bpt6k90172z",
+    "iiif_manifest": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k90172z/manifest.json"
+  },
+  "ark": "bpt6k90172z",
+  "typographie": {
+    "category": "Serif/Roman",
+    "subtype": "Didone (Modern)"
+  },
+  "_annotations": {
+    "metadata.title": {
+      "readability": "Readable",
+      "correction": "Halogènes et composés oxygénés du chlore "
     },
-    "langue": "fr (French)",
-    "ark": "bpt6k90172z",
-    "typographie_suggestion": {
-        "category": "Serif/Roman",
-        "subtype": "Didone (Modern)",
-        "explanation": "The typeface features the high contrast between thick and thin strokes, vertical stress, and small, horizontal serifs characteristic of the \"Modern\" or Didone style (similar to Bodoni or Didot), which was standard for academic and formal French publishing in the early 20th century.",
-        "raw": "Category: Serif/Roman\nSubtype: Didone (Modern)\nExplanation: The typeface features the high contrast between thick and thin strokes, vertical stress, and small, horizontal serifs characteristic of the \"Modern\" or Didone style (similar to Bodoni or Didot), which was standard for academic and formal French publishing in the early 20th century."
+    "metadata.title_complement": {
+      "readability": "Not readable",
+      "cause": "absent",
+      "correction": ""
     },
-    "typographie": {
-        "category": "Serif/Roman",
-        "subtype": "Didone (Modern)"
+    "metadata.volume_number": {
+      "readability": "Not readable",
+      "cause": "absent"
     },
-    "_annotations": {
-        "metadata.title": {
-            "lisibilite": "Lisible",
-            "correction": "Halogènes et composés oxygénés du chlore "
-        },
-        "metadata.title_complement": {
-            "lisibilite": "Non lisible",
-            "cause": "absent",
-            "correction": ""
-        },
-        "metadata.volume_number": {
-            "lisibilite": "Non lisible",
-            "cause": "absent"
-        },
-        "metadata.authors": {
-            "lisibilite": "Lisible",
-            "correction": "Scheele, Berthollet, Gay-Lussac et Thénard, H. Davy, Balard, Courtois, H. Moissan, Millon "
-        },
-        "metadata.publisher": {
-            "lisibilite": "Lisible"
-        },
-        "metadata.publication_place": {
-            "lisibilite": "Lisible"
-        },
-        "metadata.date": {
-            "lisibilite": "Lisible"
-        },
-        "langue": {
-            "lisibilite": "Lisible"
-        },
-        "metadata.identifier": {
-            "lisibilite": "Lisible"
-        },
-        "metadata.iiif_manifest": {
-            "lisibilite": "Lisible"
-        },
-        "ark": {
-            "lisibilite": "Lisible"
-        }
+    "metadata.authors": {
+      "readability": "Readable",
+      "correction": "Scheele, Berthollet, Gay-Lussac et Thénard, H. Davy, Balard, Courtois, H. Moissan, Millon "
+    },
+    "metadata.publisher": {
+      "readability": "Readable"
+    },
+    "metadata.publication_place": {
+      "readability": "Readable"
+    },
+    "metadata.date": {
+      "readability": "Readable"
+    },
+    "language": {
+      "readability": "Readable"
+    },
+    "metadata.identifier": {
+      "readability": "Readable"
+    },
+    "metadata.iiif_manifest": {
+      "readability": "Readable"
+    },
+    "ark": {
+      "readability": "Readable"
     }
+  },
+  "language": "fr (French)"
 }

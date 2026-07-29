@@ -1,64 +1,58 @@
 {
-    "metadata": {
-        "title": "VÉRIFICATION EXPÉRIMENTALE DE LA RÉCIPROQUE DE LA LOI DE FARADAY SUR LA DÉCOMPOSITION DES ÉLECTROLYTES.PROPOSITIONS DE CHIMIE DONNÉES PAR LA FACULTÉ",
-        "title_complement": "thèses présentées à la Faculté des sciences de Paris pour obtenir le grade de docteur ès sciences soutenu en mai 1867 devant la commission d'examen",
-        "volume_number": "",
-        "authors": "Bernard RENAULT",
-        "publisher": "GAUTHIER-VILLARS, IMPRIMEUR-LIBRAIRE",
-        "publication_place": "PARIS",
-        "date": "1867",
-        "identifier": "http://gallica.bnf.fr/ark:/12148/bpt6k91832w",
-        "iiif_manifest": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k91832w/manifest.json"
+  "metadata": {
+    "title": "VÉRIFICATION EXPÉRIMENTALE DE LA RÉCIPROQUE DE LA LOI DE FARADAY SUR LA DÉCOMPOSITION DES ÉLECTROLYTES.PROPOSITIONS DE CHIMIE DONNÉES PAR LA FACULTÉ",
+    "title_complement": "thèses présentées à la Faculté des sciences de Paris pour obtenir le grade de docteur ès sciences soutenu en mai 1867 devant la commission d'examen",
+    "volume_number": "",
+    "authors": "Bernard RENAULT",
+    "publisher": "GAUTHIER-VILLARS, IMPRIMEUR-LIBRAIRE",
+    "publication_place": "PARIS",
+    "date": "1867",
+    "identifier": "http://gallica.bnf.fr/ark:/12148/bpt6k91832w",
+    "iiif_manifest": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k91832w/manifest.json"
+  },
+  "ark": "bpt6k91832w",
+  "typographie": {
+    "category": "Script",
+    "subtype": "Cursive"
+  },
+  "_annotations": {
+    "metadata.title": {
+      "readability": "Readable",
+      "correction": "VÉRIFICATION EXPÉRIMENTALE DE LA RÉCIPROQUE DE LA LOI DE FARADAY SUR LA DÉCOMPOSITION DES ÉLECTROLYTES.PROPOSITIONS DE CHIMIE DONNÉES PAR LA FACULTÉ"
     },
-    "langue": "fr (French)",
-    "ark": "bpt6k91832w",
-    "typographie_suggestion": {
-        "category": "Script",
-        "subtype": "Cursive",
-        "explanation": "This is a fluid, connected handwriting style typical of 19th-century personal correspondence or archival notations.",
-        "raw": "Based on the image provided, there are two distinct styles of writing. I will identify both:\n\n**For the printed text (e.g., \"THÈSES\", \"PARIS\"):**\nCategory: Serif/Roman\nSubtype: Modern / Didone\nExplanation: The printed text features a high contrast between thick and thin strokes with horizontal, unbracketed serifs, characteristic of the \"Modern\" style popular in 19th-century French printing.\n\n**For the handwritten notes (top right):**\nCategory: Script\nSubtype: Cursive\nExplanation: This is a fluid, connected handwriting style typical of 19th-century personal correspondence or archival notations."
+    "metadata.title_complement": {
+      "readability": "Readable",
+      "correction": "thèses présentées à la Faculté des sciences de Paris pour obtenir le grade de docteur ès sciences soutenu en mai 1867 devant la commission d'examen"
     },
-    "typographie": {
-        "category": "Script",
-        "subtype": "Cursive"
+    "metadata.volume_number": {
+      "readability": "Not readable",
+      "cause": "absent"
     },
-    "_annotations": {
-        "metadata.title": {
-            "lisibilite": "Lisible",
-            "correction": "VÉRIFICATION EXPÉRIMENTALE DE LA RÉCIPROQUE DE LA LOI DE FARADAY SUR LA DÉCOMPOSITION DES ÉLECTROLYTES.PROPOSITIONS DE CHIMIE DONNÉES PAR LA FACULTÉ"
-        },
-        "metadata.title_complement": {
-            "lisibilite": "Lisible",
-            "correction": "thèses présentées à la Faculté des sciences de Paris pour obtenir le grade de docteur ès sciences soutenu en mai 1867 devant la commission d'examen"
-        },
-        "metadata.volume_number": {
-            "lisibilite": "Non lisible",
-            "cause": "absent"
-        },
-        "metadata.authors": {
-            "lisibilite": "Lisible",
-            "correction": "Bernard RENAULT"
-        },
-        "metadata.publisher": {
-            "lisibilite": "Lisible"
-        },
-        "metadata.publication_place": {
-            "lisibilite": "Lisible"
-        },
-        "metadata.date": {
-            "lisibilite": "Lisible"
-        },
-        "langue": {
-            "lisibilite": "Lisible"
-        },
-        "metadata.identifier": {
-            "lisibilite": "Lisible"
-        },
-        "metadata.iiif_manifest": {
-            "lisibilite": "Lisible"
-        },
-        "ark": {
-            "lisibilite": "Lisible"
-        }
+    "metadata.authors": {
+      "readability": "Readable",
+      "correction": "Bernard RENAULT"
+    },
+    "metadata.publisher": {
+      "readability": "Readable"
+    },
+    "metadata.publication_place": {
+      "readability": "Readable"
+    },
+    "metadata.date": {
+      "readability": "Readable"
+    },
+    "language": {
+      "readability": "Readable"
+    },
+    "metadata.identifier": {
+      "readability": "Readable"
+    },
+    "metadata.iiif_manifest": {
+      "readability": "Readable"
+    },
+    "ark": {
+      "readability": "Readable"
     }
+  },
+  "language": "fr (French)"
 }

@@ -1,69 +1,63 @@
 {
-    "metadata": {
-        "title": "ЖИЗНЬ И ДѢЯТЕЛЬНОСТЬ Жизнь и Дѣятельность Николая Александровича Меншуткина",
-        "title_complement": "",
-        "volume_number": "",
-        "authors": "МЕНШУТКИНЪ, Николай Александрович",
-        "publisher": "Типографія М. Фроловой",
-        "publication_place": "С.-Петербургъ",
-        "date": "1908",
-        "identifier": "http://gallica.bnf.fr/ark:/12148/bpt6k900197",
-        "iiif_manifest": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k900197/manifest.json"
+  "metadata": {
+    "title": "ЖИЗНЬ И ДѢЯТЕЛЬНОСТЬ Жизнь и Дѣятельность Николая Александровича Меншуткина",
+    "title_complement": "",
+    "volume_number": "",
+    "authors": "МЕНШУТКИНЪ, Николай Александрович",
+    "publisher": "Типографія М. Фроловой",
+    "publication_place": "С.-Петербургъ",
+    "date": "1908",
+    "identifier": "http://gallica.bnf.fr/ark:/12148/bpt6k900197",
+    "iiif_manifest": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k900197/manifest.json"
+  },
+  "ark": "bpt6k900197",
+  "typographie": {
+    "category": "Script",
+    "subtype": "Cursive / Handwriting"
+  },
+  "_annotations": {
+    "metadata.title": {
+      "readability": "Readable",
+      "correction": "ЖИЗНЬ И ДѢЯТЕЛЬНОСТЬ Жизнь и Дѣятельность Николая Александровича Меншуткина"
     },
-    "langue": "ru (Russian)",
-    "ark": "bpt6k900197",
-    "typographie_suggestion": {
-        "category": "Script",
-        "subtype": "Cursive / Handwriting",
-        "explanation": "These are fluid, connected characters written by hand, typical of 19th-century personal correspondence or archival notation.",
-        "raw": "Based on the image provided, there are multiple styles present. I will analyze the primary printed text (the title and publication details).\n\n**For the main printed text (e.g., \"ЖИЗНЬ И ДѢЯТЕЛЬНОСТЬ\"):**\n\nCategory: Serif/Roman\nSubtype: Modern / Didone\nExplanation: The text features a high contrast between thick and thin strokes with horizontal, unbracketed serifs, characteristic of the \"Modern\" or Didone style prevalent in 19th-century printing.\n\n**For the handwritten annotations (e.g., \"La Vie et L'Activité\"):**\n\nCategory: Script\nSubtype: Cursive / Handwriting\nExplanation: These are fluid, connected characters written by hand, typical of 19th-century personal correspondence or archival notation."
+    "metadata.title_complement": {
+      "readability": "Not readable",
+      "cause": "absent"
     },
-    "typographie": {
-        "category": "Script",
-        "subtype": "Cursive / Handwriting"
+    "metadata.volume_number": {
+      "readability": "Not readable",
+      "cause": "absent"
     },
-    "_annotations": {
-        "metadata.title": {
-            "lisibilite": "Lisible",
-            "correction": "ЖИЗНЬ И ДѢЯТЕЛЬНОСТЬ Жизнь и Дѣятельность Николая Александровича Меншуткина"
-        },
-        "metadata.title_complement": {
-            "lisibilite": "Non lisible",
-            "cause": "absent"
-        },
-        "metadata.volume_number": {
-            "lisibilite": "Non lisible",
-            "cause": "absent"
-        },
-        "metadata.authors": {
-            "lisibilite": "Lisible"
-        },
-        "metadata.publisher": {
-            "lisibilite": "Non lisible",
-            "cause": "qualite",
-            "correction": "Типографія М. Фроловой"
-        },
-        "metadata.publication_place": {
-            "lisibilite": "Non lisible",
-            "cause": "qualite",
-            "correction": "С.-Петербургъ"
-        },
-        "metadata.date": {
-            "lisibilite": "Non lisible",
-            "cause": "qualite",
-            "correction": "1908"
-        },
-        "langue": {
-            "lisibilite": "Lisible"
-        },
-        "metadata.identifier": {
-            "lisibilite": "Lisible"
-        },
-        "metadata.iiif_manifest": {
-            "lisibilite": "Lisible"
-        },
-        "ark": {
-            "lisibilite": "Lisible"
-        }
+    "metadata.authors": {
+      "readability": "Readable"
+    },
+    "metadata.publisher": {
+      "readability": "Not readable",
+      "cause": "quality",
+      "correction": "Типографія М. Фроловой"
+    },
+    "metadata.publication_place": {
+      "readability": "Not readable",
+      "cause": "quality",
+      "correction": "С.-Петербургъ"
+    },
+    "metadata.date": {
+      "readability": "Not readable",
+      "cause": "quality",
+      "correction": "1908"
+    },
+    "language": {
+      "readability": "Readable"
+    },
+    "metadata.identifier": {
+      "readability": "Readable"
+    },
+    "metadata.iiif_manifest": {
+      "readability": "Readable"
+    },
+    "ark": {
+      "readability": "Readable"
     }
+  },
+  "language": "ru (Russian)"
 }

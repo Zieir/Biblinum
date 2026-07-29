@@ -1,65 +1,59 @@
 {
-    "metadata": {
-        "title": "REVUE DE PHYSIQUE ET DE CHIMIE",
-        "title_complement": "LEURS APPLICATIONS INDUSTRIELLES",
-        "volume_number": "",
-        "authors": "",
-        "publisher": "",
-        "publication_place": "",
-        "date": "",
-        "identifier": "http://gallica.bnf.fr/ark:/12148/bpt6k90805r",
-        "iiif_manifest": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k90805r/manifest.json"
+  "metadata": {
+    "title": "REVUE DE PHYSIQUE ET DE CHIMIE",
+    "title_complement": "LEURS APPLICATIONS INDUSTRIELLES",
+    "volume_number": "",
+    "authors": "",
+    "publisher": "",
+    "publication_place": "",
+    "date": "",
+    "identifier": "http://gallica.bnf.fr/ark:/12148/bpt6k90805r",
+    "iiif_manifest": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k90805r/manifest.json"
+  },
+  "ark": "bpt6k90805r",
+  "typographie": {
+    "category": "Serif/Roman",
+    "subtype": "Slab Serif (Egyptian)"
+  },
+  "_annotations": {
+    "metadata.title": {
+      "readability": "Readable"
     },
-    "langue": "fr (French)",
-    "ark": "bpt6k90805r",
-    "typographie_suggestion": {
-        "category": "Serif/Roman",
-        "subtype": "Slab Serif (Egyptian)",
-        "explanation": "The primary title \"PHYSIQUE ET DE CHIMIE\" features heavy, block-like serifs with little to no bracketing, which is characteristic of the Slab Serif style popular in 19th-century academic and industrial printing.",
-        "raw": "Category: Serif/Roman\nSubtype: Slab Serif (Egyptian)\nExplanation: The primary title \"PHYSIQUE ET DE CHIMIE\" features heavy, block-like serifs with little to no bracketing, which is characteristic of the Slab Serif style popular in 19th-century academic and industrial printing."
+    "metadata.title_complement": {
+      "readability": "Readable"
     },
-    "typographie": {
-        "category": "Serif/Roman",
-        "subtype": "Slab Serif (Egyptian)"
+    "metadata.volume_number": {
+      "readability": "Not readable",
+      "cause": "absent"
     },
-    "_annotations": {
-        "metadata.title": {
-            "lisibilite": "Lisible"
-        },
-        "metadata.title_complement": {
-            "lisibilite": "Lisible"
-        },
-        "metadata.volume_number": {
-            "lisibilite": "Non lisible",
-            "cause": "absent"
-        },
-        "metadata.authors": {
-            "lisibilite": "Non lisible",
-            "cause": "absent"
-        },
-        "metadata.publisher": {
-            "lisibilite": "Non lisible",
-            "cause": "absent"
-        },
-        "metadata.publication_place": {
-            "lisibilite": "Non lisible",
-            "cause": "absent"
-        },
-        "metadata.date": {
-            "lisibilite": "Non lisible",
-            "cause": "absent"
-        },
-        "langue": {
-            "lisibilite": "Lisible"
-        },
-        "metadata.identifier": {
-            "lisibilite": "Lisible"
-        },
-        "metadata.iiif_manifest": {
-            "lisibilite": "Lisible"
-        },
-        "ark": {
-            "lisibilite": "Lisible"
-        }
+    "metadata.authors": {
+      "readability": "Not readable",
+      "cause": "absent"
+    },
+    "metadata.publisher": {
+      "readability": "Not readable",
+      "cause": "absent"
+    },
+    "metadata.publication_place": {
+      "readability": "Not readable",
+      "cause": "absent"
+    },
+    "metadata.date": {
+      "readability": "Not readable",
+      "cause": "absent"
+    },
+    "language": {
+      "readability": "Readable"
+    },
+    "metadata.identifier": {
+      "readability": "Readable"
+    },
+    "metadata.iiif_manifest": {
+      "readability": "Readable"
+    },
+    "ark": {
+      "readability": "Readable"
     }
+  },
+  "language": "fr (French)"
 }

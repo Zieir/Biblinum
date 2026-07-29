@@ -1,67 +1,61 @@
 {
-    "metadata": {
-        "title": "GASOMETRISCHE METHODEN",
-        "title_complement": "",
-        "volume_number": "",
-        "authors": "ROBERT BUNSEN",
-        "publisher": "FRIEDRICH VIEWEG UND SOHN",
-        "publication_place": "BRAUNSCHWEIG",
-        "date": "1877",
-        "identifier": "http://gallica.bnf.fr/ark:/12148/bpt6k91721z",
-        "iiif_manifest": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k91721z/manifest.json"
+  "metadata": {
+    "title": "GASOMETRISCHE METHODEN",
+    "title_complement": "",
+    "volume_number": "",
+    "authors": "ROBERT BUNSEN",
+    "publisher": "FRIEDRICH VIEWEG UND SOHN",
+    "publication_place": "BRAUNSCHWEIG",
+    "date": "1877",
+    "identifier": "http://gallica.bnf.fr/ark:/12148/bpt6k91721z",
+    "iiif_manifest": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k91721z/manifest.json"
+  },
+  "ark": "bpt6k91721z",
+  "typographie": {
+    "category": "Script",
+    "subtype": "Cursive"
+  },
+  "_annotations": {
+    "metadata.title": {
+      "readability": "Not readable",
+      "cause": "covered"
     },
-    "langue": "de (German)",
-    "ark": "bpt6k91721z",
-    "typographie_suggestion": {
-        "category": "Script",
-        "subtype": "Cursive",
-        "explanation": "This is a fluid, connected handwriting style characterized by slanted strokes and loops, typical of personal archival notations.",
-        "raw": "Based on the image provided, there are two distinct styles of writing. I will identify the primary printed text and the handwritten annotation.\n\n**For the printed text (\"GASOMETRISCHE METHODEN\"):**\nCategory: Serif/Roman\nSubtype: Didone (Modern)\nExplanation: The text features a high contrast between thick and thin strokes and vertical stress, characteristic of the \"Modern\" or Didone style popular in the late 18th and 19th centuries.\n\n**For the handwritten numbers (\"1459\"):**\nCategory: Script\nSubtype: Cursive\nExplanation: This is a fluid, connected handwriting style characterized by slanted strokes and loops, typical of personal archival notations."
+    "metadata.title_complement": {
+      "readability": "Not readable",
+      "cause": "absent"
     },
-    "typographie": {
-        "category": "Script",
-        "subtype": "Cursive"
+    "metadata.volume_number": {
+      "readability": "Not readable",
+      "cause": "absent"
     },
-    "_annotations": {
-        "metadata.title": {
-            "lisibilite": "Non lisible",
-            "cause": "recouvert"
-        },
-        "metadata.title_complement": {
-            "lisibilite": "Non lisible",
-            "cause": "absent"
-        },
-        "metadata.volume_number": {
-            "lisibilite": "Non lisible",
-            "cause": "absent"
-        },
-        "metadata.authors": {
-            "lisibilite": "Lisible",
-            "correction": "ROBERT BUNSEN"
-        },
-        "metadata.publisher": {
-            "lisibilite": "Lisible",
-            "correction": "FRIEDRICH VIEWEG UND SOHN"
-        },
-        "metadata.publication_place": {
-            "lisibilite": "Lisible",
-            "correction": "BRAUNSCHWEIG"
-        },
-        "metadata.date": {
-            "lisibilite": "Non lisible",
-            "cause": "absent"
-        },
-        "langue": {
-            "lisibilite": "Lisible"
-        },
-        "metadata.identifier": {
-            "lisibilite": "Lisible"
-        },
-        "metadata.iiif_manifest": {
-            "lisibilite": "Lisible"
-        },
-        "ark": {
-            "lisibilite": "Lisible"
-        }
+    "metadata.authors": {
+      "readability": "Readable",
+      "correction": "ROBERT BUNSEN"
+    },
+    "metadata.publisher": {
+      "readability": "Readable",
+      "correction": "FRIEDRICH VIEWEG UND SOHN"
+    },
+    "metadata.publication_place": {
+      "readability": "Readable",
+      "correction": "BRAUNSCHWEIG"
+    },
+    "metadata.date": {
+      "readability": "Not readable",
+      "cause": "absent"
+    },
+    "language": {
+      "readability": "Readable"
+    },
+    "metadata.identifier": {
+      "readability": "Readable"
+    },
+    "metadata.iiif_manifest": {
+      "readability": "Readable"
+    },
+    "ark": {
+      "readability": "Readable"
     }
+  },
+  "language": "de (German)"
 }

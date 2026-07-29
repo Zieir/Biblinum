@@ -1,62 +1,56 @@
 {
-    "metadata": {
-        "title": "FUSION DU PLATINE ET DISSOCIATION",
-        "title_complement": "Mémoires de Sainte-Claire Deville, Debray, Troost, Hautefeuille, Isambert, Ditte, Joannis, Joly",
-        "volume_number": "VI",
-        "authors": "Sainte-Claire Deville ; Debray ; Troost",
-        "publisher": "Librairie Armand Colin",
-        "publication_place": "Paris",
-        "date": "",
-        "identifier": "http://gallica.bnf.fr/ark:/12148/bpt6k91939k",
-        "iiif_manifest": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k91939k/manifest.json"
+  "metadata": {
+    "title": "FUSION DU PLATINE ET DISSOCIATION",
+    "title_complement": "Mémoires de Sainte-Claire Deville, Debray, Troost, Hautefeuille, Isambert, Ditte, Joannis, Joly",
+    "volume_number": "VI",
+    "authors": "Sainte-Claire Deville ; Debray ; Troost",
+    "publisher": "Librairie Armand Colin",
+    "publication_place": "Paris",
+    "date": "",
+    "identifier": "http://gallica.bnf.fr/ark:/12148/bpt6k91939k",
+    "iiif_manifest": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k91939k/manifest.json"
+  },
+  "ark": "bpt6k91939k",
+  "typographie": {
+    "category": "Serif/Roman",
+    "subtype": "Didone (Modern)"
+  },
+  "_annotations": {
+    "metadata.title": {
+      "readability": "Readable"
     },
-    "langue": "fr (French)",
-    "ark": "bpt6k91939k",
-    "typographie_suggestion": {
-        "category": "Serif/Roman",
-        "subtype": "Didone (Modern)",
-        "explanation": "The typeface features the high contrast between thick and thin strokes, vertical stress, and small, horizontal serifs characteristic of the \"Modern\" or Didone style (similar to Bodoni or Didot), which was standard for academic and formal French publishing in the late 19th and early 20th centuries.",
-        "raw": "Category: Serif/Roman\nSubtype: Didone (Modern)\nExplanation: The typeface features the high contrast between thick and thin strokes, vertical stress, and small, horizontal serifs characteristic of the \"Modern\" or Didone style (similar to Bodoni or Didot), which was standard for academic and formal French publishing in the late 19th and early 20th centuries."
+    "metadata.title_complement": {
+      "readability": "Readable",
+      "correction": "Mémoires de Sainte-Claire Deville, Debray, Troost, Hautefeuille, Isambert, Ditte, Joannis, Joly"
     },
-    "typographie": {
-        "category": "Serif/Roman",
-        "subtype": "Didone (Modern)"
+    "metadata.volume_number": {
+      "readability": "Readable"
     },
-    "_annotations": {
-        "metadata.title": {
-            "lisibilite": "Lisible"
-        },
-        "metadata.title_complement": {
-            "lisibilite": "Lisible",
-            "correction": "Mémoires de Sainte-Claire Deville, Debray, Troost, Hautefeuille, Isambert, Ditte, Joannis, Joly"
-        },
-        "metadata.volume_number": {
-            "lisibilite": "Lisible"
-        },
-        "metadata.authors": {
-            "lisibilite": "Lisible"
-        },
-        "metadata.publisher": {
-            "lisibilite": "Lisible"
-        },
-        "metadata.publication_place": {
-            "lisibilite": "Lisible"
-        },
-        "metadata.date": {
-            "lisibilite": "Non lisible",
-            "cause": "absent"
-        },
-        "langue": {
-            "lisibilite": "Lisible"
-        },
-        "metadata.identifier": {
-            "lisibilite": "Lisible"
-        },
-        "metadata.iiif_manifest": {
-            "lisibilite": "Lisible"
-        },
-        "ark": {
-            "lisibilite": "Lisible"
-        }
+    "metadata.authors": {
+      "readability": "Readable"
+    },
+    "metadata.publisher": {
+      "readability": "Readable"
+    },
+    "metadata.publication_place": {
+      "readability": "Readable"
+    },
+    "metadata.date": {
+      "readability": "Not readable",
+      "cause": "absent"
+    },
+    "language": {
+      "readability": "Readable"
+    },
+    "metadata.identifier": {
+      "readability": "Readable"
+    },
+    "metadata.iiif_manifest": {
+      "readability": "Readable"
+    },
+    "ark": {
+      "readability": "Readable"
     }
+  },
+  "language": "fr (French)"
 }

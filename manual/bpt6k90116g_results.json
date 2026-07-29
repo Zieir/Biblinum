@@ -1,64 +1,58 @@
 {
-    "metadata": {
-        "title": "A DICTIONARY OF APPLIED CHEMISTRY",
-        "title_complement": "",
-        "volume_number": "VOL. II.",
-        "authors": "Edward Thorpe",
-        "publisher": "LONGMANS, GREEN, AND CO.",
-        "publication_place": "LONDON; NEW-YORK; BOMBAY; CALCUTTA; MADRAS",
-        "date": "1921",
-        "identifier": "http://gallica.bnf.fr/ark:/12148/bpt6k90116g",
-        "iiif_manifest": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k90116g/manifest.json"
+  "metadata": {
+    "title": "A DICTIONARY OF APPLIED CHEMISTRY",
+    "title_complement": "",
+    "volume_number": "VOL. II.",
+    "authors": "Edward Thorpe",
+    "publisher": "LONGMANS, GREEN, AND CO.",
+    "publication_place": "LONDON; NEW-YORK; BOMBAY; CALCUTTA; MADRAS",
+    "date": "1921",
+    "identifier": "http://gallica.bnf.fr/ark:/12148/bpt6k90116g",
+    "iiif_manifest": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k90116g/manifest.json"
+  },
+  "ark": "bpt6k90116g",
+  "typographie": {
+    "category": "Serif/Roman",
+    "subtype": "Transitional / Modern"
+  },
+  "_annotations": {
+    "metadata.title": {
+      "readability": "Readable"
     },
-    "langue": "en (English)",
-    "ark": "bpt6k90116g",
-    "typographie_suggestion": {
-        "category": "Serif/Roman",
-        "subtype": "Transitional / Modern",
-        "explanation": "The typeface features a clear contrast between thick and thin strokes with horizontal serifs, characteristic of the \"Modern\" or \"Didone\" influence common in early 20th-century academic publishing.",
-        "raw": "Category: Serif/Roman\nSubtype: Transitional / Modern\nExplanation: The typeface features a clear contrast between thick and thin strokes with horizontal serifs, characteristic of the \"Modern\" or \"Didone\" influence common in early 20th-century academic publishing."
+    "metadata.title_complement": {
+      "readability": "Not readable",
+      "cause": "absent"
     },
-    "typographie": {
-        "category": "Serif/Roman",
-        "subtype": "Transitional / Modern"
+    "metadata.volume_number": {
+      "readability": "Readable"
     },
-    "_annotations": {
-        "metadata.title": {
-            "lisibilite": "Lisible"
-        },
-        "metadata.title_complement": {
-            "lisibilite": "Non lisible",
-            "cause": "absent"
-        },
-        "metadata.volume_number": {
-            "lisibilite": "Lisible"
-        },
-        "metadata.authors": {
-            "lisibilite": "Lisible",
-            "correction": "Edward Thorpe"
-        },
-        "metadata.publisher": {
-            "lisibilite": "Lisible"
-        },
-        "metadata.publication_place": {
-            "lisibilite": "Non lisible",
-            "cause": "qualite",
-            "correction": "LONDON; NEW-YORK; BOMBAY; CALCUTTA; MADRAS"
-        },
-        "metadata.date": {
-            "lisibilite": "Lisible"
-        },
-        "langue": {
-            "lisibilite": "Lisible"
-        },
-        "metadata.identifier": {
-            "lisibilite": "Lisible"
-        },
-        "metadata.iiif_manifest": {
-            "lisibilite": "Lisible"
-        },
-        "ark": {
-            "lisibilite": "Lisible"
-        }
+    "metadata.authors": {
+      "readability": "Readable",
+      "correction": "Edward Thorpe"
+    },
+    "metadata.publisher": {
+      "readability": "Readable"
+    },
+    "metadata.publication_place": {
+      "readability": "Not readable",
+      "cause": "quality",
+      "correction": "LONDON; NEW-YORK; BOMBAY; CALCUTTA; MADRAS"
+    },
+    "metadata.date": {
+      "readability": "Readable"
+    },
+    "language": {
+      "readability": "Readable"
+    },
+    "metadata.identifier": {
+      "readability": "Readable"
+    },
+    "metadata.iiif_manifest": {
+      "readability": "Readable"
+    },
+    "ark": {
+      "readability": "Readable"
     }
+  },
+  "language": "en (English)"
 }

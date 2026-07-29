@@ -1,66 +1,60 @@
 {
-    "metadata": {
-        "title": "CONFÉRENCES Faites au laboratoire de M. FRIEDEL",
-        "title_complement": "1888-1889",
-        "volume_number": "SECOND FASCICULE",
-        "authors": "C. CHABRIÉ; G. PATEIN; V. AUGER; A. BÉHAL; A. COMBES",
-        "publisher": "GEORGES CARRÉ",
-        "publication_place": "Paris",
-        "date": "1891",
-        "identifier": "http://gallica.bnf.fr/ark:/12148/bpt6k90441h",
-        "iiif_manifest": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k90441h/manifest.json"
+  "metadata": {
+    "title": "CONFÉRENCES Faites au laboratoire de M. FRIEDEL",
+    "title_complement": "1888-1889",
+    "volume_number": "SECOND FASCICULE",
+    "authors": "C. CHABRIÉ; G. PATEIN; V. AUGER; A. BÉHAL; A. COMBES",
+    "publisher": "GEORGES CARRÉ",
+    "publication_place": "Paris",
+    "date": "1891",
+    "identifier": "http://gallica.bnf.fr/ark:/12148/bpt6k90441h",
+    "iiif_manifest": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k90441h/manifest.json"
+  },
+  "ark": "bpt6k90441h",
+  "typographie": {
+    "category": "Serif/Roman",
+    "subtype": "Modern (Didone)"
+  },
+  "_annotations": {
+    "metadata.title": {
+      "readability": "Readable",
+      "correction": "CONFÉRENCES Faites au laboratoire de M. FRIEDEL"
     },
-    "langue": "fr (French)",
-    "ark": "bpt6k90441h",
-    "typographie_suggestion": {
-        "category": "Serif/Roman",
-        "subtype": "Modern (Didone)",
-        "explanation": "The typeface features a high contrast between thick and thin strokes, vertical stress, and small, horizontal serifs, which are characteristic of the Modern/Didone style prevalent in 19th-century academic and formal printing.",
-        "raw": "Category: Serif/Roman\nSubtype: Modern (Didone)\nExplanation: The typeface features a high contrast between thick and thin strokes, vertical stress, and small, horizontal serifs, which are characteristic of the Modern/Didone style prevalent in 19th-century academic and formal printing."
+    "metadata.title_complement": {
+      "readability": "Readable",
+      "correction": "1888-1889"
     },
-    "typographie": {
-        "category": "Serif/Roman",
-        "subtype": "Modern (Didone)"
+    "metadata.volume_number": {
+      "readability": "Readable",
+      "correction": "SECOND FASCICULE"
     },
-    "_annotations": {
-        "metadata.title": {
-            "lisibilite": "Lisible",
-            "correction": "CONFÉRENCES Faites au laboratoire de M. FRIEDEL"
-        },
-        "metadata.title_complement": {
-            "lisibilite": "Lisible",
-            "correction": "1888-1889"
-        },
-        "metadata.volume_number": {
-            "lisibilite": "Lisible",
-            "correction": "SECOND FASCICULE"
-        },
-        "metadata.authors": {
-            "lisibilite": "Lisible",
-            "correction": "C. CHABRIÉ; G. PATEIN; V. AUGER; A. BÉHAL; A. COMBES"
-        },
-        "metadata.publisher": {
-            "lisibilite": "Lisible",
-            "correction": "GEORGES CARRÉ"
-        },
-        "metadata.publication_place": {
-            "lisibilite": "Lisible"
-        },
-        "metadata.date": {
-            "lisibilite": "Lisible",
-            "correction": "1891"
-        },
-        "langue": {
-            "lisibilite": "Lisible"
-        },
-        "metadata.identifier": {
-            "lisibilite": "Lisible"
-        },
-        "metadata.iiif_manifest": {
-            "lisibilite": "Lisible"
-        },
-        "ark": {
-            "lisibilite": "Lisible"
-        }
+    "metadata.authors": {
+      "readability": "Readable",
+      "correction": "C. CHABRIÉ; G. PATEIN; V. AUGER; A. BÉHAL; A. COMBES"
+    },
+    "metadata.publisher": {
+      "readability": "Readable",
+      "correction": "GEORGES CARRÉ"
+    },
+    "metadata.publication_place": {
+      "readability": "Readable"
+    },
+    "metadata.date": {
+      "readability": "Readable",
+      "correction": "1891"
+    },
+    "language": {
+      "readability": "Readable"
+    },
+    "metadata.identifier": {
+      "readability": "Readable"
+    },
+    "metadata.iiif_manifest": {
+      "readability": "Readable"
+    },
+    "ark": {
+      "readability": "Readable"
     }
+  },
+  "language": "fr (French)"
 }

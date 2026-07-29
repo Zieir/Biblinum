@@ -1,62 +1,56 @@
 {
-    "metadata": {
-        "title": "Geschichte der Chemie",
-        "title_complement": "",
-        "volume_number": "Vierter Theil",
-        "authors": "Hermann Kopp",
-        "publisher": "Friedrich Vieweg und Sohn",
-        "publication_place": "Braunschweig",
-        "date": "1847",
-        "identifier": "http://gallica.bnf.fr/ark:/12148/bpt6k825203",
-        "iiif_manifest": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k825203/manifest.json"
+  "metadata": {
+    "title": "Geschichte der Chemie",
+    "title_complement": "",
+    "volume_number": "Vierter Theil",
+    "authors": "Hermann Kopp",
+    "publisher": "Friedrich Vieweg und Sohn",
+    "publication_place": "Braunschweig",
+    "date": "1847",
+    "identifier": "http://gallica.bnf.fr/ark:/12148/bpt6k825203",
+    "iiif_manifest": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k825203/manifest.json"
+  },
+  "ark": "bpt6k825203",
+  "typographie": {
+    "category": "Blackletter",
+    "subtype": "Fraktur"
+  },
+  "_annotations": {
+    "metadata.title": {
+      "readability": "Readable"
     },
-    "langue": "de (German)",
-    "ark": "bpt6k825203",
-    "typographie_suggestion": {
-        "category": "Blackletter",
-        "subtype": "Fraktur",
-        "explanation": "The typeface features the characteristic broken strokes, angular forms, and decorative flourishes typical of the Fraktur style, which was the dominant printing type in Germany from the 16th century through the early 20th century.",
-        "raw": "Category: Blackletter\nSubtype: Fraktur\nExplanation: The typeface features the characteristic broken strokes, angular forms, and decorative flourishes typical of the Fraktur style, which was the dominant printing type in Germany from the 16th century through the early 20th century."
+    "metadata.title_complement": {
+      "readability": "Not readable",
+      "cause": "absent"
     },
-    "typographie": {
-        "category": "Blackletter",
-        "subtype": "Fraktur"
+    "metadata.volume_number": {
+      "readability": "Readable"
     },
-    "_annotations": {
-        "metadata.title": {
-            "lisibilite": "Lisible"
-        },
-        "metadata.title_complement": {
-            "lisibilite": "Non lisible",
-            "cause": "absent"
-        },
-        "metadata.volume_number": {
-            "lisibilite": "Lisible"
-        },
-        "metadata.authors": {
-            "lisibilite": "Lisible",
-            "correction": "Hermann Kopp"
-        },
-        "metadata.publisher": {
-            "lisibilite": "Lisible"
-        },
-        "metadata.publication_place": {
-            "lisibilite": "Lisible"
-        },
-        "metadata.date": {
-            "lisibilite": "Lisible"
-        },
-        "langue": {
-            "lisibilite": "Lisible"
-        },
-        "metadata.identifier": {
-            "lisibilite": "Lisible"
-        },
-        "metadata.iiif_manifest": {
-            "lisibilite": "Lisible"
-        },
-        "ark": {
-            "lisibilite": "Lisible"
-        }
+    "metadata.authors": {
+      "readability": "Readable",
+      "correction": "Hermann Kopp"
+    },
+    "metadata.publisher": {
+      "readability": "Readable"
+    },
+    "metadata.publication_place": {
+      "readability": "Readable"
+    },
+    "metadata.date": {
+      "readability": "Readable"
+    },
+    "language": {
+      "readability": "Readable"
+    },
+    "metadata.identifier": {
+      "readability": "Readable"
+    },
+    "metadata.iiif_manifest": {
+      "readability": "Readable"
+    },
+    "ark": {
+      "readability": "Readable"
     }
+  },
+  "language": "de (German)"
 }

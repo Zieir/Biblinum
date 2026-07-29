@@ -1,68 +1,62 @@
 {
-    "metadata": {
-        "title": "TRAITÉ D'ÉLECTRICITÉ ET DE MAGNÉTISME",
-        "title_complement": "",
-        "volume_number": "TOME I",
-        "authors": "J. CLERK MAXWELL",
-        "publisher": "Gauthier-Villars",
-        "publication_place": "Paris",
-        "date": "1885",
-        "identifier": "http://gallica.bnf.fr/ark:/12148/bpt6k919801",
-        "iiif_manifest": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k919801/manifest.json"
+  "metadata": {
+    "title": "TRAITÉ D'ÉLECTRICITÉ ET DE MAGNÉTISME",
+    "title_complement": "",
+    "volume_number": "TOME I",
+    "authors": "J. CLERK MAXWELL",
+    "publisher": "Gauthier-Villars",
+    "publication_place": "Paris",
+    "date": "1885",
+    "identifier": "http://gallica.bnf.fr/ark:/12148/bpt6k919801",
+    "iiif_manifest": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k919801/manifest.json"
+  },
+  "ark": "bpt6k919801",
+  "typographie": {
+    "category": "Serif/Roman",
+    "subtype": "Didone (Modern)"
+  },
+  "_annotations": {
+    "metadata.title": {
+      "readability": "Readable",
+      "correction": "TRAITÉ D'ÉLECTRICITÉ ET DE MAGNÉTISME"
     },
-    "langue": "fr (French)",
-    "ark": "bpt6k919801",
-    "typographie_suggestion": {
-        "category": "Serif/Roman",
-        "subtype": "Didone (Modern)",
-        "explanation": "The main titles (\"D'ÉLECTRICITÉ\" and \"MAGNÉTISME\") exhibit the classic characteristics of the Didone style: a high contrast between thick and thin strokes, vertical stress, and small, unbracketed hair-line serifs. This style was dominant in academic and formal printing during the late 18th and 19th centuries.",
-        "raw": "Category: Serif/Roman\nSubtype: Didone (Modern)\nExplanation: The main titles (\"D'ÉLECTRICITÉ\" and \"MAGNÉTISME\") exhibit the classic characteristics of the Didone style: a high contrast between thick and thin strokes, vertical stress, and small, unbracketed hair-line serifs. This style was dominant in academic and formal printing during the late 18th and 19th centuries."
+    "metadata.title_complement": {
+      "readability": "Not readable",
+      "cause": "absent",
+      "correction": ""
     },
-    "typographie": {
-        "category": "Serif/Roman",
-        "subtype": "Didone (Modern)"
+    "metadata.volume_number": {
+      "readability": "Readable",
+      "correction": "TOME I"
     },
-    "_annotations": {
-        "metadata.title": {
-            "lisibilite": "Lisible",
-            "correction": "TRAITÉ D'ÉLECTRICITÉ ET DE MAGNÉTISME"
-        },
-        "metadata.title_complement": {
-            "lisibilite": "Non lisible",
-            "cause": "absent",
-            "correction": ""
-        },
-        "metadata.volume_number": {
-            "lisibilite": "Lisible",
-            "correction": "TOME I"
-        },
-        "metadata.authors": {
-            "lisibilite": "Lisible",
-            "correction": "J. CLERK MAXWELL"
-        },
-        "metadata.publisher": {
-            "lisibilite": "Lisible",
-            "correction": "Gauthier-Villars"
-        },
-        "metadata.publication_place": {
-            "lisibilite": "Lisible",
-            "correction": "Paris"
-        },
-        "metadata.date": {
-            "lisibilite": "Lisible",
-            "correction": "1885"
-        },
-        "langue": {
-            "lisibilite": "Lisible"
-        },
-        "metadata.identifier": {
-            "lisibilite": "Lisible"
-        },
-        "metadata.iiif_manifest": {
-            "lisibilite": "Lisible"
-        },
-        "ark": {
-            "lisibilite": "Lisible"
-        }
+    "metadata.authors": {
+      "readability": "Readable",
+      "correction": "J. CLERK MAXWELL"
+    },
+    "metadata.publisher": {
+      "readability": "Readable",
+      "correction": "Gauthier-Villars"
+    },
+    "metadata.publication_place": {
+      "readability": "Readable",
+      "correction": "Paris"
+    },
+    "metadata.date": {
+      "readability": "Readable",
+      "correction": "1885"
+    },
+    "language": {
+      "readability": "Readable"
+    },
+    "metadata.identifier": {
+      "readability": "Readable"
+    },
+    "metadata.iiif_manifest": {
+      "readability": "Readable"
+    },
+    "ark": {
+      "readability": "Readable"
     }
+  },
+  "language": "fr (French)"
 }

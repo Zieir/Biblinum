@@ -1,63 +1,57 @@
 {
-    "metadata": {
-        "title": "Ausfürliches Lehrbuch der Chemie",
-        "title_complement": "Die Kohlenwasserstoffe und ihre Derivate oder Organische Chemie",
-        "volume_number": "Fünfter Band, Dritter Theil",
-        "authors": "H.E. Roscoe; C. Schorlemmer; Jul. Wilh. Brühl; Edvard Hjelt; Ossian Aschan",
-        "publisher": "Friedrich Vieweg und Sohn",
-        "publication_place": "Braunschweig",
-        "date": "1896",
-        "identifier": "http://gallica.bnf.fr/ark:/12148/bpt6k90937n",
-        "iiif_manifest": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k90937n/manifest.json"
+  "metadata": {
+    "title": "Ausfürliches Lehrbuch der Chemie",
+    "title_complement": "Die Kohlenwasserstoffe und ihre Derivate oder Organische Chemie",
+    "volume_number": "Fünfter Band, Dritter Theil",
+    "authors": "H.E. Roscoe; C. Schorlemmer; Jul. Wilh. Brühl; Edvard Hjelt; Ossian Aschan",
+    "publisher": "Friedrich Vieweg und Sohn",
+    "publication_place": "Braunschweig",
+    "date": "1896",
+    "identifier": "http://gallica.bnf.fr/ark:/12148/bpt6k90937n",
+    "iiif_manifest": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k90937n/manifest.json"
+  },
+  "ark": "bpt6k90937n",
+  "typographie": {
+    "category": "Serif/Roman",
+    "subtype": "Modern / Didone"
+  },
+  "_annotations": {
+    "metadata.title": {
+      "readability": "Readable"
     },
-    "langue": "de (German)",
-    "ark": "bpt6k90937n",
-    "typographie_suggestion": {
-        "category": "Serif/Roman",
-        "subtype": "Modern / Didone",
-        "explanation": "The typeface features a strong contrast between thick and thin strokes, vertical stress, and fine, horizontal serifs, which are characteristic of the Modern/Didone style common in 19th-century printing.",
-        "raw": "Category: Serif/Roman\nSubtype: Modern / Didone\nExplanation: The typeface features a strong contrast between thick and thin strokes, vertical stress, and fine, horizontal serifs, which are characteristic of the Modern/Didone style common in 19th-century printing."
+    "metadata.title_complement": {
+      "readability": "Readable"
     },
-    "typographie": {
-        "category": "Serif/Roman",
-        "subtype": "Modern / Didone"
+    "metadata.volume_number": {
+      "readability": "Readable",
+      "correction": "Fünfter Band, Dritter Theil"
     },
-    "_annotations": {
-        "metadata.title": {
-            "lisibilite": "Lisible"
-        },
-        "metadata.title_complement": {
-            "lisibilite": "Lisible"
-        },
-        "metadata.volume_number": {
-            "lisibilite": "Lisible",
-            "correction": "Fünfter Band, Dritter Theil"
-        },
-        "metadata.authors": {
-            "lisibilite": "Lisible",
-            "correction": "H.E. Roscoe; C. Schorlemmer; Jul. Wilh. Brühl; Edvard Hjelt; Ossian Aschan"
-        },
-        "metadata.publisher": {
-            "lisibilite": "Lisible"
-        },
-        "metadata.publication_place": {
-            "lisibilite": "Lisible"
-        },
-        "metadata.date": {
-            "lisibilite": "Lisible",
-            "correction": "1896"
-        },
-        "langue": {
-            "lisibilite": "Lisible"
-        },
-        "metadata.identifier": {
-            "lisibilite": "Lisible"
-        },
-        "metadata.iiif_manifest": {
-            "lisibilite": "Lisible"
-        },
-        "ark": {
-            "lisibilite": "Lisible"
-        }
+    "metadata.authors": {
+      "readability": "Readable",
+      "correction": "H.E. Roscoe; C. Schorlemmer; Jul. Wilh. Brühl; Edvard Hjelt; Ossian Aschan"
+    },
+    "metadata.publisher": {
+      "readability": "Readable"
+    },
+    "metadata.publication_place": {
+      "readability": "Readable"
+    },
+    "metadata.date": {
+      "readability": "Readable",
+      "correction": "1896"
+    },
+    "language": {
+      "readability": "Readable"
+    },
+    "metadata.identifier": {
+      "readability": "Readable"
+    },
+    "metadata.iiif_manifest": {
+      "readability": "Readable"
+    },
+    "ark": {
+      "readability": "Readable"
     }
+  },
+  "language": "de (German)"
 }

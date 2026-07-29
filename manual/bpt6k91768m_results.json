@@ -1,66 +1,60 @@
 {
-    "metadata": {
-        "title": "TRAITÉ ÉLÉMENTAIRE DE MÉCANIQUE CHIMIQUE",
-        "title_complement": "fondée sur la thermodynamique",
-        "volume_number": "TOME I",
-        "authors": "P. DUHEM",
-        "publisher": "A. HERMANN",
-        "publication_place": "PARIS",
-        "date": "1897",
-        "identifier": "http://gallica.bnf.fr/ark:/12148/bpt6k91768m",
-        "iiif_manifest": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k91768m/manifest.json"
+  "metadata": {
+    "title": "TRAITÉ ÉLÉMENTAIRE DE MÉCANIQUE CHIMIQUE",
+    "title_complement": "fondée sur la thermodynamique",
+    "volume_number": "TOME I",
+    "authors": "P. DUHEM",
+    "publisher": "A. HERMANN",
+    "publication_place": "PARIS",
+    "date": "1897",
+    "identifier": "http://gallica.bnf.fr/ark:/12148/bpt6k91768m",
+    "iiif_manifest": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k91768m/manifest.json"
+  },
+  "ark": "bpt6k91768m",
+  "typographie": {
+    "category": "Serif/Roman",
+    "subtype": "Didone (Modern)"
+  },
+  "_annotations": {
+    "metadata.title": {
+      "readability": "Readable"
     },
-    "langue": "fr (French)",
-    "ark": "bpt6k91768m",
-    "typographie_suggestion": {
-        "category": "Serif/Roman",
-        "subtype": "Didone (Modern)",
-        "explanation": "The text features the high contrast between thick and thin strokes, vertical stress, and unbracketed, hairline serifs characteristic of the Didone style (similar to Bodoni or Didot), which was prevalent in French academic printing during the late 19th century.",
-        "raw": "Category: Serif/Roman\nSubtype: Didone (Modern)\nExplanation: The text features the high contrast between thick and thin strokes, vertical stress, and unbracketed, hairline serifs characteristic of the Didone style (similar to Bodoni or Didot), which was prevalent in French academic printing during the late 19th century."
+    "metadata.title_complement": {
+      "readability": "Readable",
+      "correction": "fondée sur la thermodynamique"
     },
-    "typographie": {
-        "category": "Serif/Roman",
-        "subtype": "Didone (Modern)"
+    "metadata.volume_number": {
+      "readability": "Readable",
+      "correction": "TOME I"
     },
-    "_annotations": {
-        "metadata.title": {
-            "lisibilite": "Lisible"
-        },
-        "metadata.title_complement": {
-            "lisibilite": "Lisible",
-            "correction": "fondée sur la thermodynamique"
-        },
-        "metadata.volume_number": {
-            "lisibilite": "Lisible",
-            "correction": "TOME I"
-        },
-        "metadata.authors": {
-            "lisibilite": "Lisible",
-            "correction": "P. DUHEM"
-        },
-        "metadata.publisher": {
-            "lisibilite": "Lisible",
-            "correction": "A. HERMANN"
-        },
-        "metadata.publication_place": {
-            "lisibilite": "Lisible",
-            "correction": "PARIS"
-        },
-        "metadata.date": {
-            "lisibilite": "Lisible",
-            "correction": "1897"
-        },
-        "langue": {
-            "lisibilite": "Lisible"
-        },
-        "metadata.identifier": {
-            "lisibilite": "Lisible"
-        },
-        "metadata.iiif_manifest": {
-            "lisibilite": "Lisible"
-        },
-        "ark": {
-            "lisibilite": "Lisible"
-        }
+    "metadata.authors": {
+      "readability": "Readable",
+      "correction": "P. DUHEM"
+    },
+    "metadata.publisher": {
+      "readability": "Readable",
+      "correction": "A. HERMANN"
+    },
+    "metadata.publication_place": {
+      "readability": "Readable",
+      "correction": "PARIS"
+    },
+    "metadata.date": {
+      "readability": "Readable",
+      "correction": "1897"
+    },
+    "language": {
+      "readability": "Readable"
+    },
+    "metadata.identifier": {
+      "readability": "Readable"
+    },
+    "metadata.iiif_manifest": {
+      "readability": "Readable"
+    },
+    "ark": {
+      "readability": "Readable"
     }
+  },
+  "language": "fr (French)"
 }

@@ -1,65 +1,59 @@
 {
-    "metadata": {
-        "title": "ŒUVRES COMPLÈTES D'AUGUSTIN CAUCHY",
-        "title_complement": "",
-        "volume_number": "SÉRIE I TOME III",
-        "authors": "Augustin Cauchy",
-        "publisher": "Gauthier-Villars",
-        "publication_place": "Paris",
-        "date": "1911",
-        "identifier": "http://gallica.bnf.fr/ark:/12148/bpt6k90183m",
-        "iiif_manifest": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k90183m/manifest.json"
+  "metadata": {
+    "title": "ŒUVRES COMPLÈTES D'AUGUSTIN CAUCHY",
+    "title_complement": "",
+    "volume_number": "SÉRIE I TOME III",
+    "authors": "Augustin Cauchy",
+    "publisher": "Gauthier-Villars",
+    "publication_place": "Paris",
+    "date": "1911",
+    "identifier": "http://gallica.bnf.fr/ark:/12148/bpt6k90183m",
+    "iiif_manifest": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k90183m/manifest.json"
+  },
+  "ark": "bpt6k90183m",
+  "typographie": {
+    "category": "Serif/Roman",
+    "subtype": "Didone (Modern)"
+  },
+  "_annotations": {
+    "metadata.title": {
+      "readability": "Readable",
+      "correction": "ŒUVRES COMPLÈTES D'AUGUSTIN CAUCHY"
     },
-    "langue": "fr (French)",
-    "ark": "bpt6k90183m",
-    "typographie_suggestion": {
-        "category": "Serif/Roman",
-        "subtype": "Didone (Modern)",
-        "explanation": "The typeface features the high contrast between thick and thin strokes, vertical stress, and small, unbracketed (hairline) serifs characteristic of the \"Modern\" or Didone style popular in 18th and 19th-century French printing.",
-        "raw": "Category: Serif/Roman\nSubtype: Didone (Modern)\nExplanation: The typeface features the high contrast between thick and thin strokes, vertical stress, and small, unbracketed (hairline) serifs characteristic of the \"Modern\" or Didone style popular in 18th and 19th-century French printing."
+    "metadata.title_complement": {
+      "readability": "Not readable",
+      "cause": "absent",
+      "correction": ""
     },
-    "typographie": {
-        "category": "Serif/Roman",
-        "subtype": "Didone (Modern)"
+    "metadata.volume_number": {
+      "readability": "Readable",
+      "correction": "SÉRIE I TOME III"
     },
-    "_annotations": {
-        "metadata.title": {
-            "lisibilite": "Lisible",
-            "correction": "ŒUVRES COMPLÈTES D'AUGUSTIN CAUCHY"
-        },
-        "metadata.title_complement": {
-            "lisibilite": "Non lisible",
-            "cause": "absent",
-            "correction": ""
-        },
-        "metadata.volume_number": {
-            "lisibilite": "Lisible",
-            "correction": "SÉRIE I TOME III"
-        },
-        "metadata.authors": {
-            "lisibilite": "Lisible",
-            "correction": "Augustin Cauchy"
-        },
-        "metadata.publisher": {
-            "lisibilite": "Lisible"
-        },
-        "metadata.publication_place": {
-            "lisibilite": "Lisible"
-        },
-        "metadata.date": {
-            "lisibilite": "Lisible"
-        },
-        "langue": {
-            "lisibilite": "Lisible"
-        },
-        "metadata.identifier": {
-            "lisibilite": "Lisible"
-        },
-        "metadata.iiif_manifest": {
-            "lisibilite": "Lisible"
-        },
-        "ark": {
-            "lisibilite": "Lisible"
-        }
+    "metadata.authors": {
+      "readability": "Readable",
+      "correction": "Augustin Cauchy"
+    },
+    "metadata.publisher": {
+      "readability": "Readable"
+    },
+    "metadata.publication_place": {
+      "readability": "Readable"
+    },
+    "metadata.date": {
+      "readability": "Readable"
+    },
+    "language": {
+      "readability": "Readable"
+    },
+    "metadata.identifier": {
+      "readability": "Readable"
+    },
+    "metadata.iiif_manifest": {
+      "readability": "Readable"
+    },
+    "ark": {
+      "readability": "Readable"
     }
+  },
+  "language": "fr (French)"
 }

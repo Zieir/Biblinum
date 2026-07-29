@@ -1,66 +1,60 @@
 {
-    "metadata": {
-        "title": "ESSAI SUR L'APPLICATION DE LA CHIMIE",
-        "title_complement": "à l'étude physiologique du sang de l'homme et à l'étude physiologico-pathologique, hygiénique et thérapeutique des maladies de cette humeur : ouvrage présenté à l'Académie des sciences, le 2 janvier 1838 ",
-        "volume_number": "",
-        "authors": "P. S. DENIS",
-        "publisher": "BÈCHET JEUNE",
-        "publication_place": "PARIS",
-        "date": "1838",
-        "identifier": "http://gallica.bnf.fr/ark:/12148/bpt6k91987f",
-        "iiif_manifest": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k91987f/manifest.json"
+  "metadata": {
+    "title": "ESSAI SUR L'APPLICATION DE LA CHIMIE",
+    "title_complement": "à l'étude physiologique du sang de l'homme et à l'étude physiologico-pathologique, hygiénique et thérapeutique des maladies de cette humeur : ouvrage présenté à l'Académie des sciences, le 2 janvier 1838 ",
+    "volume_number": "",
+    "authors": "P. S. DENIS",
+    "publisher": "BÈCHET JEUNE",
+    "publication_place": "PARIS",
+    "date": "1838",
+    "identifier": "http://gallica.bnf.fr/ark:/12148/bpt6k91987f",
+    "iiif_manifest": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k91987f/manifest.json"
+  },
+  "ark": "bpt6k91987f",
+  "typographie": {
+    "category": "Serif/Roman",
+    "subtype": "Didone (Modern)"
+  },
+  "_annotations": {
+    "metadata.title": {
+      "readability": "Readable"
     },
-    "langue": "fr (French)",
-    "ark": "bpt6k91987f",
-    "typographie_suggestion": {
-        "category": "Serif/Roman",
-        "subtype": "Didone (Modern)",
-        "explanation": "The text features the high contrast between thick and thin strokes, vertical stress, and small, horizontal serifs characteristic of the \"Modern\" or Didone style (similar to Bodoni or Didot), which was the standard for formal French printing in the early 19th century.",
-        "raw": "Category: Serif/Roman\nSubtype: Didone (Modern)\nExplanation: The text features the high contrast between thick and thin strokes, vertical stress, and small, horizontal serifs characteristic of the \"Modern\" or Didone style (similar to Bodoni or Didot), which was the standard for formal French printing in the early 19th century."
+    "metadata.title_complement": {
+      "readability": "Readable",
+      "correction": "à l'étude physiologique du sang de l'homme et à l'étude physiologico-pathologique, hygiénique et thérapeutique des maladies de cette humeur : ouvrage présenté à l'Académie des sciences, le 2 janvier 1838 "
     },
-    "typographie": {
-        "category": "Serif/Roman",
-        "subtype": "Didone (Modern)"
+    "metadata.volume_number": {
+      "readability": "Not readable",
+      "cause": "absent"
     },
-    "_annotations": {
-        "metadata.title": {
-            "lisibilite": "Lisible"
-        },
-        "metadata.title_complement": {
-            "lisibilite": "Lisible",
-            "correction": "à l'étude physiologique du sang de l'homme et à l'étude physiologico-pathologique, hygiénique et thérapeutique des maladies de cette humeur : ouvrage présenté à l'Académie des sciences, le 2 janvier 1838 "
-        },
-        "metadata.volume_number": {
-            "lisibilite": "Non lisible",
-            "cause": "absent"
-        },
-        "metadata.authors": {
-            "lisibilite": "Lisible",
-            "correction": "P. S. DENIS"
-        },
-        "metadata.publisher": {
-            "lisibilite": "Lisible",
-            "correction": "BÈCHET JEUNE"
-        },
-        "metadata.publication_place": {
-            "lisibilite": "Lisible",
-            "correction": "PARIS"
-        },
-        "metadata.date": {
-            "lisibilite": "Lisible",
-            "correction": "1838"
-        },
-        "langue": {
-            "lisibilite": "Lisible"
-        },
-        "metadata.identifier": {
-            "lisibilite": "Lisible"
-        },
-        "metadata.iiif_manifest": {
-            "lisibilite": "Lisible"
-        },
-        "ark": {
-            "lisibilite": "Lisible"
-        }
+    "metadata.authors": {
+      "readability": "Readable",
+      "correction": "P. S. DENIS"
+    },
+    "metadata.publisher": {
+      "readability": "Readable",
+      "correction": "BÈCHET JEUNE"
+    },
+    "metadata.publication_place": {
+      "readability": "Readable",
+      "correction": "PARIS"
+    },
+    "metadata.date": {
+      "readability": "Readable",
+      "correction": "1838"
+    },
+    "language": {
+      "readability": "Readable"
+    },
+    "metadata.identifier": {
+      "readability": "Readable"
+    },
+    "metadata.iiif_manifest": {
+      "readability": "Readable"
+    },
+    "ark": {
+      "readability": "Readable"
     }
+  },
+  "language": "fr (French)"
 }

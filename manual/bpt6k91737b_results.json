@@ -1,62 +1,56 @@
 {
-    "metadata": {
-        "title": "COURS DE VERRERIE  professé au Conservatoire national des arts et métiers.",
-        "title_complement": "LA PHYSIQUE THERMIQUE DU VERRE",
-        "volume_number": "DEUXIÈME PARTIE",
-        "authors": "ÉMILIO DAMOUR",
-        "publisher": "LIBRAIRIE POLYTECHNIQUE CH. BÉRANGER",
-        "publication_place": "PARIS ET LIÈGE",
-        "date": "1932",
-        "identifier": "http://gallica.bnf.fr/ark:/12148/bpt6k91737b",
-        "iiif_manifest": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k91737b/manifest.json"
+  "metadata": {
+    "title": "COURS DE VERRERIE  professé au Conservatoire national des arts et métiers.",
+    "title_complement": "LA PHYSIQUE THERMIQUE DU VERRE",
+    "volume_number": "DEUXIÈME PARTIE",
+    "authors": "ÉMILIO DAMOUR",
+    "publisher": "LIBRAIRIE POLYTECHNIQUE CH. BÉRANGER",
+    "publication_place": "PARIS ET LIÈGE",
+    "date": "1932",
+    "identifier": "http://gallica.bnf.fr/ark:/12148/bpt6k91737b",
+    "iiif_manifest": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k91737b/manifest.json"
+  },
+  "ark": "bpt6k91737b",
+  "typographie": {
+    "category": "Serif/Roman",
+    "subtype": "Didone (Modern)"
+  },
+  "_annotations": {
+    "metadata.title": {
+      "readability": "Readable",
+      "correction": "COURS DE VERRERIE  professé au Conservatoire national des arts et métiers."
     },
-    "langue": "fr (French)",
-    "ark": "bpt6k91737b",
-    "typographie_suggestion": {
-        "category": "Serif/Roman",
-        "subtype": "Didone (Modern)",
-        "explanation": "The typeface features the high contrast between thick and thin strokes, vertical stress, and small, unbracketed (hairline) serifs characteristic of the \"Modern\" or Didone style popular in 19th-century academic and formal printing.",
-        "raw": "Category: Serif/Roman\nSubtype: Didone (Modern)\nExplanation: The typeface features the high contrast between thick and thin strokes, vertical stress, and small, unbracketed (hairline) serifs characteristic of the \"Modern\" or Didone style popular in 19th-century academic and formal printing."
+    "metadata.title_complement": {
+      "readability": "Readable"
     },
-    "typographie": {
-        "category": "Serif/Roman",
-        "subtype": "Didone (Modern)"
+    "metadata.volume_number": {
+      "readability": "Readable"
     },
-    "_annotations": {
-        "metadata.title": {
-            "lisibilite": "Lisible",
-            "correction": "COURS DE VERRERIE  professé au Conservatoire national des arts et métiers."
-        },
-        "metadata.title_complement": {
-            "lisibilite": "Lisible"
-        },
-        "metadata.volume_number": {
-            "lisibilite": "Lisible"
-        },
-        "metadata.authors": {
-            "lisibilite": "Lisible",
-            "correction": "ÉMILIO DAMOUR"
-        },
-        "metadata.publisher": {
-            "lisibilite": "Lisible"
-        },
-        "metadata.publication_place": {
-            "lisibilite": "Lisible"
-        },
-        "metadata.date": {
-            "lisibilite": "Lisible"
-        },
-        "langue": {
-            "lisibilite": "Lisible"
-        },
-        "metadata.identifier": {
-            "lisibilite": "Lisible"
-        },
-        "metadata.iiif_manifest": {
-            "lisibilite": "Lisible"
-        },
-        "ark": {
-            "lisibilite": "Lisible"
-        }
+    "metadata.authors": {
+      "readability": "Readable",
+      "correction": "ÉMILIO DAMOUR"
+    },
+    "metadata.publisher": {
+      "readability": "Readable"
+    },
+    "metadata.publication_place": {
+      "readability": "Readable"
+    },
+    "metadata.date": {
+      "readability": "Readable"
+    },
+    "language": {
+      "readability": "Readable"
+    },
+    "metadata.identifier": {
+      "readability": "Readable"
+    },
+    "metadata.iiif_manifest": {
+      "readability": "Readable"
+    },
+    "ark": {
+      "readability": "Readable"
     }
+  },
+  "language": "fr (French)"
 }

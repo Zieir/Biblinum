@@ -1,60 +1,54 @@
 {
-    "metadata": {
-        "title": "COURS DE CHIMIE ORGANIQUE",
-        "title_complement": "SÉRIE GRASSE",
-        "volume_number": "PREMIÈRE PARTIE",
-        "authors": "FRIEDEL",
-        "publisher": "L'ASSOCIATION AMICALE DES ÉLÈVES ET ANCIENS ÉLÈVES DE LA FACULTÉ DES SCIENCES DE PARIS",
-        "publication_place": "PARIS",
-        "date": "1886",
-        "identifier": "http://gallica.bnf.fr/ark:/12148/bpt6k90642d",
-        "iiif_manifest": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k90642d/manifest.json"
+  "metadata": {
+    "title": "COURS DE CHIMIE ORGANIQUE",
+    "title_complement": "SÉRIE GRASSE",
+    "volume_number": "PREMIÈRE PARTIE",
+    "authors": "FRIEDEL",
+    "publisher": "L'ASSOCIATION AMICALE DES ÉLÈVES ET ANCIENS ÉLÈVES DE LA FACULTÉ DES SCIENCES DE PARIS",
+    "publication_place": "PARIS",
+    "date": "1886",
+    "identifier": "http://gallica.bnf.fr/ark:/12148/bpt6k90642d",
+    "iiif_manifest": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k90642d/manifest.json"
+  },
+  "ark": "bpt6k90642d",
+  "typographie": {
+    "category": "Serif/Roman",
+    "subtype": "Slab Serif (Egyptian)"
+  },
+  "_annotations": {
+    "metadata.title": {
+      "readability": "Readable"
     },
-    "langue": "fr (French)",
-    "ark": "bpt6k90642d",
-    "typographie_suggestion": {
-        "category": "Serif/Roman",
-        "subtype": "Slab Serif (Egyptian)",
-        "explanation": "The dominant headings (such as \"COURS\" and \"CHIMIE ORGANIQUE\") feature heavy, block-like serifs with little to no bracketing, which is characteristic of the Slab Serif style popular in 19th-century academic and commercial printing.",
-        "raw": "Category: Serif/Roman\nSubtype: Slab Serif (Egyptian)\nExplanation: The dominant headings (such as \"COURS\" and \"CHIMIE ORGANIQUE\") feature heavy, block-like serifs with little to no bracketing, which is characteristic of the Slab Serif style popular in 19th-century academic and commercial printing."
+    "metadata.title_complement": {
+      "readability": "Readable"
     },
-    "typographie": {
-        "category": "Serif/Roman",
-        "subtype": "Slab Serif (Egyptian)"
+    "metadata.volume_number": {
+      "readability": "Readable"
     },
-    "_annotations": {
-        "metadata.title": {
-            "lisibilite": "Lisible"
-        },
-        "metadata.title_complement": {
-            "lisibilite": "Lisible"
-        },
-        "metadata.volume_number": {
-            "lisibilite": "Lisible"
-        },
-        "metadata.authors": {
-            "lisibilite": "Lisible"
-        },
-        "metadata.publisher": {
-            "lisibilite": "Lisible"
-        },
-        "metadata.publication_place": {
-            "lisibilite": "Lisible"
-        },
-        "metadata.date": {
-            "lisibilite": "Lisible"
-        },
-        "langue": {
-            "lisibilite": "Lisible"
-        },
-        "metadata.identifier": {
-            "lisibilite": "Lisible"
-        },
-        "metadata.iiif_manifest": {
-            "lisibilite": "Lisible"
-        },
-        "ark": {
-            "lisibilite": "Lisible"
-        }
+    "metadata.authors": {
+      "readability": "Readable"
+    },
+    "metadata.publisher": {
+      "readability": "Readable"
+    },
+    "metadata.publication_place": {
+      "readability": "Readable"
+    },
+    "metadata.date": {
+      "readability": "Readable"
+    },
+    "language": {
+      "readability": "Readable"
+    },
+    "metadata.identifier": {
+      "readability": "Readable"
+    },
+    "metadata.iiif_manifest": {
+      "readability": "Readable"
+    },
+    "ark": {
+      "readability": "Readable"
     }
+  },
+  "language": "fr (French)"
 }

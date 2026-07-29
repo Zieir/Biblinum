@@ -1,66 +1,60 @@
 {
-    "metadata": {
-        "title": "Cours de Chimie Analytique",
-        "title_complement": "",
-        "volume_number": "2ème Année",
-        "authors": "Bouis",
-        "publisher": "",
-        "publication_place": "",
-        "date": "1870",
-        "identifier": "http://gallica.bnf.fr/ark:/12148/bpt6k905962",
-        "iiif_manifest": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k905962/manifest.json"
+  "metadata": {
+    "title": "Cours de Chimie Analytique",
+    "title_complement": "",
+    "volume_number": "2ème Année",
+    "authors": "Bouis",
+    "publisher": "",
+    "publication_place": "",
+    "date": "1870",
+    "identifier": "http://gallica.bnf.fr/ark:/12148/bpt6k905962",
+    "iiif_manifest": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k905962/manifest.json"
+  },
+  "ark": "bpt6k905962",
+  "typographie": {
+    "category": "Script",
+    "subtype": "Cursive / Copperplate influence"
+  },
+  "_annotations": {
+    "metadata.title": {
+      "readability": "Readable"
     },
-    "langue": "fr (French)",
-    "ark": "bpt6k905962",
-    "typographie_suggestion": {
-        "category": "Script",
-        "subtype": "Cursive / Copperplate influence",
-        "explanation": "The text is written in a fluid, connected handwriting style characteristic of 19th-century formal penmanship. It features a strong contrast between thick downstrokes and thin upstrokes, as well as decorative flourishes (swashes) on the capital letters, typical of the Copperplate or Spencerian traditions used in academic and official documents of that era.",
-        "raw": "Category: Script\nSubtype: Cursive / Copperplate influence\nExplanation: The text is written in a fluid, connected handwriting style characteristic of 19th-century formal penmanship. It features a strong contrast between thick downstrokes and thin upstrokes, as well as decorative flourishes (swashes) on the capital letters, typical of the Copperplate or Spencerian traditions used in academic and official documents of that era."
+    "metadata.title_complement": {
+      "readability": "Not readable",
+      "cause": "absent"
     },
-    "typographie": {
-        "category": "Script",
-        "subtype": "Cursive / Copperplate influence"
+    "metadata.volume_number": {
+      "readability": "Readable"
     },
-    "_annotations": {
-        "metadata.title": {
-            "lisibilite": "Lisible"
-        },
-        "metadata.title_complement": {
-            "lisibilite": "Non lisible",
-            "cause": "absent"
-        },
-        "metadata.volume_number": {
-            "lisibilite": "Lisible"
-        },
-        "metadata.authors": {
-            "lisibilite": "Lisible",
-            "correction": "Bouis"
-        },
-        "metadata.publisher": {
-            "lisibilite": "Non lisible",
-            "cause": "absent",
-            "correction": ""
-        },
-        "metadata.publication_place": {
-            "lisibilite": "Non lisible",
-            "cause": "absent"
-        },
-        "metadata.date": {
-            "lisibilite": "Lisible",
-            "correction": "1870"
-        },
-        "langue": {
-            "lisibilite": "Lisible"
-        },
-        "metadata.identifier": {
-            "lisibilite": "Lisible"
-        },
-        "metadata.iiif_manifest": {
-            "lisibilite": "Lisible"
-        },
-        "ark": {
-            "lisibilite": "Lisible"
-        }
+    "metadata.authors": {
+      "readability": "Readable",
+      "correction": "Bouis"
+    },
+    "metadata.publisher": {
+      "readability": "Not readable",
+      "cause": "absent",
+      "correction": ""
+    },
+    "metadata.publication_place": {
+      "readability": "Not readable",
+      "cause": "absent"
+    },
+    "metadata.date": {
+      "readability": "Readable",
+      "correction": "1870"
+    },
+    "language": {
+      "readability": "Readable"
+    },
+    "metadata.identifier": {
+      "readability": "Readable"
+    },
+    "metadata.iiif_manifest": {
+      "readability": "Readable"
+    },
+    "ark": {
+      "readability": "Readable"
     }
+  },
+  "language": "fr (French)"
 }

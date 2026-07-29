@@ -1,67 +1,61 @@
 {
-    "metadata": {
-        "title": "Traité élémentaire de Chimie",
-        "title_complement": "Chimie organique",
-        "volume_number": "",
-        "authors": " A. Haller ; P. Th. Muller",
-        "publisher": "GEORGES CARRE & CNAUD",
-        "publication_place": "",
-        "date": "",
-        "identifier": "http://gallica.bnf.fr/ark:/12148/bpt6k90466v",
-        "iiif_manifest": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k90466v/manifest.json"
+  "metadata": {
+    "title": "Traité élémentaire de Chimie",
+    "title_complement": "Chimie organique",
+    "volume_number": "",
+    "authors": " A. Haller ; P. Th. Muller",
+    "publisher": "GEORGES CARRE & CNAUD",
+    "publication_place": "",
+    "date": "",
+    "identifier": "http://gallica.bnf.fr/ark:/12148/bpt6k90466v",
+    "iiif_manifest": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k90466v/manifest.json"
+  },
+  "ark": "bpt6k90466v",
+  "typographie": {
+    "category": "Serif/Roman",
+    "subtype": "Didone (Modern)"
+  },
+  "_annotations": {
+    "metadata.title": {
+      "readability": "Readable",
+      "correction": "Traité élémentaire de Chimie"
     },
-    "langue": "fr (French)",
-    "ark": "bpt6k90466v",
-    "typographie_suggestion": {
-        "category": "Serif/Roman",
-        "subtype": "Didone (Modern)",
-        "explanation": "The typeface features a strong contrast between thick and thin strokes, vertical stress, and thin, horizontal serifs, which are the defining characteristics of the Didone/Modern style (similar to Bodoni or Didot).",
-        "raw": "Category: Serif/Roman\nSubtype: Didone (Modern)\nExplanation: The typeface features a strong contrast between thick and thin strokes, vertical stress, and thin, horizontal serifs, which are the defining characteristics of the Didone/Modern style (similar to Bodoni or Didot)."
+    "metadata.title_complement": {
+      "readability": "Readable",
+      "correction": "Chimie organique"
     },
-    "typographie": {
-        "category": "Serif/Roman",
-        "subtype": "Didone (Modern)"
+    "metadata.volume_number": {
+      "readability": "Not readable",
+      "cause": "absent"
     },
-    "_annotations": {
-        "metadata.title": {
-            "lisibilite": "Lisible",
-            "correction": "Traité élémentaire de Chimie"
-        },
-        "metadata.title_complement": {
-            "lisibilite": "Lisible",
-            "correction": "Chimie organique"
-        },
-        "metadata.volume_number": {
-            "lisibilite": "Non lisible",
-            "cause": "absent"
-        },
-        "metadata.authors": {
-            "lisibilite": "Non lisible",
-            "cause": "qualite",
-            "correction": " A. Haller ; P. Th. Muller"
-        },
-        "metadata.publisher": {
-            "lisibilite": "Lisible"
-        },
-        "metadata.publication_place": {
-            "lisibilite": "Non lisible",
-            "cause": "absent"
-        },
-        "metadata.date": {
-            "lisibilite": "Non lisible",
-            "cause": "absent"
-        },
-        "langue": {
-            "lisibilite": "Lisible"
-        },
-        "metadata.identifier": {
-            "lisibilite": "Lisible"
-        },
-        "metadata.iiif_manifest": {
-            "lisibilite": "Lisible"
-        },
-        "ark": {
-            "lisibilite": "Lisible"
-        }
+    "metadata.authors": {
+      "readability": "Not readable",
+      "cause": "quality",
+      "correction": " A. Haller ; P. Th. Muller"
+    },
+    "metadata.publisher": {
+      "readability": "Readable"
+    },
+    "metadata.publication_place": {
+      "readability": "Not readable",
+      "cause": "absent"
+    },
+    "metadata.date": {
+      "readability": "Not readable",
+      "cause": "absent"
+    },
+    "language": {
+      "readability": "Readable"
+    },
+    "metadata.identifier": {
+      "readability": "Readable"
+    },
+    "metadata.iiif_manifest": {
+      "readability": "Readable"
+    },
+    "ark": {
+      "readability": "Readable"
     }
+  },
+  "language": "fr (French)"
 }

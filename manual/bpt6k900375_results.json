@@ -1,67 +1,61 @@
 {
-    "metadata": {
-        "title": "Les Principes scientifiques de la Chimie analytique",
-        "title_complement": "",
-        "volume_number": "",
-        "authors": "W. Ostwald",
-        "publisher": "C. NAUD",
-        "publication_place": "",
-        "date": "",
-        "identifier": "http://gallica.bnf.fr/ark:/12148/bpt6k900375",
-        "iiif_manifest": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k900375/manifest.json"
+  "metadata": {
+    "title": "Les Principes scientifiques de la Chimie analytique",
+    "title_complement": "",
+    "volume_number": "",
+    "authors": "W. Ostwald",
+    "publisher": "C. NAUD",
+    "publication_place": "",
+    "date": "",
+    "identifier": "http://gallica.bnf.fr/ark:/12148/bpt6k900375",
+    "iiif_manifest": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k900375/manifest.json"
+  },
+  "ark": "bpt6k900375",
+  "typographie": {
+    "category": "Serif/Roman",
+    "subtype": "Didone (Modern)"
+  },
+  "_annotations": {
+    "metadata.title": {
+      "readability": "Readable"
     },
-    "langue": "fr (French)",
-    "ark": "bpt6k900375",
-    "typographie_suggestion": {
-        "category": "Serif/Roman",
-        "subtype": "Didone (Modern)",
-        "explanation": "The typeface features the high contrast between thick and thin strokes, vertical stress, and small, horizontal serifs characteristic of the Didone style (similar to Bodoni or Didot), which was prevalent in academic and formal publishing during the late 19th and early 20th centuries.",
-        "raw": "Category: Serif/Roman\nSubtype: Didone (Modern)\nExplanation: The typeface features the high contrast between thick and thin strokes, vertical stress, and small, horizontal serifs characteristic of the Didone style (similar to Bodoni or Didot), which was prevalent in academic and formal publishing during the late 19th and early 20th centuries."
+    "metadata.title_complement": {
+      "readability": "Not readable",
+      "cause": "absent"
     },
-    "typographie": {
-        "category": "Serif/Roman",
-        "subtype": "Didone (Modern)"
+    "metadata.volume_number": {
+      "readability": "Not readable",
+      "cause": "absent"
     },
-    "_annotations": {
-        "metadata.title": {
-            "lisibilite": "Lisible"
-        },
-        "metadata.title_complement": {
-            "lisibilite": "Non lisible",
-            "cause": "absent"
-        },
-        "metadata.volume_number": {
-            "lisibilite": "Non lisible",
-            "cause": "absent"
-        },
-        "metadata.authors": {
-            "lisibilite": "Lisible",
-            "correction": "W. Ostwald"
-        },
-        "metadata.publisher": {
-            "lisibilite": "Non lisible",
-            "cause": "qualite",
-            "correction": "C. NAUD"
-        },
-        "metadata.publication_place": {
-            "lisibilite": "Non lisible",
-            "cause": "absent"
-        },
-        "metadata.date": {
-            "lisibilite": "Non lisible",
-            "cause": "absent"
-        },
-        "langue": {
-            "lisibilite": "Lisible"
-        },
-        "metadata.identifier": {
-            "lisibilite": "Lisible"
-        },
-        "metadata.iiif_manifest": {
-            "lisibilite": "Lisible"
-        },
-        "ark": {
-            "lisibilite": "Lisible"
-        }
+    "metadata.authors": {
+      "readability": "Readable",
+      "correction": "W. Ostwald"
+    },
+    "metadata.publisher": {
+      "readability": "Not readable",
+      "cause": "quality",
+      "correction": "C. NAUD"
+    },
+    "metadata.publication_place": {
+      "readability": "Not readable",
+      "cause": "absent"
+    },
+    "metadata.date": {
+      "readability": "Not readable",
+      "cause": "absent"
+    },
+    "language": {
+      "readability": "Readable"
+    },
+    "metadata.identifier": {
+      "readability": "Readable"
+    },
+    "metadata.iiif_manifest": {
+      "readability": "Readable"
+    },
+    "ark": {
+      "readability": "Readable"
     }
+  },
+  "language": "fr (French)"
 }

@@ -1,66 +1,60 @@
 {
-    "metadata": {
-        "title": "MÉMOIRE SUR LES COMBINAISONS DE L'ACIDE CHROMIQUE",
-        "title_complement": "AVEC LES CHLORURES MÉTALLIQUES",
-        "volume_number": "",
-        "authors": "Eugène PÉLIGOT",
-        "publisher": "",
-        "publication_place": "Paris",
-        "date": "1833",
-        "identifier": "http://gallica.bnf.fr/ark:/12148/bpt6k900255",
-        "iiif_manifest": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k900255/manifest.json"
+  "metadata": {
+    "title": "MÉMOIRE SUR LES COMBINAISONS DE L'ACIDE CHROMIQUE",
+    "title_complement": "AVEC LES CHLORURES MÉTALLIQUES",
+    "volume_number": "",
+    "authors": "Eugène PÉLIGOT",
+    "publisher": "",
+    "publication_place": "Paris",
+    "date": "1833",
+    "identifier": "http://gallica.bnf.fr/ark:/12148/bpt6k900255",
+    "iiif_manifest": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k900255/manifest.json"
+  },
+  "ark": "bpt6k900255",
+  "typographie": {
+    "category": "Serif/Roman",
+    "subtype": "Modern / Didone"
+  },
+  "_annotations": {
+    "metadata.title": {
+      "readability": "Readable"
     },
-    "langue": "fr (French)",
-    "ark": "bpt6k900255",
-    "typographie_suggestion": {
-        "category": "Serif/Roman",
-        "subtype": "Modern / Didone",
-        "explanation": "The typeface features a strong contrast between thick vertical stems and very thin horizontal hairlines, with flat, unbracketed serifs. This is characteristic of the \"Modern\" style (such as Didot or Bodoni) prevalent in 19th-century academic and scientific printing.",
-        "raw": "Category: Serif/Roman\nSubtype: Modern / Didone\nExplanation: The typeface features a strong contrast between thick vertical stems and very thin horizontal hairlines, with flat, unbracketed serifs. This is characteristic of the \"Modern\" style (such as Didot or Bodoni) prevalent in 19th-century academic and scientific printing."
+    "metadata.title_complement": {
+      "readability": "Readable"
     },
-    "typographie": {
-        "category": "Serif/Roman",
-        "subtype": "Modern / Didone"
+    "metadata.volume_number": {
+      "readability": "Not readable",
+      "cause": "absent"
     },
-    "_annotations": {
-        "metadata.title": {
-            "lisibilite": "Lisible"
-        },
-        "metadata.title_complement": {
-            "lisibilite": "Lisible"
-        },
-        "metadata.volume_number": {
-            "lisibilite": "Non lisible",
-            "cause": "absent"
-        },
-        "metadata.authors": {
-            "lisibilite": "Lisible",
-            "correction": "Eugène PÉLIGOT"
-        },
-        "metadata.publisher": {
-            "lisibilite": "Non lisible",
-            "cause": "absent",
-            "correction": ""
-        },
-        "metadata.publication_place": {
-            "lisibilite": "Lisible"
-        },
-        "metadata.date": {
-            "lisibilite": "Non lisible",
-            "cause": "recouvert",
-            "correction": "1833"
-        },
-        "langue": {
-            "lisibilite": "Lisible"
-        },
-        "metadata.identifier": {
-            "lisibilite": "Lisible"
-        },
-        "metadata.iiif_manifest": {
-            "lisibilite": "Lisible"
-        },
-        "ark": {
-            "lisibilite": "Lisible"
-        }
+    "metadata.authors": {
+      "readability": "Readable",
+      "correction": "Eugène PÉLIGOT"
+    },
+    "metadata.publisher": {
+      "readability": "Not readable",
+      "cause": "absent",
+      "correction": ""
+    },
+    "metadata.publication_place": {
+      "readability": "Readable"
+    },
+    "metadata.date": {
+      "readability": "Not readable",
+      "cause": "covered",
+      "correction": "1833"
+    },
+    "language": {
+      "readability": "Readable"
+    },
+    "metadata.identifier": {
+      "readability": "Readable"
+    },
+    "metadata.iiif_manifest": {
+      "readability": "Readable"
+    },
+    "ark": {
+      "readability": "Readable"
     }
+  },
+  "language": "fr (French)"
 }

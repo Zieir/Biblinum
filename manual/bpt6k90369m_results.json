@@ -1,61 +1,55 @@
 {
-    "metadata": {
-        "title": "LA LUMIÈRE",
-        "title_complement": "SES CAUSES ET SES EFFETS",
-        "volume_number": "TOME SECOND",
-        "authors": "Edmond BECQUEREL",
-        "publisher": "LIBRAIRIE DE FIRMIN DIDOT FRÈRES, FILS ET Cie",
-        "publication_place": "PARIS",
-        "date": "1868",
-        "identifier": "http://gallica.bnf.fr/ark:/12148/bpt6k90369m",
-        "iiif_manifest": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k90369m/manifest.json"
+  "metadata": {
+    "title": "LA LUMIÈRE",
+    "title_complement": "SES CAUSES ET SES EFFETS",
+    "volume_number": "TOME SECOND",
+    "authors": "Edmond BECQUEREL",
+    "publisher": "LIBRAIRIE DE FIRMIN DIDOT FRÈRES, FILS ET Cie",
+    "publication_place": "PARIS",
+    "date": "1868",
+    "identifier": "http://gallica.bnf.fr/ark:/12148/bpt6k90369m",
+    "iiif_manifest": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k90369m/manifest.json"
+  },
+  "ark": "bpt6k90369m",
+  "typographie": {
+    "category": "Serif/Roman",
+    "subtype": "Didone (Modern)"
+  },
+  "_annotations": {
+    "metadata.title": {
+      "readability": "Readable"
     },
-    "langue": "fr (French)",
-    "ark": "bpt6k90369m",
-    "typographie_suggestion": {
-        "category": "Serif/Roman",
-        "subtype": "Didone (Modern)",
-        "explanation": "The typeface features the high contrast between thick and thin strokes, vertical stress, and small, horizontal serifs characteristic of the Didot and Bodoni styles prevalent in 19th-century French printing.",
-        "raw": "Category: Serif/Roman\nSubtype: Didone (Modern)\nExplanation: The typeface features the high contrast between thick and thin strokes, vertical stress, and small, horizontal serifs characteristic of the Didot and Bodoni styles prevalent in 19th-century French printing."
+    "metadata.title_complement": {
+      "readability": "Readable"
     },
-    "typographie": {
-        "category": "Serif/Roman",
-        "subtype": "Didone (Modern)"
+    "metadata.volume_number": {
+      "readability": "Readable"
     },
-    "_annotations": {
-        "metadata.title": {
-            "lisibilite": "Lisible"
-        },
-        "metadata.title_complement": {
-            "lisibilite": "Lisible"
-        },
-        "metadata.volume_number": {
-            "lisibilite": "Lisible"
-        },
-        "metadata.authors": {
-            "lisibilite": "Lisible",
-            "correction": "Edmond BECQUEREL"
-        },
-        "metadata.publisher": {
-            "lisibilite": "Lisible"
-        },
-        "metadata.publication_place": {
-            "lisibilite": "Lisible"
-        },
-        "metadata.date": {
-            "lisibilite": "Lisible"
-        },
-        "langue": {
-            "lisibilite": "Lisible"
-        },
-        "metadata.identifier": {
-            "lisibilite": "Lisible"
-        },
-        "metadata.iiif_manifest": {
-            "lisibilite": "Lisible"
-        },
-        "ark": {
-            "lisibilite": "Lisible"
-        }
+    "metadata.authors": {
+      "readability": "Readable",
+      "correction": "Edmond BECQUEREL"
+    },
+    "metadata.publisher": {
+      "readability": "Readable"
+    },
+    "metadata.publication_place": {
+      "readability": "Readable"
+    },
+    "metadata.date": {
+      "readability": "Readable"
+    },
+    "language": {
+      "readability": "Readable"
+    },
+    "metadata.identifier": {
+      "readability": "Readable"
+    },
+    "metadata.iiif_manifest": {
+      "readability": "Readable"
+    },
+    "ark": {
+      "readability": "Readable"
     }
+  },
+  "language": "fr (French)"
 }

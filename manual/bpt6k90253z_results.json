@@ -1,68 +1,62 @@
 {
-    "metadata": {
-        "title": "LEÇONS DE CHIMIE BIOLOGIQUE NORMALE ET PATHOLOGIQUE",
-        "title_complement": "",
-        "volume_number": "",
-        "authors": "",
-        "publisher": "",
-        "publication_place": "",
-        "date": "",
-        "identifier": "http://gallica.bnf.fr/ark:/12148/bpt6k90253z",
-        "iiif_manifest": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k90253z/manifest.json"
+  "metadata": {
+    "title": "LEÇONS DE CHIMIE BIOLOGIQUE NORMALE ET PATHOLOGIQUE",
+    "title_complement": "",
+    "volume_number": "",
+    "authors": "",
+    "publisher": "",
+    "publication_place": "",
+    "date": "",
+    "identifier": "http://gallica.bnf.fr/ark:/12148/bpt6k90253z",
+    "iiif_manifest": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k90253z/manifest.json"
+  },
+  "ark": "bpt6k90253z",
+  "typographie": {
+    "category": "Serif/Roman",
+    "subtype": "Didone (Modern)"
+  },
+  "_annotations": {
+    "metadata.title": {
+      "readability": "Readable",
+      "correction": "LEÇONS DE CHIMIE BIOLOGIQUE NORMALE ET PATHOLOGIQUE"
     },
-    "langue": "fr (French)",
-    "ark": "bpt6k90253z",
-    "typographie_suggestion": {
-        "category": "Serif/Roman",
-        "subtype": "Didone (Modern)",
-        "explanation": "The main title \"CHIMIE BIOLOGIQUE\" features the high contrast between thick and thin strokes, vertical stress, and small, unbracketed serifs characteristic of the Didone style (similar to Bodoni or Didot), which was prevalent in academic and formal French printing.",
-        "raw": "Category: Serif/Roman\nSubtype: Didone (Modern)\nExplanation: The main title \"CHIMIE BIOLOGIQUE\" features the high contrast between thick and thin strokes, vertical stress, and small, unbracketed serifs characteristic of the Didone style (similar to Bodoni or Didot), which was prevalent in academic and formal French printing."
+    "metadata.title_complement": {
+      "readability": "Not readable",
+      "cause": "absent",
+      "correction": ""
     },
-    "typographie": {
-        "category": "Serif/Roman",
-        "subtype": "Didone (Modern)"
+    "metadata.volume_number": {
+      "readability": "Not readable",
+      "cause": "absent"
     },
-    "_annotations": {
-        "metadata.title": {
-            "lisibilite": "Lisible",
-            "correction": "LEÇONS DE CHIMIE BIOLOGIQUE NORMALE ET PATHOLOGIQUE"
-        },
-        "metadata.title_complement": {
-            "lisibilite": "Non lisible",
-            "cause": "absent",
-            "correction": ""
-        },
-        "metadata.volume_number": {
-            "lisibilite": "Non lisible",
-            "cause": "absent"
-        },
-        "metadata.authors": {
-            "lisibilite": "Non lisible",
-            "cause": "absent"
-        },
-        "metadata.publisher": {
-            "lisibilite": "Non lisible",
-            "cause": "absent"
-        },
-        "metadata.publication_place": {
-            "lisibilite": "Non lisible",
-            "cause": "absent"
-        },
-        "metadata.date": {
-            "lisibilite": "Non lisible",
-            "cause": "absent"
-        },
-        "langue": {
-            "lisibilite": "Lisible"
-        },
-        "metadata.identifier": {
-            "lisibilite": "Lisible"
-        },
-        "metadata.iiif_manifest": {
-            "lisibilite": "Lisible"
-        },
-        "ark": {
-            "lisibilite": "Lisible"
-        }
+    "metadata.authors": {
+      "readability": "Not readable",
+      "cause": "absent"
+    },
+    "metadata.publisher": {
+      "readability": "Not readable",
+      "cause": "absent"
+    },
+    "metadata.publication_place": {
+      "readability": "Not readable",
+      "cause": "absent"
+    },
+    "metadata.date": {
+      "readability": "Not readable",
+      "cause": "absent"
+    },
+    "language": {
+      "readability": "Readable"
+    },
+    "metadata.identifier": {
+      "readability": "Readable"
+    },
+    "metadata.iiif_manifest": {
+      "readability": "Readable"
+    },
+    "ark": {
+      "readability": "Readable"
     }
+  },
+  "language": "fr (French)"
 }

@@ -1,62 +1,56 @@
 {
-    "metadata": {
-        "title": "ЗАПИСКИ О УЗЛОВОЙ ТЕОРІИ",
-        "title_complement": "ХИМИЧЕСКИХЪ СОЕДИНЕНІЙ",
-        "volume_number": "",
-        "authors": "Михаил Николаевич Теплова",
-        "publisher": "Тино-Литографія А. Ф. Маркова",
-        "publication_place": "С.-ПЕТЕРБУРГЪ",
-        "date": "1903",
-        "identifier": "http://gallica.bnf.fr/ark:/12148/bpt6k901274",
-        "iiif_manifest": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k901274/manifest.json"
+  "metadata": {
+    "title": "ЗАПИСКИ О УЗЛОВОЙ ТЕОРІИ",
+    "title_complement": "ХИМИЧЕСКИХЪ СОЕДИНЕНІЙ",
+    "volume_number": "",
+    "authors": "Михаил Николаевич Теплова",
+    "publisher": "Тино-Литографія А. Ф. Маркова",
+    "publication_place": "С.-ПЕТЕРБУРГЪ",
+    "date": "1903",
+    "identifier": "http://gallica.bnf.fr/ark:/12148/bpt6k901274",
+    "iiif_manifest": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k901274/manifest.json"
+  },
+  "ark": "bpt6k901274",
+  "typographie": {
+    "category": "Script",
+    "subtype": "Cursive / Handwriting"
+  },
+  "_annotations": {
+    "metadata.title": {
+      "readability": "Readable"
     },
-    "langue": "ru (Russian)",
-    "ark": "bpt6k901274",
-    "typographie_suggestion": {
-        "category": "Script",
-        "subtype": "Cursive / Handwriting",
-        "explanation": "This is a fluid, connected handwriting style typical of early 20th-century personal correspondence and scholarly annotations.",
-        "raw": "Since the image contains multiple typefaces, I will identify the most prominent ones:\n\n**For the main title (\"ЗАПИСКИ\"):**\nCategory: Display\nSubtype: Inline/Decorative\nExplanation: This is a heavy, stylized display face featuring an \"inline\" or \"engraved\" effect where the center of the strokes is hollowed out.\n\n**For the secondary titles (\"О УЗЛОВОЙ ТЕОРІИ...\"):**\nCategory: Serif/Roman\nSubtype: Slab Serif (Egyptian)\nExplanation: These characters feature thick, block-like serifs of consistent weight, typical of late 19th and early 20th-century industrial and academic printing.\n\n**For the handwritten sections (\"Mémoires en brouillon...\", \"Teploff\"):**\nCategory: Script\nSubtype: Cursive / Handwriting\nExplanation: This is a fluid, connected handwriting style typical of early 20th-century personal correspondence and scholarly annotations."
+    "metadata.title_complement": {
+      "readability": "Readable"
     },
-    "typographie": {
-        "category": "Script",
-        "subtype": "Cursive / Handwriting"
+    "metadata.volume_number": {
+      "readability": "Readable"
     },
-    "_annotations": {
-        "metadata.title": {
-            "lisibilite": "Lisible"
-        },
-        "metadata.title_complement": {
-            "lisibilite": "Lisible"
-        },
-        "metadata.volume_number": {
-            "lisibilite": "Lisible"
-        },
-        "metadata.authors": {
-            "lisibilite": "Lisible",
-            "correction": "Михаил Николаевич Теплова"
-        },
-        "metadata.publisher": {
-            "lisibilite": "Lisible"
-        },
-        "metadata.publication_place": {
-            "lisibilite": "Lisible"
-        },
-        "metadata.date": {
-            "lisibilite": "Lisible"
-        },
-        "langue": {
-            "lisibilite": "Lisible"
-        },
-        "_note": "A revoir",
-        "metadata.identifier": {
-            "lisibilite": "Lisible"
-        },
-        "metadata.iiif_manifest": {
-            "lisibilite": "Lisible"
-        },
-        "ark": {
-            "lisibilite": "Lisible"
-        }
+    "metadata.authors": {
+      "readability": "Readable",
+      "correction": "Михаил Николаевич Теплова"
+    },
+    "metadata.publisher": {
+      "readability": "Readable"
+    },
+    "metadata.publication_place": {
+      "readability": "Readable"
+    },
+    "metadata.date": {
+      "readability": "Readable"
+    },
+    "language": {
+      "readability": "Readable"
+    },
+    "_note": "A revoir",
+    "metadata.identifier": {
+      "readability": "Readable"
+    },
+    "metadata.iiif_manifest": {
+      "readability": "Readable"
+    },
+    "ark": {
+      "readability": "Readable"
     }
+  },
+  "language": "ru (Russian)"
 }

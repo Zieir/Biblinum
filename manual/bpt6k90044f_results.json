@@ -1,66 +1,60 @@
 {
-    "metadata": {
-        "title": "THE PRINCIPLES OF THEORETICAL CHEMISTRY",
-        "title_complement": "WITH SPECIAL REFERENCE TO THE CONSTITUTION OF CHEMICAL COMPOUNDS",
-        "volume_number": "",
-        "authors": "IRA REMSEN",
-        "publisher": "LEA BROTHERS & CO.; BAILLIERE TINDALL & COX.",
-        "publication_place": "PHILADELPHIA; LONDON",
-        "date": "1887",
-        "identifier": "http://gallica.bnf.fr/ark:/12148/bpt6k90044f",
-        "iiif_manifest": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k90044f/manifest.json"
+  "metadata": {
+    "title": "THE PRINCIPLES OF THEORETICAL CHEMISTRY",
+    "title_complement": "WITH SPECIAL REFERENCE TO THE CONSTITUTION OF CHEMICAL COMPOUNDS",
+    "volume_number": "",
+    "authors": "IRA REMSEN",
+    "publisher": "LEA BROTHERS & CO.; BAILLIERE TINDALL & COX.",
+    "publication_place": "PHILADELPHIA; LONDON",
+    "date": "1887",
+    "identifier": "http://gallica.bnf.fr/ark:/12148/bpt6k90044f",
+    "iiif_manifest": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k90044f/manifest.json"
+  },
+  "ark": "bpt6k90044f",
+  "typographie": {
+    "category": "Serif/Roman",
+    "subtype": "Modern (Didone)"
+  },
+  "_annotations": {
+    "metadata.title": {
+      "readability": "Not readable",
+      "cause": "covered",
+      "correction": "THE PRINCIPLES OF THEORETICAL CHEMISTRY"
     },
-    "langue": "en (English)",
-    "ark": "bpt6k90044f",
-    "typographie_suggestion": {
-        "category": "Serif/Roman",
-        "subtype": "Modern (Didone)",
-        "explanation": "The typeface features the high contrast between thick and thin strokes, vertical stress, and small, horizontal serifs characteristic of the Modern/Didone style prevalent in 19th-century academic publishing.",
-        "raw": "Category: Serif/Roman\nSubtype: Modern (Didone)\nExplanation: The typeface features the high contrast between thick and thin strokes, vertical stress, and small, horizontal serifs characteristic of the Modern/Didone style prevalent in 19th-century academic publishing."
+    "metadata.title_complement": {
+      "readability": "Readable"
     },
-    "typographie": {
-        "category": "Serif/Roman",
-        "subtype": "Modern (Didone)"
+    "metadata.volume_number": {
+      "readability": "Not readable",
+      "cause": "absent"
     },
-    "_annotations": {
-        "metadata.title": {
-            "lisibilite": "Non lisible",
-            "cause": "recouvert",
-            "correction": "THE PRINCIPLES OF THEORETICAL CHEMISTRY"
-        },
-        "metadata.title_complement": {
-            "lisibilite": "Lisible"
-        },
-        "metadata.volume_number": {
-            "lisibilite": "Non lisible",
-            "cause": "absent"
-        },
-        "metadata.authors": {
-            "lisibilite": "Lisible",
-            "correction": "IRA REMSEN"
-        },
-        "metadata.publisher": {
-            "lisibilite": "Lisible",
-            "correction": "LEA BROTHERS & CO.; BAILLIERE TINDALL & COX."
-        },
-        "metadata.publication_place": {
-            "lisibilite": "Lisible",
-            "correction": "PHILADELPHIA; LONDON"
-        },
-        "metadata.date": {
-            "lisibilite": "Lisible"
-        },
-        "langue": {
-            "lisibilite": "Lisible"
-        },
-        "metadata.identifier": {
-            "lisibilite": "Lisible"
-        },
-        "metadata.iiif_manifest": {
-            "lisibilite": "Lisible"
-        },
-        "ark": {
-            "lisibilite": "Lisible"
-        }
+    "metadata.authors": {
+      "readability": "Readable",
+      "correction": "IRA REMSEN"
+    },
+    "metadata.publisher": {
+      "readability": "Readable",
+      "correction": "LEA BROTHERS & CO.; BAILLIERE TINDALL & COX."
+    },
+    "metadata.publication_place": {
+      "readability": "Readable",
+      "correction": "PHILADELPHIA; LONDON"
+    },
+    "metadata.date": {
+      "readability": "Readable"
+    },
+    "language": {
+      "readability": "Readable"
+    },
+    "metadata.identifier": {
+      "readability": "Readable"
+    },
+    "metadata.iiif_manifest": {
+      "readability": "Readable"
+    },
+    "ark": {
+      "readability": "Readable"
     }
+  },
+  "language": "en (English)"
 }

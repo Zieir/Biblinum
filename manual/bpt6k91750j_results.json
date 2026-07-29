@@ -1,65 +1,59 @@
 {
-    "metadata": {
-        "title": "RECHERCHES SUR LA NOTION DE L'INDIVIDUALITÉ CHIMIQUE",
-        "title_complement": "A PROPOS DE LA CONSTITUTION DE LA PINACOLINE",
-        "volume_number": "",
-        "authors": "MAURICE DELACRE",
-        "publisher": "HENRY LAMERTIN",
-        "publication_place": "BRUXELLES",
-        "date": "1905",
-        "identifier": "http://gallica.bnf.fr/ark:/12148/bpt6k91750j",
-        "iiif_manifest": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k91750j/manifest.json"
+  "metadata": {
+    "title": "RECHERCHES SUR LA NOTION DE L'INDIVIDUALITÉ CHIMIQUE",
+    "title_complement": "A PROPOS DE LA CONSTITUTION DE LA PINACOLINE",
+    "volume_number": "",
+    "authors": "MAURICE DELACRE",
+    "publisher": "HENRY LAMERTIN",
+    "publication_place": "BRUXELLES",
+    "date": "1905",
+    "identifier": "http://gallica.bnf.fr/ark:/12148/bpt6k91750j",
+    "iiif_manifest": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k91750j/manifest.json"
+  },
+  "ark": "bpt6k91750j",
+  "typographie": {
+    "category": "Serif/Roman",
+    "subtype": "Didone (Modern)"
+  },
+  "_annotations": {
+    "metadata.title": {
+      "readability": "Readable"
     },
-    "langue": "fr (French)",
-    "ark": "bpt6k91750j",
-    "typographie_suggestion": {
-        "category": "Serif/Roman",
-        "subtype": "Didone (Modern)",
-        "explanation": "The typeface features the high contrast between thick and thin strokes, vertical stress, and small, horizontal serifs characteristic of the \"Modern\" or Didone style (similar to Bodoni or Didot), which was standard for academic and formal publishing in the early 20th century.",
-        "raw": "Category: Serif/Roman\nSubtype: Didone (Modern)\nExplanation: The typeface features the high contrast between thick and thin strokes, vertical stress, and small, horizontal serifs characteristic of the \"Modern\" or Didone style (similar to Bodoni or Didot), which was standard for academic and formal publishing in the early 20th century."
+    "metadata.title_complement": {
+      "readability": "Readable"
     },
-    "typographie": {
-        "category": "Serif/Roman",
-        "subtype": "Didone (Modern)"
+    "metadata.volume_number": {
+      "readability": "Not readable",
+      "cause": "absent"
     },
-    "_annotations": {
-        "metadata.title": {
-            "lisibilite": "Lisible"
-        },
-        "metadata.title_complement": {
-            "lisibilite": "Lisible"
-        },
-        "metadata.volume_number": {
-            "lisibilite": "Non lisible",
-            "cause": "absent"
-        },
-        "metadata.authors": {
-            "lisibilite": "Lisible",
-            "correction": "MAURICE DELACRE"
-        },
-        "metadata.publisher": {
-            "lisibilite": "Lisible",
-            "correction": "HENRY LAMERTIN"
-        },
-        "metadata.publication_place": {
-            "lisibilite": "Lisible",
-            "correction": "BRUXELLES"
-        },
-        "metadata.date": {
-            "lisibilite": "Lisible",
-            "correction": "1905"
-        },
-        "langue": {
-            "lisibilite": "Lisible"
-        },
-        "metadata.identifier": {
-            "lisibilite": "Lisible"
-        },
-        "metadata.iiif_manifest": {
-            "lisibilite": "Lisible"
-        },
-        "ark": {
-            "lisibilite": "Lisible"
-        }
+    "metadata.authors": {
+      "readability": "Readable",
+      "correction": "MAURICE DELACRE"
+    },
+    "metadata.publisher": {
+      "readability": "Readable",
+      "correction": "HENRY LAMERTIN"
+    },
+    "metadata.publication_place": {
+      "readability": "Readable",
+      "correction": "BRUXELLES"
+    },
+    "metadata.date": {
+      "readability": "Readable",
+      "correction": "1905"
+    },
+    "language": {
+      "readability": "Readable"
+    },
+    "metadata.identifier": {
+      "readability": "Readable"
+    },
+    "metadata.iiif_manifest": {
+      "readability": "Readable"
+    },
+    "ark": {
+      "readability": "Readable"
     }
+  },
+  "language": "fr (French)"
 }

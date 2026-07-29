@@ -1,68 +1,62 @@
 {
-    "metadata": {
-        "title": "Notice chimique, médicale et topographique sur une nouvelle source d'eau minérale, alcaline, ferrugineuse et gazeuse, acidulée ",
-        "title_complement": "découverte à Vals (Ardèche) ",
-        "volume_number": "",
-        "authors": "Alphonse Dupasquier",
-        "publisher": "impr. de Dumoulin, Ronet et Sibuet",
-        "publication_place": "LYON",
-        "date": "1845",
-        "identifier": "http://gallica.bnf.fr/ark:/12148/bpt6k91990b",
-        "iiif_manifest": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k91990b/manifest.json"
+  "metadata": {
+    "title": "Notice chimique, médicale et topographique sur une nouvelle source d'eau minérale, alcaline, ferrugineuse et gazeuse, acidulée ",
+    "title_complement": "découverte à Vals (Ardèche) ",
+    "volume_number": "",
+    "authors": "Alphonse Dupasquier",
+    "publisher": "impr. de Dumoulin, Ronet et Sibuet",
+    "publication_place": "LYON",
+    "date": "1845",
+    "identifier": "http://gallica.bnf.fr/ark:/12148/bpt6k91990b",
+    "iiif_manifest": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k91990b/manifest.json"
+  },
+  "ark": "bpt6k91990b",
+  "typographie": {
+    "category": "Serif/Roman",
+    "subtype": "Slab Serif (Egyptian)"
+  },
+  "_annotations": {
+    "metadata.title": {
+      "readability": "Readable",
+      "correction": "Notice chimique, médicale et topographique sur une nouvelle source d'eau minérale, alcaline, ferrugineuse et gazeuse, acidulée "
     },
-    "langue": "fr (French)",
-    "ark": "bpt6k91990b",
-    "typographie_suggestion": {
-        "category": "Serif/Roman",
-        "subtype": "Slab Serif (Egyptian)",
-        "explanation": "The typeface features thick, block-like serifs with little to no bracketing between the serif and the stem. This style was highly prevalent in 19th-century printing (the document is dated 1845) for titles and emphasis due to its bold, architectural appearance.",
-        "raw": "Based on the provided image, the dominant typeface used for the main title (\"SOURCE D'EAU\") and the primary body text is as follows:\n\nCategory: Serif/Roman\nSubtype: Slab Serif (Egyptian)\nExplanation: The typeface features thick, block-like serifs with little to no bracketing between the serif and the stem. This style was highly prevalent in 19th-century printing (the document is dated 1845) for titles and emphasis due to its bold, architectural appearance."
+    "metadata.title_complement": {
+      "readability": "Readable",
+      "correction": "découverte à Vals (Ardèche) "
     },
-    "typographie": {
-        "category": "Serif/Roman",
-        "subtype": "Slab Serif (Egyptian)"
+    "metadata.volume_number": {
+      "readability": "Not readable",
+      "cause": "absent"
     },
-    "_annotations": {
-        "metadata.title": {
-            "lisibilite": "Lisible",
-            "correction": "Notice chimique, médicale et topographique sur une nouvelle source d'eau minérale, alcaline, ferrugineuse et gazeuse, acidulée "
-        },
-        "metadata.title_complement": {
-            "lisibilite": "Lisible",
-            "correction": "découverte à Vals (Ardèche) "
-        },
-        "metadata.volume_number": {
-            "lisibilite": "Non lisible",
-            "cause": "absent"
-        },
-        "metadata.authors": {
-            "lisibilite": "Lisible",
-            "correction": "Alphonse Dupasquier"
-        },
-        "metadata.publisher": {
-            "lisibilite": "Lisible",
-            "correction": "impr. de Dumoulin, Ronet et Sibuet"
-        },
-        "metadata.publication_place": {
-            "lisibilite": "Lisible",
-            "correction": "LYON"
-        },
-        "metadata.date": {
-            "lisibilite": "Lisible",
-            "correction": "1845"
-        },
-        "langue": {
-            "lisibilite": "Lisible"
-        },
-        "_note": "TODO",
-        "metadata.identifier": {
-            "lisibilite": "Lisible"
-        },
-        "metadata.iiif_manifest": {
-            "lisibilite": "Lisible"
-        },
-        "ark": {
-            "lisibilite": "Lisible"
-        }
+    "metadata.authors": {
+      "readability": "Readable",
+      "correction": "Alphonse Dupasquier"
+    },
+    "metadata.publisher": {
+      "readability": "Readable",
+      "correction": "impr. de Dumoulin, Ronet et Sibuet"
+    },
+    "metadata.publication_place": {
+      "readability": "Readable",
+      "correction": "LYON"
+    },
+    "metadata.date": {
+      "readability": "Readable",
+      "correction": "1845"
+    },
+    "language": {
+      "readability": "Readable"
+    },
+    "_note": "TODO",
+    "metadata.identifier": {
+      "readability": "Readable"
+    },
+    "metadata.iiif_manifest": {
+      "readability": "Readable"
+    },
+    "ark": {
+      "readability": "Readable"
     }
+  },
+  "language": "fr (French)"
 }

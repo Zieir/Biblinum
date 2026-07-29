@@ -1,65 +1,59 @@
 {
-    "metadata": {
-        "title": "ŒUVRES de Charles Hermite",
-        "title_complement": "",
-        "volume_number": "TOME II",
-        "authors": "Charles HERMITE",
-        "publisher": "GAUTHIER-VILLARS",
-        "publication_place": "PARIS",
-        "date": "1908",
-        "identifier": "http://gallica.bnf.fr/ark:/12148/bpt6k90219s",
-        "iiif_manifest": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k90219s/manifest.json"
+  "metadata": {
+    "title": "ŒUVRES de Charles Hermite",
+    "title_complement": "",
+    "volume_number": "TOME II",
+    "authors": "Charles HERMITE",
+    "publisher": "GAUTHIER-VILLARS",
+    "publication_place": "PARIS",
+    "date": "1908",
+    "identifier": "http://gallica.bnf.fr/ark:/12148/bpt6k90219s",
+    "iiif_manifest": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k90219s/manifest.json"
+  },
+  "ark": "bpt6k90219s",
+  "typographie": {
+    "category": "Serif/Roman",
+    "subtype": "Didone (Modern)"
+  },
+  "_annotations": {
+    "metadata.title": {
+      "readability": "Readable",
+      "correction": "ŒUVRES de Charles Hermite"
     },
-    "langue": "fr (French)",
-    "ark": "bpt6k90219s",
-    "typographie_suggestion": {
-        "category": "Serif/Roman",
-        "subtype": "Didone (Modern)",
-        "explanation": "The primary text features the high contrast between thick and thin strokes and vertical stress characteristic of the Didone style (similar to Bodoni or Didot), which was the standard for formal French publishing in the 19th century.",
-        "raw": "Category: Serif/Roman\nSubtype: Didone (Modern)\nExplanation: The primary text features the high contrast between thick and thin strokes and vertical stress characteristic of the Didone style (similar to Bodoni or Didot), which was the standard for formal French publishing in the 19th century."
+    "metadata.title_complement": {
+      "readability": "Not readable",
+      "cause": "absent",
+      "correction": ""
     },
-    "typographie": {
-        "category": "Serif/Roman",
-        "subtype": "Didone (Modern)"
+    "metadata.volume_number": {
+      "readability": "Readable"
     },
-    "_annotations": {
-        "metadata.title": {
-            "lisibilite": "Lisible",
-            "correction": "ŒUVRES de Charles Hermite"
-        },
-        "metadata.title_complement": {
-            "lisibilite": "Non lisible",
-            "cause": "absent",
-            "correction": ""
-        },
-        "metadata.volume_number": {
-            "lisibilite": "Lisible"
-        },
-        "metadata.authors": {
-            "lisibilite": "Lisible",
-            "correction": "Charles HERMITE"
-        },
-        "metadata.publisher": {
-            "lisibilite": "Lisible"
-        },
-        "metadata.publication_place": {
-            "lisibilite": "Lisible"
-        },
-        "metadata.date": {
-            "lisibilite": "Non lisible",
-            "cause": "qualite"
-        },
-        "langue": {
-            "lisibilite": "Lisible"
-        },
-        "metadata.identifier": {
-            "lisibilite": "Lisible"
-        },
-        "metadata.iiif_manifest": {
-            "lisibilite": "Lisible"
-        },
-        "ark": {
-            "lisibilite": "Lisible"
-        }
+    "metadata.authors": {
+      "readability": "Readable",
+      "correction": "Charles HERMITE"
+    },
+    "metadata.publisher": {
+      "readability": "Readable"
+    },
+    "metadata.publication_place": {
+      "readability": "Readable"
+    },
+    "metadata.date": {
+      "readability": "Not readable",
+      "cause": "quality"
+    },
+    "language": {
+      "readability": "Readable"
+    },
+    "metadata.identifier": {
+      "readability": "Readable"
+    },
+    "metadata.iiif_manifest": {
+      "readability": "Readable"
+    },
+    "ark": {
+      "readability": "Readable"
     }
+  },
+  "language": "fr (French)"
 }

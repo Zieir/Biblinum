@@ -1,66 +1,60 @@
 {
-    "metadata": {
-        "title": "ON THE VISCOSITY OF GASES AT HIGH EXHAUSTIONS",
-        "title_complement": "",
-        "volume_number": "PART II",
-        "authors": "WILLIAM CROOKES",
-        "publisher": "",
-        "publication_place": "",
-        "date": "1881",
-        "identifier": "http://gallica.bnf.fr/ark:/12148/bpt6k91732m",
-        "iiif_manifest": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k91732m/manifest.json"
+  "metadata": {
+    "title": "ON THE VISCOSITY OF GASES AT HIGH EXHAUSTIONS",
+    "title_complement": "",
+    "volume_number": "PART II",
+    "authors": "WILLIAM CROOKES",
+    "publisher": "",
+    "publication_place": "",
+    "date": "1881",
+    "identifier": "http://gallica.bnf.fr/ark:/12148/bpt6k91732m",
+    "iiif_manifest": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k91732m/manifest.json"
+  },
+  "ark": "bpt6k91732m",
+  "typographie": {
+    "category": "Serif/Roman",
+    "subtype": "Modern / Didone"
+  },
+  "_annotations": {
+    "metadata.title": {
+      "readability": "Readable",
+      "correction": "ON THE VISCOSITY OF GASES AT HIGH EXHAUSTIONS"
     },
-    "langue": "en (English)",
-    "ark": "bpt6k91732m",
-    "typographie_suggestion": {
-        "category": "Serif/Roman",
-        "subtype": "Modern / Didone",
-        "explanation": "The typeface features a strong contrast between thick and thin strokes, vertical stress, and thin, horizontal serifs, which are characteristic of the \"Modern\" style (such as Bodoni or Didot) prevalent in 19th-century academic and scientific printing.",
-        "raw": "Based on the primary printed text (e.g., \"VISCOSITY OF GASES AT HIGH EXHAUSTIONS\"), here is the identification:\n\nCategory: Serif/Roman\nSubtype: Modern / Didone\nExplanation: The typeface features a strong contrast between thick and thin strokes, vertical stress, and thin, horizontal serifs, which are characteristic of the \"Modern\" style (such as Bodoni or Didot) prevalent in 19th-century academic and scientific printing."
+    "metadata.title_complement": {
+      "readability": "Not readable",
+      "cause": "absent"
     },
-    "typographie": {
-        "category": "Serif/Roman",
-        "subtype": "Modern / Didone"
+    "metadata.volume_number": {
+      "readability": "Readable"
     },
-    "_annotations": {
-        "metadata.title": {
-            "lisibilite": "Lisible",
-            "correction": "ON THE VISCOSITY OF GASES AT HIGH EXHAUSTIONS"
-        },
-        "metadata.title_complement": {
-            "lisibilite": "Non lisible",
-            "cause": "absent"
-        },
-        "metadata.volume_number": {
-            "lisibilite": "Lisible"
-        },
-        "metadata.authors": {
-            "lisibilite": "Lisible",
-            "correction": "WILLIAM CROOKES"
-        },
-        "metadata.publisher": {
-            "lisibilite": "Non lisible",
-            "cause": "absent",
-            "correction": ""
-        },
-        "metadata.publication_place": {
-            "lisibilite": "Non lisible",
-            "cause": "absent"
-        },
-        "metadata.date": {
-            "lisibilite": "Lisible"
-        },
-        "langue": {
-            "lisibilite": "Lisible"
-        },
-        "metadata.identifier": {
-            "lisibilite": "Lisible"
-        },
-        "metadata.iiif_manifest": {
-            "lisibilite": "Lisible"
-        },
-        "ark": {
-            "lisibilite": "Lisible"
-        }
+    "metadata.authors": {
+      "readability": "Readable",
+      "correction": "WILLIAM CROOKES"
+    },
+    "metadata.publisher": {
+      "readability": "Not readable",
+      "cause": "absent",
+      "correction": ""
+    },
+    "metadata.publication_place": {
+      "readability": "Not readable",
+      "cause": "absent"
+    },
+    "metadata.date": {
+      "readability": "Readable"
+    },
+    "language": {
+      "readability": "Readable"
+    },
+    "metadata.identifier": {
+      "readability": "Readable"
+    },
+    "metadata.iiif_manifest": {
+      "readability": "Readable"
+    },
+    "ark": {
+      "readability": "Readable"
     }
+  },
+  "language": "en (English)"
 }

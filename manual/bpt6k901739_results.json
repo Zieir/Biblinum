@@ -1,66 +1,60 @@
 {
-    "metadata": {
-        "title": "Handbook to the special loan collection of scientific apparatus 1876",
-        "title_complement": "Prepared at the request of the Lords of the Committee of Council on Education, and Published for them",
-        "volume_number": "",
-        "authors": "South Kensington museum ",
-        "publisher": "Chapman & Hall",
-        "publication_place": "",
-        "date": "1876",
-        "identifier": "http://gallica.bnf.fr/ark:/12148/bpt6k901739",
-        "iiif_manifest": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k901739/manifest.json"
+  "metadata": {
+    "title": "Handbook to the special loan collection of scientific apparatus 1876",
+    "title_complement": "Prepared at the request of the Lords of the Committee of Council on Education, and Published for them",
+    "volume_number": "",
+    "authors": "South Kensington museum ",
+    "publisher": "Chapman & Hall",
+    "publication_place": "",
+    "date": "1876",
+    "identifier": "http://gallica.bnf.fr/ark:/12148/bpt6k901739",
+    "iiif_manifest": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k901739/manifest.json"
+  },
+  "ark": "bpt6k901739",
+  "typographie": {
+    "category": "Serif/Roman",
+    "subtype": "Modern / Didone"
+  },
+  "_annotations": {
+    "metadata.title": {
+      "readability": "Readable",
+      "correction": "Handbook to the special loan collection of scientific apparatus 1876"
     },
-    "langue": "en (English)",
-    "ark": "bpt6k901739",
-    "typographie_suggestion": {
-        "category": "Serif/Roman",
-        "subtype": "Modern / Didone",
-        "explanation": "The typeface features a high contrast between thick and thin strokes, vertical stress, and thin, horizontal serifs, which are characteristic of the \"Modern\" style (such as Bodoni or Didot) prevalent in 19th-century formal printing.",
-        "raw": "Category: Serif/Roman\nSubtype: Modern / Didone\nExplanation: The typeface features a high contrast between thick and thin strokes, vertical stress, and thin, horizontal serifs, which are characteristic of the \"Modern\" style (such as Bodoni or Didot) prevalent in 19th-century formal printing."
+    "metadata.title_complement": {
+      "readability": "Readable",
+      "correction": "Prepared at the request of the Lords of the Committee of Council on Education, and Published for them"
     },
-    "typographie": {
-        "category": "Serif/Roman",
-        "subtype": "Modern / Didone"
+    "metadata.volume_number": {
+      "readability": "Not readable",
+      "cause": "absent"
     },
-    "_annotations": {
-        "metadata.title": {
-            "lisibilite": "Lisible",
-            "correction": "Handbook to the special loan collection of scientific apparatus 1876"
-        },
-        "metadata.title_complement": {
-            "lisibilite": "Lisible",
-            "correction": "Prepared at the request of the Lords of the Committee of Council on Education, and Published for them"
-        },
-        "metadata.volume_number": {
-            "lisibilite": "Non lisible",
-            "cause": "absent"
-        },
-        "metadata.authors": {
-            "lisibilite": "Lisible",
-            "correction": "South Kensington museum "
-        },
-        "metadata.publisher": {
-            "lisibilite": "Lisible",
-            "correction": "Chapman & Hall"
-        },
-        "metadata.publication_place": {
-            "lisibilite": "Non lisible",
-            "cause": "absent"
-        },
-        "metadata.date": {
-            "lisibilite": "Lisible"
-        },
-        "langue": {
-            "lisibilite": "Lisible"
-        },
-        "metadata.identifier": {
-            "lisibilite": "Lisible"
-        },
-        "metadata.iiif_manifest": {
-            "lisibilite": "Lisible"
-        },
-        "ark": {
-            "lisibilite": "Lisible"
-        }
+    "metadata.authors": {
+      "readability": "Readable",
+      "correction": "South Kensington museum "
+    },
+    "metadata.publisher": {
+      "readability": "Readable",
+      "correction": "Chapman & Hall"
+    },
+    "metadata.publication_place": {
+      "readability": "Not readable",
+      "cause": "absent"
+    },
+    "metadata.date": {
+      "readability": "Readable"
+    },
+    "language": {
+      "readability": "Readable"
+    },
+    "metadata.identifier": {
+      "readability": "Readable"
+    },
+    "metadata.iiif_manifest": {
+      "readability": "Readable"
+    },
+    "ark": {
+      "readability": "Readable"
     }
+  },
+  "language": "en (English)"
 }

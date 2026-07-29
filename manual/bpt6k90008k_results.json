@@ -1,69 +1,63 @@
 {
-    "metadata": {
-        "title": "NOTICE SUR LES TITRES et TRAVAUX SCIENTIFIQUES",
-        "title_complement": "",
-        "volume_number": "",
-        "authors": "Emile PERROT",
-        "publisher": "imprimrie et lithographie Lucien Declume",
-        "publication_place": "LONS-LESSAUNIER",
-        "date": "1902",
-        "identifier": "http://gallica.bnf.fr/ark:/12148/bpt6k90008k",
-        "iiif_manifest": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k90008k/manifest.json"
+  "metadata": {
+    "title": "NOTICE SUR LES TITRES et TRAVAUX SCIENTIFIQUES",
+    "title_complement": "",
+    "volume_number": "",
+    "authors": "Emile PERROT",
+    "publisher": "imprimrie et lithographie Lucien Declume",
+    "publication_place": "LONS-LESSAUNIER",
+    "date": "1902",
+    "identifier": "http://gallica.bnf.fr/ark:/12148/bpt6k90008k",
+    "iiif_manifest": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k90008k/manifest.json"
+  },
+  "ark": "bpt6k90008k",
+  "typographie": {
+    "category": "Serif/Roman",
+    "subtype": "Didone (Modern)"
+  },
+  "_annotations": {
+    "metadata.title": {
+      "readability": "Readable",
+      "correction": "NOTICE SUR LES TITRES et TRAVAUX SCIENTIFIQUES"
     },
-    "langue": "fr (French)",
-    "ark": "bpt6k90008k",
-    "typographie_suggestion": {
-        "category": "Serif/Roman",
-        "subtype": "Didone (Modern)",
-        "explanation": "The typeface features a strong contrast between thick and thin strokes, vertical stress, and thin, horizontal serifs, which are the defining characteristics of the Didone style (similar to Bodoni or Didot), commonly used in formal French publications of the 19th century.",
-        "raw": "Category: Serif/Roman\nSubtype: Didone (Modern)\nExplanation: The typeface features a strong contrast between thick and thin strokes, vertical stress, and thin, horizontal serifs, which are the defining characteristics of the Didone style (similar to Bodoni or Didot), commonly used in formal French publications of the 19th century."
+    "metadata.title_complement": {
+      "readability": "Readable",
+      "correction": ""
     },
-    "typographie": {
-        "category": "Serif/Roman",
-        "subtype": "Didone (Modern)"
+    "metadata.volume_number": {
+      "readability": "Not readable",
+      "cause": "absent"
     },
-    "_annotations": {
-        "metadata.title": {
-            "lisibilite": "Lisible",
-            "correction": "NOTICE SUR LES TITRES et TRAVAUX SCIENTIFIQUES"
-        },
-        "metadata.title_complement": {
-            "lisibilite": "Lisible",
-            "correction": ""
-        },
-        "metadata.volume_number": {
-            "lisibilite": "Non lisible",
-            "cause": "absent"
-        },
-        "metadata.authors": {
-            "lisibilite": "Lisible",
-            "correction": "Emile PERROT"
-        },
-        "metadata.publisher": {
-            "lisibilite": "Non lisible",
-            "cause": "qualite",
-            "correction": "imprimrie et lithographie Lucien Declume"
-        },
-        "metadata.publication_place": {
-            "lisibilite": "Lisible",
-            "correction": "LONS-LESSAUNIER"
-        },
-        "metadata.date": {
-            "lisibilite": "Non lisible",
-            "cause": "qualite",
-            "correction": "1902"
-        },
-        "langue": {
-            "lisibilite": "Lisible"
-        },
-        "metadata.identifier": {
-            "lisibilite": "Lisible"
-        },
-        "metadata.iiif_manifest": {
-            "lisibilite": "Lisible"
-        },
-        "ark": {
-            "lisibilite": "Lisible"
-        }
+    "metadata.authors": {
+      "readability": "Readable",
+      "correction": "Emile PERROT"
+    },
+    "metadata.publisher": {
+      "readability": "Not readable",
+      "cause": "quality",
+      "correction": "imprimrie et lithographie Lucien Declume"
+    },
+    "metadata.publication_place": {
+      "readability": "Readable",
+      "correction": "LONS-LESSAUNIER"
+    },
+    "metadata.date": {
+      "readability": "Not readable",
+      "cause": "quality",
+      "correction": "1902"
+    },
+    "language": {
+      "readability": "Readable"
+    },
+    "metadata.identifier": {
+      "readability": "Readable"
+    },
+    "metadata.iiif_manifest": {
+      "readability": "Readable"
+    },
+    "ark": {
+      "readability": "Readable"
     }
+  },
+  "language": "fr (French)"
 }

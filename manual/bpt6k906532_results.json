@@ -1,61 +1,55 @@
 {
-    "metadata": {
-        "title": "CHEMICAL RECREATIONS",
-        "title_complement": "A Popular Manual of Experimental Chemistry",
-        "volume_number": "SECOND DIVISION",
-        "authors": "John Joseph GRIFFIN",
-        "publisher": "John Joseph Griffin and Richard Griffin and Co.",
-        "publication_place": "London",
-        "date": "1860",
-        "identifier": "http://gallica.bnf.fr/ark:/12148/bpt6k906532",
-        "iiif_manifest": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k906532/manifest.json"
+  "metadata": {
+    "title": "CHEMICAL RECREATIONS",
+    "title_complement": "A Popular Manual of Experimental Chemistry",
+    "volume_number": "SECOND DIVISION",
+    "authors": "John Joseph GRIFFIN",
+    "publisher": "John Joseph Griffin and Richard Griffin and Co.",
+    "publication_place": "London",
+    "date": "1860",
+    "identifier": "http://gallica.bnf.fr/ark:/12148/bpt6k906532",
+    "iiif_manifest": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k906532/manifest.json"
+  },
+  "ark": "bpt6k906532",
+  "typographie": {
+    "category": "Blackletter",
+    "subtype": "Fraktur"
+  },
+  "_annotations": {
+    "metadata.title": {
+      "readability": "Readable"
     },
-    "langue": "en (English)",
-    "ark": "bpt6k906532",
-    "typographie_suggestion": {
-        "category": "Blackletter",
-        "subtype": "Fraktur",
-        "explanation": "This specific line uses a broken-script style with decorative, angular flourishes typical of German-influenced Fraktur typefaces.",
-        "raw": "Since the image contains multiple typefaces, I will identify the two most prominent styles used:\n\n**Primary Text (Main Titles/Body):**\nCategory: Serif/Roman\nSubtype: Modern/Didone\nExplanation: The text features a high contrast between thick and thin strokes with horizontal, hairline serifs, characteristic of the 19th-century \"Modern\" style.\n\n**Secondary Text (\"A Popular Manual\"):**\nCategory: Blackletter\nSubtype: Fraktur\nExplanation: This specific line uses a broken-script style with decorative, angular flourishes typical of German-influenced Fraktur typefaces."
+    "metadata.title_complement": {
+      "readability": "Readable"
     },
-    "typographie": {
-        "category": "Blackletter",
-        "subtype": "Fraktur"
+    "metadata.volume_number": {
+      "readability": "Readable"
     },
-    "_annotations": {
-        "metadata.title": {
-            "lisibilite": "Lisible"
-        },
-        "metadata.title_complement": {
-            "lisibilite": "Lisible"
-        },
-        "metadata.volume_number": {
-            "lisibilite": "Lisible"
-        },
-        "metadata.authors": {
-            "lisibilite": "Lisible",
-            "correction": "John Joseph GRIFFIN"
-        },
-        "metadata.publisher": {
-            "lisibilite": "Lisible"
-        },
-        "metadata.publication_place": {
-            "lisibilite": "Lisible"
-        },
-        "metadata.date": {
-            "lisibilite": "Lisible"
-        },
-        "langue": {
-            "lisibilite": "Lisible"
-        },
-        "metadata.identifier": {
-            "lisibilite": "Lisible"
-        },
-        "metadata.iiif_manifest": {
-            "lisibilite": "Lisible"
-        },
-        "ark": {
-            "lisibilite": "Lisible"
-        }
+    "metadata.authors": {
+      "readability": "Readable",
+      "correction": "John Joseph GRIFFIN"
+    },
+    "metadata.publisher": {
+      "readability": "Readable"
+    },
+    "metadata.publication_place": {
+      "readability": "Readable"
+    },
+    "metadata.date": {
+      "readability": "Readable"
+    },
+    "language": {
+      "readability": "Readable"
+    },
+    "metadata.identifier": {
+      "readability": "Readable"
+    },
+    "metadata.iiif_manifest": {
+      "readability": "Readable"
+    },
+    "ark": {
+      "readability": "Readable"
     }
+  },
+  "language": "en (English)"
 }

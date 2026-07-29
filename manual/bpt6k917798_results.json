@@ -1,68 +1,62 @@
 {
-    "metadata": {
-        "title": "MÉMOIRE SUR LES VOLUMES MOLÉCULAIRES DES LIQUIDES",
-        "title_complement": "remarques sur un Mémoire de M. Bartoli publ. dans Les annales de chimie et de physique, 6e série, mars 1886",
-        "volume_number": "",
-        "authors": "Hermann KOPP",
-        "publisher": "C. Winter; Haar et Steinert",
-        "publication_place": "Heidelberg; Paris",
-        "date": "1886",
-        "identifier": "http://gallica.bnf.fr/ark:/12148/bpt6k917798",
-        "iiif_manifest": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k917798/manifest.json"
+  "metadata": {
+    "title": "MÉMOIRE SUR LES VOLUMES MOLÉCULAIRES DES LIQUIDES",
+    "title_complement": "remarques sur un Mémoire de M. Bartoli publ. dans Les annales de chimie et de physique, 6e série, mars 1886",
+    "volume_number": "",
+    "authors": "Hermann KOPP",
+    "publisher": "C. Winter; Haar et Steinert",
+    "publication_place": "Heidelberg; Paris",
+    "date": "1886",
+    "identifier": "http://gallica.bnf.fr/ark:/12148/bpt6k917798",
+    "iiif_manifest": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k917798/manifest.json"
+  },
+  "ark": "bpt6k917798",
+  "typographie": {
+    "category": "Serif/Roman",
+    "subtype": "Didone (Modern)"
+  },
+  "_annotations": {
+    "metadata.title": {
+      "readability": "Not readable",
+      "cause": "quality",
+      "correction": "MÉMOIRE SUR LES VOLUMES MOLÉCULAIRES DES LIQUIDES"
     },
-    "langue": "fr (French)",
-    "ark": "bpt6k917798",
-    "typographie_suggestion": {
-        "category": "Serif/Roman",
-        "subtype": "Didone (Modern)",
-        "explanation": "The typeface features a strong contrast between thick and thin strokes, vertical stress, and thin, horizontal serifs, which are the defining characteristics of the Didone style (similar to Bodoni or Didot), common in academic and formal printing of the 19th century.",
-        "raw": "Category: Serif/Roman\nSubtype: Didone (Modern)\nExplanation: The typeface features a strong contrast between thick and thin strokes, vertical stress, and thin, horizontal serifs, which are the defining characteristics of the Didone style (similar to Bodoni or Didot), common in academic and formal printing of the 19th century."
+    "metadata.title_complement": {
+      "readability": "Not readable",
+      "cause": "quality",
+      "correction": "remarques sur un Mémoire de M. Bartoli publ. dans Les annales de chimie et de physique, 6e série, mars 1886"
     },
-    "typographie": {
-        "category": "Serif/Roman",
-        "subtype": "Didone (Modern)"
+    "metadata.volume_number": {
+      "readability": "Not readable",
+      "cause": "absent"
     },
-    "_annotations": {
-        "metadata.title": {
-            "lisibilite": "Non lisible",
-            "cause": "qualite",
-            "correction": "MÉMOIRE SUR LES VOLUMES MOLÉCULAIRES DES LIQUIDES"
-        },
-        "metadata.title_complement": {
-            "lisibilite": "Non lisible",
-            "cause": "qualite",
-            "correction": "remarques sur un Mémoire de M. Bartoli publ. dans Les annales de chimie et de physique, 6e série, mars 1886"
-        },
-        "metadata.volume_number": {
-            "lisibilite": "Non lisible",
-            "cause": "absent"
-        },
-        "metadata.authors": {
-            "lisibilite": "Lisible",
-            "correction": "Hermann KOPP"
-        },
-        "metadata.publisher": {
-            "lisibilite": "Lisible",
-            "correction": "C. Winter; Haar et Steinert"
-        },
-        "metadata.publication_place": {
-            "lisibilite": "Lisible",
-            "correction": "Heidelberg; Paris"
-        },
-        "metadata.date": {
-            "lisibilite": "Lisible"
-        },
-        "langue": {
-            "lisibilite": "Lisible"
-        },
-        "metadata.identifier": {
-            "lisibilite": "Lisible"
-        },
-        "metadata.iiif_manifest": {
-            "lisibilite": "Lisible"
-        },
-        "ark": {
-            "lisibilite": "Lisible"
-        }
+    "metadata.authors": {
+      "readability": "Readable",
+      "correction": "Hermann KOPP"
+    },
+    "metadata.publisher": {
+      "readability": "Readable",
+      "correction": "C. Winter; Haar et Steinert"
+    },
+    "metadata.publication_place": {
+      "readability": "Readable",
+      "correction": "Heidelberg; Paris"
+    },
+    "metadata.date": {
+      "readability": "Readable"
+    },
+    "language": {
+      "readability": "Readable"
+    },
+    "metadata.identifier": {
+      "readability": "Readable"
+    },
+    "metadata.iiif_manifest": {
+      "readability": "Readable"
+    },
+    "ark": {
+      "readability": "Readable"
     }
+  },
+  "language": "fr (French)"
 }

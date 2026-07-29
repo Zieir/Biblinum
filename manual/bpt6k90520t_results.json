@@ -1,67 +1,61 @@
 {
-    "metadata": {
-        "title": "DICTIONNAIRE DES ARTS ET MANUFACTURES DE L'AGRICULTURE, DES MINES, ETC.",
-        "title_complement": "description des procédés de l'industrie française et étrangère",
-        "volume_number": "A-G",
-        "authors": "CH. LABOULAYE",
-        "publisher": "Librairie du dictionnaire des arts et manufactures ",
-        "publication_place": "Paris",
-        "date": "1873",
-        "identifier": "http://gallica.bnf.fr/ark:/12148/bpt6k90520t",
-        "iiif_manifest": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k90520t/manifest.json"
+  "metadata": {
+    "title": "DICTIONNAIRE DES ARTS ET MANUFACTURES DE L'AGRICULTURE, DES MINES, ETC.",
+    "title_complement": "description des procédés de l'industrie française et étrangère",
+    "volume_number": "A-G",
+    "authors": "CH. LABOULAYE",
+    "publisher": "Librairie du dictionnaire des arts et manufactures ",
+    "publication_place": "Paris",
+    "date": "1873",
+    "identifier": "http://gallica.bnf.fr/ark:/12148/bpt6k90520t",
+    "iiif_manifest": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k90520t/manifest.json"
+  },
+  "ark": "bpt6k90520t",
+  "typographie": {
+    "category": "Serif/Roman",
+    "subtype": "Didone (Modern)"
+  },
+  "_annotations": {
+    "metadata.title": {
+      "readability": "Readable",
+      "correction": "DICTIONNAIRE DES ARTS ET MANUFACTURES DE L'AGRICULTURE, DES MINES, ETC."
     },
-    "langue": "fr (French)",
-    "ark": "bpt6k90520t",
-    "typographie_suggestion": {
-        "category": "Serif/Roman",
-        "subtype": "Didone (Modern)",
-        "explanation": "The main titles exhibit the high contrast between thick and thin strokes, vertical stress, and small, unbracketed (hairline) serifs characteristic of the Didone style (similar to Bodoni or Didot), which was prevalent in 19th-century academic and technical publishing.",
-        "raw": "Category: Serif/Roman\nSubtype: Didone (Modern)\nExplanation: The main titles exhibit the high contrast between thick and thin strokes, vertical stress, and small, unbracketed (hairline) serifs characteristic of the Didone style (similar to Bodoni or Didot), which was prevalent in 19th-century academic and technical publishing."
+    "metadata.title_complement": {
+      "readability": "Readable",
+      "correction": "description des procédés de l'industrie française et étrangère"
     },
-    "typographie": {
-        "category": "Serif/Roman",
-        "subtype": "Didone (Modern)"
+    "metadata.volume_number": {
+      "readability": "Readable",
+      "correction": "A-G"
     },
-    "_annotations": {
-        "metadata.title": {
-            "lisibilite": "Lisible",
-            "correction": "DICTIONNAIRE DES ARTS ET MANUFACTURES DE L'AGRICULTURE, DES MINES, ETC."
-        },
-        "metadata.title_complement": {
-            "lisibilite": "Lisible",
-            "correction": "description des procédés de l'industrie française et étrangère"
-        },
-        "metadata.volume_number": {
-            "lisibilite": "Lisible",
-            "correction": "A-G"
-        },
-        "metadata.authors": {
-            "lisibilite": "Lisible",
-            "correction": "CH. LABOULAYE"
-        },
-        "metadata.publisher": {
-            "lisibilite": "Lisible",
-            "correction": "Librairie du dictionnaire des arts et manufactures "
-        },
-        "metadata.publication_place": {
-            "lisibilite": "Lisible",
-            "correction": "Paris"
-        },
-        "metadata.date": {
-            "lisibilite": "Lisible",
-            "correction": "1873"
-        },
-        "langue": {
-            "lisibilite": "Lisible"
-        },
-        "metadata.identifier": {
-            "lisibilite": "Lisible"
-        },
-        "metadata.iiif_manifest": {
-            "lisibilite": "Lisible"
-        },
-        "ark": {
-            "lisibilite": "Lisible"
-        }
+    "metadata.authors": {
+      "readability": "Readable",
+      "correction": "CH. LABOULAYE"
+    },
+    "metadata.publisher": {
+      "readability": "Readable",
+      "correction": "Librairie du dictionnaire des arts et manufactures "
+    },
+    "metadata.publication_place": {
+      "readability": "Readable",
+      "correction": "Paris"
+    },
+    "metadata.date": {
+      "readability": "Readable",
+      "correction": "1873"
+    },
+    "language": {
+      "readability": "Readable"
+    },
+    "metadata.identifier": {
+      "readability": "Readable"
+    },
+    "metadata.iiif_manifest": {
+      "readability": "Readable"
+    },
+    "ark": {
+      "readability": "Readable"
     }
+  },
+  "language": "fr (French)"
 }

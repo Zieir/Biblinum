@@ -1,67 +1,61 @@
 {
-    "metadata": {
-        "title": "LECONS DE CHIMIE ÉLÉMENTAIRE",
-        "title_complement": "appliquées aux arts industriels et faites aux ouvriers du XIIe arrondissement",
-        "volume_number": "PREMIÈRE PARTIE",
-        "authors": "DORÉ FILS",
-        "publisher": "Carilian-Goeury et Vor Dalmont ",
-        "publication_place": "PARIS",
-        "date": "1855",
-        "identifier": "http://gallica.bnf.fr/ark:/12148/bpt6k90618j",
-        "iiif_manifest": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k90618j/manifest.json"
+  "metadata": {
+    "title": "LECONS DE CHIMIE ÉLÉMENTAIRE",
+    "title_complement": "appliquées aux arts industriels et faites aux ouvriers du XIIe arrondissement",
+    "volume_number": "PREMIÈRE PARTIE",
+    "authors": "DORÉ FILS",
+    "publisher": "Carilian-Goeury et Vor Dalmont ",
+    "publication_place": "PARIS",
+    "date": "1855",
+    "identifier": "http://gallica.bnf.fr/ark:/12148/bpt6k90618j",
+    "iiif_manifest": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k90618j/manifest.json"
+  },
+  "ark": "bpt6k90618j",
+  "typographie": {
+    "category": "Display",
+    "subtype": "Fat Face / Slab Serif"
+  },
+  "_annotations": {
+    "metadata.title": {
+      "readability": "Readable"
     },
-    "langue": "fr (French)",
-    "ark": "bpt6k90618j",
-    "typographie_suggestion": {
-        "category": "Display",
-        "subtype": "Fat Face / Slab Serif",
-        "explanation": "The main title \"CHIMIE ÉLÉMENTAIRE\" features extreme contrast between thick vertical stems and very thin horizontal hairlines, characteristic of the \"Fat Face\" style popular in the early 19th century for advertising and titles. It incorporates heavy, block-like serifs.",
-        "raw": "Category: Display\nSubtype: Fat Face / Slab Serif\nExplanation: The main title \"CHIMIE ÉLÉMENTAIRE\" features extreme contrast between thick vertical stems and very thin horizontal hairlines, characteristic of the \"Fat Face\" style popular in the early 19th century for advertising and titles. It incorporates heavy, block-like serifs."
+    "metadata.title_complement": {
+      "readability": "Readable",
+      "correction": "appliquées aux arts industriels et faites aux ouvriers du XIIe arrondissement"
     },
-    "typographie": {
-        "category": "Display",
-        "subtype": "Fat Face / Slab Serif"
+    "metadata.volume_number": {
+      "readability": "Readable",
+      "correction": "PREMIÈRE PARTIE"
     },
-    "_annotations": {
-        "metadata.title": {
-            "lisibilite": "Lisible"
-        },
-        "metadata.title_complement": {
-            "lisibilite": "Lisible",
-            "correction": "appliquées aux arts industriels et faites aux ouvriers du XIIe arrondissement"
-        },
-        "metadata.volume_number": {
-            "lisibilite": "Lisible",
-            "correction": "PREMIÈRE PARTIE"
-        },
-        "metadata.authors": {
-            "lisibilite": "Lisible",
-            "correction": "DORÉ FILS"
-        },
-        "metadata.publisher": {
-            "lisibilite": "Lisible",
-            "correction": "Carilian-Goeury et Vor Dalmont "
-        },
-        "metadata.publication_place": {
-            "lisibilite": "Lisible",
-            "correction": "PARIS"
-        },
-        "metadata.date": {
-            "lisibilite": "Non lisible",
-            "cause": "qualite",
-            "correction": "1855"
-        },
-        "langue": {
-            "lisibilite": "Lisible"
-        },
-        "metadata.identifier": {
-            "lisibilite": "Lisible"
-        },
-        "metadata.iiif_manifest": {
-            "lisibilite": "Lisible"
-        },
-        "ark": {
-            "lisibilite": "Lisible"
-        }
+    "metadata.authors": {
+      "readability": "Readable",
+      "correction": "DORÉ FILS"
+    },
+    "metadata.publisher": {
+      "readability": "Readable",
+      "correction": "Carilian-Goeury et Vor Dalmont "
+    },
+    "metadata.publication_place": {
+      "readability": "Readable",
+      "correction": "PARIS"
+    },
+    "metadata.date": {
+      "readability": "Not readable",
+      "cause": "quality",
+      "correction": "1855"
+    },
+    "language": {
+      "readability": "Readable"
+    },
+    "metadata.identifier": {
+      "readability": "Readable"
+    },
+    "metadata.iiif_manifest": {
+      "readability": "Readable"
+    },
+    "ark": {
+      "readability": "Readable"
     }
+  },
+  "language": "fr (French)"
 }

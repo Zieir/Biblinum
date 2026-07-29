@@ -1,68 +1,62 @@
 {
-    "metadata": {
-        "title": "ŒUVRES COMPLÈTES d'Augustin Cauchy",
-        "title_complement": "",
-        "volume_number": "SÉRIE 2 - TOME V",
-        "authors": "Augustin CAUCHY",
-        "publisher": "GAUTHIER-VILLARS, IMPRIMEUR-LIBRAIRE",
-        "publication_place": "PARIS",
-        "date": "1903",
-        "identifier": "http://gallica.bnf.fr/ark:/12148/bpt6k901979",
-        "iiif_manifest": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k901979/manifest.json"
+  "metadata": {
+    "title": "ŒUVRES COMPLÈTES d'Augustin Cauchy",
+    "title_complement": "",
+    "volume_number": "SÉRIE 2 - TOME V",
+    "authors": "Augustin CAUCHY",
+    "publisher": "GAUTHIER-VILLARS, IMPRIMEUR-LIBRAIRE",
+    "publication_place": "PARIS",
+    "date": "1903",
+    "identifier": "http://gallica.bnf.fr/ark:/12148/bpt6k901979",
+    "iiif_manifest": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k901979/manifest.json"
+  },
+  "ark": "bpt6k901979",
+  "typographie": {
+    "category": "Serif/Roman",
+    "subtype": "Slab Serif (Egyptian)"
+  },
+  "_annotations": {
+    "metadata.title": {
+      "readability": "Readable",
+      "correction": "ŒUVRES COMPLÈTES d'Augustin Cauchy"
     },
-    "langue": "fr (French)",
-    "ark": "bpt6k901979",
-    "typographie_suggestion": {
-        "category": "Serif/Roman",
-        "subtype": "Slab Serif (Egyptian)",
-        "explanation": "The primary text (\"D'AUGUSTIN CAUCHY\") features heavy, block-like serifs with little to no bracketing, which is characteristic of the Slab Serif style popular in 19th-century academic and commercial printing.",
-        "raw": "Category: Serif/Roman\nSubtype: Slab Serif (Egyptian)\nExplanation: The primary text (\"D'AUGUSTIN CAUCHY\") features heavy, block-like serifs with little to no bracketing, which is characteristic of the Slab Serif style popular in 19th-century academic and commercial printing."
+    "metadata.title_complement": {
+      "readability": "Not readable",
+      "cause": "absent",
+      "correction": ""
     },
-    "typographie": {
-        "category": "Serif/Roman",
-        "subtype": "Slab Serif (Egyptian)"
+    "metadata.volume_number": {
+      "readability": "Readable",
+      "correction": "SÉRIE 2 - TOME V"
     },
-    "_annotations": {
-        "metadata.title": {
-            "lisibilite": "Lisible",
-            "correction": "ŒUVRES COMPLÈTES d'Augustin Cauchy"
-        },
-        "metadata.title_complement": {
-            "lisibilite": "Non lisible",
-            "cause": "absent",
-            "correction": ""
-        },
-        "metadata.volume_number": {
-            "lisibilite": "Lisible",
-            "correction": "SÉRIE 2 - TOME V"
-        },
-        "metadata.authors": {
-            "lisibilite": "Lisible",
-            "correction": "Augustin CAUCHY"
-        },
-        "metadata.publisher": {
-            "lisibilite": "Lisible"
-        },
-        "metadata.publication_place": {
-            "lisibilite": "Lisible"
-        },
-        "metadata.date": {
-            "lisibilite": "Non lisible",
-            "cause": "qualite",
-            "correction": "1903"
-        },
-        "langue": {
-            "lisibilite": "Lisible"
-        },
-        "_note": "Date in roman numerals",
-        "metadata.identifier": {
-            "lisibilite": "Lisible"
-        },
-        "metadata.iiif_manifest": {
-            "lisibilite": "Lisible"
-        },
-        "ark": {
-            "lisibilite": "Lisible"
-        }
+    "metadata.authors": {
+      "readability": "Readable",
+      "correction": "Augustin CAUCHY"
+    },
+    "metadata.publisher": {
+      "readability": "Readable"
+    },
+    "metadata.publication_place": {
+      "readability": "Readable"
+    },
+    "metadata.date": {
+      "readability": "Not readable",
+      "cause": "quality",
+      "correction": "1903"
+    },
+    "language": {
+      "readability": "Readable"
+    },
+    "_note": "Date in roman numerals",
+    "metadata.identifier": {
+      "readability": "Readable"
+    },
+    "metadata.iiif_manifest": {
+      "readability": "Readable"
+    },
+    "ark": {
+      "readability": "Readable"
     }
+  },
+  "language": "fr (French)"
 }

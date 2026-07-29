@@ -1,63 +1,57 @@
 {
-    "metadata": {
-        "title": "ANSICHTEN ÜBER DIE AUFGABE DER CHEMIE UND ÜBER DIE GRUNDBESTANDTHEILE DER KÖRPER BEI DEN BEDEUTENDEREN CHEMIKERN VON GEBER BIS G. E. STAHL",
-        "title_complement": "DIE ENTDECKUNG DER ZUSAMMENSETZUNG DES WASSERS",
-        "volume_number": "",
-        "authors": "HERMANN KOPP",
-        "publisher": "FRIEDRICH VIEWEG UND SOHN",
-        "publication_place": "BRAUNSCHWEIG",
-        "date": "1875",
-        "identifier": "http://gallica.bnf.fr/ark:/12148/bpt6k905126",
-        "iiif_manifest": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k905126/manifest.json"
+  "metadata": {
+    "title": "ANSICHTEN ÜBER DIE AUFGABE DER CHEMIE UND ÜBER DIE GRUNDBESTANDTHEILE DER KÖRPER BEI DEN BEDEUTENDEREN CHEMIKERN VON GEBER BIS G. E. STAHL",
+    "title_complement": "DIE ENTDECKUNG DER ZUSAMMENSETZUNG DES WASSERS",
+    "volume_number": "",
+    "authors": "HERMANN KOPP",
+    "publisher": "FRIEDRICH VIEWEG UND SOHN",
+    "publication_place": "BRAUNSCHWEIG",
+    "date": "1875",
+    "identifier": "http://gallica.bnf.fr/ark:/12148/bpt6k905126",
+    "iiif_manifest": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k905126/manifest.json"
+  },
+  "ark": "bpt6k905126",
+  "typographie": {
+    "category": "Serif/Roman",
+    "subtype": "Didone (Modern)"
+  },
+  "_annotations": {
+    "metadata.title": {
+      "readability": "Readable"
     },
-    "langue": "de (German)",
-    "ark": "bpt6k905126",
-    "typographie_suggestion": {
-        "category": "Serif/Roman",
-        "subtype": "Didone (Modern)",
-        "explanation": "The typeface features a strong contrast between thick and thin strokes, vertical stress, and thin, horizontal serifs, which are characteristic of the \"Modern\" or Didone style popular in the 19th century.",
-        "raw": "Category: Serif/Roman\nSubtype: Didone (Modern)\nExplanation: The typeface features a strong contrast between thick and thin strokes, vertical stress, and thin, horizontal serifs, which are characteristic of the \"Modern\" or Didone style popular in the 19th century."
+    "metadata.title_complement": {
+      "readability": "Readable"
     },
-    "typographie": {
-        "category": "Serif/Roman",
-        "subtype": "Didone (Modern)"
+    "metadata.volume_number": {
+      "readability": "Not readable",
+      "cause": "absent"
     },
-    "_annotations": {
-        "metadata.title": {
-            "lisibilite": "Lisible"
-        },
-        "metadata.title_complement": {
-            "lisibilite": "Lisible"
-        },
-        "metadata.volume_number": {
-            "lisibilite": "Non lisible",
-            "cause": "absent"
-        },
-        "metadata.authors": {
-            "lisibilite": "Non lisible",
-            "cause": "recouvert"
-        },
-        "metadata.publisher": {
-            "lisibilite": "Lisible"
-        },
-        "metadata.publication_place": {
-            "lisibilite": "Lisible"
-        },
-        "metadata.date": {
-            "lisibilite": "Non lisible",
-            "cause": "qualite"
-        },
-        "langue": {
-            "lisibilite": "Lisible"
-        },
-        "metadata.identifier": {
-            "lisibilite": "Lisible"
-        },
-        "metadata.iiif_manifest": {
-            "lisibilite": "Lisible"
-        },
-        "ark": {
-            "lisibilite": "Lisible"
-        }
+    "metadata.authors": {
+      "readability": "Not readable",
+      "cause": "covered"
+    },
+    "metadata.publisher": {
+      "readability": "Readable"
+    },
+    "metadata.publication_place": {
+      "readability": "Readable"
+    },
+    "metadata.date": {
+      "readability": "Not readable",
+      "cause": "quality"
+    },
+    "language": {
+      "readability": "Readable"
+    },
+    "metadata.identifier": {
+      "readability": "Readable"
+    },
+    "metadata.iiif_manifest": {
+      "readability": "Readable"
+    },
+    "ark": {
+      "readability": "Readable"
     }
+  },
+  "language": "de (German)"
 }

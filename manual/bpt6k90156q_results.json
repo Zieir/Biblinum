@@ -1,61 +1,55 @@
 {
-    "metadata": {
-        "title": "A DICTIONARY OF CHEMISTRY",
-        "title_complement": "AND THE ALLIED BRANCHES OF OTHER SCIENCES",
-        "volume_number": "SECOND SUPPLEMENT",
-        "authors": "Henry WATTS",
-        "publisher": "LONGMANS, GREEN, AND CO.",
-        "publication_place": "LONDON",
-        "date": "1875",
-        "identifier": "http://gallica.bnf.fr/ark:/12148/bpt6k90156q",
-        "iiif_manifest": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k90156q/manifest.json"
+  "metadata": {
+    "title": "A DICTIONARY OF CHEMISTRY",
+    "title_complement": "AND THE ALLIED BRANCHES OF OTHER SCIENCES",
+    "volume_number": "SECOND SUPPLEMENT",
+    "authors": "Henry WATTS",
+    "publisher": "LONGMANS, GREEN, AND CO.",
+    "publication_place": "LONDON",
+    "date": "1875",
+    "identifier": "http://gallica.bnf.fr/ark:/12148/bpt6k90156q",
+    "iiif_manifest": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k90156q/manifest.json"
+  },
+  "ark": "bpt6k90156q",
+  "typographie": {
+    "category": "Serif/Roman",
+    "subtype": "Modern / Didone"
+  },
+  "_annotations": {
+    "metadata.title": {
+      "readability": "Readable"
     },
-    "langue": "en (English)",
-    "ark": "bpt6k90156q",
-    "typographie_suggestion": {
-        "category": "Serif/Roman",
-        "subtype": "Modern / Didone",
-        "explanation": "The typeface features a high contrast between thick and thin strokes, vertical stress, and thin, horizontal serifs, which are characteristic of the \"Modern\" style (such as Bodoni or Didot) prevalent in 19th-century academic and formal printing.",
-        "raw": "Category: Serif/Roman\nSubtype: Modern / Didone\nExplanation: The typeface features a high contrast between thick and thin strokes, vertical stress, and thin, horizontal serifs, which are characteristic of the \"Modern\" style (such as Bodoni or Didot) prevalent in 19th-century academic and formal printing."
+    "metadata.title_complement": {
+      "readability": "Readable"
     },
-    "typographie": {
-        "category": "Serif/Roman",
-        "subtype": "Modern / Didone"
+    "metadata.volume_number": {
+      "readability": "Readable"
     },
-    "_annotations": {
-        "metadata.title": {
-            "lisibilite": "Lisible"
-        },
-        "metadata.title_complement": {
-            "lisibilite": "Lisible"
-        },
-        "metadata.volume_number": {
-            "lisibilite": "Lisible"
-        },
-        "metadata.authors": {
-            "lisibilite": "Lisible",
-            "correction": "Henry WATTS"
-        },
-        "metadata.publisher": {
-            "lisibilite": "Lisible"
-        },
-        "metadata.publication_place": {
-            "lisibilite": "Lisible"
-        },
-        "metadata.date": {
-            "lisibilite": "Lisible"
-        },
-        "langue": {
-            "lisibilite": "Lisible"
-        },
-        "metadata.identifier": {
-            "lisibilite": "Lisible"
-        },
-        "metadata.iiif_manifest": {
-            "lisibilite": "Lisible"
-        },
-        "ark": {
-            "lisibilite": "Lisible"
-        }
+    "metadata.authors": {
+      "readability": "Readable",
+      "correction": "Henry WATTS"
+    },
+    "metadata.publisher": {
+      "readability": "Readable"
+    },
+    "metadata.publication_place": {
+      "readability": "Readable"
+    },
+    "metadata.date": {
+      "readability": "Readable"
+    },
+    "language": {
+      "readability": "Readable"
+    },
+    "metadata.identifier": {
+      "readability": "Readable"
+    },
+    "metadata.iiif_manifest": {
+      "readability": "Readable"
+    },
+    "ark": {
+      "readability": "Readable"
     }
+  },
+  "language": "en (English)"
 }

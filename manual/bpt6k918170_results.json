@@ -1,63 +1,57 @@
 {
-    "metadata": {
-        "title": "PHARMACOPÉE RAISONNÉE",
-        "title_complement": "TRAITÉ DE PHARMACIE PRATIQUE ET THÉORIQUE",
-        "volume_number": "TOME PREMIER",
-        "authors": "N.-E. HENRY; G. GUIBOURT",
-        "publisher": "J.-S. CHAUDÉ",
-        "publication_place": "PARIS",
-        "date": "1834",
-        "identifier": "http://gallica.bnf.fr/ark:/12148/bpt6k918170",
-        "iiif_manifest": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k918170/manifest.json"
+  "metadata": {
+    "title": "PHARMACOPÉE RAISONNÉE",
+    "title_complement": "TRAITÉ DE PHARMACIE PRATIQUE ET THÉORIQUE",
+    "volume_number": "TOME PREMIER",
+    "authors": "N.-E. HENRY; G. GUIBOURT",
+    "publisher": "J.-S. CHAUDÉ",
+    "publication_place": "PARIS",
+    "date": "1834",
+    "identifier": "http://gallica.bnf.fr/ark:/12148/bpt6k918170",
+    "iiif_manifest": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k918170/manifest.json"
+  },
+  "ark": "bpt6k918170",
+  "typographie": {
+    "category": "Serif/Roman",
+    "subtype": "Didone (Modern)"
+  },
+  "_annotations": {
+    "metadata.title": {
+      "readability": "Not readable",
+      "cause": "covered"
     },
-    "langue": "fr (French)",
-    "ark": "bpt6k918170",
-    "typographie_suggestion": {
-        "category": "Serif/Roman",
-        "subtype": "Didone (Modern)",
-        "explanation": "The typeface features the high contrast between thick and thin strokes, vertical stress, and small, horizontal serifs characteristic of the \"Modern\" or Didone style (popularized by Bodoni and Didot) common in 19th-century French printing.",
-        "raw": "Category: Serif/Roman\nSubtype: Didone (Modern)\nExplanation: The typeface features the high contrast between thick and thin strokes, vertical stress, and small, horizontal serifs characteristic of the \"Modern\" or Didone style (popularized by Bodoni and Didot) common in 19th-century French printing."
+    "metadata.title_complement": {
+      "readability": "Not readable",
+      "cause": "covered"
     },
-    "typographie": {
-        "category": "Serif/Roman",
-        "subtype": "Didone (Modern)"
+    "metadata.volume_number": {
+      "readability": "Readable"
     },
-    "_annotations": {
-        "metadata.title": {
-            "lisibilite": "Non lisible",
-            "cause": "recouvert"
-        },
-        "metadata.title_complement": {
-            "lisibilite": "Non lisible",
-            "cause": "recouvert"
-        },
-        "metadata.volume_number": {
-            "lisibilite": "Lisible"
-        },
-        "metadata.authors": {
-            "lisibilite": "Lisible",
-            "correction": "N.-E. HENRY; G. GUIBOURT"
-        },
-        "metadata.publisher": {
-            "lisibilite": "Lisible"
-        },
-        "metadata.publication_place": {
-            "lisibilite": "Lisible"
-        },
-        "metadata.date": {
-            "lisibilite": "Lisible"
-        },
-        "langue": {
-            "lisibilite": "Lisible"
-        },
-        "metadata.identifier": {
-            "lisibilite": "Lisible"
-        },
-        "metadata.iiif_manifest": {
-            "lisibilite": "Lisible"
-        },
-        "ark": {
-            "lisibilite": "Lisible"
-        }
+    "metadata.authors": {
+      "readability": "Readable",
+      "correction": "N.-E. HENRY; G. GUIBOURT"
+    },
+    "metadata.publisher": {
+      "readability": "Readable"
+    },
+    "metadata.publication_place": {
+      "readability": "Readable"
+    },
+    "metadata.date": {
+      "readability": "Readable"
+    },
+    "language": {
+      "readability": "Readable"
+    },
+    "metadata.identifier": {
+      "readability": "Readable"
+    },
+    "metadata.iiif_manifest": {
+      "readability": "Readable"
+    },
+    "ark": {
+      "readability": "Readable"
     }
+  },
+  "language": "fr (French)"
 }

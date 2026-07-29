@@ -1,62 +1,56 @@
 {
-    "metadata": {
-        "title": "TRAITÉ ÉLÉMENTAIRE DE CHIMIE MÉDICALE",
-        "title_complement": "COMPRENANT QUELQUES NOTIONS DE TOXICOLOGIE ET LES PRINCIPALES APPLICATIONS DE LA CHIMIE A LA PHYSIOLOGIE, A LA PATHOLOGIE, A LA PHARMACIE ET A L'HYGIÈNE",
-        "volume_number": "I",
-        "authors": "AD. WURTZ",
-        "publisher": "VICTOR MASSON ET FILS",
-        "publication_place": "PARIS",
-        "date": "1864",
-        "identifier": "http://gallica.bnf.fr/ark:/12148/bpt6k91949w",
-        "iiif_manifest": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k91949w/manifest.json"
+  "metadata": {
+    "title": "TRAITÉ ÉLÉMENTAIRE DE CHIMIE MÉDICALE",
+    "title_complement": "COMPRENANT QUELQUES NOTIONS DE TOXICOLOGIE ET LES PRINCIPALES APPLICATIONS DE LA CHIMIE A LA PHYSIOLOGIE, A LA PATHOLOGIE, A LA PHARMACIE ET A L'HYGIÈNE",
+    "volume_number": "I",
+    "authors": "AD. WURTZ",
+    "publisher": "VICTOR MASSON ET FILS",
+    "publication_place": "PARIS",
+    "date": "1864",
+    "identifier": "http://gallica.bnf.fr/ark:/12148/bpt6k91949w",
+    "iiif_manifest": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k91949w/manifest.json"
+  },
+  "ark": "bpt6k91949w",
+  "typographie": {
+    "category": "Serif/Roman",
+    "subtype": "Didone (Modern)"
+  },
+  "_annotations": {
+    "metadata.title": {
+      "readability": "Readable"
     },
-    "langue": "fr (French)",
-    "ark": "bpt6k91949w",
-    "typographie_suggestion": {
-        "category": "Serif/Roman",
-        "subtype": "Didone (Modern)",
-        "explanation": "The main title \"CHIMIE MÉDICALE\" exhibits the classic characteristics of the Didone style: a high contrast between thick and thin strokes, vertical stress, and small, unbracketed (hairline) serifs.",
-        "raw": "Category: Serif/Roman\nSubtype: Didone (Modern)\nExplanation: The main title \"CHIMIE MÉDICALE\" exhibits the classic characteristics of the Didone style: a high contrast between thick and thin strokes, vertical stress, and small, unbracketed (hairline) serifs."
+    "metadata.title_complement": {
+      "readability": "Readable"
     },
-    "typographie": {
-        "category": "Serif/Roman",
-        "subtype": "Didone (Modern)"
+    "metadata.volume_number": {
+      "readability": "Readable"
     },
-    "_annotations": {
-        "metadata.title": {
-            "lisibilite": "Lisible"
-        },
-        "metadata.title_complement": {
-            "lisibilite": "Lisible"
-        },
-        "metadata.volume_number": {
-            "lisibilite": "Lisible"
-        },
-        "metadata.authors": {
-            "lisibilite": "Lisible",
-            "correction": "AD. WURTZ"
-        },
-        "metadata.publisher": {
-            "lisibilite": "Lisible"
-        },
-        "metadata.publication_place": {
-            "lisibilite": "Lisible"
-        },
-        "metadata.date": {
-            "lisibilite": "Lisible",
-            "correction": "1864"
-        },
-        "langue": {
-            "lisibilite": "Lisible"
-        },
-        "metadata.identifier": {
-            "lisibilite": "Lisible"
-        },
-        "metadata.iiif_manifest": {
-            "lisibilite": "Lisible"
-        },
-        "ark": {
-            "lisibilite": "Lisible"
-        }
+    "metadata.authors": {
+      "readability": "Readable",
+      "correction": "AD. WURTZ"
+    },
+    "metadata.publisher": {
+      "readability": "Readable"
+    },
+    "metadata.publication_place": {
+      "readability": "Readable"
+    },
+    "metadata.date": {
+      "readability": "Readable",
+      "correction": "1864"
+    },
+    "language": {
+      "readability": "Readable"
+    },
+    "metadata.identifier": {
+      "readability": "Readable"
+    },
+    "metadata.iiif_manifest": {
+      "readability": "Readable"
+    },
+    "ark": {
+      "readability": "Readable"
     }
+  },
+  "language": "fr (French)"
 }

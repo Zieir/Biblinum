@@ -1,68 +1,62 @@
 {
-    "metadata": {
-        "title": "TRAITÉ DE CHIMIE MINÉRALE ET ORGANIQUE",
-        "title_complement": "",
-        "volume_number": "TOME II",
-        "authors": "Ed. WILLM; M. HANRIOT",
-        "publisher": "G. MASSON",
-        "publication_place": "PARIS",
-        "date": "1889",
-        "identifier": "http://gallica.bnf.fr/ark:/12148/bpt6k901692",
-        "iiif_manifest": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k901692/manifest.json"
+  "metadata": {
+    "title": "TRAITÉ DE CHIMIE MINÉRALE ET ORGANIQUE",
+    "title_complement": "",
+    "volume_number": "TOME II",
+    "authors": "Ed. WILLM; M. HANRIOT",
+    "publisher": "G. MASSON",
+    "publication_place": "PARIS",
+    "date": "1889",
+    "identifier": "http://gallica.bnf.fr/ark:/12148/bpt6k901692",
+    "iiif_manifest": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k901692/manifest.json"
+  },
+  "ark": "bpt6k901692",
+  "typographie": {
+    "category": "Serif/Roman",
+    "subtype": "Didone (Modern)"
+  },
+  "_annotations": {
+    "metadata.title": {
+      "readability": "Readable",
+      "correction": "TRAITÉ DE CHIMIE MINÉRALE ET ORGANIQUE"
     },
-    "langue": "fr (French)",
-    "ark": "bpt6k901692",
-    "typographie_suggestion": {
-        "category": "Serif/Roman",
-        "subtype": "Didone (Modern)",
-        "explanation": "The typeface features the high contrast between thick and thin strokes, vertical stress, and thin, horizontal serifs characteristic of the \"Modern\" or Didone style (similar to Didot or Bodoni), which was prevalent in French publishing during the 19th century.",
-        "raw": "Category: Serif/Roman\nSubtype: Didone (Modern)\nExplanation: The typeface features the high contrast between thick and thin strokes, vertical stress, and thin, horizontal serifs characteristic of the \"Modern\" or Didone style (similar to Didot or Bodoni), which was prevalent in French publishing during the 19th century."
+    "metadata.title_complement": {
+      "readability": "Not readable",
+      "cause": "absent",
+      "correction": ""
     },
-    "typographie": {
-        "category": "Serif/Roman",
-        "subtype": "Didone (Modern)"
+    "metadata.volume_number": {
+      "readability": "Readable",
+      "correction": "TOME II"
     },
-    "_annotations": {
-        "metadata.title": {
-            "lisibilite": "Lisible",
-            "correction": "TRAITÉ DE CHIMIE MINÉRALE ET ORGANIQUE"
-        },
-        "metadata.title_complement": {
-            "lisibilite": "Non lisible",
-            "cause": "absent",
-            "correction": ""
-        },
-        "metadata.volume_number": {
-            "lisibilite": "Lisible",
-            "correction": "TOME II"
-        },
-        "metadata.authors": {
-            "lisibilite": "Lisible",
-            "correction": "Ed. WILLM; M. HANRIOT"
-        },
-        "metadata.publisher": {
-            "lisibilite": "Lisible",
-            "correction": "G. MASSON"
-        },
-        "metadata.publication_place": {
-            "lisibilite": "Lisible",
-            "correction": "PARIS"
-        },
-        "metadata.date": {
-            "lisibilite": "Lisible",
-            "correction": "1889"
-        },
-        "langue": {
-            "lisibilite": "Lisible"
-        },
-        "metadata.identifier": {
-            "lisibilite": "Lisible"
-        },
-        "metadata.iiif_manifest": {
-            "lisibilite": "Lisible"
-        },
-        "ark": {
-            "lisibilite": "Lisible"
-        }
+    "metadata.authors": {
+      "readability": "Readable",
+      "correction": "Ed. WILLM; M. HANRIOT"
+    },
+    "metadata.publisher": {
+      "readability": "Readable",
+      "correction": "G. MASSON"
+    },
+    "metadata.publication_place": {
+      "readability": "Readable",
+      "correction": "PARIS"
+    },
+    "metadata.date": {
+      "readability": "Readable",
+      "correction": "1889"
+    },
+    "language": {
+      "readability": "Readable"
+    },
+    "metadata.identifier": {
+      "readability": "Readable"
+    },
+    "metadata.iiif_manifest": {
+      "readability": "Readable"
+    },
+    "ark": {
+      "readability": "Readable"
     }
+  },
+  "language": "fr (French)"
 }

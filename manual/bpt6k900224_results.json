@@ -1,67 +1,61 @@
 {
-    "metadata": {
-        "title": "Researches on the Affinities of the Elements",
-        "title_complement": "and on the causes of the chimical similarity or dissimilarity of elements and compounds ",
-        "volume_number": "",
-        "authors": "Geoffrey MARTIN",
-        "publisher": "J. & A. CHURCHILL",
-        "publication_place": "LONDON",
-        "date": "1905",
-        "identifier": "http://gallica.bnf.fr/ark:/12148/bpt6k900224",
-        "iiif_manifest": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k900224/manifest.json"
+  "metadata": {
+    "title": "Researches on the Affinities of the Elements",
+    "title_complement": "and on the causes of the chimical similarity or dissimilarity of elements and compounds ",
+    "volume_number": "",
+    "authors": "Geoffrey MARTIN",
+    "publisher": "J. & A. CHURCHILL",
+    "publication_place": "LONDON",
+    "date": "1905",
+    "identifier": "http://gallica.bnf.fr/ark:/12148/bpt6k900224",
+    "iiif_manifest": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k900224/manifest.json"
+  },
+  "ark": "bpt6k900224",
+  "typographie": {
+    "category": "Serif/Roman",
+    "subtype": "Old Style"
+  },
+  "_annotations": {
+    "metadata.title": {
+      "readability": "Readable",
+      "correction": "Researches on the Affinities of the Elements"
     },
-    "langue": "en (English)",
-    "ark": "bpt6k900224",
-    "typographie_suggestion": {
-        "category": "Serif/Roman",
-        "subtype": "Old Style",
-        "explanation": "The typeface features moderate contrast between thick and thin strokes, slanted serifs, and a humanist influence typical of early printing presses (similar to Garamond or Caslon), which is characteristic of the Old Style classification.",
-        "raw": "Category: Serif/Roman\nSubtype: Old Style\nExplanation: The typeface features moderate contrast between thick and thin strokes, slanted serifs, and a humanist influence typical of early printing presses (similar to Garamond or Caslon), which is characteristic of the Old Style classification."
+    "metadata.title_complement": {
+      "readability": "Readable",
+      "correction": "and on the causes of the chimical similarity or dissimilarity of elements and compounds "
     },
-    "typographie": {
-        "category": "Serif/Roman",
-        "subtype": "Old Style"
+    "metadata.volume_number": {
+      "readability": "Not readable",
+      "cause": "absent"
     },
-    "_annotations": {
-        "metadata.title": {
-            "lisibilite": "Lisible",
-            "correction": "Researches on the Affinities of the Elements"
-        },
-        "metadata.title_complement": {
-            "lisibilite": "Lisible",
-            "correction": "and on the causes of the chimical similarity or dissimilarity of elements and compounds "
-        },
-        "metadata.volume_number": {
-            "lisibilite": "Non lisible",
-            "cause": "absent"
-        },
-        "metadata.authors": {
-            "lisibilite": "Lisible",
-            "correction": "Geoffrey MARTIN"
-        },
-        "metadata.publisher": {
-            "lisibilite": "Lisible",
-            "correction": "J. & A. CHURCHILL"
-        },
-        "metadata.publication_place": {
-            "lisibilite": "Lisible",
-            "correction": "LONDON"
-        },
-        "metadata.date": {
-            "lisibilite": "Lisible",
-            "correction": "1905"
-        },
-        "langue": {
-            "lisibilite": "Lisible"
-        },
-        "metadata.identifier": {
-            "lisibilite": "Lisible"
-        },
-        "metadata.iiif_manifest": {
-            "lisibilite": "Lisible"
-        },
-        "ark": {
-            "lisibilite": "Lisible"
-        }
+    "metadata.authors": {
+      "readability": "Readable",
+      "correction": "Geoffrey MARTIN"
+    },
+    "metadata.publisher": {
+      "readability": "Readable",
+      "correction": "J. & A. CHURCHILL"
+    },
+    "metadata.publication_place": {
+      "readability": "Readable",
+      "correction": "LONDON"
+    },
+    "metadata.date": {
+      "readability": "Readable",
+      "correction": "1905"
+    },
+    "language": {
+      "readability": "Readable"
+    },
+    "metadata.identifier": {
+      "readability": "Readable"
+    },
+    "metadata.iiif_manifest": {
+      "readability": "Readable"
+    },
+    "ark": {
+      "readability": "Readable"
     }
+  },
+  "language": "en (English)"
 }

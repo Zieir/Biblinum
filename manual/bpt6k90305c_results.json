@@ -1,67 +1,61 @@
 {
-    "metadata": {
-        "title": "RAPPORTS des Membres de la Section Française du Jury International sur l'ensemble de l'Exposition",
-        "title_complement": "",
-        "volume_number": "TOME DEUXIÈME",
-        "authors": "Michel Chevalier",
-        "publisher": "Napolèon CHAIX et cie",
-        "publication_place": "PARIS",
-        "date": "1862",
-        "identifier": "http://gallica.bnf.fr/ark:/12148/bpt6k90305c",
-        "iiif_manifest": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k90305c/manifest.json"
+  "metadata": {
+    "title": "RAPPORTS des Membres de la Section Française du Jury International sur l'ensemble de l'Exposition",
+    "title_complement": "",
+    "volume_number": "TOME DEUXIÈME",
+    "authors": "Michel Chevalier",
+    "publisher": "Napolèon CHAIX et cie",
+    "publication_place": "PARIS",
+    "date": "1862",
+    "identifier": "http://gallica.bnf.fr/ark:/12148/bpt6k90305c",
+    "iiif_manifest": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k90305c/manifest.json"
+  },
+  "ark": "bpt6k90305c",
+  "typographie": {
+    "category": "Serif/Roman",
+    "subtype": "Didone (Modern)"
+  },
+  "_annotations": {
+    "metadata.title": {
+      "readability": "Readable",
+      "correction": "RAPPORTS des Membres de la Section Française du Jury International sur l'ensemble de l'Exposition"
     },
-    "langue": "fr (French)",
-    "ark": "bpt6k90305c",
-    "typographie_suggestion": {
-        "category": "Serif/Roman",
-        "subtype": "Didone (Modern)",
-        "explanation": "The text features the high contrast between thick and thin strokes, vertical stress, and small, horizontal serifs characteristic of the \"Modern\" or Didone style (similar to Bodoni or Didot), which was the standard for formal French printing in the mid-19th century.",
-        "raw": "Category: Serif/Roman\nSubtype: Didone (Modern)\nExplanation: The text features the high contrast between thick and thin strokes, vertical stress, and small, horizontal serifs characteristic of the \"Modern\" or Didone style (similar to Bodoni or Didot), which was the standard for formal French printing in the mid-19th century."
+    "metadata.title_complement": {
+      "readability": "Not readable",
+      "cause": "absent",
+      "correction": ""
     },
-    "typographie": {
-        "category": "Serif/Roman",
-        "subtype": "Didone (Modern)"
+    "metadata.volume_number": {
+      "readability": "Readable",
+      "correction": "TOME DEUXIÈME"
     },
-    "_annotations": {
-        "metadata.title": {
-            "lisibilite": "Lisible",
-            "correction": "RAPPORTS des Membres de la Section Française du Jury International sur l'ensemble de l'Exposition"
-        },
-        "metadata.title_complement": {
-            "lisibilite": "Non lisible",
-            "cause": "absent",
-            "correction": ""
-        },
-        "metadata.volume_number": {
-            "lisibilite": "Lisible",
-            "correction": "TOME DEUXIÈME"
-        },
-        "metadata.authors": {
-            "lisibilite": "Lisible",
-            "correction": "Michel Chevalier"
-        },
-        "metadata.publisher": {
-            "lisibilite": "Lisible",
-            "correction": "Napolèon CHAIX et cie"
-        },
-        "metadata.publication_place": {
-            "lisibilite": "Lisible",
-            "correction": "PARIS"
-        },
-        "metadata.date": {
-            "lisibilite": "Lisible"
-        },
-        "langue": {
-            "lisibilite": "Lisible"
-        },
-        "metadata.identifier": {
-            "lisibilite": "Lisible"
-        },
-        "metadata.iiif_manifest": {
-            "lisibilite": "Lisible"
-        },
-        "ark": {
-            "lisibilite": "Lisible"
-        }
+    "metadata.authors": {
+      "readability": "Readable",
+      "correction": "Michel Chevalier"
+    },
+    "metadata.publisher": {
+      "readability": "Readable",
+      "correction": "Napolèon CHAIX et cie"
+    },
+    "metadata.publication_place": {
+      "readability": "Readable",
+      "correction": "PARIS"
+    },
+    "metadata.date": {
+      "readability": "Readable"
+    },
+    "language": {
+      "readability": "Readable"
+    },
+    "metadata.identifier": {
+      "readability": "Readable"
+    },
+    "metadata.iiif_manifest": {
+      "readability": "Readable"
+    },
+    "ark": {
+      "readability": "Readable"
     }
+  },
+  "language": "fr (French)"
 }

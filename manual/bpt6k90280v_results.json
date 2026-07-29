@@ -1,63 +1,57 @@
 {
-    "metadata": {
-        "title": "Introduction to the study of the compounds of carbon",
-        "title_complement": "ORGANIC CHEMISTRY",
-        "volume_number": "",
-        "authors": "IRA REMSEN",
-        "publisher": "GINN, HEATH, & CO.",
-        "publication_place": "BOSTON",
-        "date": "1885",
-        "identifier": "http://gallica.bnf.fr/ark:/12148/bpt6k90280v",
-        "iiif_manifest": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k90280v/manifest.json"
+  "metadata": {
+    "title": "Introduction to the study of the compounds of carbon",
+    "title_complement": "ORGANIC CHEMISTRY",
+    "volume_number": "",
+    "authors": "IRA REMSEN",
+    "publisher": "GINN, HEATH, & CO.",
+    "publication_place": "BOSTON",
+    "date": "1885",
+    "identifier": "http://gallica.bnf.fr/ark:/12148/bpt6k90280v",
+    "iiif_manifest": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k90280v/manifest.json"
+  },
+  "ark": "bpt6k90280v",
+  "typographie": {
+    "category": "Serif/Roman",
+    "subtype": "Modern / Didone"
+  },
+  "_annotations": {
+    "metadata.title": {
+      "readability": "Readable",
+      "correction": "Introduction to the study of the compounds of carbon"
     },
-    "langue": "en (English)",
-    "ark": "bpt6k90280v",
-    "typographie_suggestion": {
-        "category": "Serif/Roman",
-        "subtype": "Modern / Didone",
-        "explanation": "The text (specifically \"COMPOUNDS OF CARBON\") features the high contrast between thick and thin strokes and vertical stress characteristic of Modern/Didone typefaces common in 19th-century publishing.",
-        "raw": "Based on the provided image, there are several typefaces present. I will identify the primary printed text used for the title and body.\n\nCategory: Serif/Roman\nSubtype: Modern / Didone\nExplanation: The text (specifically \"COMPOUNDS OF CARBON\") features the high contrast between thick and thin strokes and vertical stress characteristic of Modern/Didone typefaces common in 19th-century publishing."
+    "metadata.title_complement": {
+      "readability": "Readable"
     },
-    "typographie": {
-        "category": "Serif/Roman",
-        "subtype": "Modern / Didone"
+    "metadata.volume_number": {
+      "readability": "Not readable",
+      "cause": "absent"
     },
-    "_annotations": {
-        "metadata.title": {
-            "lisibilite": "Lisible",
-            "correction": "Introduction to the study of the compounds of carbon"
-        },
-        "metadata.title_complement": {
-            "lisibilite": "Lisible"
-        },
-        "metadata.volume_number": {
-            "lisibilite": "Non lisible",
-            "cause": "absent"
-        },
-        "metadata.authors": {
-            "lisibilite": "Lisible",
-            "correction": "IRA REMSEN"
-        },
-        "metadata.publisher": {
-            "lisibilite": "Lisible"
-        },
-        "metadata.publication_place": {
-            "lisibilite": "Lisible"
-        },
-        "metadata.date": {
-            "lisibilite": "Lisible"
-        },
-        "langue": {
-            "lisibilite": "Lisible"
-        },
-        "metadata.identifier": {
-            "lisibilite": "Lisible"
-        },
-        "metadata.iiif_manifest": {
-            "lisibilite": "Lisible"
-        },
-        "ark": {
-            "lisibilite": "Lisible"
-        }
+    "metadata.authors": {
+      "readability": "Readable",
+      "correction": "IRA REMSEN"
+    },
+    "metadata.publisher": {
+      "readability": "Readable"
+    },
+    "metadata.publication_place": {
+      "readability": "Readable"
+    },
+    "metadata.date": {
+      "readability": "Readable"
+    },
+    "language": {
+      "readability": "Readable"
+    },
+    "metadata.identifier": {
+      "readability": "Readable"
+    },
+    "metadata.iiif_manifest": {
+      "readability": "Readable"
+    },
+    "ark": {
+      "readability": "Readable"
     }
+  },
+  "language": "en (English)"
 }

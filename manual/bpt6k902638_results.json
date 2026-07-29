@@ -1,64 +1,58 @@
 {
-    "metadata": {
-        "title": "LEÇONS DE CHIMIE GÉNÉRALE ÉLÉMENTAIRE",
-        "title_complement": "professées à l'École centrale des arts et manufactures",
-        "volume_number": "PREMIER",
-        "authors": "Auguste CAHOURS",
-        "publisher": "MALLET-BACHELIER",
-        "publication_place": "PARIS",
-        "date": "1855",
-        "identifier": "http://gallica.bnf.fr/ark:/12148/bpt6k902638",
-        "iiif_manifest": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k902638/manifest.json"
+  "metadata": {
+    "title": "LEÇONS DE CHIMIE GÉNÉRALE ÉLÉMENTAIRE",
+    "title_complement": "professées à l'École centrale des arts et manufactures",
+    "volume_number": "PREMIER",
+    "authors": "Auguste CAHOURS",
+    "publisher": "MALLET-BACHELIER",
+    "publication_place": "PARIS",
+    "date": "1855",
+    "identifier": "http://gallica.bnf.fr/ark:/12148/bpt6k902638",
+    "iiif_manifest": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k902638/manifest.json"
+  },
+  "ark": "bpt6k902638",
+  "typographie": {
+    "category": "Serif/Roman",
+    "subtype": "Didone (Modern)"
+  },
+  "_annotations": {
+    "metadata.title": {
+      "readability": "Readable",
+      "correction": "LEÇONS DE CHIMIE GÉNÉRALE ÉLÉMENTAIRE"
     },
-    "langue": "fr (French)",
-    "ark": "bpt6k902638",
-    "typographie_suggestion": {
-        "category": "Serif/Roman",
-        "subtype": "Didone (Modern)",
-        "explanation": "The typeface features the high contrast between thick and thin strokes, vertical stress, and small, unbracketed hair-line serifs characteristic of the \"Modern\" or Didone style popular in 19th-century printing.",
-        "raw": "Category: Serif/Roman\nSubtype: Didone (Modern)\nExplanation: The typeface features the high contrast between thick and thin strokes, vertical stress, and small, unbracketed hair-line serifs characteristic of the \"Modern\" or Didone style popular in 19th-century printing."
+    "metadata.title_complement": {
+      "readability": "Readable",
+      "correction": "professées à l'École centrale des arts et manufactures"
     },
-    "typographie": {
-        "category": "Serif/Roman",
-        "subtype": "Didone (Modern)"
+    "metadata.volume_number": {
+      "readability": "Readable"
     },
-    "_annotations": {
-        "metadata.title": {
-            "lisibilite": "Lisible",
-            "correction": "LEÇONS DE CHIMIE GÉNÉRALE ÉLÉMENTAIRE"
-        },
-        "metadata.title_complement": {
-            "lisibilite": "Lisible",
-            "correction": "professées à l'École centrale des arts et manufactures"
-        },
-        "metadata.volume_number": {
-            "lisibilite": "Lisible"
-        },
-        "metadata.authors": {
-            "lisibilite": "Non lisible",
-            "cause": "recouvert",
-            "correction": "Auguste CAHOURS"
-        },
-        "metadata.publisher": {
-            "lisibilite": "Lisible"
-        },
-        "metadata.publication_place": {
-            "lisibilite": "Lisible"
-        },
-        "metadata.date": {
-            "lisibilite": "Lisible"
-        },
-        "langue": {
-            "lisibilite": "Lisible"
-        },
-        "metadata.identifier": {
-            "lisibilite": "Lisible"
-        },
-        "metadata.iiif_manifest": {
-            "lisibilite": "Lisible"
-        },
-        "ark": {
-            "lisibilite": "Lisible"
-        }
+    "metadata.authors": {
+      "readability": "Not readable",
+      "cause": "covered",
+      "correction": "Auguste CAHOURS"
+    },
+    "metadata.publisher": {
+      "readability": "Readable"
+    },
+    "metadata.publication_place": {
+      "readability": "Readable"
+    },
+    "metadata.date": {
+      "readability": "Readable"
+    },
+    "language": {
+      "readability": "Readable"
+    },
+    "metadata.identifier": {
+      "readability": "Readable"
+    },
+    "metadata.iiif_manifest": {
+      "readability": "Readable"
+    },
+    "ark": {
+      "readability": "Readable"
     }
+  },
+  "language": "fr (French)"
 }

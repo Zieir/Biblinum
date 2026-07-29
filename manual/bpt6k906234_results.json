@@ -1,65 +1,59 @@
 {
-    "metadata": {
-        "title": "TRAITÉ DE CHIMIE",
-        "title_complement": "APPLIQUÉE AUX ARTS",
-        "volume_number": "TOME DEUXIÈME",
-        "authors": "DUMAS",
-        "publisher": "Béchet jeune; Dépot général de la librairie médicale française",
-        "publication_place": "PARIS; BRUXELLES",
-        "date": "1830",
-        "identifier": "http://gallica.bnf.fr/ark:/12148/bpt6k906234",
-        "iiif_manifest": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k906234/manifest.json"
+  "metadata": {
+    "title": "TRAITÉ DE CHIMIE",
+    "title_complement": "APPLIQUÉE AUX ARTS",
+    "volume_number": "TOME DEUXIÈME",
+    "authors": "DUMAS",
+    "publisher": "Béchet jeune; Dépot général de la librairie médicale française",
+    "publication_place": "PARIS; BRUXELLES",
+    "date": "1830",
+    "identifier": "http://gallica.bnf.fr/ark:/12148/bpt6k906234",
+    "iiif_manifest": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k906234/manifest.json"
+  },
+  "ark": "bpt6k906234",
+  "typographie": {
+    "category": "Serif/Roman",
+    "subtype": "Didone (Modern)"
+  },
+  "_annotations": {
+    "metadata.title": {
+      "readability": "Readable"
     },
-    "langue": "fr (French)",
-    "ark": "bpt6k906234",
-    "typographie_suggestion": {
-        "category": "Serif/Roman",
-        "subtype": "Didone (Modern)",
-        "explanation": "The title text features the high contrast between thick and thin strokes and vertical stress characteristic of the \"Modern\" or Didone style (popularized by Didot and Bodoni), which was the standard for formal French publications in the early 19th century.",
-        "raw": "Based on the provided image, there are multiple typefaces used. I will identify the most prominent one used for the main title (\"TRAITÉ DE CHIMIE\").\n\nCategory: Serif/Roman\nSubtype: Didone (Modern)\nExplanation: The title text features the high contrast between thick and thin strokes and vertical stress characteristic of the \"Modern\" or Didone style (popularized by Didot and Bodoni), which was the standard for formal French publications in the early 19th century."
+    "metadata.title_complement": {
+      "readability": "Readable"
     },
-    "typographie": {
-        "category": "Serif/Roman",
-        "subtype": "Didone (Modern)"
+    "metadata.volume_number": {
+      "readability": "Readable",
+      "correction": "TOME DEUXIÈME"
     },
-    "_annotations": {
-        "metadata.title": {
-            "lisibilite": "Lisible"
-        },
-        "metadata.title_complement": {
-            "lisibilite": "Lisible"
-        },
-        "metadata.volume_number": {
-            "lisibilite": "Lisible",
-            "correction": "TOME DEUXIÈME"
-        },
-        "metadata.authors": {
-            "lisibilite": "Lisible",
-            "correction": "DUMAS"
-        },
-        "metadata.publisher": {
-            "lisibilite": "Lisible",
-            "correction": "Béchet jeune; Dépot général de la librairie médicale française"
-        },
-        "metadata.publication_place": {
-            "lisibilite": "Lisible",
-            "correction": "PARIS; BRUXELLES"
-        },
-        "metadata.date": {
-            "lisibilite": "Lisible",
-            "correction": "1830"
-        },
-        "langue": {
-            "lisibilite": "Lisible"
-        },
-        "metadata.identifier": {
-            "lisibilite": "Lisible"
-        },
-        "metadata.iiif_manifest": {
-            "lisibilite": "Lisible"
-        },
-        "ark": {
-            "lisibilite": "Lisible"
-        }
+    "metadata.authors": {
+      "readability": "Readable",
+      "correction": "DUMAS"
+    },
+    "metadata.publisher": {
+      "readability": "Readable",
+      "correction": "Béchet jeune; Dépot général de la librairie médicale française"
+    },
+    "metadata.publication_place": {
+      "readability": "Readable",
+      "correction": "PARIS; BRUXELLES"
+    },
+    "metadata.date": {
+      "readability": "Readable",
+      "correction": "1830"
+    },
+    "language": {
+      "readability": "Readable"
+    },
+    "metadata.identifier": {
+      "readability": "Readable"
+    },
+    "metadata.iiif_manifest": {
+      "readability": "Readable"
+    },
+    "ark": {
+      "readability": "Readable"
     }
+  },
+  "language": "fr (French)"
 }

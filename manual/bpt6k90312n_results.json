@@ -1,66 +1,60 @@
 {
-    "metadata": {
-        "title": "Mémoires de J.-B. Boussingault",
-        "title_complement": "",
-        "volume_number": "TOME PREMIER",
-        "authors": "J.-B. BOUSSINGAULT",
-        "publisher": "Chamerot et Renouard",
-        "publication_place": "PARIS",
-        "date": "1892",
-        "identifier": "http://gallica.bnf.fr/ark:/12148/bpt6k90312n",
-        "iiif_manifest": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k90312n/manifest.json"
+  "metadata": {
+    "title": "Mémoires de J.-B. Boussingault",
+    "title_complement": "",
+    "volume_number": "TOME PREMIER",
+    "authors": "J.-B. BOUSSINGAULT",
+    "publisher": "Chamerot et Renouard",
+    "publication_place": "PARIS",
+    "date": "1892",
+    "identifier": "http://gallica.bnf.fr/ark:/12148/bpt6k90312n",
+    "iiif_manifest": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k90312n/manifest.json"
+  },
+  "ark": "bpt6k90312n",
+  "typographie": {
+    "category": "Serif/Roman",
+    "subtype": "Didone (Modern)"
+  },
+  "_annotations": {
+    "metadata.title": {
+      "readability": "Readable",
+      "correction": "Mémoires de J.-B. Boussingault"
     },
-    "langue": "fr (French)",
-    "ark": "bpt6k90312n",
-    "typographie_suggestion": {
-        "category": "Serif/Roman",
-        "subtype": "Didone (Modern)",
-        "explanation": "The typeface features the high contrast between thick and thin strokes, vertical stress, and thin, horizontal serifs characteristic of the \"Modern\" or Didone style (popularized by Didot and Bodoni), which was standard for French academic and official printing in the 19th century.",
-        "raw": "Category: Serif/Roman\nSubtype: Didone (Modern)\nExplanation: The typeface features the high contrast between thick and thin strokes, vertical stress, and thin, horizontal serifs characteristic of the \"Modern\" or Didone style (popularized by Didot and Bodoni), which was standard for French academic and official printing in the 19th century."
+    "metadata.title_complement": {
+      "readability": "Not readable",
+      "cause": "absent"
     },
-    "typographie": {
-        "category": "Serif/Roman",
-        "subtype": "Didone (Modern)"
+    "metadata.volume_number": {
+      "readability": "Readable"
     },
-    "_annotations": {
-        "metadata.title": {
-            "lisibilite": "Lisible",
-            "correction": "Mémoires de J.-B. Boussingault"
-        },
-        "metadata.title_complement": {
-            "lisibilite": "Non lisible",
-            "cause": "absent"
-        },
-        "metadata.volume_number": {
-            "lisibilite": "Lisible"
-        },
-        "metadata.authors": {
-            "lisibilite": "Lisible",
-            "correction": "J.-B. BOUSSINGAULT"
-        },
-        "metadata.publisher": {
-            "lisibilite": "Lisible",
-            "correction": "Chamerot et Renouard"
-        },
-        "metadata.publication_place": {
-            "lisibilite": "Lisible",
-            "correction": "PARIS"
-        },
-        "metadata.date": {
-            "lisibilite": "Lisible",
-            "correction": "1892"
-        },
-        "langue": {
-            "lisibilite": "Lisible"
-        },
-        "metadata.identifier": {
-            "lisibilite": "Lisible"
-        },
-        "metadata.iiif_manifest": {
-            "lisibilite": "Lisible"
-        },
-        "ark": {
-            "lisibilite": "Lisible"
-        }
+    "metadata.authors": {
+      "readability": "Readable",
+      "correction": "J.-B. BOUSSINGAULT"
+    },
+    "metadata.publisher": {
+      "readability": "Readable",
+      "correction": "Chamerot et Renouard"
+    },
+    "metadata.publication_place": {
+      "readability": "Readable",
+      "correction": "PARIS"
+    },
+    "metadata.date": {
+      "readability": "Readable",
+      "correction": "1892"
+    },
+    "language": {
+      "readability": "Readable"
+    },
+    "metadata.identifier": {
+      "readability": "Readable"
+    },
+    "metadata.iiif_manifest": {
+      "readability": "Readable"
+    },
+    "ark": {
+      "readability": "Readable"
     }
+  },
+  "language": "fr (French)"
 }

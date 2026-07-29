@@ -1,65 +1,59 @@
 {
-    "metadata": {
-        "title": "TRAITÉ DE LA CHALEUR CONSIDÉRÉE DANS SES APPLICATIONS",
-        "title_complement": "",
-        "volume_number": "TOME DEUXIÈME",
-        "authors": "E. PÉCLET",
-        "publisher": "G. MASSON, ÉDITEUR",
-        "publication_place": "PARIS",
-        "date": "1878",
-        "identifier": "http://gallica.bnf.fr/ark:/12148/bpt6k90331x",
-        "iiif_manifest": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k90331x/manifest.json"
+  "metadata": {
+    "title": "TRAITÉ DE LA CHALEUR CONSIDÉRÉE DANS SES APPLICATIONS",
+    "title_complement": "",
+    "volume_number": "TOME DEUXIÈME",
+    "authors": "E. PÉCLET",
+    "publisher": "G. MASSON, ÉDITEUR",
+    "publication_place": "PARIS",
+    "date": "1878",
+    "identifier": "http://gallica.bnf.fr/ark:/12148/bpt6k90331x",
+    "iiif_manifest": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k90331x/manifest.json"
+  },
+  "ark": "bpt6k90331x",
+  "typographie": {
+    "category": "Serif/Roman",
+    "subtype": "Didone (Modern)"
+  },
+  "_annotations": {
+    "metadata.title": {
+      "readability": "Readable",
+      "correction": "TRAITÉ DE LA CHALEUR CONSIDÉRÉE DANS SES APPLICATIONS"
     },
-    "langue": "fr (French)",
-    "ark": "bpt6k90331x",
-    "typographie_suggestion": {
-        "category": "Serif/Roman",
-        "subtype": "Didone (Modern)",
-        "explanation": "The typeface features the high contrast between thick and thin strokes, vertical stress, and small, horizontal serifs characteristic of the \"Modern\" or Didone style (similar to Bodoni or Didot), which was prevalent in French academic printing during the 19th century.",
-        "raw": "Category: Serif/Roman\nSubtype: Didone (Modern)\nExplanation: The typeface features the high contrast between thick and thin strokes, vertical stress, and small, horizontal serifs characteristic of the \"Modern\" or Didone style (similar to Bodoni or Didot), which was prevalent in French academic printing during the 19th century."
+    "metadata.title_complement": {
+      "readability": "Not readable",
+      "cause": "absent",
+      "correction": ""
     },
-    "typographie": {
-        "category": "Serif/Roman",
-        "subtype": "Didone (Modern)"
+    "metadata.volume_number": {
+      "readability": "Readable"
     },
-    "_annotations": {
-        "metadata.title": {
-            "lisibilite": "Lisible",
-            "correction": "TRAITÉ DE LA CHALEUR CONSIDÉRÉE DANS SES APPLICATIONS"
-        },
-        "metadata.title_complement": {
-            "lisibilite": "Non lisible",
-            "cause": "absent",
-            "correction": ""
-        },
-        "metadata.volume_number": {
-            "lisibilite": "Lisible"
-        },
-        "metadata.authors": {
-            "lisibilite": "Lisible",
-            "correction": "E. PÉCLET"
-        },
-        "metadata.publisher": {
-            "lisibilite": "Lisible"
-        },
-        "metadata.publication_place": {
-            "lisibilite": "Lisible"
-        },
-        "metadata.date": {
-            "lisibilite": "Lisible"
-        },
-        "langue": {
-            "lisibilite": "Lisible"
-        },
-        "_note": "Date in roman numerals",
-        "metadata.identifier": {
-            "lisibilite": "Lisible"
-        },
-        "metadata.iiif_manifest": {
-            "lisibilite": "Lisible"
-        },
-        "ark": {
-            "lisibilite": "Lisible"
-        }
+    "metadata.authors": {
+      "readability": "Readable",
+      "correction": "E. PÉCLET"
+    },
+    "metadata.publisher": {
+      "readability": "Readable"
+    },
+    "metadata.publication_place": {
+      "readability": "Readable"
+    },
+    "metadata.date": {
+      "readability": "Readable"
+    },
+    "language": {
+      "readability": "Readable"
+    },
+    "_note": "Date in roman numerals",
+    "metadata.identifier": {
+      "readability": "Readable"
+    },
+    "metadata.iiif_manifest": {
+      "readability": "Readable"
+    },
+    "ark": {
+      "readability": "Readable"
     }
+  },
+  "language": "fr (French)"
 }

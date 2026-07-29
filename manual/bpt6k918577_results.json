@@ -1,66 +1,60 @@
 {
-    "metadata": {
-        "title": "TRAITÉ DE LA DISTILLATION DU GOUDRON DE HOUILLE",
-        "title_complement": "ET DU TRAITEMENT DE L'EAU AMMONIACALE",
-        "volume_number": "",
-        "authors": "G. LUNGE",
-        "publisher": "MASSON ET Cie",
-        "publication_place": "PARIS",
-        "date": "",
-        "identifier": "http://gallica.bnf.fr/ark:/12148/bpt6k918577",
-        "iiif_manifest": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k918577/manifest.json"
+  "metadata": {
+    "title": "TRAITÉ DE LA DISTILLATION DU GOUDRON DE HOUILLE",
+    "title_complement": "ET DU TRAITEMENT DE L'EAU AMMONIACALE",
+    "volume_number": "",
+    "authors": "G. LUNGE",
+    "publisher": "MASSON ET Cie",
+    "publication_place": "PARIS",
+    "date": "",
+    "identifier": "http://gallica.bnf.fr/ark:/12148/bpt6k918577",
+    "iiif_manifest": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k918577/manifest.json"
+  },
+  "ark": "bpt6k918577",
+  "typographie": {
+    "category": "Serif/Roman",
+    "subtype": "Didone (Modern)"
+  },
+  "_annotations": {
+    "metadata.title": {
+      "readability": "Readable"
     },
-    "langue": "fr (French)",
-    "ark": "bpt6k918577",
-    "typographie_suggestion": {
-        "category": "Serif/Roman",
-        "subtype": "Didone (Modern)",
-        "explanation": "The typeface features the characteristic high contrast between thick and thin strokes, vertical stress, and thin, horizontal serifs typical of the \"Modern\" or Didone style (such as Bodoni or Didot), which was standard for formal academic and scientific publications in France during the 19th century.",
-        "raw": "Category: Serif/Roman\nSubtype: Didone (Modern)\nExplanation: The typeface features the characteristic high contrast between thick and thin strokes, vertical stress, and thin, horizontal serifs typical of the \"Modern\" or Didone style (such as Bodoni or Didot), which was standard for formal academic and scientific publications in France during the 19th century."
+    "metadata.title_complement": {
+      "readability": "Readable",
+      "correction": "ET DU TRAITEMENT DE L'EAU AMMONIACALE"
     },
-    "typographie": {
-        "category": "Serif/Roman",
-        "subtype": "Didone (Modern)"
+    "metadata.volume_number": {
+      "readability": "Not readable",
+      "cause": "absent"
     },
-    "_annotations": {
-        "metadata.title": {
-            "lisibilite": "Lisible"
-        },
-        "metadata.title_complement": {
-            "lisibilite": "Lisible",
-            "correction": "ET DU TRAITEMENT DE L'EAU AMMONIACALE"
-        },
-        "metadata.volume_number": {
-            "lisibilite": "Non lisible",
-            "cause": "absent"
-        },
-        "metadata.authors": {
-            "lisibilite": "Lisible",
-            "correction": "G. LUNGE"
-        },
-        "metadata.publisher": {
-            "lisibilite": "Lisible",
-            "correction": "MASSON ET Cie"
-        },
-        "metadata.publication_place": {
-            "lisibilite": "Lisible",
-            "correction": "PARIS"
-        },
-        "metadata.date": {
-            "lisibilite": "Non lisible",
-            "cause": "absent"
-        },
-        "langue": {
-            "lisibilite": "Lisible"
-        },
-        "metadata.identifier": {
-            "lisibilite": "Lisible"
-        },
-        "metadata.iiif_manifest": {
-            "lisibilite": "Lisible"
-        },
-        "ark": {
-            "lisibilite": "Lisible"
-        }
+    "metadata.authors": {
+      "readability": "Readable",
+      "correction": "G. LUNGE"
+    },
+    "metadata.publisher": {
+      "readability": "Readable",
+      "correction": "MASSON ET Cie"
+    },
+    "metadata.publication_place": {
+      "readability": "Readable",
+      "correction": "PARIS"
+    },
+    "metadata.date": {
+      "readability": "Not readable",
+      "cause": "absent"
+    },
+    "language": {
+      "readability": "Readable"
+    },
+    "metadata.identifier": {
+      "readability": "Readable"
+    },
+    "metadata.iiif_manifest": {
+      "readability": "Readable"
+    },
+    "ark": {
+      "readability": "Readable"
     }
+  },
+  "language": "fr (French)"
 }

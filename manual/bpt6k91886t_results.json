@@ -1,61 +1,55 @@
 {
-    "metadata": {
-        "title": "LICHT UND FARBE IN KOLLOIDEN",
-        "title_complement": "EINE PHÄNOMENOLOGISCHE MONOGRAPHIE",
-        "volume_number": "ERSTER TEIL",
-        "authors": "WOLFGANG OSTWALD, ",
-        "publisher": "THEODOR STEINKOPFF",
-        "publication_place": "DRESDEN UND LEIPZIG",
-        "date": "1924",
-        "identifier": "http://gallica.bnf.fr/ark:/12148/bpt6k91886t",
-        "iiif_manifest": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k91886t/manifest.json"
+  "metadata": {
+    "title": "LICHT UND FARBE IN KOLLOIDEN",
+    "title_complement": "EINE PHÄNOMENOLOGISCHE MONOGRAPHIE",
+    "volume_number": "ERSTER TEIL",
+    "authors": "WOLFGANG OSTWALD, ",
+    "publisher": "THEODOR STEINKOPFF",
+    "publication_place": "DRESDEN UND LEIPZIG",
+    "date": "1924",
+    "identifier": "http://gallica.bnf.fr/ark:/12148/bpt6k91886t",
+    "iiif_manifest": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k91886t/manifest.json"
+  },
+  "ark": "bpt6k91886t",
+  "typographie": {
+    "category": "Sans-serif",
+    "subtype": "Humanist / Grotesque"
+  },
+  "_annotations": {
+    "metadata.title": {
+      "readability": "Readable"
     },
-    "langue": "de (German)",
-    "ark": "bpt6k91886t",
-    "typographie_suggestion": {
-        "category": "Sans-serif",
-        "subtype": "Humanist / Grotesque",
-        "explanation": "The typeface lacks serifs (the small decorative strokes at the ends of characters) and features a clean, functional design typical of early 20th-century academic and technical publishing. The slight variation in stroke thickness suggests a Humanist influence rather than a purely geometric construction.",
-        "raw": "Category: Sans-serif\nSubtype: Humanist / Grotesque\nExplanation: The typeface lacks serifs (the small decorative strokes at the ends of characters) and features a clean, functional design typical of early 20th-century academic and technical publishing. The slight variation in stroke thickness suggests a Humanist influence rather than a purely geometric construction."
+    "metadata.title_complement": {
+      "readability": "Readable"
     },
-    "typographie": {
-        "category": "Sans-serif",
-        "subtype": "Humanist / Grotesque"
+    "metadata.volume_number": {
+      "readability": "Readable"
     },
-    "_annotations": {
-        "metadata.title": {
-            "lisibilite": "Lisible"
-        },
-        "metadata.title_complement": {
-            "lisibilite": "Lisible"
-        },
-        "metadata.volume_number": {
-            "lisibilite": "Lisible"
-        },
-        "metadata.authors": {
-            "lisibilite": "Lisible"
-        },
-        "metadata.publisher": {
-            "lisibilite": "Lisible"
-        },
-        "metadata.publication_place": {
-            "lisibilite": "Lisible"
-        },
-        "metadata.date": {
-            "lisibilite": "Lisible"
-        },
-        "langue": {
-            "lisibilite": "Lisible"
-        },
-        "_note": "A REVOIR TODO",
-        "metadata.identifier": {
-            "lisibilite": "Lisible"
-        },
-        "metadata.iiif_manifest": {
-            "lisibilite": "Lisible"
-        },
-        "ark": {
-            "lisibilite": "Lisible"
-        }
+    "metadata.authors": {
+      "readability": "Readable"
+    },
+    "metadata.publisher": {
+      "readability": "Readable"
+    },
+    "metadata.publication_place": {
+      "readability": "Readable"
+    },
+    "metadata.date": {
+      "readability": "Readable"
+    },
+    "language": {
+      "readability": "Readable"
+    },
+    "_note": "A REVOIR TODO",
+    "metadata.identifier": {
+      "readability": "Readable"
+    },
+    "metadata.iiif_manifest": {
+      "readability": "Readable"
+    },
+    "ark": {
+      "readability": "Readable"
     }
+  },
+  "language": "de (German)"
 }

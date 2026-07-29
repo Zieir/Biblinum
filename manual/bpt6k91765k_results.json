@@ -1,66 +1,60 @@
 {
-    "metadata": {
-        "title": "TRAITÉ DE MINÉRALOGIE",
-        "title_complement": "",
-        "volume_number": "TOME TROISIÈME",
-        "authors": "A. DUFRÈNOY",
-        "publisher": "VICTOR DALMONT",
-        "publication_place": "PARIS",
-        "date": "1856",
-        "identifier": "http://gallica.bnf.fr/ark:/12148/bpt6k91765k",
-        "iiif_manifest": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k91765k/manifest.json"
+  "metadata": {
+    "title": "TRAITÉ DE MINÉRALOGIE",
+    "title_complement": "",
+    "volume_number": "TOME TROISIÈME",
+    "authors": "A. DUFRÈNOY",
+    "publisher": "VICTOR DALMONT",
+    "publication_place": "PARIS",
+    "date": "1856",
+    "identifier": "http://gallica.bnf.fr/ark:/12148/bpt6k91765k",
+    "iiif_manifest": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k91765k/manifest.json"
+  },
+  "ark": "bpt6k91765k",
+  "typographie": {
+    "category": "Serif/Roman",
+    "subtype": "Didone (Modern)"
+  },
+  "_annotations": {
+    "metadata.title": {
+      "readability": "Readable"
     },
-    "langue": "fr (French)",
-    "ark": "bpt6k91765k",
-    "typographie_suggestion": {
-        "category": "Serif/Roman",
-        "subtype": "Didone (Modern)",
-        "explanation": "The text exhibits the high contrast between thick and thin strokes, vertical stress, and thin, horizontal serifs characteristic of the \"Modern\" or Didone style (popularized by Didot and Bodoni), which was the standard for formal French academic printing in the mid-19th century.",
-        "raw": "Category: Serif/Roman\nSubtype: Didone (Modern)\nExplanation: The text exhibits the high contrast between thick and thin strokes, vertical stress, and thin, horizontal serifs characteristic of the \"Modern\" or Didone style (popularized by Didot and Bodoni), which was the standard for formal French academic printing in the mid-19th century."
+    "metadata.title_complement": {
+      "readability": "Not readable",
+      "cause": "absent"
     },
-    "typographie": {
-        "category": "Serif/Roman",
-        "subtype": "Didone (Modern)"
+    "metadata.volume_number": {
+      "readability": "Readable",
+      "correction": "TOME TROISIÈME"
     },
-    "_annotations": {
-        "metadata.title": {
-            "lisibilite": "Lisible"
-        },
-        "metadata.title_complement": {
-            "lisibilite": "Non lisible",
-            "cause": "absent"
-        },
-        "metadata.volume_number": {
-            "lisibilite": "Lisible",
-            "correction": "TOME TROISIÈME"
-        },
-        "metadata.authors": {
-            "lisibilite": "Lisible",
-            "correction": "A. DUFRÈNOY"
-        },
-        "metadata.publisher": {
-            "lisibilite": "Lisible",
-            "correction": "VICTOR DALMONT"
-        },
-        "metadata.publication_place": {
-            "lisibilite": "Lisible",
-            "correction": "PARIS"
-        },
-        "metadata.date": {
-            "lisibilite": "Lisible",
-            "correction": "1856"
-        },
-        "langue": {
-            "lisibilite": "Lisible"
-        },
-        "metadata.identifier": {
-            "lisibilite": "Lisible"
-        },
-        "metadata.iiif_manifest": {
-            "lisibilite": "Lisible"
-        },
-        "ark": {
-            "lisibilite": "Lisible"
-        }
+    "metadata.authors": {
+      "readability": "Readable",
+      "correction": "A. DUFRÈNOY"
+    },
+    "metadata.publisher": {
+      "readability": "Readable",
+      "correction": "VICTOR DALMONT"
+    },
+    "metadata.publication_place": {
+      "readability": "Readable",
+      "correction": "PARIS"
+    },
+    "metadata.date": {
+      "readability": "Readable",
+      "correction": "1856"
+    },
+    "language": {
+      "readability": "Readable"
+    },
+    "metadata.identifier": {
+      "readability": "Readable"
+    },
+    "metadata.iiif_manifest": {
+      "readability": "Readable"
+    },
+    "ark": {
+      "readability": "Readable"
     }
+  },
+  "language": "fr (French)"
 }

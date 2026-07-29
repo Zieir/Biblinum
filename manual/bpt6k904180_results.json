@@ -1,66 +1,60 @@
 {
-    "metadata": {
-        "title": "TABLES FORMING AN APPENDIX TO W. DITTMAR'S MANUAL OF QUALITATIVE CHEMICAL ANALYSIS",
-        "title_complement": "",
-        "volume_number": "",
-        "authors": "W. Dittmar",
-        "publisher": "EDMONSTON AND DOUGLAS",
-        "publication_place": "EDINBURGH",
-        "date": "1876",
-        "identifier": "http://gallica.bnf.fr/ark:/12148/bpt6k904180",
-        "iiif_manifest": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k904180/manifest.json"
+  "metadata": {
+    "title": "TABLES FORMING AN APPENDIX TO W. DITTMAR'S MANUAL OF QUALITATIVE CHEMICAL ANALYSIS",
+    "title_complement": "",
+    "volume_number": "",
+    "authors": "W. Dittmar",
+    "publisher": "EDMONSTON AND DOUGLAS",
+    "publication_place": "EDINBURGH",
+    "date": "1876",
+    "identifier": "http://gallica.bnf.fr/ark:/12148/bpt6k904180",
+    "iiif_manifest": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k904180/manifest.json"
+  },
+  "ark": "bpt6k904180",
+  "typographie": {
+    "category": "Serif/Roman",
+    "subtype": "Modern / Didone"
+  },
+  "_annotations": {
+    "metadata.title": {
+      "readability": "Readable",
+      "correction": "TABLES FORMING AN APPENDIX TO W. DITTMAR'S MANUAL OF QUALITATIVE CHEMICAL ANALYSIS"
     },
-    "langue": "en (English)",
-    "ark": "bpt6k904180",
-    "typographie_suggestion": {
-        "category": "Serif/Roman",
-        "subtype": "Modern / Didone",
-        "explanation": "The typeface features a strong contrast between thick and thin strokes, vertical stress, and horizontal, unbracketed serifs, which are characteristic of the \"Modern\" style (such as Bodoni or Didot) prevalent in 19th-century academic and scientific printing.",
-        "raw": "Category: Serif/Roman\nSubtype: Modern / Didone\nExplanation: The typeface features a strong contrast between thick and thin strokes, vertical stress, and horizontal, unbracketed serifs, which are characteristic of the \"Modern\" style (such as Bodoni or Didot) prevalent in 19th-century academic and scientific printing."
+    "metadata.title_complement": {
+      "readability": "Not readable",
+      "cause": "absent",
+      "correction": ""
     },
-    "typographie": {
-        "category": "Serif/Roman",
-        "subtype": "Modern / Didone"
+    "metadata.volume_number": {
+      "readability": "Not readable",
+      "cause": "absent"
     },
-    "_annotations": {
-        "metadata.title": {
-            "lisibilite": "Lisible",
-            "correction": "TABLES FORMING AN APPENDIX TO W. DITTMAR'S MANUAL OF QUALITATIVE CHEMICAL ANALYSIS"
-        },
-        "metadata.title_complement": {
-            "lisibilite": "Non lisible",
-            "cause": "absent",
-            "correction": ""
-        },
-        "metadata.volume_number": {
-            "lisibilite": "Non lisible",
-            "cause": "absent"
-        },
-        "metadata.authors": {
-            "lisibilite": "Non lisible",
-            "cause": "absent",
-            "correction": "W. Dittmar"
-        },
-        "metadata.publisher": {
-            "lisibilite": "Lisible"
-        },
-        "metadata.publication_place": {
-            "lisibilite": "Lisible"
-        },
-        "metadata.date": {
-            "lisibilite": "Lisible"
-        },
-        "langue": {
-            "lisibilite": "Lisible"
-        },
-        "metadata.identifier": {
-            "lisibilite": "Lisible"
-        },
-        "metadata.iiif_manifest": {
-            "lisibilite": "Lisible"
-        },
-        "ark": {
-            "lisibilite": "Lisible"
-        }
+    "metadata.authors": {
+      "readability": "Not readable",
+      "cause": "absent",
+      "correction": "W. Dittmar"
+    },
+    "metadata.publisher": {
+      "readability": "Readable"
+    },
+    "metadata.publication_place": {
+      "readability": "Readable"
+    },
+    "metadata.date": {
+      "readability": "Readable"
+    },
+    "language": {
+      "readability": "Readable"
+    },
+    "metadata.identifier": {
+      "readability": "Readable"
+    },
+    "metadata.iiif_manifest": {
+      "readability": "Readable"
+    },
+    "ark": {
+      "readability": "Readable"
     }
+  },
+  "language": "en (English)"
 }

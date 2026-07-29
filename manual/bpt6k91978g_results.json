@@ -1,64 +1,58 @@
 {
-    "metadata": {
-        "title": "ESSAI CRITIQUE ET EXPÉRIMENTAL SUR LE SANG ",
-        "title_complement": "THÈSE SOUTENUE À L'ÉCOLE DE PHARMACIE DE PARIS, LE 5 JUILLET 1833",
-        "volume_number": "",
-        "authors": "Félix BOUDET",
-        "publisher": "IMPRIMERIE ET FONDERIE DE FAIN",
-        "publication_place": "PARIS",
-        "date": "1833",
-        "identifier": "http://gallica.bnf.fr/ark:/12148/bpt6k91978g",
-        "iiif_manifest": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k91978g/manifest.json"
+  "metadata": {
+    "title": "ESSAI CRITIQUE ET EXPÉRIMENTAL SUR LE SANG ",
+    "title_complement": "THÈSE SOUTENUE À L'ÉCOLE DE PHARMACIE DE PARIS, LE 5 JUILLET 1833",
+    "volume_number": "",
+    "authors": "Félix BOUDET",
+    "publisher": "IMPRIMERIE ET FONDERIE DE FAIN",
+    "publication_place": "PARIS",
+    "date": "1833",
+    "identifier": "http://gallica.bnf.fr/ark:/12148/bpt6k91978g",
+    "iiif_manifest": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k91978g/manifest.json"
+  },
+  "ark": "bpt6k91978g",
+  "typographie": {
+    "category": "Serif/Roman",
+    "subtype": "Modern/Didone"
+  },
+  "_annotations": {
+    "metadata.title": {
+      "readability": "Readable",
+      "correction": "ESSAI CRITIQUE ET EXPÉRIMENTAL SUR LE SANG "
     },
-    "langue": "fr (French)",
-    "ark": "bpt6k91978g",
-    "typographie_suggestion": {
-        "category": "Serif/Roman",
-        "subtype": "Modern/Didone",
-        "explanation": "A smaller version of the high-contrast serif used in the title, maintaining the neoclassical aesthetic of the 1830s.",
-        "raw": "Since the provided image contains multiple typefaces, I will identify the most prominent ones used in the layout:\n\n**For the main title (\"SUR LE SANG\"):**\nCategory: Serif/Roman\nSubtype: Modern/Didone\nExplanation: Characterized by a high contrast between thick and thin strokes and vertical stress, typical of early 19th-century French printing.\n\n**For the word \"THÈSE\":**\nCategory: Blackletter\nSubtype: Fraktur/Textura hybrid\nExplanation: A heavy, angular, broken-script style used here for emphasis and decorative contrast.\n\n**For the body text (\"A L'ÉCOLE DE PHARMACIE...\"):**\nCategory: Serif/Roman\nSubtype: Modern/Didone\nExplanation: A smaller version of the high-contrast serif used in the title, maintaining the neoclassical aesthetic of the 1830s."
+    "metadata.title_complement": {
+      "readability": "Readable",
+      "correction": "THÈSE SOUTENUE À L'ÉCOLE DE PHARMACIE DE PARIS, LE 5 JUILLET 1833"
     },
-    "typographie": {
-        "category": "Serif/Roman",
-        "subtype": "Modern/Didone"
+    "metadata.volume_number": {
+      "readability": "Not readable",
+      "cause": "absent"
     },
-    "_annotations": {
-        "metadata.title": {
-            "lisibilite": "Lisible",
-            "correction": "ESSAI CRITIQUE ET EXPÉRIMENTAL SUR LE SANG "
-        },
-        "metadata.title_complement": {
-            "lisibilite": "Lisible",
-            "correction": "THÈSE SOUTENUE À L'ÉCOLE DE PHARMACIE DE PARIS, LE 5 JUILLET 1833"
-        },
-        "metadata.volume_number": {
-            "lisibilite": "Non lisible",
-            "cause": "absent"
-        },
-        "metadata.authors": {
-            "lisibilite": "Lisible",
-            "correction": "Félix BOUDET"
-        },
-        "metadata.publisher": {
-            "lisibilite": "Lisible"
-        },
-        "metadata.publication_place": {
-            "lisibilite": "Lisible"
-        },
-        "metadata.date": {
-            "lisibilite": "Lisible"
-        },
-        "langue": {
-            "lisibilite": "Lisible"
-        },
-        "metadata.identifier": {
-            "lisibilite": "Lisible"
-        },
-        "metadata.iiif_manifest": {
-            "lisibilite": "Lisible"
-        },
-        "ark": {
-            "lisibilite": "Lisible"
-        }
+    "metadata.authors": {
+      "readability": "Readable",
+      "correction": "Félix BOUDET"
+    },
+    "metadata.publisher": {
+      "readability": "Readable"
+    },
+    "metadata.publication_place": {
+      "readability": "Readable"
+    },
+    "metadata.date": {
+      "readability": "Readable"
+    },
+    "language": {
+      "readability": "Readable"
+    },
+    "metadata.identifier": {
+      "readability": "Readable"
+    },
+    "metadata.iiif_manifest": {
+      "readability": "Readable"
+    },
+    "ark": {
+      "readability": "Readable"
     }
+  },
+  "language": "fr (French)"
 }

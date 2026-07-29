@@ -1,63 +1,57 @@
 {
-    "metadata": {
-        "title": "DE LA NOTATION ATOMIQUE",
-        "title_complement": "ET DE SA COMPARAISON AVEC LA NOTATION EN ÉQUIVALENTS",
-        "volume_number": "",
-        "authors": "L. MICÉ",
-        "publisher": "J.-B. BAILLIÈRE ET FILS",
-        "publication_place": "PARIS",
-        "date": "1871",
-        "identifier": "http://gallica.bnf.fr/ark:/12148/bpt6k91825m",
-        "iiif_manifest": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k91825m/manifest.json"
+  "metadata": {
+    "title": "DE LA NOTATION ATOMIQUE",
+    "title_complement": "ET DE SA COMPARAISON AVEC LA NOTATION EN ÉQUIVALENTS",
+    "volume_number": "",
+    "authors": "L. MICÉ",
+    "publisher": "J.-B. BAILLIÈRE ET FILS",
+    "publication_place": "PARIS",
+    "date": "1871",
+    "identifier": "http://gallica.bnf.fr/ark:/12148/bpt6k91825m",
+    "iiif_manifest": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k91825m/manifest.json"
+  },
+  "ark": "bpt6k91825m",
+  "typographie": {
+    "category": "Serif/Roman",
+    "subtype": "Didone (Modern)"
+  },
+  "_annotations": {
+    "metadata.title": {
+      "readability": "Readable"
     },
-    "langue": "fr (French)",
-    "ark": "bpt6k91825m",
-    "typographie_suggestion": {
-        "category": "Serif/Roman",
-        "subtype": "Didone (Modern)",
-        "explanation": "The typeface features the high contrast between thick and thin strokes, vertical stress, and thin, horizontal serifs characteristic of the \"Modern\" or Didone style (similar to Bodoni or Didot), which was prevalent in 19th-century academic and formal printing.",
-        "raw": "Category: Serif/Roman\nSubtype: Didone (Modern)\nExplanation: The typeface features the high contrast between thick and thin strokes, vertical stress, and thin, horizontal serifs characteristic of the \"Modern\" or Didone style (similar to Bodoni or Didot), which was prevalent in 19th-century academic and formal printing."
+    "metadata.title_complement": {
+      "readability": "Readable"
     },
-    "typographie": {
-        "category": "Serif/Roman",
-        "subtype": "Didone (Modern)"
+    "metadata.volume_number": {
+      "readability": "Not readable",
+      "cause": "absent"
     },
-    "_annotations": {
-        "metadata.title": {
-            "lisibilite": "Lisible"
-        },
-        "metadata.title_complement": {
-            "lisibilite": "Lisible"
-        },
-        "metadata.volume_number": {
-            "lisibilite": "Non lisible",
-            "cause": "absent"
-        },
-        "metadata.authors": {
-            "lisibilite": "Lisible",
-            "correction": "L. MICÉ"
-        },
-        "metadata.publisher": {
-            "lisibilite": "Lisible"
-        },
-        "metadata.publication_place": {
-            "lisibilite": "Lisible"
-        },
-        "metadata.date": {
-            "lisibilite": "Lisible",
-            "correction": "1871"
-        },
-        "langue": {
-            "lisibilite": "Lisible"
-        },
-        "metadata.identifier": {
-            "lisibilite": "Lisible"
-        },
-        "metadata.iiif_manifest": {
-            "lisibilite": "Lisible"
-        },
-        "ark": {
-            "lisibilite": "Lisible"
-        }
+    "metadata.authors": {
+      "readability": "Readable",
+      "correction": "L. MICÉ"
+    },
+    "metadata.publisher": {
+      "readability": "Readable"
+    },
+    "metadata.publication_place": {
+      "readability": "Readable"
+    },
+    "metadata.date": {
+      "readability": "Readable",
+      "correction": "1871"
+    },
+    "language": {
+      "readability": "Readable"
+    },
+    "metadata.identifier": {
+      "readability": "Readable"
+    },
+    "metadata.iiif_manifest": {
+      "readability": "Readable"
+    },
+    "ark": {
+      "readability": "Readable"
     }
+  },
+  "language": "fr (French)"
 }

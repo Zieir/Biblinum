@@ -1,64 +1,58 @@
 {
-    "metadata": {
-        "title": "SCHEURER-KESTNER",
-        "title_complement": "(1833-1899)",
-        "volume_number": "",
-        "authors": "",
-        "publisher": "P.-V. STOCK, ÉDITEUR",
-        "publication_place": "PARIS",
-        "date": "",
-        "identifier": "http://gallica.bnf.fr/ark:/12148/bpt6k90571q",
-        "iiif_manifest": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k90571q/manifest.json"
+  "metadata": {
+    "title": "SCHEURER-KESTNER",
+    "title_complement": "(1833-1899)",
+    "volume_number": "",
+    "authors": "",
+    "publisher": "P.-V. STOCK, ÉDITEUR",
+    "publication_place": "PARIS",
+    "date": "",
+    "identifier": "http://gallica.bnf.fr/ark:/12148/bpt6k90571q",
+    "iiif_manifest": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k90571q/manifest.json"
+  },
+  "ark": "bpt6k90571q",
+  "typographie": {
+    "category": "Serif/Roman",
+    "subtype": "Old Style"
+  },
+  "_annotations": {
+    "metadata.title": {
+      "readability": "Readable"
     },
-    "langue": "fr (French)",
-    "ark": "bpt6k90571q",
-    "typographie_suggestion": {
-        "category": "Serif/Roman",
-        "subtype": "Old Style",
-        "explanation": "The typeface features moderate contrast between thick and thin strokes, bracketed serifs, and a slight diagonal stress in the letterforms, which are characteristic of Old Style faces common in traditional book publishing.",
-        "raw": "Category: Serif/Roman\nSubtype: Old Style\nExplanation: The typeface features moderate contrast between thick and thin strokes, bracketed serifs, and a slight diagonal stress in the letterforms, which are characteristic of Old Style faces common in traditional book publishing."
+    "metadata.title_complement": {
+      "readability": "Readable",
+      "correction": "(1833-1899)"
     },
-    "typographie": {
-        "category": "Serif/Roman",
-        "subtype": "Old Style"
+    "metadata.volume_number": {
+      "readability": "Not readable",
+      "cause": "absent"
     },
-    "_annotations": {
-        "metadata.title": {
-            "lisibilite": "Lisible"
-        },
-        "metadata.title_complement": {
-            "lisibilite": "Lisible",
-            "correction": "(1833-1899)"
-        },
-        "metadata.volume_number": {
-            "lisibilite": "Non lisible",
-            "cause": "absent"
-        },
-        "metadata.authors": {
-            "lisibilite": "Non lisible",
-            "cause": "absent"
-        },
-        "metadata.publisher": {
-            "lisibilite": "Lisible"
-        },
-        "metadata.publication_place": {
-            "lisibilite": "Lisible"
-        },
-        "metadata.date": {
-            "lisibilite": "Non lisible",
-            "cause": "absent"
-        },
-        "langue": {
-            "lisibilite": "Lisible"
-        },
-        "metadata.identifier": {
-            "lisibilite": "Lisible"
-        },
-        "metadata.iiif_manifest": {
-            "lisibilite": "Lisible"
-        },
-        "ark": {
-            "lisibilite": "Lisible"
-        }
+    "metadata.authors": {
+      "readability": "Not readable",
+      "cause": "absent"
+    },
+    "metadata.publisher": {
+      "readability": "Readable"
+    },
+    "metadata.publication_place": {
+      "readability": "Readable"
+    },
+    "metadata.date": {
+      "readability": "Not readable",
+      "cause": "absent"
+    },
+    "language": {
+      "readability": "Readable"
+    },
+    "metadata.identifier": {
+      "readability": "Readable"
+    },
+    "metadata.iiif_manifest": {
+      "readability": "Readable"
+    },
+    "ark": {
+      "readability": "Readable"
     }
+  },
+  "language": "fr (French)"
 }

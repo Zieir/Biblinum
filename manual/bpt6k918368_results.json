@@ -1,64 +1,58 @@
 {
-    "metadata": {
-        "title": "LA CHIMIE PHYSIQUE ET SES APPLICATIONS",
-        "title_complement": "huit leçons faites sur l'invitation de l'Université de Chicago, du 20 au 24 juin 1901",
-        "volume_number": "",
-        "authors": "J. H. VAN'T HOFF",
-        "publisher": "LIBRAIRIE SCIENTIFIQUE A. HERMANN",
-        "publication_place": "PARIS",
-        "date": "1903",
-        "identifier": "http://gallica.bnf.fr/ark:/12148/bpt6k918368",
-        "iiif_manifest": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k918368/manifest.json"
+  "metadata": {
+    "title": "LA CHIMIE PHYSIQUE ET SES APPLICATIONS",
+    "title_complement": "huit leçons faites sur l'invitation de l'Université de Chicago, du 20 au 24 juin 1901",
+    "volume_number": "",
+    "authors": "J. H. VAN'T HOFF",
+    "publisher": "LIBRAIRIE SCIENTIFIQUE A. HERMANN",
+    "publication_place": "PARIS",
+    "date": "1903",
+    "identifier": "http://gallica.bnf.fr/ark:/12148/bpt6k918368",
+    "iiif_manifest": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k918368/manifest.json"
+  },
+  "ark": "bpt6k918368",
+  "typographie": {
+    "category": "Serif/Roman",
+    "subtype": "Didone (Modern)"
+  },
+  "_annotations": {
+    "metadata.title": {
+      "readability": "Readable",
+      "correction": "LA CHIMIE PHYSIQUE ET SES APPLICATIONS"
     },
-    "langue": "fr (French)",
-    "ark": "bpt6k918368",
-    "typographie_suggestion": {
-        "category": "Serif/Roman",
-        "subtype": "Didone (Modern)",
-        "explanation": "The primary titles use a high-contrast serif typeface characterized by a sharp difference between thick and thin strokes and vertical stress, typical of the Didone style (such as Bodoni or Didot) prevalent in formal academic publishing of the early 20th century.",
-        "raw": "Category: Serif/Roman\nSubtype: Didone (Modern)\nExplanation: The primary titles use a high-contrast serif typeface characterized by a sharp difference between thick and thin strokes and vertical stress, typical of the Didone style (such as Bodoni or Didot) prevalent in formal academic publishing of the early 20th century."
+    "metadata.title_complement": {
+      "readability": "Readable",
+      "correction": "huit leçons faites sur l'invitation de l'Université de Chicago, du 20 au 24 juin 1901"
     },
-    "typographie": {
-        "category": "Serif/Roman",
-        "subtype": "Didone (Modern)"
+    "metadata.volume_number": {
+      "readability": "Not readable",
+      "cause": "absent"
     },
-    "_annotations": {
-        "metadata.title": {
-            "lisibilite": "Lisible",
-            "correction": "LA CHIMIE PHYSIQUE ET SES APPLICATIONS"
-        },
-        "metadata.title_complement": {
-            "lisibilite": "Lisible",
-            "correction": "huit leçons faites sur l'invitation de l'Université de Chicago, du 20 au 24 juin 1901"
-        },
-        "metadata.volume_number": {
-            "lisibilite": "Non lisible",
-            "cause": "absent"
-        },
-        "metadata.authors": {
-            "lisibilite": "Lisible",
-            "correction": "J. H. VAN'T HOFF"
-        },
-        "metadata.publisher": {
-            "lisibilite": "Lisible"
-        },
-        "metadata.publication_place": {
-            "lisibilite": "Lisible"
-        },
-        "metadata.date": {
-            "lisibilite": "Lisible"
-        },
-        "langue": {
-            "lisibilite": "Lisible"
-        },
-        "metadata.identifier": {
-            "lisibilite": "Lisible"
-        },
-        "metadata.iiif_manifest": {
-            "lisibilite": "Lisible"
-        },
-        "ark": {
-            "lisibilite": "Lisible"
-        }
+    "metadata.authors": {
+      "readability": "Readable",
+      "correction": "J. H. VAN'T HOFF"
+    },
+    "metadata.publisher": {
+      "readability": "Readable"
+    },
+    "metadata.publication_place": {
+      "readability": "Readable"
+    },
+    "metadata.date": {
+      "readability": "Readable"
+    },
+    "language": {
+      "readability": "Readable"
+    },
+    "metadata.identifier": {
+      "readability": "Readable"
+    },
+    "metadata.iiif_manifest": {
+      "readability": "Readable"
+    },
+    "ark": {
+      "readability": "Readable"
     }
+  },
+  "language": "fr (French)"
 }

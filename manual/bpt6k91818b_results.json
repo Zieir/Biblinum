@@ -1,66 +1,60 @@
 {
-    "metadata": {
-        "title": "PHARMACOPÉE RAISONNÉE",
-        "title_complement": "ou TRAITÉ DE PHARMACIE PRATIQUE ET THÉORIQUE",
-        "volume_number": "",
-        "authors": "N.-E. HENRY; G. GUIBOURT",
-        "publisher": "J.-S. Chaudé",
-        "publication_place": "PARIS",
-        "date": "1834",
-        "identifier": "http://gallica.bnf.fr/ark:/12148/bpt6k91818b",
-        "iiif_manifest": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k91818b/manifest.json"
+  "metadata": {
+    "title": "PHARMACOPÉE RAISONNÉE",
+    "title_complement": "ou TRAITÉ DE PHARMACIE PRATIQUE ET THÉORIQUE",
+    "volume_number": "",
+    "authors": "N.-E. HENRY; G. GUIBOURT",
+    "publisher": "J.-S. Chaudé",
+    "publication_place": "PARIS",
+    "date": "1834",
+    "identifier": "http://gallica.bnf.fr/ark:/12148/bpt6k91818b",
+    "iiif_manifest": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k91818b/manifest.json"
+  },
+  "ark": "bpt6k91818b",
+  "typographie": {
+    "category": "Serif/Roman",
+    "subtype": "Didone (Modern)"
+  },
+  "_annotations": {
+    "metadata.title": {
+      "readability": "Readable",
+      "correction": "PHARMACOPÉE RAISONNÉE"
     },
-    "langue": "fr (French)",
-    "ark": "bpt6k91818b",
-    "typographie_suggestion": {
-        "category": "Serif/Roman",
-        "subtype": "Didone (Modern)",
-        "explanation": "The typeface features the high contrast between thick and thin strokes, vertical stress, and small, horizontal serifs characteristic of the \"Modern\" or Didone style (popularized by Bodoni and Didot) common in 19th-century academic and medical printing.",
-        "raw": "Category: Serif/Roman\nSubtype: Didone (Modern)\nExplanation: The typeface features the high contrast between thick and thin strokes, vertical stress, and small, horizontal serifs characteristic of the \"Modern\" or Didone style (popularized by Bodoni and Didot) common in 19th-century academic and medical printing."
+    "metadata.title_complement": {
+      "readability": "Readable",
+      "correction": "ou TRAITÉ DE PHARMACIE PRATIQUE ET THÉORIQUE"
     },
-    "typographie": {
-        "category": "Serif/Roman",
-        "subtype": "Didone (Modern)"
+    "metadata.volume_number": {
+      "readability": "Not readable",
+      "cause": "absent"
     },
-    "_annotations": {
-        "metadata.title": {
-            "lisibilite": "Lisible",
-            "correction": "PHARMACOPÉE RAISONNÉE"
-        },
-        "metadata.title_complement": {
-            "lisibilite": "Lisible",
-            "correction": "ou TRAITÉ DE PHARMACIE PRATIQUE ET THÉORIQUE"
-        },
-        "metadata.volume_number": {
-            "lisibilite": "Non lisible",
-            "cause": "absent"
-        },
-        "metadata.authors": {
-            "lisibilite": "Lisible",
-            "correction": "N.-E. HENRY; G. GUIBOURT"
-        },
-        "metadata.publisher": {
-            "lisibilite": "Lisible",
-            "correction": "J.-S. Chaudé"
-        },
-        "metadata.publication_place": {
-            "lisibilite": "Lisible"
-        },
-        "metadata.date": {
-            "lisibilite": "Lisible",
-            "correction": "1834"
-        },
-        "langue": {
-            "lisibilite": "Lisible"
-        },
-        "metadata.identifier": {
-            "lisibilite": "Lisible"
-        },
-        "metadata.iiif_manifest": {
-            "lisibilite": "Lisible"
-        },
-        "ark": {
-            "lisibilite": "Lisible"
-        }
+    "metadata.authors": {
+      "readability": "Readable",
+      "correction": "N.-E. HENRY; G. GUIBOURT"
+    },
+    "metadata.publisher": {
+      "readability": "Readable",
+      "correction": "J.-S. Chaudé"
+    },
+    "metadata.publication_place": {
+      "readability": "Readable"
+    },
+    "metadata.date": {
+      "readability": "Readable",
+      "correction": "1834"
+    },
+    "language": {
+      "readability": "Readable"
+    },
+    "metadata.identifier": {
+      "readability": "Readable"
+    },
+    "metadata.iiif_manifest": {
+      "readability": "Readable"
+    },
+    "ark": {
+      "readability": "Readable"
     }
+  },
+  "language": "fr (French)"
 }

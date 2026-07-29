@@ -1,66 +1,60 @@
 {
-    "metadata": {
-        "title": "HET VAN 'T HOFF-MONUMENT",
-        "title_complement": "TE ROTTERDAM",
-        "volume_number": "",
-        "authors": "",
-        "publisher": "Naamlooze Vennootschap ;  Van Seldam",
-        "publication_place": "Amsterdam",
-        "date": "",
-        "identifier": "http://gallica.bnf.fr/ark:/12148/bpt6k90562r",
-        "iiif_manifest": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k90562r/manifest.json"
+  "metadata": {
+    "title": "HET VAN 'T HOFF-MONUMENT",
+    "title_complement": "TE ROTTERDAM",
+    "volume_number": "",
+    "authors": "",
+    "publisher": "Naamlooze Vennootschap ;  Van Seldam",
+    "publication_place": "Amsterdam",
+    "date": "",
+    "identifier": "http://gallica.bnf.fr/ark:/12148/bpt6k90562r",
+    "iiif_manifest": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k90562r/manifest.json"
+  },
+  "ark": "bpt6k90562r",
+  "typographie": {
+    "category": "Sans-serif",
+    "subtype": "Grotesque"
+  },
+  "_annotations": {
+    "metadata.title": {
+      "readability": "Readable",
+      "correction": "HET VAN 'T HOFF-MONUMENT"
     },
-    "langue": "dut | néerlandais",
-    "ark": "bpt6k90562r",
-    "typographie_suggestion": {
-        "category": "Sans-serif",
-        "subtype": "Grotesque",
-        "explanation": "The typeface features clean, blunt ends without serifs and a relatively uniform stroke weight, characteristic of early 20th-century industrial sans-serifs.",
-        "raw": "Category: Sans-serif\nSubtype: Grotesque\nExplanation: The typeface features clean, blunt ends without serifs and a relatively uniform stroke weight, characteristic of early 20th-century industrial sans-serifs."
+    "metadata.title_complement": {
+      "readability": "Readable"
     },
-    "typographie": {
-        "category": "Sans-serif",
-        "subtype": "Grotesque"
+    "metadata.volume_number": {
+      "readability": "Not readable",
+      "cause": "absent"
     },
-    "_annotations": {
-        "metadata.title": {
-            "lisibilite": "Lisible",
-            "correction": "HET VAN 'T HOFF-MONUMENT"
-        },
-        "metadata.title_complement": {
-            "lisibilite": "Lisible"
-        },
-        "metadata.volume_number": {
-            "lisibilite": "Non lisible",
-            "cause": "absent"
-        },
-        "metadata.authors": {
-            "lisibilite": "Non lisible",
-            "cause": "absent"
-        },
-        "metadata.publisher": {
-            "lisibilite": "Lisible",
-            "correction": "Naamlooze Vennootschap ;  Van Seldam"
-        },
-        "metadata.publication_place": {
-            "lisibilite": "Lisible",
-            "correction": "Amsterdam"
-        },
-        "metadata.date": {
-            "lisibilite": "Non lisible",
-            "cause": "absent"
-        },
-        "langue": {
-            "lisibilite": "Lisible"
-        },
-        "metadata.identifier": {
-            "lisibilite": "Lisible"
-        },
-        "metadata.iiif_manifest": {
-            "lisibilite": "Lisible"
-        },
-        "ark": {
-            "lisibilite": "Lisible"
-        }
+    "metadata.authors": {
+      "readability": "Not readable",
+      "cause": "absent"
+    },
+    "metadata.publisher": {
+      "readability": "Readable",
+      "correction": "Naamlooze Vennootschap ;  Van Seldam"
+    },
+    "metadata.publication_place": {
+      "readability": "Readable",
+      "correction": "Amsterdam"
+    },
+    "metadata.date": {
+      "readability": "Not readable",
+      "cause": "absent"
+    },
+    "language": {
+      "readability": "Readable"
+    },
+    "metadata.identifier": {
+      "readability": "Readable"
+    },
+    "metadata.iiif_manifest": {
+      "readability": "Readable"
+    },
+    "ark": {
+      "readability": "Readable"
     }
+  },
+  "language": "dut | néerlandais"
 }

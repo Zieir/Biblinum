@@ -1,63 +1,57 @@
 {
-    "metadata": {
-        "title": "Lehrbuch der physiologischen Chemie mit Berücksichtigung der pathologischen Verhältnisse",
-        "title_complement": "Für Studierende und Aerzte",
-        "volume_number": "",
-        "authors": "Richard Neumeister",
-        "publisher": "Gustav Fischer",
-        "publication_place": "Jena",
-        "date": "1897",
-        "identifier": "http://gallica.bnf.fr/ark:/12148/bpt6k90553s",
-        "iiif_manifest": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k90553s/manifest.json"
+  "metadata": {
+    "title": "Lehrbuch der physiologischen Chemie mit Berücksichtigung der pathologischen Verhältnisse",
+    "title_complement": "Für Studierende und Aerzte",
+    "volume_number": "",
+    "authors": "Richard Neumeister",
+    "publisher": "Gustav Fischer",
+    "publication_place": "Jena",
+    "date": "1897",
+    "identifier": "http://gallica.bnf.fr/ark:/12148/bpt6k90553s",
+    "iiif_manifest": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k90553s/manifest.json"
+  },
+  "ark": "bpt6k90553s",
+  "typographie": {
+    "category": "Serif/Roman",
+    "subtype": "Modern / Didone"
+  },
+  "_annotations": {
+    "metadata.title": {
+      "readability": "Readable",
+      "correction": "Lehrbuch der physiologischen Chemie mit Berücksichtigung der pathologischen Verhältnisse"
     },
-    "langue": "de (German)",
-    "ark": "bpt6k90553s",
-    "typographie_suggestion": {
-        "category": "Serif/Roman",
-        "subtype": "Modern / Didone",
-        "explanation": "The text features high contrast between thick and thin strokes, vertical stress, and thin, horizontal serifs, which are characteristic of the \"Modern\" or Didone style popular in academic and scientific publishing during the late 19th century.",
-        "raw": "Category: Serif/Roman\nSubtype: Modern / Didone\nExplanation: The text features high contrast between thick and thin strokes, vertical stress, and thin, horizontal serifs, which are characteristic of the \"Modern\" or Didone style popular in academic and scientific publishing during the late 19th century."
+    "metadata.title_complement": {
+      "readability": "Readable",
+      "correction": "Für Studierende und Aerzte"
     },
-    "typographie": {
-        "category": "Serif/Roman",
-        "subtype": "Modern / Didone"
+    "metadata.volume_number": {
+      "readability": "Not readable",
+      "cause": "absent"
     },
-    "_annotations": {
-        "metadata.title": {
-            "lisibilite": "Lisible",
-            "correction": "Lehrbuch der physiologischen Chemie mit Berücksichtigung der pathologischen Verhältnisse"
-        },
-        "metadata.title_complement": {
-            "lisibilite": "Lisible",
-            "correction": "Für Studierende und Aerzte"
-        },
-        "metadata.volume_number": {
-            "lisibilite": "Non lisible",
-            "cause": "absent"
-        },
-        "metadata.authors": {
-            "lisibilite": "Lisible"
-        },
-        "metadata.publisher": {
-            "lisibilite": "Lisible"
-        },
-        "metadata.publication_place": {
-            "lisibilite": "Lisible"
-        },
-        "metadata.date": {
-            "lisibilite": "Lisible"
-        },
-        "langue": {
-            "lisibilite": "Lisible"
-        },
-        "metadata.identifier": {
-            "lisibilite": "Lisible"
-        },
-        "metadata.iiif_manifest": {
-            "lisibilite": "Lisible"
-        },
-        "ark": {
-            "lisibilite": "Lisible"
-        }
+    "metadata.authors": {
+      "readability": "Readable"
+    },
+    "metadata.publisher": {
+      "readability": "Readable"
+    },
+    "metadata.publication_place": {
+      "readability": "Readable"
+    },
+    "metadata.date": {
+      "readability": "Readable"
+    },
+    "language": {
+      "readability": "Readable"
+    },
+    "metadata.identifier": {
+      "readability": "Readable"
+    },
+    "metadata.iiif_manifest": {
+      "readability": "Readable"
+    },
+    "ark": {
+      "readability": "Readable"
     }
+  },
+  "language": "de (German)"
 }

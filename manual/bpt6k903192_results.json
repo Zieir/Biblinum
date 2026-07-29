@@ -1,66 +1,60 @@
 {
-    "metadata": {
-        "title": "ANLEITUNG ZUR QUANTITATIVEN CHEMISCHEN ANALYSE",
-        "title_complement": "FÜR ANFÄNGER UND GEÜBTERE",
-        "volume_number": "ZWEITER BAND",
-        "authors": "C. REMIGIUS FRESENIUS",
-        "publisher": "Friedrich Vieweg und Sohn",
-        "publication_place": "Braunschweig",
-        "date": "1877-1887",
-        "identifier": "http://gallica.bnf.fr/ark:/12148/bpt6k903192",
-        "iiif_manifest": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k903192/manifest.json"
+  "metadata": {
+    "title": "ANLEITUNG ZUR QUANTITATIVEN CHEMISCHEN ANALYSE",
+    "title_complement": "FÜR ANFÄNGER UND GEÜBTERE",
+    "volume_number": "ZWEITER BAND",
+    "authors": "C. REMIGIUS FRESENIUS",
+    "publisher": "Friedrich Vieweg und Sohn",
+    "publication_place": "Braunschweig",
+    "date": "1877-1887",
+    "identifier": "http://gallica.bnf.fr/ark:/12148/bpt6k903192",
+    "iiif_manifest": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k903192/manifest.json"
+  },
+  "ark": "bpt6k903192",
+  "typographie": {
+    "category": "Serif/Roman",
+    "subtype": "Didone (Modern)"
+  },
+  "_annotations": {
+    "metadata.title": {
+      "readability": "Readable"
     },
-    "langue": "de (German)",
-    "ark": "bpt6k903192",
-    "typographie_suggestion": {
-        "category": "Serif/Roman",
-        "subtype": "Didone (Modern)",
-        "explanation": "The typeface features a high contrast between thick and thin strokes, vertical stress, and small, unbracketed (hairline) serifs, which are characteristic of the Modern/Didone style popular in the late 18th and 19th centuries.",
-        "raw": "Category: Serif/Roman\nSubtype: Didone (Modern)\nExplanation: The typeface features a high contrast between thick and thin strokes, vertical stress, and small, unbracketed (hairline) serifs, which are characteristic of the Modern/Didone style popular in the late 18th and 19th centuries."
+    "metadata.title_complement": {
+      "readability": "Readable",
+      "correction": "FÜR ANFÄNGER UND GEÜBTERE"
     },
-    "typographie": {
-        "category": "Serif/Roman",
-        "subtype": "Didone (Modern)"
+    "metadata.volume_number": {
+      "readability": "Readable",
+      "correction": "ZWEITER BAND"
     },
-    "_annotations": {
-        "metadata.title": {
-            "lisibilite": "Lisible"
-        },
-        "metadata.title_complement": {
-            "lisibilite": "Lisible",
-            "correction": "FÜR ANFÄNGER UND GEÜBTERE"
-        },
-        "metadata.volume_number": {
-            "lisibilite": "Lisible",
-            "correction": "ZWEITER BAND"
-        },
-        "metadata.authors": {
-            "lisibilite": "Lisible",
-            "correction": "C. REMIGIUS FRESENIUS"
-        },
-        "metadata.publisher": {
-            "lisibilite": "Lisible",
-            "correction": "Friedrich Vieweg und Sohn"
-        },
-        "metadata.publication_place": {
-            "lisibilite": "Lisible",
-            "correction": "Braunschweig"
-        },
-        "metadata.date": {
-            "lisibilite": "Lisible",
-            "correction": "1877-1887"
-        },
-        "langue": {
-            "lisibilite": "Lisible"
-        },
-        "metadata.identifier": {
-            "lisibilite": "Lisible"
-        },
-        "metadata.iiif_manifest": {
-            "lisibilite": "Lisible"
-        },
-        "ark": {
-            "lisibilite": "Lisible"
-        }
+    "metadata.authors": {
+      "readability": "Readable",
+      "correction": "C. REMIGIUS FRESENIUS"
+    },
+    "metadata.publisher": {
+      "readability": "Readable",
+      "correction": "Friedrich Vieweg und Sohn"
+    },
+    "metadata.publication_place": {
+      "readability": "Readable",
+      "correction": "Braunschweig"
+    },
+    "metadata.date": {
+      "readability": "Readable",
+      "correction": "1877-1887"
+    },
+    "language": {
+      "readability": "Readable"
+    },
+    "metadata.identifier": {
+      "readability": "Readable"
+    },
+    "metadata.iiif_manifest": {
+      "readability": "Readable"
+    },
+    "ark": {
+      "readability": "Readable"
     }
+  },
+  "language": "de (German)"
 }

@@ -1,67 +1,61 @@
 {
-    "metadata": {
-        "title": "TRAITÉ ÉLÉMENTAIRE DE PHYSIQUE THÉORIQUE ET EXPÉRIMENTALE",
-        "title_complement": " avec les applications à la météorologie et aux arts industriels",
-        "volume_number": "TOME PREMIER",
-        "authors": "P.-A. Daguin",
-        "publisher": "ÉDOUARD PRIVAT; DEZOBRY & E. MAGDELEINE",
-        "publication_place": "TOULOUSE; PARIS",
-        "date": "1855",
-        "identifier": "http://gallica.bnf.fr/ark:/12148/bpt6k90309r",
-        "iiif_manifest": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k90309r/manifest.json"
+  "metadata": {
+    "title": "TRAITÉ ÉLÉMENTAIRE DE PHYSIQUE THÉORIQUE ET EXPÉRIMENTALE",
+    "title_complement": " avec les applications à la météorologie et aux arts industriels",
+    "volume_number": "TOME PREMIER",
+    "authors": "P.-A. Daguin",
+    "publisher": "ÉDOUARD PRIVAT; DEZOBRY & E. MAGDELEINE",
+    "publication_place": "TOULOUSE; PARIS",
+    "date": "1855",
+    "identifier": "http://gallica.bnf.fr/ark:/12148/bpt6k90309r",
+    "iiif_manifest": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k90309r/manifest.json"
+  },
+  "ark": "bpt6k90309r",
+  "typographie": {
+    "category": "Serif/Roman",
+    "subtype": "Didone (Modern)"
+  },
+  "_annotations": {
+    "metadata.title": {
+      "readability": "Readable",
+      "correction": "TRAITÉ ÉLÉMENTAIRE DE PHYSIQUE THÉORIQUE ET EXPÉRIMENTALE"
     },
-    "langue": "fr (French)",
-    "ark": "bpt6k90309r",
-    "typographie_suggestion": {
-        "category": "Serif/Roman",
-        "subtype": "Didone (Modern)",
-        "explanation": "The primary headings (e.g., \"DE PHYSIQUE\") exhibit the classic characteristics of the Didone style: a high contrast between thick and thin strokes, vertical stress, and small, unbracketed (hairline) serifs. This style was highly prevalent in French academic and official printing during the early to mid-19th century.",
-        "raw": "Category: Serif/Roman\nSubtype: Didone (Modern)\nExplanation: The primary headings (e.g., \"DE PHYSIQUE\") exhibit the classic characteristics of the Didone style: a high contrast between thick and thin strokes, vertical stress, and small, unbracketed (hairline) serifs. This style was highly prevalent in French academic and official printing during the early to mid-19th century."
+    "metadata.title_complement": {
+      "readability": "Readable",
+      "correction": " avec les applications à la météorologie et aux arts industriels"
     },
-    "typographie": {
-        "category": "Serif/Roman",
-        "subtype": "Didone (Modern)"
+    "metadata.volume_number": {
+      "readability": "Readable",
+      "correction": "TOME PREMIER"
     },
-    "_annotations": {
-        "metadata.title": {
-            "lisibilite": "Lisible",
-            "correction": "TRAITÉ ÉLÉMENTAIRE DE PHYSIQUE THÉORIQUE ET EXPÉRIMENTALE"
-        },
-        "metadata.title_complement": {
-            "lisibilite": "Lisible",
-            "correction": " avec les applications à la météorologie et aux arts industriels"
-        },
-        "metadata.volume_number": {
-            "lisibilite": "Lisible",
-            "correction": "TOME PREMIER"
-        },
-        "metadata.authors": {
-            "lisibilite": "Lisible",
-            "correction": "P.-A. Daguin"
-        },
-        "metadata.publisher": {
-            "lisibilite": "Lisible",
-            "correction": "ÉDOUARD PRIVAT; DEZOBRY & E. MAGDELEINE"
-        },
-        "metadata.publication_place": {
-            "lisibilite": "Lisible",
-            "correction": "TOULOUSE; PARIS"
-        },
-        "metadata.date": {
-            "lisibilite": "Lisible",
-            "correction": "1855"
-        },
-        "langue": {
-            "lisibilite": "Lisible"
-        },
-        "metadata.identifier": {
-            "lisibilite": "Lisible"
-        },
-        "metadata.iiif_manifest": {
-            "lisibilite": "Lisible"
-        },
-        "ark": {
-            "lisibilite": "Lisible"
-        }
+    "metadata.authors": {
+      "readability": "Readable",
+      "correction": "P.-A. Daguin"
+    },
+    "metadata.publisher": {
+      "readability": "Readable",
+      "correction": "ÉDOUARD PRIVAT; DEZOBRY & E. MAGDELEINE"
+    },
+    "metadata.publication_place": {
+      "readability": "Readable",
+      "correction": "TOULOUSE; PARIS"
+    },
+    "metadata.date": {
+      "readability": "Readable",
+      "correction": "1855"
+    },
+    "language": {
+      "readability": "Readable"
+    },
+    "metadata.identifier": {
+      "readability": "Readable"
+    },
+    "metadata.iiif_manifest": {
+      "readability": "Readable"
+    },
+    "ark": {
+      "readability": "Readable"
     }
+  },
+  "language": "fr (French)"
 }

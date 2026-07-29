@@ -1,65 +1,59 @@
 {
-    "metadata": {
-        "title": "A SHORT MANUAL OF ANALYTICAL CHEMISTRY",
-        "title_complement": "qualitative and quantitative-anorganic and organic",
-        "volume_number": "",
-        "authors": "MUTER, JOHN",
-        "publisher": "W. Baxter",
-        "publication_place": "LONDON",
-        "date": "1887",
-        "identifier": "http://gallica.bnf.fr/ark:/12148/bpt6k90012t",
-        "iiif_manifest": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k90012t/manifest.json"
+  "metadata": {
+    "title": "A SHORT MANUAL OF ANALYTICAL CHEMISTRY",
+    "title_complement": "qualitative and quantitative-anorganic and organic",
+    "volume_number": "",
+    "authors": "MUTER, JOHN",
+    "publisher": "W. Baxter",
+    "publication_place": "LONDON",
+    "date": "1887",
+    "identifier": "http://gallica.bnf.fr/ark:/12148/bpt6k90012t",
+    "iiif_manifest": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k90012t/manifest.json"
+  },
+  "ark": "bpt6k90012t",
+  "typographie": {
+    "category": "Sans-serif",
+    "subtype": "Grotesque"
+  },
+  "_annotations": {
+    "metadata.title": {
+      "readability": "Readable"
     },
-    "langue": "en (English)",
-    "ark": "bpt6k90012t",
-    "typographie_suggestion": {
-        "category": "Sans-serif",
-        "subtype": "Grotesque",
-        "explanation": "The typeface features clean, blunt ends without serifs, a uniform stroke weight, and a utilitarian, industrial appearance characteristic of early 20th-century Grotesque sans-serifs.",
-        "raw": "Category: Sans-serif\nSubtype: Grotesque\nExplanation: The typeface features clean, blunt ends without serifs, a uniform stroke weight, and a utilitarian, industrial appearance characteristic of early 20th-century Grotesque sans-serifs."
+    "metadata.title_complement": {
+      "readability": "Readable",
+      "correction": "qualitative and quantitative-anorganic and organic"
     },
-    "typographie": {
-        "category": "Sans-serif",
-        "subtype": "Grotesque"
+    "metadata.volume_number": {
+      "readability": "Not readable",
+      "cause": "absent"
     },
-    "_annotations": {
-        "metadata.title": {
-            "lisibilite": "Lisible"
-        },
-        "metadata.title_complement": {
-            "lisibilite": "Lisible",
-            "correction": "qualitative and quantitative-anorganic and organic"
-        },
-        "metadata.volume_number": {
-            "lisibilite": "Non lisible",
-            "cause": "absent"
-        },
-        "metadata.authors": {
-            "lisibilite": "Lisible"
-        },
-        "metadata.publisher": {
-            "lisibilite": "Lisible",
-            "correction": "W. Baxter"
-        },
-        "metadata.publication_place": {
-            "lisibilite": "Lisible",
-            "correction": "LONDON"
-        },
-        "metadata.date": {
-            "lisibilite": "Lisible",
-            "correction": "1887"
-        },
-        "langue": {
-            "lisibilite": "Lisible"
-        },
-        "metadata.identifier": {
-            "lisibilite": "Lisible"
-        },
-        "metadata.iiif_manifest": {
-            "lisibilite": "Lisible"
-        },
-        "ark": {
-            "lisibilite": "Lisible"
-        }
+    "metadata.authors": {
+      "readability": "Readable"
+    },
+    "metadata.publisher": {
+      "readability": "Readable",
+      "correction": "W. Baxter"
+    },
+    "metadata.publication_place": {
+      "readability": "Readable",
+      "correction": "LONDON"
+    },
+    "metadata.date": {
+      "readability": "Readable",
+      "correction": "1887"
+    },
+    "language": {
+      "readability": "Readable"
+    },
+    "metadata.identifier": {
+      "readability": "Readable"
+    },
+    "metadata.iiif_manifest": {
+      "readability": "Readable"
+    },
+    "ark": {
+      "readability": "Readable"
     }
+  },
+  "language": "en (English)"
 }

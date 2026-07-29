@@ -1,62 +1,56 @@
 {
-    "metadata": {
-        "title": "ЯВЛЕНІЕ АССОЦІАЦІИ",
-        "title_complement": "О МОЛЕКУЛАХЪ, ОБРАЗОВАННЫХЪ СОЕДИНЕНІЕМЪ ТОЖДЕСТВЕННЫХЪ ГРУППЪ",
-        "volume_number": "",
-        "authors": " В. Я. Нурбатова",
-        "publisher": "Типо-литография М. П. Фролова",
-        "publication_place": "С.-ПЕТЕРБУРГЪ",
-        "date": "1908",
-        "identifier": "http://gallica.bnf.fr/ark:/12148/bpt6k90666d",
-        "iiif_manifest": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k90666d/manifest.json"
+  "metadata": {
+    "title": "ЯВЛЕНІЕ АССОЦІАЦІИ",
+    "title_complement": "О МОЛЕКУЛАХЪ, ОБРАЗОВАННЫХЪ СОЕДИНЕНІЕМЪ ТОЖДЕСТВЕННЫХЪ ГРУППЪ",
+    "volume_number": "",
+    "authors": " В. Я. Нурбатова",
+    "publisher": "Типо-литография М. П. Фролова",
+    "publication_place": "С.-ПЕТЕРБУРГЪ",
+    "date": "1908",
+    "identifier": "http://gallica.bnf.fr/ark:/12148/bpt6k90666d",
+    "iiif_manifest": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k90666d/manifest.json"
+  },
+  "ark": "bpt6k90666d",
+  "typographie": {
+    "category": "Serif/Roman",
+    "subtype": "Modern / Didone"
+  },
+  "_annotations": {
+    "metadata.title": {
+      "readability": "Readable"
     },
-    "langue": "ru (Russian)",
-    "ark": "bpt6k90666d",
-    "typographie_suggestion": {
-        "category": "Serif/Roman",
-        "subtype": "Modern / Didone",
-        "explanation": "The typeface features a high contrast between thick and thin strokes, vertical stress, and small, horizontal serifs, which are characteristic of the Modern (Didone) style prevalent in academic and official printing during the late 19th and early 20th centuries.",
-        "raw": "Category: Serif/Roman\nSubtype: Modern / Didone\nExplanation: The typeface features a high contrast between thick and thin strokes, vertical stress, and small, horizontal serifs, which are characteristic of the Modern (Didone) style prevalent in academic and official printing during the late 19th and early 20th centuries."
+    "metadata.title_complement": {
+      "readability": "Readable"
     },
-    "typographie": {
-        "category": "Serif/Roman",
-        "subtype": "Modern / Didone"
+    "metadata.volume_number": {
+      "readability": "Readable"
     },
-    "_annotations": {
-        "metadata.title": {
-            "lisibilite": "Lisible"
-        },
-        "metadata.title_complement": {
-            "lisibilite": "Lisible"
-        },
-        "metadata.volume_number": {
-            "lisibilite": "Lisible"
-        },
-        "metadata.authors": {
-            "lisibilite": "Lisible",
-            "correction": " В. Я. Нурбатова"
-        },
-        "metadata.publisher": {
-            "lisibilite": "Lisible"
-        },
-        "metadata.publication_place": {
-            "lisibilite": "Lisible"
-        },
-        "metadata.date": {
-            "lisibilite": "Lisible"
-        },
-        "langue": {
-            "lisibilite": "Lisible"
-        },
-        "_note": "TODO",
-        "metadata.identifier": {
-            "lisibilite": "Lisible"
-        },
-        "metadata.iiif_manifest": {
-            "lisibilite": "Lisible"
-        },
-        "ark": {
-            "lisibilite": "Lisible"
-        }
+    "metadata.authors": {
+      "readability": "Readable",
+      "correction": " В. Я. Нурбатова"
+    },
+    "metadata.publisher": {
+      "readability": "Readable"
+    },
+    "metadata.publication_place": {
+      "readability": "Readable"
+    },
+    "metadata.date": {
+      "readability": "Readable"
+    },
+    "language": {
+      "readability": "Readable"
+    },
+    "_note": "TODO",
+    "metadata.identifier": {
+      "readability": "Readable"
+    },
+    "metadata.iiif_manifest": {
+      "readability": "Readable"
+    },
+    "ark": {
+      "readability": "Readable"
     }
+  },
+  "language": "ru (Russian)"
 }

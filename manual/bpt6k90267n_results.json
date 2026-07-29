@@ -1,65 +1,59 @@
 {
-    "metadata": {
-        "title": "THE DUST HAZARD INDUSTRY ",
-        "title_complement": "",
-        "volume_number": "",
-        "authors": "William E. GIBBS",
-        "publisher": "ERNEST BENN LTD.",
-        "publication_place": "LONDON",
-        "date": "1925",
-        "identifier": "http://gallica.bnf.fr/ark:/12148/bpt6k90267n",
-        "iiif_manifest": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k90267n/manifest.json"
+  "metadata": {
+    "title": "THE DUST HAZARD INDUSTRY ",
+    "title_complement": "",
+    "volume_number": "",
+    "authors": "William E. GIBBS",
+    "publisher": "ERNEST BENN LTD.",
+    "publication_place": "LONDON",
+    "date": "1925",
+    "identifier": "http://gallica.bnf.fr/ark:/12148/bpt6k90267n",
+    "iiif_manifest": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k90267n/manifest.json"
+  },
+  "ark": "bpt6k90267n",
+  "typographie": {
+    "category": "Serif/Roman",
+    "subtype": "Transitional / Modern"
+  },
+  "_annotations": {
+    "metadata.title": {
+      "readability": "Readable",
+      "correction": "THE DUST HAZARD INDUSTRY "
     },
-    "langue": "en (English)",
-    "ark": "bpt6k90267n",
-    "typographie_suggestion": {
-        "category": "Serif/Roman",
-        "subtype": "Transitional / Modern",
-        "explanation": "The main title and body text feature high contrast between thick and thin strokes with horizontal serifs, characteristic of the Transitional and Modern (Didone) styles common in early 20th-century academic and technical publishing.",
-        "raw": "Category: Serif/Roman\nSubtype: Transitional / Modern\nExplanation: The main title and body text feature high contrast between thick and thin strokes with horizontal serifs, characteristic of the Transitional and Modern (Didone) styles common in early 20th-century academic and technical publishing."
+    "metadata.title_complement": {
+      "readability": "Not readable",
+      "cause": "absent",
+      "correction": ""
     },
-    "typographie": {
-        "category": "Serif/Roman",
-        "subtype": "Transitional / Modern"
+    "metadata.volume_number": {
+      "readability": "Not readable",
+      "cause": "absent"
     },
-    "_annotations": {
-        "metadata.title": {
-            "lisibilite": "Lisible",
-            "correction": "THE DUST HAZARD INDUSTRY "
-        },
-        "metadata.title_complement": {
-            "lisibilite": "Non lisible",
-            "cause": "absent",
-            "correction": ""
-        },
-        "metadata.volume_number": {
-            "lisibilite": "Non lisible",
-            "cause": "absent"
-        },
-        "metadata.authors": {
-            "lisibilite": "Lisible",
-            "correction": "William E. GIBBS"
-        },
-        "metadata.publisher": {
-            "lisibilite": "Lisible"
-        },
-        "metadata.publication_place": {
-            "lisibilite": "Lisible"
-        },
-        "metadata.date": {
-            "lisibilite": "Lisible"
-        },
-        "langue": {
-            "lisibilite": "Lisible"
-        },
-        "metadata.identifier": {
-            "lisibilite": "Lisible"
-        },
-        "metadata.iiif_manifest": {
-            "lisibilite": "Lisible"
-        },
-        "ark": {
-            "lisibilite": "Lisible"
-        }
+    "metadata.authors": {
+      "readability": "Readable",
+      "correction": "William E. GIBBS"
+    },
+    "metadata.publisher": {
+      "readability": "Readable"
+    },
+    "metadata.publication_place": {
+      "readability": "Readable"
+    },
+    "metadata.date": {
+      "readability": "Readable"
+    },
+    "language": {
+      "readability": "Readable"
+    },
+    "metadata.identifier": {
+      "readability": "Readable"
+    },
+    "metadata.iiif_manifest": {
+      "readability": "Readable"
+    },
+    "ark": {
+      "readability": "Readable"
     }
+  },
+  "language": "en (English)"
 }

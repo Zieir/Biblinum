@@ -1,68 +1,62 @@
 {
-    "metadata": {
-        "title": "ESTUDO SOBRE AS CLASSIFICAÇÕES CHIMICAS DOS COMPOSTOS ORGANICOS",
-        "title_complement": "",
-        "volume_number": "",
-        "authors": "Antonio Joaquim Ferreira da Silva",
-        "publisher": "Impr. da Universidade",
-        "publication_place": "Coimbra",
-        "date": "1877",
-        "identifier": "http://gallica.bnf.fr/ark:/12148/bpt6k90429n",
-        "iiif_manifest": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k90429n/manifest.json"
+  "metadata": {
+    "title": "ESTUDO SOBRE AS CLASSIFICAÇÕES CHIMICAS DOS COMPOSTOS ORGANICOS",
+    "title_complement": "",
+    "volume_number": "",
+    "authors": "Antonio Joaquim Ferreira da Silva",
+    "publisher": "Impr. da Universidade",
+    "publication_place": "Coimbra",
+    "date": "1877",
+    "identifier": "http://gallica.bnf.fr/ark:/12148/bpt6k90429n",
+    "iiif_manifest": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k90429n/manifest.json"
+  },
+  "ark": "bpt6k90429n",
+  "typographie": {
+    "category": "Serif/Roman",
+    "subtype": "Modern / Didone"
+  },
+  "_annotations": {
+    "metadata.title": {
+      "readability": "Readable",
+      "correction": "ESTUDO SOBRE AS CLASSIFICAÇÕES CHIMICAS DOS COMPOSTOS ORGANICOS"
     },
-    "langue": "pt (Portuguese)",
-    "ark": "bpt6k90429n",
-    "typographie_suggestion": {
-        "category": "Serif/Roman",
-        "subtype": "Modern / Didone",
-        "explanation": "The typeface features a high contrast between thick and thin strokes, vertical stress, and thin, horizontal serifs, which are the defining characteristics of the \"Modern\" or Didone style popular in the 19th century.",
-        "raw": "Category: Serif/Roman\nSubtype: Modern / Didone\nExplanation: The typeface features a high contrast between thick and thin strokes, vertical stress, and thin, horizontal serifs, which are the defining characteristics of the \"Modern\" or Didone style popular in the 19th century."
+    "metadata.title_complement": {
+      "readability": "Not readable",
+      "cause": "absent",
+      "correction": ""
     },
-    "typographie": {
-        "category": "Serif/Roman",
-        "subtype": "Modern / Didone"
+    "metadata.volume_number": {
+      "readability": "Not readable",
+      "cause": "absent"
     },
-    "_annotations": {
-        "metadata.title": {
-            "lisibilite": "Lisible",
-            "correction": "ESTUDO SOBRE AS CLASSIFICAÇÕES CHIMICAS DOS COMPOSTOS ORGANICOS"
-        },
-        "metadata.title_complement": {
-            "lisibilite": "Non lisible",
-            "cause": "absent",
-            "correction": ""
-        },
-        "metadata.volume_number": {
-            "lisibilite": "Non lisible",
-            "cause": "absent"
-        },
-        "metadata.authors": {
-            "lisibilite": "Lisible",
-            "correction": "Antonio Joaquim Ferreira da Silva"
-        },
-        "metadata.publisher": {
-            "lisibilite": "Lisible",
-            "correction": "Impr. da Universidade"
-        },
-        "metadata.publication_place": {
-            "lisibilite": "Lisible",
-            "correction": "Coimbra"
-        },
-        "metadata.date": {
-            "lisibilite": "Lisible",
-            "correction": "1877"
-        },
-        "langue": {
-            "lisibilite": "Lisible"
-        },
-        "metadata.identifier": {
-            "lisibilite": "Lisible"
-        },
-        "metadata.iiif_manifest": {
-            "lisibilite": "Lisible"
-        },
-        "ark": {
-            "lisibilite": "Lisible"
-        }
+    "metadata.authors": {
+      "readability": "Readable",
+      "correction": "Antonio Joaquim Ferreira da Silva"
+    },
+    "metadata.publisher": {
+      "readability": "Readable",
+      "correction": "Impr. da Universidade"
+    },
+    "metadata.publication_place": {
+      "readability": "Readable",
+      "correction": "Coimbra"
+    },
+    "metadata.date": {
+      "readability": "Readable",
+      "correction": "1877"
+    },
+    "language": {
+      "readability": "Readable"
+    },
+    "metadata.identifier": {
+      "readability": "Readable"
+    },
+    "metadata.iiif_manifest": {
+      "readability": "Readable"
+    },
+    "ark": {
+      "readability": "Readable"
     }
+  },
+  "language": "pt (Portuguese)"
 }

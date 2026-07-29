@@ -1,65 +1,59 @@
 {
-    "metadata": {
-        "title": "COURS ÉLÉMENTAIRE DE CHIMIE",
-        "title_complement": "à l'usage des facultés, des établissements d'enseignement secondaire, des écoles normales et des écoles industrielles",
-        "volume_number": "TOME I",
-        "authors": "V. Regnault",
-        "publisher": "VICTOR MASSON ET FILS; GARNIER FRÈRES",
-        "publication_place": "PARIS",
-        "date": "1868",
-        "identifier": "http://gallica.bnf.fr/ark:/12148/bpt6k902936",
-        "iiif_manifest": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k902936/manifest.json"
+  "metadata": {
+    "title": "COURS ÉLÉMENTAIRE DE CHIMIE",
+    "title_complement": "à l'usage des facultés, des établissements d'enseignement secondaire, des écoles normales et des écoles industrielles",
+    "volume_number": "TOME I",
+    "authors": "V. Regnault",
+    "publisher": "VICTOR MASSON ET FILS; GARNIER FRÈRES",
+    "publication_place": "PARIS",
+    "date": "1868",
+    "identifier": "http://gallica.bnf.fr/ark:/12148/bpt6k902936",
+    "iiif_manifest": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k902936/manifest.json"
+  },
+  "ark": "bpt6k902936",
+  "typographie": {
+    "category": "Serif/Roman",
+    "subtype": "Didone (Modern)"
+  },
+  "_annotations": {
+    "metadata.title": {
+      "readability": "Readable"
     },
-    "langue": "fr (French)",
-    "ark": "bpt6k902936",
-    "typographie_suggestion": {
-        "category": "Serif/Roman",
-        "subtype": "Didone (Modern)",
-        "explanation": "The main title \"DE CHIMIE\" exhibits the classic characteristics of the Didone style: a high contrast between thick and thin strokes, vertical stress, and small, unbracketed hair-line serifs. This style was highly prevalent in academic and official French printing during the 19th century.",
-        "raw": "Category: Serif/Roman\nSubtype: Didone (Modern)\nExplanation: The main title \"DE CHIMIE\" exhibits the classic characteristics of the Didone style: a high contrast between thick and thin strokes, vertical stress, and small, unbracketed hair-line serifs. This style was highly prevalent in academic and official French printing during the 19th century."
+    "metadata.title_complement": {
+      "readability": "Readable",
+      "correction": "à l'usage des facultés, des établissements d'enseignement secondaire, des écoles normales et des écoles industrielles"
     },
-    "typographie": {
-        "category": "Serif/Roman",
-        "subtype": "Didone (Modern)"
+    "metadata.volume_number": {
+      "readability": "Readable"
     },
-    "_annotations": {
-        "metadata.title": {
-            "lisibilite": "Lisible"
-        },
-        "metadata.title_complement": {
-            "lisibilite": "Lisible",
-            "correction": "à l'usage des facultés, des établissements d'enseignement secondaire, des écoles normales et des écoles industrielles"
-        },
-        "metadata.volume_number": {
-            "lisibilite": "Lisible"
-        },
-        "metadata.authors": {
-            "lisibilite": "Lisible",
-            "correction": "V. Regnault"
-        },
-        "metadata.publisher": {
-            "lisibilite": "Lisible",
-            "correction": "VICTOR MASSON ET FILS; GARNIER FRÈRES"
-        },
-        "metadata.publication_place": {
-            "lisibilite": "Lisible",
-            "correction": "PARIS"
-        },
-        "metadata.date": {
-            "lisibilite": "Lisible",
-            "correction": "1868"
-        },
-        "langue": {
-            "lisibilite": "Lisible"
-        },
-        "metadata.identifier": {
-            "lisibilite": "Lisible"
-        },
-        "metadata.iiif_manifest": {
-            "lisibilite": "Lisible"
-        },
-        "ark": {
-            "lisibilite": "Lisible"
-        }
+    "metadata.authors": {
+      "readability": "Readable",
+      "correction": "V. Regnault"
+    },
+    "metadata.publisher": {
+      "readability": "Readable",
+      "correction": "VICTOR MASSON ET FILS; GARNIER FRÈRES"
+    },
+    "metadata.publication_place": {
+      "readability": "Readable",
+      "correction": "PARIS"
+    },
+    "metadata.date": {
+      "readability": "Readable",
+      "correction": "1868"
+    },
+    "language": {
+      "readability": "Readable"
+    },
+    "metadata.identifier": {
+      "readability": "Readable"
+    },
+    "metadata.iiif_manifest": {
+      "readability": "Readable"
+    },
+    "ark": {
+      "readability": "Readable"
     }
+  },
+  "language": "fr (French)"
 }

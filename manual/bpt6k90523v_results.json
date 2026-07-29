@@ -1,65 +1,59 @@
 {
-    "metadata": {
-        "title": "Einführung in die Chemie in leichtfasslicher Form",
-        "title_complement": "",
-        "volume_number": "",
-        "authors": "Lassar-Cohn",
-        "publisher": "Leopold Voss",
-        "publication_place": "Hamburg und Leipzig",
-        "date": "1899",
-        "identifier": "http://gallica.bnf.fr/ark:/12148/bpt6k90523v",
-        "iiif_manifest": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k90523v/manifest.json"
+  "metadata": {
+    "title": "Einführung in die Chemie in leichtfasslicher Form",
+    "title_complement": "",
+    "volume_number": "",
+    "authors": "Lassar-Cohn",
+    "publisher": "Leopold Voss",
+    "publication_place": "Hamburg und Leipzig",
+    "date": "1899",
+    "identifier": "http://gallica.bnf.fr/ark:/12148/bpt6k90523v",
+    "iiif_manifest": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k90523v/manifest.json"
+  },
+  "ark": "bpt6k90523v",
+  "typographie": {
+    "category": "Blackletter",
+    "subtype": "Fraktur"
+  },
+  "_annotations": {
+    "metadata.title": {
+      "readability": "Not readable",
+      "cause": "covered"
     },
-    "langue": "de (German)",
-    "ark": "bpt6k90523v",
-    "typographie_suggestion": {
-        "category": "Blackletter",
-        "subtype": "Fraktur",
-        "explanation": "The text (specifically the subtitle \"übersichtfasslicher Form\" and the publisher's information) features the characteristic broken strokes, ornate capitals, and vertical stress typical of the Fraktur style, which was the standard typeface for German printing during this period.",
-        "raw": "Category: Blackletter\nSubtype: Fraktur\nExplanation: The text (specifically the subtitle \"übersichtfasslicher Form\" and the publisher's information) features the characteristic broken strokes, ornate capitals, and vertical stress typical of the Fraktur style, which was the standard typeface for German printing during this period."
+    "metadata.title_complement": {
+      "readability": "Not readable",
+      "cause": "absent"
     },
-    "typographie": {
-        "category": "Blackletter",
-        "subtype": "Fraktur"
+    "metadata.volume_number": {
+      "readability": "Not readable",
+      "cause": "absent"
     },
-    "_annotations": {
-        "metadata.title": {
-            "lisibilite": "Non lisible",
-            "cause": "recouvert"
-        },
-        "metadata.title_complement": {
-            "lisibilite": "Non lisible",
-            "cause": "absent"
-        },
-        "metadata.volume_number": {
-            "lisibilite": "Non lisible",
-            "cause": "absent"
-        },
-        "metadata.authors": {
-            "lisibilite": "Lisible",
-            "correction": "Lassar-Cohn"
-        },
-        "metadata.publisher": {
-            "lisibilite": "Lisible",
-            "correction": "Leopold Voss"
-        },
-        "metadata.publication_place": {
-            "lisibilite": "Lisible"
-        },
-        "metadata.date": {
-            "lisibilite": "Lisible"
-        },
-        "langue": {
-            "lisibilite": "Lisible"
-        },
-        "metadata.identifier": {
-            "lisibilite": "Lisible"
-        },
-        "metadata.iiif_manifest": {
-            "lisibilite": "Lisible"
-        },
-        "ark": {
-            "lisibilite": "Lisible"
-        }
+    "metadata.authors": {
+      "readability": "Readable",
+      "correction": "Lassar-Cohn"
+    },
+    "metadata.publisher": {
+      "readability": "Readable",
+      "correction": "Leopold Voss"
+    },
+    "metadata.publication_place": {
+      "readability": "Readable"
+    },
+    "metadata.date": {
+      "readability": "Readable"
+    },
+    "language": {
+      "readability": "Readable"
+    },
+    "metadata.identifier": {
+      "readability": "Readable"
+    },
+    "metadata.iiif_manifest": {
+      "readability": "Readable"
+    },
+    "ark": {
+      "readability": "Readable"
     }
+  },
+  "language": "de (German)"
 }

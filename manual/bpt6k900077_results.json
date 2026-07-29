@@ -1,67 +1,61 @@
 {
-    "metadata": {
-        "title": "MANUEL DE CHIMIE THÉORIQUE ET PRATIQUE",
-        "title_complement": "MÉTALLOÏDES",
-        "volume_number": "PREMIÈRE PARTIE",
-        "authors": "William ODLING",
-        "publisher": "VICTOR MASSON ET FILS",
-        "publication_place": "PARIS",
-        "date": "1868",
-        "identifier": "http://gallica.bnf.fr/ark:/12148/bpt6k900077",
-        "iiif_manifest": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k900077/manifest.json"
+  "metadata": {
+    "title": "MANUEL DE CHIMIE THÉORIQUE ET PRATIQUE",
+    "title_complement": "MÉTALLOÏDES",
+    "volume_number": "PREMIÈRE PARTIE",
+    "authors": "William ODLING",
+    "publisher": "VICTOR MASSON ET FILS",
+    "publication_place": "PARIS",
+    "date": "1868",
+    "identifier": "http://gallica.bnf.fr/ark:/12148/bpt6k900077",
+    "iiif_manifest": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k900077/manifest.json"
+  },
+  "ark": "bpt6k900077",
+  "typographie": {
+    "category": "Serif/Roman",
+    "subtype": "Didone (Modern)"
+  },
+  "_annotations": {
+    "metadata.title": {
+      "readability": "Readable",
+      "correction": "MANUEL DE CHIMIE THÉORIQUE ET PRATIQUE"
     },
-    "langue": "fr (French)",
-    "ark": "bpt6k900077",
-    "typographie_suggestion": {
-        "category": "Serif/Roman",
-        "subtype": "Didone (Modern)",
-        "explanation": "The primary text features the high contrast between thick and thin strokes, vertical stress, and small, unbracketed hair-line serifs characteristic of the Didone style (similar to Bodoni or Didot), which was prevalent in 19th-century academic publishing.",
-        "raw": "Category: Serif/Roman\nSubtype: Didone (Modern)\nExplanation: The primary text features the high contrast between thick and thin strokes, vertical stress, and small, unbracketed hair-line serifs characteristic of the Didone style (similar to Bodoni or Didot), which was prevalent in 19th-century academic publishing."
+    "metadata.title_complement": {
+      "readability": "Readable",
+      "correction": "MÉTALLOÏDES"
     },
-    "typographie": {
-        "category": "Serif/Roman",
-        "subtype": "Didone (Modern)"
+    "metadata.volume_number": {
+      "readability": "Readable",
+      "correction": "PREMIÈRE PARTIE"
     },
-    "_annotations": {
-        "metadata.title": {
-            "lisibilite": "Lisible",
-            "correction": "MANUEL DE CHIMIE THÉORIQUE ET PRATIQUE"
-        },
-        "metadata.title_complement": {
-            "lisibilite": "Lisible",
-            "correction": "MÉTALLOÏDES"
-        },
-        "metadata.volume_number": {
-            "lisibilite": "Lisible",
-            "correction": "PREMIÈRE PARTIE"
-        },
-        "metadata.authors": {
-            "lisibilite": "Lisible",
-            "correction": "William ODLING"
-        },
-        "metadata.publisher": {
-            "lisibilite": "Lisible"
-        },
-        "metadata.publication_place": {
-            "lisibilite": "Non lisible",
-            "cause": "recouvert"
-        },
-        "metadata.date": {
-            "lisibilite": "Non lisible",
-            "cause": "qualite",
-            "correction": "1868"
-        },
-        "langue": {
-            "lisibilite": "Lisible"
-        },
-        "metadata.identifier": {
-            "lisibilite": "Lisible"
-        },
-        "metadata.iiif_manifest": {
-            "lisibilite": "Lisible"
-        },
-        "ark": {
-            "lisibilite": "Lisible"
-        }
+    "metadata.authors": {
+      "readability": "Readable",
+      "correction": "William ODLING"
+    },
+    "metadata.publisher": {
+      "readability": "Readable"
+    },
+    "metadata.publication_place": {
+      "readability": "Not readable",
+      "cause": "covered"
+    },
+    "metadata.date": {
+      "readability": "Not readable",
+      "cause": "quality",
+      "correction": "1868"
+    },
+    "language": {
+      "readability": "Readable"
+    },
+    "metadata.identifier": {
+      "readability": "Readable"
+    },
+    "metadata.iiif_manifest": {
+      "readability": "Readable"
+    },
+    "ark": {
+      "readability": "Readable"
     }
+  },
+  "language": "fr (French)"
 }

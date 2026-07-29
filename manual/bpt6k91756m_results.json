@@ -1,64 +1,58 @@
 {
-    "metadata": {
-        "title": "Systematische uebersicht der Silicate",
-        "title_complement": "",
-        "volume_number": "",
-        "authors": "C. Weltzien",
-        "publisher": "J. Ricker'sche Buchhandlung",
-        "publication_place": "Giessen",
-        "date": "1864",
-        "identifier": "http://gallica.bnf.fr/ark:/12148/bpt6k91756m",
-        "iiif_manifest": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k91756m/manifest.json"
+  "metadata": {
+    "title": "Systematische uebersicht der Silicate",
+    "title_complement": "",
+    "volume_number": "",
+    "authors": "C. Weltzien",
+    "publisher": "J. Ricker'sche Buchhandlung",
+    "publication_place": "Giessen",
+    "date": "1864",
+    "identifier": "http://gallica.bnf.fr/ark:/12148/bpt6k91756m",
+    "iiif_manifest": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k91756m/manifest.json"
+  },
+  "ark": "bpt6k91756m",
+  "typographie": {
+    "category": "Script",
+    "subtype": "Cursive"
+  },
+  "_annotations": {
+    "metadata.title": {
+      "readability": "Readable",
+      "correction": "Systematische uebersicht der Silicate"
     },
-    "langue": "de (German)",
-    "ark": "bpt6k91756m",
-    "typographie_suggestion": {
-        "category": "Script",
-        "subtype": "Cursive",
-        "explanation": "These are handwritten notes in a fluid, connected style typical of 19th-century clerical handwriting.",
-        "raw": "For the primary printed text (e.g., \"Silicate\", \"C. Weltzien\"):\n\nCategory: Serif/Roman\nSubtype: Slab Serif (Egyptian)\nExplanation: The typeface features thick, block-like serifs with little to no bracketing between the serif and the stem, which is characteristic of the Slab Serif style popular in the mid-19th century.\n\nFor the handwritten annotations:\n\nCategory: Script\nSubtype: Cursive\nExplanation: These are handwritten notes in a fluid, connected style typical of 19th-century clerical handwriting."
+    "metadata.title_complement": {
+      "readability": "Not readable",
+      "cause": "absent",
+      "correction": ""
     },
-    "typographie": {
-        "category": "Script",
-        "subtype": "Cursive"
+    "metadata.volume_number": {
+      "readability": "Not readable",
+      "cause": "absent"
     },
-    "_annotations": {
-        "metadata.title": {
-            "lisibilite": "Lisible",
-            "correction": "Systematische uebersicht der Silicate"
-        },
-        "metadata.title_complement": {
-            "lisibilite": "Non lisible",
-            "cause": "absent",
-            "correction": ""
-        },
-        "metadata.volume_number": {
-            "lisibilite": "Non lisible",
-            "cause": "absent"
-        },
-        "metadata.authors": {
-            "lisibilite": "Lisible"
-        },
-        "metadata.publisher": {
-            "lisibilite": "Lisible"
-        },
-        "metadata.publication_place": {
-            "lisibilite": "Lisible"
-        },
-        "metadata.date": {
-            "lisibilite": "Lisible"
-        },
-        "langue": {
-            "lisibilite": "Lisible"
-        },
-        "metadata.identifier": {
-            "lisibilite": "Lisible"
-        },
-        "metadata.iiif_manifest": {
-            "lisibilite": "Lisible"
-        },
-        "ark": {
-            "lisibilite": "Lisible"
-        }
+    "metadata.authors": {
+      "readability": "Readable"
+    },
+    "metadata.publisher": {
+      "readability": "Readable"
+    },
+    "metadata.publication_place": {
+      "readability": "Readable"
+    },
+    "metadata.date": {
+      "readability": "Readable"
+    },
+    "language": {
+      "readability": "Readable"
+    },
+    "metadata.identifier": {
+      "readability": "Readable"
+    },
+    "metadata.iiif_manifest": {
+      "readability": "Readable"
+    },
+    "ark": {
+      "readability": "Readable"
     }
+  },
+  "language": "de (German)"
 }

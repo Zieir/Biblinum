@@ -1,68 +1,62 @@
 {
-    "metadata": {
-        "title": "Cours de Chimie Organique",
-        "title_complement": "",
-        "volume_number": "",
-        "authors": "",
-        "publisher": "",
-        "publication_place": "",
-        "date": "",
-        "identifier": "http://gallica.bnf.fr/ark:/12148/bpt6k90481r",
-        "iiif_manifest": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k90481r/manifest.json"
+  "metadata": {
+    "title": "Cours de Chimie Organique",
+    "title_complement": "",
+    "volume_number": "",
+    "authors": "",
+    "publisher": "",
+    "publication_place": "",
+    "date": "",
+    "identifier": "http://gallica.bnf.fr/ark:/12148/bpt6k90481r",
+    "iiif_manifest": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k90481r/manifest.json"
+  },
+  "ark": "bpt6k90481r",
+  "typographie": {
+    "category": "Serif/Roman",
+    "subtype": "Didone (Modern)"
+  },
+  "_annotations": {
+    "metadata.title": {
+      "readability": "Not readable",
+      "cause": "quality"
     },
-    "langue": "fr (French)",
-    "ark": "bpt6k90481r",
-    "typographie_suggestion": {
-        "category": "Serif/Roman",
-        "subtype": "Didone (Modern)",
-        "explanation": "The text exhibits the high contrast between thick and thin strokes and the flat, unbracketed serifs characteristic of the Didone style (similar to Bodoni or Didot), which was the standard for formal French publications in the late 18th and 19th centuries.",
-        "raw": "Category: Serif/Roman\nSubtype: Didone (Modern)\nExplanation: The text exhibits the high contrast between thick and thin strokes and the flat, unbracketed serifs characteristic of the Didone style (similar to Bodoni or Didot), which was the standard for formal French publications in the late 18th and 19th centuries."
+    "metadata.title_complement": {
+      "readability": "Not readable",
+      "cause": "quality"
     },
-    "typographie": {
-        "category": "Serif/Roman",
-        "subtype": "Didone (Modern)"
+    "metadata.volume_number": {
+      "readability": "Not readable",
+      "cause": "quality"
     },
-    "_annotations": {
-        "metadata.title": {
-            "lisibilite": "Non lisible",
-            "cause": "qualite"
-        },
-        "metadata.title_complement": {
-            "lisibilite": "Non lisible",
-            "cause": "qualite"
-        },
-        "metadata.volume_number": {
-            "lisibilite": "Non lisible",
-            "cause": "qualite"
-        },
-        "metadata.authors": {
-            "lisibilite": "Non lisible",
-            "cause": "qualite",
-            "correction": ""
-        },
-        "metadata.publisher": {
-            "lisibilite": "Non lisible",
-            "cause": "qualite"
-        },
-        "metadata.publication_place": {
-            "lisibilite": "Non lisible",
-            "cause": "qualite"
-        },
-        "metadata.date": {
-            "lisibilite": "Non lisible",
-            "cause": "qualite"
-        },
-        "langue": {
-            "lisibilite": "Lisible"
-        },
-        "metadata.identifier": {
-            "lisibilite": "Lisible"
-        },
-        "metadata.iiif_manifest": {
-            "lisibilite": "Lisible"
-        },
-        "ark": {
-            "lisibilite": "Lisible"
-        }
+    "metadata.authors": {
+      "readability": "Not readable",
+      "cause": "quality",
+      "correction": ""
+    },
+    "metadata.publisher": {
+      "readability": "Not readable",
+      "cause": "quality"
+    },
+    "metadata.publication_place": {
+      "readability": "Not readable",
+      "cause": "quality"
+    },
+    "metadata.date": {
+      "readability": "Not readable",
+      "cause": "quality"
+    },
+    "language": {
+      "readability": "Readable"
+    },
+    "metadata.identifier": {
+      "readability": "Readable"
+    },
+    "metadata.iiif_manifest": {
+      "readability": "Readable"
+    },
+    "ark": {
+      "readability": "Readable"
     }
+  },
+  "language": "fr (French)"
 }

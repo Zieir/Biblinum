@@ -1,68 +1,62 @@
 {
-    "metadata": {
-        "title": "ÉTUDES SUR LES HAUTS-FOURNEAUX",
-        "title_complement": "",
-        "volume_number": "",
-        "authors": "L. GRUNER",
-        "publisher": "IMPRIMERIE DE J. DESOER, LIBRAIRE",
-        "publication_place": "LIÈGE",
-        "date": "1873",
-        "identifier": "http://gallica.bnf.fr/ark:/12148/bpt6k919921",
-        "iiif_manifest": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k919921/manifest.json"
+  "metadata": {
+    "title": "ÉTUDES SUR LES HAUTS-FOURNEAUX",
+    "title_complement": "",
+    "volume_number": "",
+    "authors": "L. GRUNER",
+    "publisher": "IMPRIMERIE DE J. DESOER, LIBRAIRE",
+    "publication_place": "LIÈGE",
+    "date": "1873",
+    "identifier": "http://gallica.bnf.fr/ark:/12148/bpt6k919921",
+    "iiif_manifest": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k919921/manifest.json"
+  },
+  "ark": "bpt6k919921",
+  "typographie": {
+    "category": "Serif/Roman",
+    "subtype": "Didone (Modern)"
+  },
+  "_annotations": {
+    "metadata.title": {
+      "readability": "Readable",
+      "correction": "ÉTUDES SUR LES HAUTS-FOURNEAUX"
     },
-    "langue": "fr (French)",
-    "ark": "bpt6k919921",
-    "typographie_suggestion": {
-        "category": "Serif/Roman",
-        "subtype": "Didone (Modern)",
-        "explanation": "The primary text (e.g., \"ÉTUDES\", \"HAUTS-FOURNEAUX\") features the high contrast between thick and thin strokes and vertical stress characteristic of the Didone style, which was prevalent in French printing during the late 18th and 19th centuries.",
-        "raw": "Category: Serif/Roman\nSubtype: Didone (Modern)\nExplanation: The primary text (e.g., \"ÉTUDES\", \"HAUTS-FOURNEAUX\") features the high contrast between thick and thin strokes and vertical stress characteristic of the Didone style, which was prevalent in French printing during the late 18th and 19th centuries."
+    "metadata.title_complement": {
+      "readability": "Not readable",
+      "cause": "absent",
+      "correction": ""
     },
-    "typographie": {
-        "category": "Serif/Roman",
-        "subtype": "Didone (Modern)"
+    "metadata.volume_number": {
+      "readability": "Not readable",
+      "cause": "absent"
     },
-    "_annotations": {
-        "metadata.title": {
-            "lisibilite": "Lisible",
-            "correction": "ÉTUDES SUR LES HAUTS-FOURNEAUX"
-        },
-        "metadata.title_complement": {
-            "lisibilite": "Non lisible",
-            "cause": "absent",
-            "correction": ""
-        },
-        "metadata.volume_number": {
-            "lisibilite": "Non lisible",
-            "cause": "absent"
-        },
-        "metadata.authors": {
-            "lisibilite": "Lisible",
-            "correction": "L. GRUNER"
-        },
-        "metadata.publisher": {
-            "lisibilite": "Lisible",
-            "correction": "IMPRIMERIE DE J. DESOER, LIBRAIRE"
-        },
-        "metadata.publication_place": {
-            "lisibilite": "Lisible"
-        },
-        "metadata.date": {
-            "lisibilite": "Non lisible",
-            "cause": "recouvert",
-            "correction": "1873"
-        },
-        "langue": {
-            "lisibilite": "Lisible"
-        },
-        "metadata.identifier": {
-            "lisibilite": "Lisible"
-        },
-        "metadata.iiif_manifest": {
-            "lisibilite": "Lisible"
-        },
-        "ark": {
-            "lisibilite": "Lisible"
-        }
+    "metadata.authors": {
+      "readability": "Readable",
+      "correction": "L. GRUNER"
+    },
+    "metadata.publisher": {
+      "readability": "Readable",
+      "correction": "IMPRIMERIE DE J. DESOER, LIBRAIRE"
+    },
+    "metadata.publication_place": {
+      "readability": "Readable"
+    },
+    "metadata.date": {
+      "readability": "Not readable",
+      "cause": "covered",
+      "correction": "1873"
+    },
+    "language": {
+      "readability": "Readable"
+    },
+    "metadata.identifier": {
+      "readability": "Readable"
+    },
+    "metadata.iiif_manifest": {
+      "readability": "Readable"
+    },
+    "ark": {
+      "readability": "Readable"
     }
+  },
+  "language": "fr (French)"
 }

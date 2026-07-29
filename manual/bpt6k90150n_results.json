@@ -1,66 +1,60 @@
 {
-    "metadata": {
-        "title": "MANUEL DES MANIPULATIONS CHIMIQUES",
-        "title_complement": "",
-        "volume_number": "",
-        "authors": "FR. DE WALQUE",
-        "publisher": "Imprimerie de D. AUG. PEETERS-RUELENS",
-        "publication_place": "LOUVAIN",
-        "date": "1884",
-        "identifier": "http://gallica.bnf.fr/ark:/12148/bpt6k90150n",
-        "iiif_manifest": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k90150n/manifest.json"
+  "metadata": {
+    "title": "MANUEL DES MANIPULATIONS CHIMIQUES",
+    "title_complement": "",
+    "volume_number": "",
+    "authors": "FR. DE WALQUE",
+    "publisher": "Imprimerie de D. AUG. PEETERS-RUELENS",
+    "publication_place": "LOUVAIN",
+    "date": "1884",
+    "identifier": "http://gallica.bnf.fr/ark:/12148/bpt6k90150n",
+    "iiif_manifest": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k90150n/manifest.json"
+  },
+  "ark": "bpt6k90150n",
+  "typographie": {
+    "category": "Serif/Roman",
+    "subtype": "Didone (Modern)"
+  },
+  "_annotations": {
+    "metadata.title": {
+      "readability": "Readable"
     },
-    "langue": "fr (French)",
-    "ark": "bpt6k90150n",
-    "typographie_suggestion": {
-        "category": "Serif/Roman",
-        "subtype": "Didone (Modern)",
-        "explanation": "The text features the high contrast between thick and thin strokes, vertical stress, and unbracketed, hairline serifs characteristic of the \"Modern\" or Didone style (similar to Bodoni or Didot), which was prevalent in 19th-century academic and formal printing.",
-        "raw": "Category: Serif/Roman\nSubtype: Didone (Modern)\nExplanation: The text features the high contrast between thick and thin strokes, vertical stress, and unbracketed, hairline serifs characteristic of the \"Modern\" or Didone style (similar to Bodoni or Didot), which was prevalent in 19th-century academic and formal printing."
+    "metadata.title_complement": {
+      "readability": "Not readable",
+      "cause": "absent"
     },
-    "typographie": {
-        "category": "Serif/Roman",
-        "subtype": "Didone (Modern)"
+    "metadata.volume_number": {
+      "readability": "Not readable",
+      "cause": "absent"
     },
-    "_annotations": {
-        "metadata.title": {
-            "lisibilite": "Lisible"
-        },
-        "metadata.title_complement": {
-            "lisibilite": "Non lisible",
-            "cause": "absent"
-        },
-        "metadata.volume_number": {
-            "lisibilite": "Non lisible",
-            "cause": "absent"
-        },
-        "metadata.authors": {
-            "lisibilite": "Lisible",
-            "correction": "FR. DE WALQUE"
-        },
-        "metadata.publisher": {
-            "lisibilite": "Lisible",
-            "correction": "Imprimerie de D. AUG. PEETERS-RUELENS"
-        },
-        "metadata.publication_place": {
-            "lisibilite": "Lisible",
-            "correction": "LOUVAIN"
-        },
-        "metadata.date": {
-            "lisibilite": "Lisible",
-            "correction": "1884"
-        },
-        "langue": {
-            "lisibilite": "Lisible"
-        },
-        "metadata.identifier": {
-            "lisibilite": "Lisible"
-        },
-        "metadata.iiif_manifest": {
-            "lisibilite": "Lisible"
-        },
-        "ark": {
-            "lisibilite": "Lisible"
-        }
+    "metadata.authors": {
+      "readability": "Readable",
+      "correction": "FR. DE WALQUE"
+    },
+    "metadata.publisher": {
+      "readability": "Readable",
+      "correction": "Imprimerie de D. AUG. PEETERS-RUELENS"
+    },
+    "metadata.publication_place": {
+      "readability": "Readable",
+      "correction": "LOUVAIN"
+    },
+    "metadata.date": {
+      "readability": "Readable",
+      "correction": "1884"
+    },
+    "language": {
+      "readability": "Readable"
+    },
+    "metadata.identifier": {
+      "readability": "Readable"
+    },
+    "metadata.iiif_manifest": {
+      "readability": "Readable"
+    },
+    "ark": {
+      "readability": "Readable"
     }
+  },
+  "language": "fr (French)"
 }

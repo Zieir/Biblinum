@@ -1,63 +1,57 @@
 {
-    "metadata": {
-        "title": "EXPOSITION UNIVERSELLE INTERNATIONALE DE 1878, À PARIS",
-        "title_complement": "CATALOGUE OFFICIEL publié par le commissariat général",
-        "volume_number": "TOME III",
-        "authors": "",
-        "publisher": "COMMISSARIAT GÉNÉRAL",
-        "publication_place": "PARIS",
-        "date": "1878",
-        "identifier": "http://gallica.bnf.fr/ark:/12148/bpt6k904258",
-        "iiif_manifest": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k904258/manifest.json"
+  "metadata": {
+    "title": "EXPOSITION UNIVERSELLE INTERNATIONALE DE 1878, À PARIS",
+    "title_complement": "CATALOGUE OFFICIEL publié par le commissariat général",
+    "volume_number": "TOME III",
+    "authors": "",
+    "publisher": "COMMISSARIAT GÉNÉRAL",
+    "publication_place": "PARIS",
+    "date": "1878",
+    "identifier": "http://gallica.bnf.fr/ark:/12148/bpt6k904258",
+    "iiif_manifest": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k904258/manifest.json"
+  },
+  "ark": "bpt6k904258",
+  "typographie": {
+    "category": "Script",
+    "subtype": "Cursive"
+  },
+  "_annotations": {
+    "metadata.title": {
+      "readability": "Readable",
+      "correction": "EXPOSITION UNIVERSELLE INTERNATIONALE DE 1878, À PARIS"
     },
-    "langue": "fr (French)",
-    "ark": "bpt6k904258",
-    "typographie_suggestion": {
-        "category": "Script",
-        "subtype": "Cursive",
-        "explanation": "This is a fluid, handwritten ink signature or notation characterized by connected letters and a rapid, personal stroke.",
-        "raw": "Based on the image provided, there are two distinct styles of writing. I will identify both:\n\n**For the printed text (e.g., \"CATALOGUE OFFICIEL\"):**\nCategory: Serif/Roman\nSubtype: Didone (Modern)\nExplanation: The printed text features the high contrast between thick and thin strokes and vertical stress characteristic of the late 18th and 19th-century French \"Modern\" style (similar to Didot).\n\n**For the handwritten ink mark:**\nCategory: Script\nSubtype: Cursive\nExplanation: This is a fluid, handwritten ink signature or notation characterized by connected letters and a rapid, personal stroke."
+    "metadata.title_complement": {
+      "readability": "Readable",
+      "correction": "CATALOGUE OFFICIEL publié par le commissariat général"
     },
-    "typographie": {
-        "category": "Script",
-        "subtype": "Cursive"
+    "metadata.volume_number": {
+      "readability": "Readable"
     },
-    "_annotations": {
-        "metadata.title": {
-            "lisibilite": "Lisible",
-            "correction": "EXPOSITION UNIVERSELLE INTERNATIONALE DE 1878, À PARIS"
-        },
-        "metadata.title_complement": {
-            "lisibilite": "Lisible",
-            "correction": "CATALOGUE OFFICIEL publié par le commissariat général"
-        },
-        "metadata.volume_number": {
-            "lisibilite": "Lisible"
-        },
-        "metadata.authors": {
-            "lisibilite": "Non lisible",
-            "cause": "absent"
-        },
-        "metadata.publisher": {
-            "lisibilite": "Lisible"
-        },
-        "metadata.publication_place": {
-            "lisibilite": "Lisible"
-        },
-        "metadata.date": {
-            "lisibilite": "Lisible"
-        },
-        "langue": {
-            "lisibilite": "Lisible"
-        },
-        "metadata.identifier": {
-            "lisibilite": "Lisible"
-        },
-        "metadata.iiif_manifest": {
-            "lisibilite": "Lisible"
-        },
-        "ark": {
-            "lisibilite": "Lisible"
-        }
+    "metadata.authors": {
+      "readability": "Not readable",
+      "cause": "absent"
+    },
+    "metadata.publisher": {
+      "readability": "Readable"
+    },
+    "metadata.publication_place": {
+      "readability": "Readable"
+    },
+    "metadata.date": {
+      "readability": "Readable"
+    },
+    "language": {
+      "readability": "Readable"
+    },
+    "metadata.identifier": {
+      "readability": "Readable"
+    },
+    "metadata.iiif_manifest": {
+      "readability": "Readable"
+    },
+    "ark": {
+      "readability": "Readable"
     }
+  },
+  "language": "fr (French)"
 }

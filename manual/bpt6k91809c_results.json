@@ -1,63 +1,57 @@
 {
-    "metadata": {
-        "title": "FARADAY AND HIS METALLURGICAL RESEARCHES",
-        "title_complement": "WITH SPECIAL REFERENCE TO THEIR BEARING ON THE DEVELOPMENT OF ALLOY STEELS",
-        "volume_number": "",
-        "authors": "ROBERT A. HADFIELD",
-        "publisher": "CHAPMAN & HALL LTD.",
-        "publication_place": "LONDON",
-        "date": "1931",
-        "identifier": "http://gallica.bnf.fr/ark:/12148/bpt6k91809c",
-        "iiif_manifest": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k91809c/manifest.json"
+  "metadata": {
+    "title": "FARADAY AND HIS METALLURGICAL RESEARCHES",
+    "title_complement": "WITH SPECIAL REFERENCE TO THEIR BEARING ON THE DEVELOPMENT OF ALLOY STEELS",
+    "volume_number": "",
+    "authors": "ROBERT A. HADFIELD",
+    "publisher": "CHAPMAN & HALL LTD.",
+    "publication_place": "LONDON",
+    "date": "1931",
+    "identifier": "http://gallica.bnf.fr/ark:/12148/bpt6k91809c",
+    "iiif_manifest": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k91809c/manifest.json"
+  },
+  "ark": "bpt6k91809c",
+  "typographie": {
+    "category": "Serif/Roman",
+    "subtype": "Old Style / Transitional"
+  },
+  "_annotations": {
+    "metadata.title": {
+      "readability": "Not readable",
+      "cause": "covered"
     },
-    "langue": "en (English)",
-    "ark": "bpt6k91809c",
-    "typographie_suggestion": {
-        "category": "Serif/Roman",
-        "subtype": "Old Style / Transitional",
-        "explanation": "The main title and body text feature clear serifs (small strokes at the ends of characters) with a moderate contrast between thick and thin strokes, characteristic of traditional book typography from the early 20th century.",
-        "raw": "Category: Serif/Roman\nSubtype: Old Style / Transitional\nExplanation: The main title and body text feature clear serifs (small strokes at the ends of characters) with a moderate contrast between thick and thin strokes, characteristic of traditional book typography from the early 20th century."
+    "metadata.title_complement": {
+      "readability": "Readable"
     },
-    "typographie": {
-        "category": "Serif/Roman",
-        "subtype": "Old Style / Transitional"
+    "metadata.volume_number": {
+      "readability": "Not readable",
+      "cause": "absent"
     },
-    "_annotations": {
-        "metadata.title": {
-            "lisibilite": "Non lisible",
-            "cause": "recouvert"
-        },
-        "metadata.title_complement": {
-            "lisibilite": "Lisible"
-        },
-        "metadata.volume_number": {
-            "lisibilite": "Non lisible",
-            "cause": "absent"
-        },
-        "metadata.authors": {
-            "lisibilite": "Lisible",
-            "correction": "ROBERT A. HADFIELD"
-        },
-        "metadata.publisher": {
-            "lisibilite": "Lisible"
-        },
-        "metadata.publication_place": {
-            "lisibilite": "Lisible"
-        },
-        "metadata.date": {
-            "lisibilite": "Lisible"
-        },
-        "langue": {
-            "lisibilite": "Lisible"
-        },
-        "metadata.identifier": {
-            "lisibilite": "Lisible"
-        },
-        "metadata.iiif_manifest": {
-            "lisibilite": "Lisible"
-        },
-        "ark": {
-            "lisibilite": "Lisible"
-        }
+    "metadata.authors": {
+      "readability": "Readable",
+      "correction": "ROBERT A. HADFIELD"
+    },
+    "metadata.publisher": {
+      "readability": "Readable"
+    },
+    "metadata.publication_place": {
+      "readability": "Readable"
+    },
+    "metadata.date": {
+      "readability": "Readable"
+    },
+    "language": {
+      "readability": "Readable"
+    },
+    "metadata.identifier": {
+      "readability": "Readable"
+    },
+    "metadata.iiif_manifest": {
+      "readability": "Readable"
+    },
+    "ark": {
+      "readability": "Readable"
     }
+  },
+  "language": "en (English)"
 }

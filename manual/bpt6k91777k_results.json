@@ -1,66 +1,60 @@
 {
-    "metadata": {
-        "title": "ÉTUDE SUR LA SYNTHÈSE DES PHÉNOMÈNES DE LA NATURE",
-        "title_complement": "discours de réception à l'Académie d'Amiens ",
-        "volume_number": "",
-        "authors": "J. KOLB",
-        "publisher": "Imprimerie YVERT",
-        "publication_place": "AMIENS",
-        "date": "1871",
-        "identifier": "http://gallica.bnf.fr/ark:/12148/bpt6k91777k",
-        "iiif_manifest": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k91777k/manifest.json"
+  "metadata": {
+    "title": "ÉTUDE SUR LA SYNTHÈSE DES PHÉNOMÈNES DE LA NATURE",
+    "title_complement": "discours de réception à l'Académie d'Amiens ",
+    "volume_number": "",
+    "authors": "J. KOLB",
+    "publisher": "Imprimerie YVERT",
+    "publication_place": "AMIENS",
+    "date": "1871",
+    "identifier": "http://gallica.bnf.fr/ark:/12148/bpt6k91777k",
+    "iiif_manifest": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k91777k/manifest.json"
+  },
+  "ark": "bpt6k91777k",
+  "typographie": {
+    "category": "Serif/Roman",
+    "subtype": "Didone (Modern)"
+  },
+  "_annotations": {
+    "metadata.title": {
+      "readability": "Readable",
+      "correction": "ÉTUDE SUR LA SYNTHÈSE DES PHÉNOMÈNES DE LA NATURE"
     },
-    "langue": "fr (French)",
-    "ark": "bpt6k91777k",
-    "typographie_suggestion": {
-        "category": "Serif/Roman",
-        "subtype": "Didone (Modern)",
-        "explanation": "The primary text features the high contrast between thick and thin strokes, vertical stress, and unbracketed, hairline serifs characteristic of the Didone style (popularized by Didot and Bodoni), which was standard for formal French academic printing in the 19th century.",
-        "raw": "Category: Serif/Roman\nSubtype: Didone (Modern)\nExplanation: The primary text features the high contrast between thick and thin strokes, vertical stress, and unbracketed, hairline serifs characteristic of the Didone style (popularized by Didot and Bodoni), which was standard for formal French academic printing in the 19th century."
+    "metadata.title_complement": {
+      "readability": "Readable",
+      "correction": "discours de réception à l'Académie d'Amiens "
     },
-    "typographie": {
-        "category": "Serif/Roman",
-        "subtype": "Didone (Modern)"
+    "metadata.volume_number": {
+      "readability": "Not readable",
+      "cause": "absent"
     },
-    "_annotations": {
-        "metadata.title": {
-            "lisibilite": "Lisible",
-            "correction": "ÉTUDE SUR LA SYNTHÈSE DES PHÉNOMÈNES DE LA NATURE"
-        },
-        "metadata.title_complement": {
-            "lisibilite": "Lisible",
-            "correction": "discours de réception à l'Académie d'Amiens "
-        },
-        "metadata.volume_number": {
-            "lisibilite": "Non lisible",
-            "cause": "absent"
-        },
-        "metadata.authors": {
-            "lisibilite": "Lisible",
-            "correction": "J. KOLB"
-        },
-        "metadata.publisher": {
-            "lisibilite": "Non lisible",
-            "cause": "recouvert",
-            "correction": "Imprimerie YVERT"
-        },
-        "metadata.publication_place": {
-            "lisibilite": "Lisible"
-        },
-        "metadata.date": {
-            "lisibilite": "Lisible"
-        },
-        "langue": {
-            "lisibilite": "Lisible"
-        },
-        "metadata.identifier": {
-            "lisibilite": "Lisible"
-        },
-        "metadata.iiif_manifest": {
-            "lisibilite": "Lisible"
-        },
-        "ark": {
-            "lisibilite": "Lisible"
-        }
+    "metadata.authors": {
+      "readability": "Readable",
+      "correction": "J. KOLB"
+    },
+    "metadata.publisher": {
+      "readability": "Not readable",
+      "cause": "covered",
+      "correction": "Imprimerie YVERT"
+    },
+    "metadata.publication_place": {
+      "readability": "Readable"
+    },
+    "metadata.date": {
+      "readability": "Readable"
+    },
+    "language": {
+      "readability": "Readable"
+    },
+    "metadata.identifier": {
+      "readability": "Readable"
+    },
+    "metadata.iiif_manifest": {
+      "readability": "Readable"
+    },
+    "ark": {
+      "readability": "Readable"
     }
+  },
+  "language": "fr (French)"
 }

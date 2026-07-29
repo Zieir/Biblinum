@@ -1,62 +1,56 @@
 {
-    "metadata": {
-        "title": "Les Récents Progrès de la Chimie",
-        "title_complement": "CONFÉRENCES faites au Laboratoire de Chimie organique de la Sorbonne",
-        "volume_number": "DEUXIÈME SÉRIE",
-        "authors": "A. HALLER",
-        "publisher": "GAUTHIER-VILLARS, IMPRIMEUR-LIBRAIRE",
-        "publication_place": "PARIS",
-        "date": "1906",
-        "identifier": "http://gallica.bnf.fr/ark:/12148/bpt6k90660b",
-        "iiif_manifest": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k90660b/manifest.json"
+  "metadata": {
+    "title": "Les Récents Progrès de la Chimie",
+    "title_complement": "CONFÉRENCES faites au Laboratoire de Chimie organique de la Sorbonne",
+    "volume_number": "DEUXIÈME SÉRIE",
+    "authors": "A. HALLER",
+    "publisher": "GAUTHIER-VILLARS, IMPRIMEUR-LIBRAIRE",
+    "publication_place": "PARIS",
+    "date": "1906",
+    "identifier": "http://gallica.bnf.fr/ark:/12148/bpt6k90660b",
+    "iiif_manifest": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k90660b/manifest.json"
+  },
+  "ark": "bpt6k90660b",
+  "typographie": {
+    "category": "Serif/Roman",
+    "subtype": "Didone (Modern)"
+  },
+  "_annotations": {
+    "metadata.title": {
+      "readability": "Readable",
+      "correction": "Les Récents Progrès de la Chimie"
     },
-    "langue": "fr (French)",
-    "ark": "bpt6k90660b",
-    "typographie_suggestion": {
-        "category": "Serif/Roman",
-        "subtype": "Didone (Modern)",
-        "explanation": "The typeface features the high contrast between thick and thin strokes, vertical stress, and small, horizontal serifs characteristic of the \"Modern\" or Didone style (similar to Bodoni or Didot), which was standard for academic and formal French publications in the early 20th century.",
-        "raw": "Category: Serif/Roman\nSubtype: Didone (Modern)\nExplanation: The typeface features the high contrast between thick and thin strokes, vertical stress, and small, horizontal serifs characteristic of the \"Modern\" or Didone style (similar to Bodoni or Didot), which was standard for academic and formal French publications in the early 20th century."
+    "metadata.title_complement": {
+      "readability": "Readable"
     },
-    "typographie": {
-        "category": "Serif/Roman",
-        "subtype": "Didone (Modern)"
+    "metadata.volume_number": {
+      "readability": "Readable"
     },
-    "_annotations": {
-        "metadata.title": {
-            "lisibilite": "Lisible",
-            "correction": "Les Récents Progrès de la Chimie"
-        },
-        "metadata.title_complement": {
-            "lisibilite": "Lisible"
-        },
-        "metadata.volume_number": {
-            "lisibilite": "Lisible"
-        },
-        "metadata.authors": {
-            "lisibilite": "Lisible",
-            "correction": "A. HALLER"
-        },
-        "metadata.publisher": {
-            "lisibilite": "Lisible"
-        },
-        "metadata.publication_place": {
-            "lisibilite": "Lisible"
-        },
-        "metadata.date": {
-            "lisibilite": "Lisible"
-        },
-        "langue": {
-            "lisibilite": "Lisible"
-        },
-        "metadata.identifier": {
-            "lisibilite": "Lisible"
-        },
-        "metadata.iiif_manifest": {
-            "lisibilite": "Lisible"
-        },
-        "ark": {
-            "lisibilite": "Lisible"
-        }
+    "metadata.authors": {
+      "readability": "Readable",
+      "correction": "A. HALLER"
+    },
+    "metadata.publisher": {
+      "readability": "Readable"
+    },
+    "metadata.publication_place": {
+      "readability": "Readable"
+    },
+    "metadata.date": {
+      "readability": "Readable"
+    },
+    "language": {
+      "readability": "Readable"
+    },
+    "metadata.identifier": {
+      "readability": "Readable"
+    },
+    "metadata.iiif_manifest": {
+      "readability": "Readable"
+    },
+    "ark": {
+      "readability": "Readable"
     }
+  },
+  "language": "fr (French)"
 }

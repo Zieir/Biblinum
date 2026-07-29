@@ -1,67 +1,61 @@
 {
-    "metadata": {
-        "title": "Onoranze al senatore professore Emanuele Paternò pel suo settantacinquesimo anno",
-        "title_complement": "",
-        "volume_number": "",
-        "authors": "Associazione Italiana di Chimica Generale ed Applicata",
-        "publisher": "Stab. Danesi",
-        "publication_place": "ROMA",
-        "date": "1923",
-        "identifier": "http://gallica.bnf.fr/ark:/12148/bpt6k90352w",
-        "iiif_manifest": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k90352w/manifest.json"
+  "metadata": {
+    "title": "Onoranze al senatore professore Emanuele Paternò pel suo settantacinquesimo anno",
+    "title_complement": "",
+    "volume_number": "",
+    "authors": "Associazione Italiana di Chimica Generale ed Applicata",
+    "publisher": "Stab. Danesi",
+    "publication_place": "ROMA",
+    "date": "1923",
+    "identifier": "http://gallica.bnf.fr/ark:/12148/bpt6k90352w",
+    "iiif_manifest": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k90352w/manifest.json"
+  },
+  "ark": "bpt6k90352w",
+  "typographie": {
+    "category": "Serif/Roman",
+    "subtype": "Old Style / Transitional"
+  },
+  "_annotations": {
+    "metadata.title": {
+      "readability": "Readable",
+      "correction": "Onoranze al senatore professore Emanuele Paternò pel suo settantacinquesimo anno"
     },
-    "langue": "it (Italian)",
-    "ark": "bpt6k90352w",
-    "typographie_suggestion": {
-        "category": "Serif/Roman",
-        "subtype": "Old Style / Transitional",
-        "explanation": "The typeface features clear serifs with a moderate contrast between thick and thin strokes. The proportions and the structure of the capitals are characteristic of classical Roman typography used in formal academic and official publications of the early 20th century.",
-        "raw": "Category: Serif/Roman\nSubtype: Old Style / Transitional\nExplanation: The typeface features clear serifs with a moderate contrast between thick and thin strokes. The proportions and the structure of the capitals are characteristic of classical Roman typography used in formal academic and official publications of the early 20th century."
+    "metadata.title_complement": {
+      "readability": "Not readable",
+      "cause": "absent",
+      "correction": ""
     },
-    "typographie": {
-        "category": "Serif/Roman",
-        "subtype": "Old Style / Transitional"
+    "metadata.volume_number": {
+      "readability": "Not readable",
+      "cause": "absent"
     },
-    "_annotations": {
-        "metadata.title": {
-            "lisibilite": "Lisible",
-            "correction": "Onoranze al senatore professore Emanuele Paternò pel suo settantacinquesimo anno"
-        },
-        "metadata.title_complement": {
-            "lisibilite": "Non lisible",
-            "cause": "absent",
-            "correction": ""
-        },
-        "metadata.volume_number": {
-            "lisibilite": "Non lisible",
-            "cause": "absent"
-        },
-        "metadata.authors": {
-            "lisibilite": "Lisible",
-            "correction": "Associazione Italiana di Chimica Generale ed Applicata"
-        },
-        "metadata.publisher": {
-            "lisibilite": "Lisible",
-            "correction": "Stab. Danesi"
-        },
-        "metadata.publication_place": {
-            "lisibilite": "Lisible"
-        },
-        "metadata.date": {
-            "lisibilite": "Lisible"
-        },
-        "langue": {
-            "lisibilite": "Lisible",
-            "correction": "it (Italian)"
-        },
-        "metadata.identifier": {
-            "lisibilite": "Lisible"
-        },
-        "metadata.iiif_manifest": {
-            "lisibilite": "Lisible"
-        },
-        "ark": {
-            "lisibilite": "Lisible"
-        }
+    "metadata.authors": {
+      "readability": "Readable",
+      "correction": "Associazione Italiana di Chimica Generale ed Applicata"
+    },
+    "metadata.publisher": {
+      "readability": "Readable",
+      "correction": "Stab. Danesi"
+    },
+    "metadata.publication_place": {
+      "readability": "Readable"
+    },
+    "metadata.date": {
+      "readability": "Readable"
+    },
+    "language": {
+      "readability": "Readable",
+      "correction": "it (Italian)"
+    },
+    "metadata.identifier": {
+      "readability": "Readable"
+    },
+    "metadata.iiif_manifest": {
+      "readability": "Readable"
+    },
+    "ark": {
+      "readability": "Readable"
     }
+  },
+  "language": "it (Italian)"
 }

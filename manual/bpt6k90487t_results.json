@@ -1,65 +1,59 @@
 {
-    "metadata": {
-        "title": "FETES DU CENTENAIRE de MARCELIN BERTHELOT",
-        "title_complement": "",
-        "volume_number": "",
-        "authors": "",
-        "publisher": "TYPOGRAPHIE DE FIRMIN-DIDOT ET CIE",
-        "publication_place": "PARIS",
-        "date": "1927",
-        "identifier": "http://gallica.bnf.fr/ark:/12148/bpt6k90487t",
-        "iiif_manifest": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k90487t/manifest.json"
+  "metadata": {
+    "title": "FETES DU CENTENAIRE de MARCELIN BERTHELOT",
+    "title_complement": "",
+    "volume_number": "",
+    "authors": "",
+    "publisher": "TYPOGRAPHIE DE FIRMIN-DIDOT ET CIE",
+    "publication_place": "PARIS",
+    "date": "1927",
+    "identifier": "http://gallica.bnf.fr/ark:/12148/bpt6k90487t",
+    "iiif_manifest": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k90487t/manifest.json"
+  },
+  "ark": "bpt6k90487t",
+  "typographie": {
+    "category": "Serif/Roman",
+    "subtype": "Didone (Modern)"
+  },
+  "_annotations": {
+    "metadata.title": {
+      "readability": "Readable",
+      "correction": "FETES DU CENTENAIRE de MARCELIN BERTHELOT"
     },
-    "langue": "fr (French)",
-    "ark": "bpt6k90487t",
-    "typographie_suggestion": {
-        "category": "Serif/Roman",
-        "subtype": "Didone (Modern)",
-        "explanation": "The typeface features the extreme contrast between thick and thin strokes, vertical stress, and thin, horizontal serifs characteristic of the Didot and Bodoni styles, which were the standard for high-end French typography during this era.",
-        "raw": "Category: Serif/Roman\nSubtype: Didone (Modern)\nExplanation: The typeface features the extreme contrast between thick and thin strokes, vertical stress, and thin, horizontal serifs characteristic of the Didot and Bodoni styles, which were the standard for high-end French typography during this era."
+    "metadata.title_complement": {
+      "readability": "Not readable",
+      "cause": "absent",
+      "correction": ""
     },
-    "typographie": {
-        "category": "Serif/Roman",
-        "subtype": "Didone (Modern)"
+    "metadata.volume_number": {
+      "readability": "Not readable",
+      "cause": "absent"
     },
-    "_annotations": {
-        "metadata.title": {
-            "lisibilite": "Lisible",
-            "correction": "FETES DU CENTENAIRE de MARCELIN BERTHELOT"
-        },
-        "metadata.title_complement": {
-            "lisibilite": "Non lisible",
-            "cause": "absent",
-            "correction": ""
-        },
-        "metadata.volume_number": {
-            "lisibilite": "Non lisible",
-            "cause": "absent"
-        },
-        "metadata.authors": {
-            "lisibilite": "Non lisible",
-            "cause": "absent"
-        },
-        "metadata.publisher": {
-            "lisibilite": "Lisible"
-        },
-        "metadata.publication_place": {
-            "lisibilite": "Lisible"
-        },
-        "metadata.date": {
-            "lisibilite": "Lisible"
-        },
-        "langue": {
-            "lisibilite": "Lisible"
-        },
-        "metadata.identifier": {
-            "lisibilite": "Lisible"
-        },
-        "metadata.iiif_manifest": {
-            "lisibilite": "Lisible"
-        },
-        "ark": {
-            "lisibilite": "Lisible"
-        }
+    "metadata.authors": {
+      "readability": "Not readable",
+      "cause": "absent"
+    },
+    "metadata.publisher": {
+      "readability": "Readable"
+    },
+    "metadata.publication_place": {
+      "readability": "Readable"
+    },
+    "metadata.date": {
+      "readability": "Readable"
+    },
+    "language": {
+      "readability": "Readable"
+    },
+    "metadata.identifier": {
+      "readability": "Readable"
+    },
+    "metadata.iiif_manifest": {
+      "readability": "Readable"
+    },
+    "ark": {
+      "readability": "Readable"
     }
+  },
+  "language": "fr (French)"
 }

@@ -1,65 +1,59 @@
 {
-    "metadata": {
-        "title": "OPUSCULES PHYSIQUES ET CHIMIQUES",
-        "title_complement": "",
-        "volume_number": "",
-        "authors": "A. L. LAVOISIER",
-        "publisher": "Deterville",
-        "publication_place": "PARIS",
-        "date": "1801",
-        "identifier": "http://gallica.bnf.fr/ark:/12148/bpt6k918457",
-        "iiif_manifest": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k918457/manifest.json"
+  "metadata": {
+    "title": "OPUSCULES PHYSIQUES ET CHIMIQUES",
+    "title_complement": "",
+    "volume_number": "",
+    "authors": "A. L. LAVOISIER",
+    "publisher": "Deterville",
+    "publication_place": "PARIS",
+    "date": "1801",
+    "identifier": "http://gallica.bnf.fr/ark:/12148/bpt6k918457",
+    "iiif_manifest": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k918457/manifest.json"
+  },
+  "ark": "bpt6k918457",
+  "typographie": {
+    "category": "Serif/Roman",
+    "subtype": "Transitional / Didone"
+  },
+  "_annotations": {
+    "metadata.title": {
+      "readability": "Readable",
+      "correction": "OPUSCULES PHYSIQUES ET CHIMIQUES"
     },
-    "langue": "fr (French)",
-    "ark": "bpt6k918457",
-    "typographie_suggestion": {
-        "category": "Serif/Roman",
-        "subtype": "Transitional / Didone",
-        "explanation": "The typeface features a strong contrast between thick and thin strokes, vertical stress, and fine, horizontal serifs. This style is characteristic of the late 18th-century French printing (such as the Didot family) common during the era of Lavoisier.",
-        "raw": "Category: Serif/Roman\nSubtype: Transitional / Didone\nExplanation: The typeface features a strong contrast between thick and thin strokes, vertical stress, and fine, horizontal serifs. This style is characteristic of the late 18th-century French printing (such as the Didot family) common during the era of Lavoisier."
+    "metadata.title_complement": {
+      "readability": "Not readable",
+      "cause": "absent",
+      "correction": ""
     },
-    "typographie": {
-        "category": "Serif/Roman",
-        "subtype": "Transitional / Didone"
+    "metadata.volume_number": {
+      "readability": "Not readable",
+      "cause": "absent"
     },
-    "_annotations": {
-        "metadata.title": {
-            "lisibilite": "Lisible",
-            "correction": "OPUSCULES PHYSIQUES ET CHIMIQUES"
-        },
-        "metadata.title_complement": {
-            "lisibilite": "Non lisible",
-            "cause": "absent",
-            "correction": ""
-        },
-        "metadata.volume_number": {
-            "lisibilite": "Non lisible",
-            "cause": "absent"
-        },
-        "metadata.authors": {
-            "lisibilite": "Lisible",
-            "correction": "A. L. LAVOISIER"
-        },
-        "metadata.publisher": {
-            "lisibilite": "Lisible"
-        },
-        "metadata.publication_place": {
-            "lisibilite": "Lisible"
-        },
-        "metadata.date": {
-            "lisibilite": "Lisible"
-        },
-        "langue": {
-            "lisibilite": "Lisible"
-        },
-        "metadata.identifier": {
-            "lisibilite": "Lisible"
-        },
-        "metadata.iiif_manifest": {
-            "lisibilite": "Lisible"
-        },
-        "ark": {
-            "lisibilite": "Lisible"
-        }
+    "metadata.authors": {
+      "readability": "Readable",
+      "correction": "A. L. LAVOISIER"
+    },
+    "metadata.publisher": {
+      "readability": "Readable"
+    },
+    "metadata.publication_place": {
+      "readability": "Readable"
+    },
+    "metadata.date": {
+      "readability": "Readable"
+    },
+    "language": {
+      "readability": "Readable"
+    },
+    "metadata.identifier": {
+      "readability": "Readable"
+    },
+    "metadata.iiif_manifest": {
+      "readability": "Readable"
+    },
+    "ark": {
+      "readability": "Readable"
     }
+  },
+  "language": "fr (French)"
 }

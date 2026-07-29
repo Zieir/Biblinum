@@ -1,63 +1,57 @@
 {
-    "metadata": {
-        "title": "PRÉCIS DE CHIMIE GÉNÉRALE ET DESCRIPTIVE ",
-        "title_complement": "EXPOSÉ AU POINT DE VUE DES DOCTRINES MODERNES",
-        "volume_number": "TOME DEUXIÈME",
-        "authors": "TH. SWARTS",
-        "publisher": "LIBRAIRIE GÉNÉRALE DE AD. HOSTE",
-        "publication_place": "GAND",
-        "date": "1887",
-        "identifier": "http://gallica.bnf.fr/ark:/12148/bpt6k90087q",
-        "iiif_manifest": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k90087q/manifest.json"
+  "metadata": {
+    "title": "PRÉCIS DE CHIMIE GÉNÉRALE ET DESCRIPTIVE ",
+    "title_complement": "EXPOSÉ AU POINT DE VUE DES DOCTRINES MODERNES",
+    "volume_number": "TOME DEUXIÈME",
+    "authors": "TH. SWARTS",
+    "publisher": "LIBRAIRIE GÉNÉRALE DE AD. HOSTE",
+    "publication_place": "GAND",
+    "date": "1887",
+    "identifier": "http://gallica.bnf.fr/ark:/12148/bpt6k90087q",
+    "iiif_manifest": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k90087q/manifest.json"
+  },
+  "ark": "bpt6k90087q",
+  "typographie": {
+    "category": "Serif/Roman",
+    "subtype": "Didone (Modern)"
+  },
+  "_annotations": {
+    "metadata.title": {
+      "readability": "Readable",
+      "correction": "PRÉCIS DE CHIMIE GÉNÉRALE ET DESCRIPTIVE "
     },
-    "langue": "fr (French)",
-    "ark": "bpt6k90087q",
-    "typographie_suggestion": {
-        "category": "Serif/Roman",
-        "subtype": "Didone (Modern)",
-        "explanation": "The text features the high contrast between thick and thin strokes, vertical stress, and unbracketed, hairline serifs characteristic of the \"Modern\" or Didone style (popularized by Didot and Bodoni), which was standard for formal academic and scientific publications in the late 19th century.",
-        "raw": "Category: Serif/Roman\nSubtype: Didone (Modern)\nExplanation: The text features the high contrast between thick and thin strokes, vertical stress, and unbracketed, hairline serifs characteristic of the \"Modern\" or Didone style (popularized by Didot and Bodoni), which was standard for formal academic and scientific publications in the late 19th century."
+    "metadata.title_complement": {
+      "readability": "Readable",
+      "correction": "EXPOSÉ AU POINT DE VUE DES DOCTRINES MODERNES"
     },
-    "typographie": {
-        "category": "Serif/Roman",
-        "subtype": "Didone (Modern)"
+    "metadata.volume_number": {
+      "readability": "Readable"
     },
-    "_annotations": {
-        "metadata.title": {
-            "lisibilite": "Lisible",
-            "correction": "PRÉCIS DE CHIMIE GÉNÉRALE ET DESCRIPTIVE "
-        },
-        "metadata.title_complement": {
-            "lisibilite": "Lisible",
-            "correction": "EXPOSÉ AU POINT DE VUE DES DOCTRINES MODERNES"
-        },
-        "metadata.volume_number": {
-            "lisibilite": "Lisible"
-        },
-        "metadata.authors": {
-            "lisibilite": "Lisible",
-            "correction": "TH. SWARTS"
-        },
-        "metadata.publisher": {
-            "lisibilite": "Lisible"
-        },
-        "metadata.publication_place": {
-            "lisibilite": "Lisible"
-        },
-        "metadata.date": {
-            "lisibilite": "Lisible"
-        },
-        "langue": {
-            "lisibilite": "Lisible"
-        },
-        "metadata.identifier": {
-            "lisibilite": "Lisible"
-        },
-        "metadata.iiif_manifest": {
-            "lisibilite": "Lisible"
-        },
-        "ark": {
-            "lisibilite": "Lisible"
-        }
+    "metadata.authors": {
+      "readability": "Readable",
+      "correction": "TH. SWARTS"
+    },
+    "metadata.publisher": {
+      "readability": "Readable"
+    },
+    "metadata.publication_place": {
+      "readability": "Readable"
+    },
+    "metadata.date": {
+      "readability": "Readable"
+    },
+    "language": {
+      "readability": "Readable"
+    },
+    "metadata.identifier": {
+      "readability": "Readable"
+    },
+    "metadata.iiif_manifest": {
+      "readability": "Readable"
+    },
+    "ark": {
+      "readability": "Readable"
     }
+  },
+  "language": "fr (French)"
 }

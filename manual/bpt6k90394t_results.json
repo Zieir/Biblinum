@@ -1,61 +1,55 @@
 {
-    "metadata": {
-        "title": "MANUAL OF CHEMISTRY",
-        "title_complement": "CONTAINING THE PRINCIPAL FACTS OF THE SCIENCE, ARRANGED IN THE ORDER IN WHICH THEY ARE DISCUSSED AND ILLUSTRATED IN THE LECTURES AT THE ROYAL INSTITUTION OF GREAT BRITAIN",
-        "volume_number": "VOL. III",
-        "authors": "William Thomas Brande",
-        "publisher": "JOHN MURRAY",
-        "publication_place": "LONDON",
-        "date": "1821",
-        "identifier": "http://gallica.bnf.fr/ark:/12148/bpt6k90394t",
-        "iiif_manifest": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k90394t/manifest.json"
+  "metadata": {
+    "title": "MANUAL OF CHEMISTRY",
+    "title_complement": "CONTAINING THE PRINCIPAL FACTS OF THE SCIENCE, ARRANGED IN THE ORDER IN WHICH THEY ARE DISCUSSED AND ILLUSTRATED IN THE LECTURES AT THE ROYAL INSTITUTION OF GREAT BRITAIN",
+    "volume_number": "VOL. III",
+    "authors": "William Thomas Brande",
+    "publisher": "JOHN MURRAY",
+    "publication_place": "LONDON",
+    "date": "1821",
+    "identifier": "http://gallica.bnf.fr/ark:/12148/bpt6k90394t",
+    "iiif_manifest": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k90394t/manifest.json"
+  },
+  "ark": "bpt6k90394t",
+  "typographie": {
+    "category": "Serif/Roman",
+    "subtype": "Didone (Modern)"
+  },
+  "_annotations": {
+    "metadata.title": {
+      "readability": "Readable"
     },
-    "langue": "en (English)",
-    "ark": "bpt6k90394t",
-    "typographie_suggestion": {
-        "category": "Serif/Roman",
-        "subtype": "Didone (Modern)",
-        "explanation": "The typeface features the high contrast between thick and thin strokes, vertical stress, and thin, horizontal serifs characteristic of the \"Modern\" or Didone style popular in the early 19th century (e.g., Bodoni or Didot).",
-        "raw": "Category: Serif/Roman\nSubtype: Didone (Modern)\nExplanation: The typeface features the high contrast between thick and thin strokes, vertical stress, and thin, horizontal serifs characteristic of the \"Modern\" or Didone style popular in the early 19th century (e.g., Bodoni or Didot)."
+    "metadata.title_complement": {
+      "readability": "Readable"
     },
-    "typographie": {
-        "category": "Serif/Roman",
-        "subtype": "Didone (Modern)"
+    "metadata.volume_number": {
+      "readability": "Readable"
     },
-    "_annotations": {
-        "metadata.title": {
-            "lisibilite": "Lisible"
-        },
-        "metadata.title_complement": {
-            "lisibilite": "Lisible"
-        },
-        "metadata.volume_number": {
-            "lisibilite": "Lisible"
-        },
-        "metadata.authors": {
-            "lisibilite": "Lisible",
-            "correction": "William Thomas Brande"
-        },
-        "metadata.publisher": {
-            "lisibilite": "Lisible"
-        },
-        "metadata.publication_place": {
-            "lisibilite": "Lisible"
-        },
-        "metadata.date": {
-            "lisibilite": "Lisible"
-        },
-        "langue": {
-            "lisibilite": "Lisible"
-        },
-        "metadata.identifier": {
-            "lisibilite": "Lisible"
-        },
-        "metadata.iiif_manifest": {
-            "lisibilite": "Lisible"
-        },
-        "ark": {
-            "lisibilite": "Lisible"
-        }
+    "metadata.authors": {
+      "readability": "Readable",
+      "correction": "William Thomas Brande"
+    },
+    "metadata.publisher": {
+      "readability": "Readable"
+    },
+    "metadata.publication_place": {
+      "readability": "Readable"
+    },
+    "metadata.date": {
+      "readability": "Readable"
+    },
+    "language": {
+      "readability": "Readable"
+    },
+    "metadata.identifier": {
+      "readability": "Readable"
+    },
+    "metadata.iiif_manifest": {
+      "readability": "Readable"
+    },
+    "ark": {
+      "readability": "Readable"
     }
+  },
+  "language": "en (English)"
 }

@@ -1,61 +1,55 @@
 {
-    "metadata": {
-        "title": "LES THÉORIES MODERNES DE LA CHIMIE",
-        "title_complement": "ET LEUR APPLICATION A LA MÉCANIQUE CHIMIQUE",
-        "volume_number": "PREMIER VOLUME",
-        "authors": "Lothar MEYER",
-        "publisher": "GEORGES CARRÉ, ÉDITEUR",
-        "publication_place": "PARIS",
-        "date": "1887",
-        "identifier": "http://gallica.bnf.fr/ark:/12148/bpt6k91871s",
-        "iiif_manifest": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k91871s/manifest.json"
+  "metadata": {
+    "title": "LES THÉORIES MODERNES DE LA CHIMIE",
+    "title_complement": "ET LEUR APPLICATION A LA MÉCANIQUE CHIMIQUE",
+    "volume_number": "PREMIER VOLUME",
+    "authors": "Lothar MEYER",
+    "publisher": "GEORGES CARRÉ, ÉDITEUR",
+    "publication_place": "PARIS",
+    "date": "1887",
+    "identifier": "http://gallica.bnf.fr/ark:/12148/bpt6k91871s",
+    "iiif_manifest": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k91871s/manifest.json"
+  },
+  "ark": "bpt6k91871s",
+  "typographie": {
+    "category": "Display",
+    "subtype": "Victorian / Ornamental"
+  },
+  "_annotations": {
+    "metadata.title": {
+      "readability": "Readable"
     },
-    "langue": "fr (French)",
-    "ark": "bpt6k91871s",
-    "typographie_suggestion": {
-        "category": "Display",
-        "subtype": "Victorian / Ornamental",
-        "explanation": "The typeface features heavy, decorative inline detailing and high-contrast strokes typical of 19th-century commercial and book title typography. It is designed for impact and ornamentation rather than body text legibility.",
-        "raw": "Based on the main title \"THÉORIES MODERNES DE LA CHIMIE\":\n\nCategory: Display\nSubtype: Victorian / Ornamental\nExplanation: The typeface features heavy, decorative inline detailing and high-contrast strokes typical of 19th-century commercial and book title typography. It is designed for impact and ornamentation rather than body text legibility."
+    "metadata.title_complement": {
+      "readability": "Readable"
     },
-    "typographie": {
-        "category": "Display",
-        "subtype": "Victorian / Ornamental"
+    "metadata.volume_number": {
+      "readability": "Readable"
     },
-    "_annotations": {
-        "metadata.title": {
-            "lisibilite": "Lisible"
-        },
-        "metadata.title_complement": {
-            "lisibilite": "Lisible"
-        },
-        "metadata.volume_number": {
-            "lisibilite": "Lisible"
-        },
-        "metadata.authors": {
-            "lisibilite": "Lisible",
-            "correction": "Lothar MEYER"
-        },
-        "metadata.publisher": {
-            "lisibilite": "Lisible"
-        },
-        "metadata.publication_place": {
-            "lisibilite": "Lisible"
-        },
-        "metadata.date": {
-            "lisibilite": "Lisible"
-        },
-        "langue": {
-            "lisibilite": "Lisible"
-        },
-        "metadata.identifier": {
-            "lisibilite": "Lisible"
-        },
-        "metadata.iiif_manifest": {
-            "lisibilite": "Lisible"
-        },
-        "ark": {
-            "lisibilite": "Lisible"
-        }
+    "metadata.authors": {
+      "readability": "Readable",
+      "correction": "Lothar MEYER"
+    },
+    "metadata.publisher": {
+      "readability": "Readable"
+    },
+    "metadata.publication_place": {
+      "readability": "Readable"
+    },
+    "metadata.date": {
+      "readability": "Readable"
+    },
+    "language": {
+      "readability": "Readable"
+    },
+    "metadata.identifier": {
+      "readability": "Readable"
+    },
+    "metadata.iiif_manifest": {
+      "readability": "Readable"
+    },
+    "ark": {
+      "readability": "Readable"
     }
+  },
+  "language": "fr (French)"
 }

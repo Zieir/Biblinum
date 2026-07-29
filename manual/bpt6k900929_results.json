@@ -1,65 +1,59 @@
 {
-    "metadata": {
-        "title": "Kleyers Encyklopädie der gesamten mathematischen, technischen und exakten Natur-Wissenschaften",
-        "title_complement": "Lehrbuch der anorganischen reinen und technischen Chemie (Experimental-Chemie)",
-        "volume_number": "II. Band",
-        "authors": "W. Steffen",
-        "publisher": "Julis Maier",
-        "publication_place": "Stuttgart",
-        "date": "1898",
-        "identifier": "http://gallica.bnf.fr/ark:/12148/bpt6k900929",
-        "iiif_manifest": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k900929/manifest.json"
+  "metadata": {
+    "title": "Kleyers Encyklopädie der gesamten mathematischen, technischen und exakten Natur-Wissenschaften",
+    "title_complement": "Lehrbuch der anorganischen reinen und technischen Chemie (Experimental-Chemie)",
+    "volume_number": "II. Band",
+    "authors": "W. Steffen",
+    "publisher": "Julis Maier",
+    "publication_place": "Stuttgart",
+    "date": "1898",
+    "identifier": "http://gallica.bnf.fr/ark:/12148/bpt6k900929",
+    "iiif_manifest": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k900929/manifest.json"
+  },
+  "ark": "bpt6k900929",
+  "typographie": {
+    "category": "Serif/Roman",
+    "subtype": "Modern / Didone"
+  },
+  "_annotations": {
+    "metadata.title": {
+      "readability": "Readable"
     },
-    "langue": "de (German)",
-    "ark": "bpt6k900929",
-    "typographie_suggestion": {
-        "category": "Serif/Roman",
-        "subtype": "Modern / Didone",
-        "explanation": "The typeface features a strong contrast between thick and thin strokes, vertical stress, and thin, horizontal serifs, which are characteristic of the \"Modern\" or Didone style popular in the late 19th century.",
-        "raw": "Category: Serif/Roman\nSubtype: Modern / Didone\nExplanation: The typeface features a strong contrast between thick and thin strokes, vertical stress, and thin, horizontal serifs, which are characteristic of the \"Modern\" or Didone style popular in the late 19th century."
+    "metadata.title_complement": {
+      "readability": "Readable"
     },
-    "typographie": {
-        "category": "Serif/Roman",
-        "subtype": "Modern / Didone"
+    "metadata.volume_number": {
+      "readability": "Readable",
+      "correction": "II. Band"
     },
-    "_annotations": {
-        "metadata.title": {
-            "lisibilite": "Lisible"
-        },
-        "metadata.title_complement": {
-            "lisibilite": "Lisible"
-        },
-        "metadata.volume_number": {
-            "lisibilite": "Lisible",
-            "correction": "II. Band"
-        },
-        "metadata.authors": {
-            "lisibilite": "Lisible",
-            "correction": "W. Steffen"
-        },
-        "metadata.publisher": {
-            "lisibilite": "Lisible",
-            "correction": "Julis Maier"
-        },
-        "metadata.publication_place": {
-            "lisibilite": "Lisible",
-            "correction": "Stuttgart"
-        },
-        "metadata.date": {
-            "lisibilite": "Lisible",
-            "correction": "1898"
-        },
-        "langue": {
-            "lisibilite": "Lisible"
-        },
-        "metadata.identifier": {
-            "lisibilite": "Lisible"
-        },
-        "metadata.iiif_manifest": {
-            "lisibilite": "Lisible"
-        },
-        "ark": {
-            "lisibilite": "Lisible"
-        }
+    "metadata.authors": {
+      "readability": "Readable",
+      "correction": "W. Steffen"
+    },
+    "metadata.publisher": {
+      "readability": "Readable",
+      "correction": "Julis Maier"
+    },
+    "metadata.publication_place": {
+      "readability": "Readable",
+      "correction": "Stuttgart"
+    },
+    "metadata.date": {
+      "readability": "Readable",
+      "correction": "1898"
+    },
+    "language": {
+      "readability": "Readable"
+    },
+    "metadata.identifier": {
+      "readability": "Readable"
+    },
+    "metadata.iiif_manifest": {
+      "readability": "Readable"
+    },
+    "ark": {
+      "readability": "Readable"
     }
+  },
+  "language": "de (German)"
 }

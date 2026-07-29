@@ -1,66 +1,60 @@
 {
-    "metadata": {
-        "title": "Lehrbuch der Organischen Chemie",
-        "title_complement": "oder der Chemie der Kohlenstoffverbindungen",
-        "volume_number": "Dritter Band",
-        "authors": "Aug. Kekulé; E. Anschutz; G.Sch",
-        "publisher": "Ferdinand Enke",
-        "publication_place": "Stuttgart",
-        "date": "1880",
-        "identifier": "http://gallica.bnf.fr/ark:/12148/bpt6k905068/f2.item",
-        "iiif_manifest": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k905068/manifest.json"
+  "metadata": {
+    "title": "Lehrbuch der Organischen Chemie",
+    "title_complement": "oder der Chemie der Kohlenstoffverbindungen",
+    "volume_number": "Dritter Band",
+    "authors": "Aug. Kekulé; E. Anschutz; G.Sch",
+    "publisher": "Ferdinand Enke",
+    "publication_place": "Stuttgart",
+    "date": "1880",
+    "identifier": "http://gallica.bnf.fr/ark:/12148/bpt6k905068/f2.item",
+    "iiif_manifest": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k905068/manifest.json"
+  },
+  "ark": "bpt6k905068",
+  "typographie": {
+    "category": "Blackletter",
+    "subtype": "Fraktur"
+  },
+  "_annotations": {
+    "metadata.title": {
+      "readability": "Not readable",
+      "cause": "quality",
+      "correction": "Lehrbuch der Organischen Chemie"
     },
-    "langue": "de (German)",
-    "ark": "bpt6k905068",
-    "typographie_suggestion": {
-        "category": "Blackletter",
-        "subtype": "Fraktur",
-        "explanation": "The text features the characteristic broken strokes, angular forms, and decorative flourishes typical of the Fraktur style, which was the standard typeface for German-language printing during the 19th century.",
-        "raw": "Category: Blackletter\nSubtype: Fraktur\nExplanation: The text features the characteristic broken strokes, angular forms, and decorative flourishes typical of the Fraktur style, which was the standard typeface for German-language printing during the 19th century."
+    "metadata.title_complement": {
+      "readability": "Readable"
     },
-    "typographie": {
-        "category": "Blackletter",
-        "subtype": "Fraktur"
+    "metadata.volume_number": {
+      "readability": "Not readable",
+      "cause": "quality"
     },
-    "_annotations": {
-        "metadata.title": {
-            "lisibilite": "Non lisible",
-            "cause": "qualite",
-            "correction": "Lehrbuch der Organischen Chemie"
-        },
-        "metadata.title_complement": {
-            "lisibilite": "Lisible"
-        },
-        "metadata.volume_number": {
-            "lisibilite": "Non lisible",
-            "cause": "qualite"
-        },
-        "metadata.authors": {
-            "lisibilite": "Non lisible",
-            "cause": "qualite",
-            "correction": "Aug. Kekulé; E. Anschutz; G.Sch"
-        },
-        "metadata.publisher": {
-            "lisibilite": "Non lisible",
-            "cause": "qualite"
-        },
-        "metadata.publication_place": {
-            "lisibilite": "Lisible"
-        },
-        "metadata.date": {
-            "lisibilite": "Lisible"
-        },
-        "langue": {
-            "lisibilite": "Lisible"
-        },
-        "metadata.identifier": {
-            "lisibilite": "Lisible"
-        },
-        "metadata.iiif_manifest": {
-            "lisibilite": "Lisible"
-        },
-        "ark": {
-            "lisibilite": "Lisible"
-        }
+    "metadata.authors": {
+      "readability": "Not readable",
+      "cause": "quality",
+      "correction": "Aug. Kekulé; E. Anschutz; G.Sch"
+    },
+    "metadata.publisher": {
+      "readability": "Not readable",
+      "cause": "quality"
+    },
+    "metadata.publication_place": {
+      "readability": "Readable"
+    },
+    "metadata.date": {
+      "readability": "Readable"
+    },
+    "language": {
+      "readability": "Readable"
+    },
+    "metadata.identifier": {
+      "readability": "Readable"
+    },
+    "metadata.iiif_manifest": {
+      "readability": "Readable"
+    },
+    "ark": {
+      "readability": "Readable"
     }
+  },
+  "language": "de (German)"
 }

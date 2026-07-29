@@ -1,65 +1,59 @@
 {
-    "metadata": {
-        "title": "TRAITÉ DE CHIMIE GÉNÉRALE ET EXPÉRIMENTALE,",
-        "title_complement": "AVEC LES APPLICATIONS AUX ARTS , A LA MÉDECINE ET A LA PHARMACIE",
-        "volume_number": "TOME DEUXIÈME",
-        "authors": "A. BAUDRIMONT",
-        "publisher": "J.-B. BAILLIÈRE. H. BAILLIÈRE",
-        "publication_place": "PARIS; LONDRES",
-        "date": "1846",
-        "identifier": "http://gallica.bnf.fr/ark:/12148/bpt6k90366k",
-        "iiif_manifest": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k90366k/manifest.json"
+  "metadata": {
+    "title": "TRAITÉ DE CHIMIE GÉNÉRALE ET EXPÉRIMENTALE,",
+    "title_complement": "AVEC LES APPLICATIONS AUX ARTS , A LA MÉDECINE ET A LA PHARMACIE",
+    "volume_number": "TOME DEUXIÈME",
+    "authors": "A. BAUDRIMONT",
+    "publisher": "J.-B. BAILLIÈRE. H. BAILLIÈRE",
+    "publication_place": "PARIS; LONDRES",
+    "date": "1846",
+    "identifier": "http://gallica.bnf.fr/ark:/12148/bpt6k90366k",
+    "iiif_manifest": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k90366k/manifest.json"
+  },
+  "ark": "bpt6k90366k",
+  "typographie": {
+    "category": "Serif/Roman",
+    "subtype": "Didone (Modern)"
+  },
+  "_annotations": {
+    "metadata.title": {
+      "readability": "Readable",
+      "correction": "TRAITÉ DE CHIMIE GÉNÉRALE ET EXPÉRIMENTALE,"
     },
-    "langue": "fr (French)",
-    "ark": "bpt6k90366k",
-    "typographie_suggestion": {
-        "category": "Serif/Roman",
-        "subtype": "Didone (Modern)",
-        "explanation": "The typeface features the high contrast between thick and thin strokes, vertical stress, and small, unbracketed (hairline) serifs characteristic of the \"Modern\" style popularized by Didot and Bodoni in the late 18th and early 19th centuries.",
-        "raw": "Category: Serif/Roman\nSubtype: Didone (Modern)\nExplanation: The typeface features the high contrast between thick and thin strokes, vertical stress, and small, unbracketed (hairline) serifs characteristic of the \"Modern\" style popularized by Didot and Bodoni in the late 18th and early 19th centuries."
+    "metadata.title_complement": {
+      "readability": "Readable",
+      "correction": "AVEC LES APPLICATIONS AUX ARTS , A LA MÉDECINE ET A LA PHARMACIE"
     },
-    "typographie": {
-        "category": "Serif/Roman",
-        "subtype": "Didone (Modern)"
+    "metadata.volume_number": {
+      "readability": "Readable"
     },
-    "_annotations": {
-        "metadata.title": {
-            "lisibilite": "Lisible",
-            "correction": "TRAITÉ DE CHIMIE GÉNÉRALE ET EXPÉRIMENTALE,"
-        },
-        "metadata.title_complement": {
-            "lisibilite": "Lisible",
-            "correction": "AVEC LES APPLICATIONS AUX ARTS , A LA MÉDECINE ET A LA PHARMACIE"
-        },
-        "metadata.volume_number": {
-            "lisibilite": "Lisible"
-        },
-        "metadata.authors": {
-            "lisibilite": "Lisible",
-            "correction": "A. BAUDRIMONT"
-        },
-        "metadata.publisher": {
-            "lisibilite": "Lisible",
-            "correction": "J.-B. BAILLIÈRE. H. BAILLIÈRE"
-        },
-        "metadata.publication_place": {
-            "lisibilite": "Lisible",
-            "correction": "PARIS; LONDRES"
-        },
-        "metadata.date": {
-            "lisibilite": "Lisible"
-        },
-        "langue": {
-            "lisibilite": "Lisible"
-        },
-        "metadata.identifier": {
-            "lisibilite": "Lisible"
-        },
-        "metadata.iiif_manifest": {
-            "lisibilite": "Lisible"
-        },
-        "ark": {
-            "lisibilite": "Lisible"
-        }
+    "metadata.authors": {
+      "readability": "Readable",
+      "correction": "A. BAUDRIMONT"
+    },
+    "metadata.publisher": {
+      "readability": "Readable",
+      "correction": "J.-B. BAILLIÈRE. H. BAILLIÈRE"
+    },
+    "metadata.publication_place": {
+      "readability": "Readable",
+      "correction": "PARIS; LONDRES"
+    },
+    "metadata.date": {
+      "readability": "Readable"
+    },
+    "language": {
+      "readability": "Readable"
+    },
+    "metadata.identifier": {
+      "readability": "Readable"
+    },
+    "metadata.iiif_manifest": {
+      "readability": "Readable"
+    },
+    "ark": {
+      "readability": "Readable"
     }
+  },
+  "language": "fr (French)"
 }

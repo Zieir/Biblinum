@@ -1,61 +1,55 @@
 {
-    "metadata": {
-        "title": "COURS DE MINÉRALOGIE",
-        "title_complement": "HISTOIRE NATURELLE",
-        "volume_number": "PREMIÈRE PARTIE",
-        "authors": "A. LEYMERIE",
-        "publisher": "VICTOR MASSON ; LOUIS GIMET",
-        "publication_place": "PARIS ; TOULOUSE",
-        "date": "1857",
-        "identifier": "http://gallica.bnf.fr/ark:/12148/bpt6k91966g",
-        "iiif_manifest": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k91966g/manifest.json"
+  "metadata": {
+    "title": "COURS DE MINÉRALOGIE",
+    "title_complement": "HISTOIRE NATURELLE",
+    "volume_number": "PREMIÈRE PARTIE",
+    "authors": "A. LEYMERIE",
+    "publisher": "VICTOR MASSON ; LOUIS GIMET",
+    "publication_place": "PARIS ; TOULOUSE",
+    "date": "1857",
+    "identifier": "http://gallica.bnf.fr/ark:/12148/bpt6k91966g",
+    "iiif_manifest": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k91966g/manifest.json"
+  },
+  "ark": "bpt6k91966g",
+  "typographie": {
+    "category": "Serif/Roman",
+    "subtype": "Slab Serif (Egyptian)"
+  },
+  "_annotations": {
+    "metadata.title": {
+      "readability": "Readable"
     },
-    "langue": "fr (French)",
-    "ark": "bpt6k91966g",
-    "typographie_suggestion": {
-        "category": "Serif/Roman",
-        "subtype": "Slab Serif (Egyptian)",
-        "explanation": "The main title \"MINÉRALOGIE\" features heavy, block-like serifs with little to no bracketing, which is characteristic of the Slab Serif style popular in the mid-19th century. The rest of the text uses a more traditional Transitional or Modern serif.",
-        "raw": "Category: Serif/Roman\nSubtype: Slab Serif (Egyptian)\nExplanation: The main title \"MINÉRALOGIE\" features heavy, block-like serifs with little to no bracketing, which is characteristic of the Slab Serif style popular in the mid-19th century. The rest of the text uses a more traditional Transitional or Modern serif."
+    "metadata.title_complement": {
+      "readability": "Readable"
     },
-    "typographie": {
-        "category": "Serif/Roman",
-        "subtype": "Slab Serif (Egyptian)"
+    "metadata.volume_number": {
+      "readability": "Readable"
     },
-    "_annotations": {
-        "metadata.title": {
-            "lisibilite": "Lisible"
-        },
-        "metadata.title_complement": {
-            "lisibilite": "Lisible"
-        },
-        "metadata.volume_number": {
-            "lisibilite": "Lisible"
-        },
-        "metadata.authors": {
-            "lisibilite": "Lisible",
-            "correction": "A. LEYMERIE"
-        },
-        "metadata.publisher": {
-            "lisibilite": "Lisible"
-        },
-        "metadata.publication_place": {
-            "lisibilite": "Lisible"
-        },
-        "metadata.date": {
-            "lisibilite": "Lisible"
-        },
-        "langue": {
-            "lisibilite": "Lisible"
-        },
-        "metadata.identifier": {
-            "lisibilite": "Lisible"
-        },
-        "metadata.iiif_manifest": {
-            "lisibilite": "Lisible"
-        },
-        "ark": {
-            "lisibilite": "Lisible"
-        }
+    "metadata.authors": {
+      "readability": "Readable",
+      "correction": "A. LEYMERIE"
+    },
+    "metadata.publisher": {
+      "readability": "Readable"
+    },
+    "metadata.publication_place": {
+      "readability": "Readable"
+    },
+    "metadata.date": {
+      "readability": "Readable"
+    },
+    "language": {
+      "readability": "Readable"
+    },
+    "metadata.identifier": {
+      "readability": "Readable"
+    },
+    "metadata.iiif_manifest": {
+      "readability": "Readable"
+    },
+    "ark": {
+      "readability": "Readable"
     }
+  },
+  "language": "fr (French)"
 }

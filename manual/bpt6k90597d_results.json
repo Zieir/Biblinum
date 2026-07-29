@@ -1,66 +1,60 @@
 {
-    "metadata": {
-        "title": "Introduction à la CHIMIE MODERNE",
-        "title_complement": "RÉSUMÉ DES OUVRAGES ET DES TRAVAUX RÉCENTS DES CHIMISTES FRANÇAIS ET ALLEMANDS",
-        "volume_number": "",
-        "authors": "G. BRÉLAZ",
-        "publisher": "LIBRAIRIE VICTOR MASSON ET FILS; Librairie Jaques Chantrens",
-        "publication_place": "PARIS; Lausanne",
-        "date": "1868",
-        "identifier": "http://gallica.bnf.fr/ark:/12148/bpt6k90597d",
-        "iiif_manifest": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k90597d/manifest.json"
+  "metadata": {
+    "title": "Introduction à la CHIMIE MODERNE",
+    "title_complement": "RÉSUMÉ DES OUVRAGES ET DES TRAVAUX RÉCENTS DES CHIMISTES FRANÇAIS ET ALLEMANDS",
+    "volume_number": "",
+    "authors": "G. BRÉLAZ",
+    "publisher": "LIBRAIRIE VICTOR MASSON ET FILS; Librairie Jaques Chantrens",
+    "publication_place": "PARIS; Lausanne",
+    "date": "1868",
+    "identifier": "http://gallica.bnf.fr/ark:/12148/bpt6k90597d",
+    "iiif_manifest": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k90597d/manifest.json"
+  },
+  "ark": "bpt6k90597d",
+  "typographie": {
+    "category": "Serif/Roman",
+    "subtype": "Didone (Modern)"
+  },
+  "_annotations": {
+    "metadata.title": {
+      "readability": "Not readable",
+      "cause": "covered",
+      "correction": "Introduction à la CHIMIE MODERNE"
     },
-    "langue": "fr (French)",
-    "ark": "bpt6k90597d",
-    "typographie_suggestion": {
-        "category": "Serif/Roman",
-        "subtype": "Didone (Modern)",
-        "explanation": "The typeface features a high contrast between thick and thin strokes, vertical stress, and thin, horizontal serifs, which are the defining characteristics of the \"Modern\" or Didone style popular in the 19th century.",
-        "raw": "Based on the primary title text \"CHIMIE MODERNE\":\n\nCategory: Serif/Roman\nSubtype: Didone (Modern)\nExplanation: The typeface features a high contrast between thick and thin strokes, vertical stress, and thin, horizontal serifs, which are the defining characteristics of the \"Modern\" or Didone style popular in the 19th century."
+    "metadata.title_complement": {
+      "readability": "Readable"
     },
-    "typographie": {
-        "category": "Serif/Roman",
-        "subtype": "Didone (Modern)"
+    "metadata.volume_number": {
+      "readability": "Not readable",
+      "cause": "absent"
     },
-    "_annotations": {
-        "metadata.title": {
-            "lisibilite": "Non lisible",
-            "cause": "recouvert",
-            "correction": "Introduction à la CHIMIE MODERNE"
-        },
-        "metadata.title_complement": {
-            "lisibilite": "Lisible"
-        },
-        "metadata.volume_number": {
-            "lisibilite": "Non lisible",
-            "cause": "absent"
-        },
-        "metadata.authors": {
-            "lisibilite": "Lisible",
-            "correction": "G. BRÉLAZ"
-        },
-        "metadata.publisher": {
-            "lisibilite": "Lisible",
-            "correction": "LIBRAIRIE VICTOR MASSON ET FILS; Librairie Jaques Chantrens"
-        },
-        "metadata.publication_place": {
-            "lisibilite": "Lisible",
-            "correction": "PARIS; Lausanne"
-        },
-        "metadata.date": {
-            "lisibilite": "Lisible"
-        },
-        "langue": {
-            "lisibilite": "Lisible"
-        },
-        "metadata.identifier": {
-            "lisibilite": "Lisible"
-        },
-        "metadata.iiif_manifest": {
-            "lisibilite": "Lisible"
-        },
-        "ark": {
-            "lisibilite": "Lisible"
-        }
+    "metadata.authors": {
+      "readability": "Readable",
+      "correction": "G. BRÉLAZ"
+    },
+    "metadata.publisher": {
+      "readability": "Readable",
+      "correction": "LIBRAIRIE VICTOR MASSON ET FILS; Librairie Jaques Chantrens"
+    },
+    "metadata.publication_place": {
+      "readability": "Readable",
+      "correction": "PARIS; Lausanne"
+    },
+    "metadata.date": {
+      "readability": "Readable"
+    },
+    "language": {
+      "readability": "Readable"
+    },
+    "metadata.identifier": {
+      "readability": "Readable"
+    },
+    "metadata.iiif_manifest": {
+      "readability": "Readable"
+    },
+    "ark": {
+      "readability": "Readable"
     }
+  },
+  "language": "fr (French)"
 }

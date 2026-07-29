@@ -1,65 +1,59 @@
 {
-    "metadata": {
-        "title": "THE RADICAL THEORY IN CHEMISTRY",
-        "title_complement": "",
-        "volume_number": "",
-        "authors": "John Joseph GRIFFIN",
-        "publisher": "John Joseph Griffin",
-        "publication_place": "LONDON",
-        "date": "1858",
-        "identifier": "http://gallica.bnf.fr/ark:/12148/bpt6k904587",
-        "iiif_manifest": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k904587/manifest.json"
+  "metadata": {
+    "title": "THE RADICAL THEORY IN CHEMISTRY",
+    "title_complement": "",
+    "volume_number": "",
+    "authors": "John Joseph GRIFFIN",
+    "publisher": "John Joseph Griffin",
+    "publication_place": "LONDON",
+    "date": "1858",
+    "identifier": "http://gallica.bnf.fr/ark:/12148/bpt6k904587",
+    "iiif_manifest": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k904587/manifest.json"
+  },
+  "ark": "bpt6k904587",
+  "typographie": {
+    "category": "Serif/Roman",
+    "subtype": "Modern / Didone"
+  },
+  "_annotations": {
+    "metadata.title": {
+      "readability": "Readable",
+      "correction": "THE RADICAL THEORY IN CHEMISTRY"
     },
-    "langue": "en (English)",
-    "ark": "bpt6k904587",
-    "typographie_suggestion": {
-        "category": "Serif/Roman",
-        "subtype": "Modern / Didone",
-        "explanation": "The main title \"RADICAL THEORY\" features the high contrast between thick and thin strokes and vertical stress characteristic of the Modern/Didone style (popularized by Bodoni and Didot), which was prevalent in 19th-century printing.",
-        "raw": "Category: Serif/Roman\nSubtype: Modern / Didone\nExplanation: The main title \"RADICAL THEORY\" features the high contrast between thick and thin strokes and vertical stress characteristic of the Modern/Didone style (popularized by Bodoni and Didot), which was prevalent in 19th-century printing."
+    "metadata.title_complement": {
+      "readability": "Not readable",
+      "cause": "absent",
+      "correction": ""
     },
-    "typographie": {
-        "category": "Serif/Roman",
-        "subtype": "Modern / Didone"
+    "metadata.volume_number": {
+      "readability": "Not readable",
+      "cause": "handwritten"
     },
-    "_annotations": {
-        "metadata.title": {
-            "lisibilite": "Lisible",
-            "correction": "THE RADICAL THEORY IN CHEMISTRY"
-        },
-        "metadata.title_complement": {
-            "lisibilite": "Non lisible",
-            "cause": "absent",
-            "correction": ""
-        },
-        "metadata.volume_number": {
-            "lisibilite": "Non lisible",
-            "cause": "manuscrit"
-        },
-        "metadata.authors": {
-            "lisibilite": "Lisible",
-            "correction": "John Joseph GRIFFIN"
-        },
-        "metadata.publisher": {
-            "lisibilite": "Lisible"
-        },
-        "metadata.publication_place": {
-            "lisibilite": "Lisible"
-        },
-        "metadata.date": {
-            "lisibilite": "Lisible"
-        },
-        "langue": {
-            "lisibilite": "Lisible"
-        },
-        "metadata.identifier": {
-            "lisibilite": "Lisible"
-        },
-        "metadata.iiif_manifest": {
-            "lisibilite": "Lisible"
-        },
-        "ark": {
-            "lisibilite": "Lisible"
-        }
+    "metadata.authors": {
+      "readability": "Readable",
+      "correction": "John Joseph GRIFFIN"
+    },
+    "metadata.publisher": {
+      "readability": "Readable"
+    },
+    "metadata.publication_place": {
+      "readability": "Readable"
+    },
+    "metadata.date": {
+      "readability": "Readable"
+    },
+    "language": {
+      "readability": "Readable"
+    },
+    "metadata.identifier": {
+      "readability": "Readable"
+    },
+    "metadata.iiif_manifest": {
+      "readability": "Readable"
+    },
+    "ark": {
+      "readability": "Readable"
     }
+  },
+  "language": "en (English)"
 }

@@ -1,71 +1,65 @@
 {
-    "metadata": {
-        "title": "THÉORIES & SYMBOLES DES ALCHIMISTES",
-        "title_complement": "le grand-oeuvre suivi d'un essai sur la Bibliographie alchimique du XIXe siècle",
-        "volume_number": "",
-        "authors": "Albert Poisson",
-        "publisher": "Chacornac",
-        "publication_place": "Paris",
-        "date": "1891",
-        "identifier": "http://gallica.bnf.fr/ark:/12148/bpt6k90027v",
-        "iiif_manifest": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k90027v/manifest.json"
+  "metadata": {
+    "title": "THÉORIES & SYMBOLES DES ALCHIMISTES",
+    "title_complement": "le grand-oeuvre suivi d'un essai sur la Bibliographie alchimique du XIXe siècle",
+    "volume_number": "",
+    "authors": "Albert Poisson",
+    "publisher": "Chacornac",
+    "publication_place": "Paris",
+    "date": "1891",
+    "identifier": "http://gallica.bnf.fr/ark:/12148/bpt6k90027v",
+    "iiif_manifest": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k90027v/manifest.json"
+  },
+  "ark": "bpt6k90027v",
+  "typographie": {
+    "category": "Serif/Roman",
+    "subtype": "Didone (Modern)"
+  },
+  "_annotations": {
+    "metadata.title": {
+      "readability": "Readable",
+      "correction": "THÉORIES & SYMBOLES DES ALCHIMISTES"
     },
-    "langue": "fr (French)",
-    "ark": "bpt6k90027v",
-    "typographie_suggestion": {
-        "category": "Serif/Roman",
-        "subtype": "Didone (Modern)",
-        "explanation": "The text features the high contrast between thick and thin strokes, vertical stress, and flat, unbracketed serifs characteristic of the Didone style (similar to Bodoni or Didot), which was prevalent in formal French publishing during the 19th century.",
-        "raw": "Category: Serif/Roman\nSubtype: Didone (Modern)\nExplanation: The text features the high contrast between thick and thin strokes, vertical stress, and flat, unbracketed serifs characteristic of the Didone style (similar to Bodoni or Didot), which was prevalent in formal French publishing during the 19th century."
+    "metadata.title_complement": {
+      "readability": "Not readable",
+      "cause": "quality",
+      "correction": "le grand-oeuvre suivi d'un essai sur la Bibliographie alchimique du XIXe siècle"
     },
-    "typographie": {
-        "category": "Serif/Roman",
-        "subtype": "Didone (Modern)"
+    "metadata.volume_number": {
+      "readability": "Not readable",
+      "cause": "absent"
     },
-    "_annotations": {
-        "metadata.title": {
-            "lisibilite": "Lisible",
-            "correction": "THÉORIES & SYMBOLES DES ALCHIMISTES"
-        },
-        "metadata.title_complement": {
-            "lisibilite": "Non lisible",
-            "cause": "qualite",
-            "correction": "le grand-oeuvre suivi d'un essai sur la Bibliographie alchimique du XIXe siècle"
-        },
-        "metadata.volume_number": {
-            "lisibilite": "Non lisible",
-            "cause": "absent"
-        },
-        "metadata.authors": {
-            "lisibilite": "Lisible",
-            "correction": "Albert Poisson"
-        },
-        "metadata.publisher": {
-            "lisibilite": "Non lisible",
-            "cause": "qualite",
-            "correction": "Chacornac"
-        },
-        "metadata.publication_place": {
-            "lisibilite": "Non lisible",
-            "cause": "qualite",
-            "correction": "Paris"
-        },
-        "metadata.date": {
-            "lisibilite": "Non lisible",
-            "cause": "qualite",
-            "correction": "1891"
-        },
-        "langue": {
-            "lisibilite": "Lisible"
-        },
-        "metadata.identifier": {
-            "lisibilite": "Lisible"
-        },
-        "metadata.iiif_manifest": {
-            "lisibilite": "Lisible"
-        },
-        "ark": {
-            "lisibilite": "Lisible"
-        }
+    "metadata.authors": {
+      "readability": "Readable",
+      "correction": "Albert Poisson"
+    },
+    "metadata.publisher": {
+      "readability": "Not readable",
+      "cause": "quality",
+      "correction": "Chacornac"
+    },
+    "metadata.publication_place": {
+      "readability": "Not readable",
+      "cause": "quality",
+      "correction": "Paris"
+    },
+    "metadata.date": {
+      "readability": "Not readable",
+      "cause": "quality",
+      "correction": "1891"
+    },
+    "language": {
+      "readability": "Readable"
+    },
+    "metadata.identifier": {
+      "readability": "Readable"
+    },
+    "metadata.iiif_manifest": {
+      "readability": "Readable"
+    },
+    "ark": {
+      "readability": "Readable"
     }
+  },
+  "language": "fr (French)"
 }

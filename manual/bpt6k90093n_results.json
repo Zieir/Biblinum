@@ -1,67 +1,61 @@
 {
-    "metadata": {
-        "title": "COURS D'ANALYSE de l'Ecole Polythchnique",
-        "title_complement": "",
-        "volume_number": "",
-        "authors": "STURM",
-        "publisher": "Mallet-Bachelier",
-        "publication_place": "PARIS",
-        "date": "1863",
-        "identifier": "http://gallica.bnf.fr/ark:/12148/bpt6k90093n",
-        "iiif_manifest": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k90093n/manifest.json"
+  "metadata": {
+    "title": "COURS D'ANALYSE de l'Ecole Polythchnique",
+    "title_complement": "",
+    "volume_number": "",
+    "authors": "STURM",
+    "publisher": "Mallet-Bachelier",
+    "publication_place": "PARIS",
+    "date": "1863",
+    "identifier": "http://gallica.bnf.fr/ark:/12148/bpt6k90093n",
+    "iiif_manifest": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k90093n/manifest.json"
+  },
+  "ark": "bpt6k90093n",
+  "typographie": {
+    "category": "Serif/Roman",
+    "subtype": "Modern (Didone)"
+  },
+  "_annotations": {
+    "metadata.title": {
+      "readability": "Readable",
+      "correction": "COURS D'ANALYSE de l'Ecole Polythchnique"
     },
-    "langue": "fr (French)",
-    "ark": "bpt6k90093n",
-    "typographie_suggestion": {
-        "category": "Serif/Roman",
-        "subtype": "Modern (Didone)",
-        "explanation": "The typeface features the high contrast between thick and thin strokes, vertical stress, and small, unbracketed serifs characteristic of the \"Modern\" or Didone style (similar to Bodoni or Didot), which was prevalent in 19th-century French academic printing.",
-        "raw": "Category: Serif/Roman\nSubtype: Modern (Didone)\nExplanation: The typeface features the high contrast between thick and thin strokes, vertical stress, and small, unbracketed serifs characteristic of the \"Modern\" or Didone style (similar to Bodoni or Didot), which was prevalent in 19th-century French academic printing."
+    "metadata.title_complement": {
+      "readability": "Not readable",
+      "cause": "absent"
     },
-    "typographie": {
-        "category": "Serif/Roman",
-        "subtype": "Modern (Didone)"
+    "metadata.volume_number": {
+      "readability": "Not readable",
+      "cause": "absent"
     },
-    "_annotations": {
-        "metadata.title": {
-            "lisibilite": "Lisible",
-            "correction": "COURS D'ANALYSE de l'Ecole Polythchnique"
-        },
-        "metadata.title_complement": {
-            "lisibilite": "Non lisible",
-            "cause": "absent"
-        },
-        "metadata.volume_number": {
-            "lisibilite": "Non lisible",
-            "cause": "absent"
-        },
-        "metadata.authors": {
-            "lisibilite": "Lisible",
-            "correction": "STURM"
-        },
-        "metadata.publisher": {
-            "lisibilite": "Lisible",
-            "correction": "Mallet-Bachelier"
-        },
-        "metadata.publication_place": {
-            "lisibilite": "Lisible",
-            "correction": "PARIS"
-        },
-        "metadata.date": {
-            "lisibilite": "Lisible",
-            "correction": "1863"
-        },
-        "langue": {
-            "lisibilite": "Lisible"
-        },
-        "metadata.identifier": {
-            "lisibilite": "Lisible"
-        },
-        "metadata.iiif_manifest": {
-            "lisibilite": "Lisible"
-        },
-        "ark": {
-            "lisibilite": "Lisible"
-        }
+    "metadata.authors": {
+      "readability": "Readable",
+      "correction": "STURM"
+    },
+    "metadata.publisher": {
+      "readability": "Readable",
+      "correction": "Mallet-Bachelier"
+    },
+    "metadata.publication_place": {
+      "readability": "Readable",
+      "correction": "PARIS"
+    },
+    "metadata.date": {
+      "readability": "Readable",
+      "correction": "1863"
+    },
+    "language": {
+      "readability": "Readable"
+    },
+    "metadata.identifier": {
+      "readability": "Readable"
+    },
+    "metadata.iiif_manifest": {
+      "readability": "Readable"
+    },
+    "ark": {
+      "readability": "Readable"
     }
+  },
+  "language": "fr (French)"
 }

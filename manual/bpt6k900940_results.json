@@ -1,67 +1,61 @@
 {
-    "metadata": {
-        "title": "COURS D'ANALYSE de L'Ecole Polythechnique",
-        "title_complement": "",
-        "volume_number": "",
-        "authors": "STURM",
-        "publisher": "GAUTHIER-VILLARS",
-        "publication_place": "PARIS",
-        "date": "1864",
-        "identifier": "http://gallica.bnf.fr/ark:/12148/bpt6k900940",
-        "iiif_manifest": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k900940/manifest.json"
+  "metadata": {
+    "title": "COURS D'ANALYSE de L'Ecole Polythechnique",
+    "title_complement": "",
+    "volume_number": "",
+    "authors": "STURM",
+    "publisher": "GAUTHIER-VILLARS",
+    "publication_place": "PARIS",
+    "date": "1864",
+    "identifier": "http://gallica.bnf.fr/ark:/12148/bpt6k900940",
+    "iiif_manifest": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k900940/manifest.json"
+  },
+  "ark": "bpt6k900940",
+  "typographie": {
+    "category": "Serif/Roman",
+    "subtype": "Didone (Modern)"
+  },
+  "_annotations": {
+    "metadata.title": {
+      "readability": "Readable",
+      "correction": "COURS D'ANALYSE de L'Ecole Polythechnique"
     },
-    "langue": "fr (French)",
-    "ark": "bpt6k900940",
-    "typographie_suggestion": {
-        "category": "Serif/Roman",
-        "subtype": "Didone (Modern)",
-        "explanation": "The text features the high contrast between thick and thin strokes, vertical stress, and unbracketed, hairline serifs characteristic of the \"Modern\" or Didone style (popularized by Didot and Bodoni), which was the standard for formal French academic printing in the mid-19th century.",
-        "raw": "Category: Serif/Roman\nSubtype: Didone (Modern)\nExplanation: The text features the high contrast between thick and thin strokes, vertical stress, and unbracketed, hairline serifs characteristic of the \"Modern\" or Didone style (popularized by Didot and Bodoni), which was the standard for formal French academic printing in the mid-19th century."
+    "metadata.title_complement": {
+      "readability": "Not readable",
+      "cause": "absent"
     },
-    "typographie": {
-        "category": "Serif/Roman",
-        "subtype": "Didone (Modern)"
+    "metadata.volume_number": {
+      "readability": "Not readable",
+      "cause": "absent"
     },
-    "_annotations": {
-        "metadata.title": {
-            "lisibilite": "Lisible",
-            "correction": "COURS D'ANALYSE de L'Ecole Polythechnique"
-        },
-        "metadata.title_complement": {
-            "lisibilite": "Non lisible",
-            "cause": "absent"
-        },
-        "metadata.volume_number": {
-            "lisibilite": "Non lisible",
-            "cause": "absent"
-        },
-        "metadata.authors": {
-            "lisibilite": "Lisible",
-            "correction": "STURM"
-        },
-        "metadata.publisher": {
-            "lisibilite": "Lisible",
-            "correction": "GAUTHIER-VILLARS"
-        },
-        "metadata.publication_place": {
-            "lisibilite": "Lisible",
-            "correction": "PARIS"
-        },
-        "metadata.date": {
-            "lisibilite": "Lisible",
-            "correction": "1864"
-        },
-        "langue": {
-            "lisibilite": "Lisible"
-        },
-        "metadata.identifier": {
-            "lisibilite": "Lisible"
-        },
-        "metadata.iiif_manifest": {
-            "lisibilite": "Lisible"
-        },
-        "ark": {
-            "lisibilite": "Lisible"
-        }
+    "metadata.authors": {
+      "readability": "Readable",
+      "correction": "STURM"
+    },
+    "metadata.publisher": {
+      "readability": "Readable",
+      "correction": "GAUTHIER-VILLARS"
+    },
+    "metadata.publication_place": {
+      "readability": "Readable",
+      "correction": "PARIS"
+    },
+    "metadata.date": {
+      "readability": "Readable",
+      "correction": "1864"
+    },
+    "language": {
+      "readability": "Readable"
+    },
+    "metadata.identifier": {
+      "readability": "Readable"
+    },
+    "metadata.iiif_manifest": {
+      "readability": "Readable"
+    },
+    "ark": {
+      "readability": "Readable"
     }
+  },
+  "language": "fr (French)"
 }

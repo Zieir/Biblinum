@@ -1,67 +1,61 @@
 {
-    "metadata": {
-        "title": "Lehrbuch der anorganischen reinen und technischen Chemie",
-        "title_complement": "Anorganische Experimental-Chemie. I. Band: Die Mettaloide.",
-        "volume_number": "I. Band",
-        "authors": "W. Steffen",
-        "publisher": "Verlag von Julius Maier",
-        "publication_place": "Stuttgart",
-        "date": "1889",
-        "identifier": "http://gallica.bnf.fr/ark:/12148/bpt6k90091z",
-        "iiif_manifest": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k90091z/manifest.json"
+  "metadata": {
+    "title": "Lehrbuch der anorganischen reinen und technischen Chemie",
+    "title_complement": "Anorganische Experimental-Chemie. I. Band: Die Mettaloide.",
+    "volume_number": "I. Band",
+    "authors": "W. Steffen",
+    "publisher": "Verlag von Julius Maier",
+    "publication_place": "Stuttgart",
+    "date": "1889",
+    "identifier": "http://gallica.bnf.fr/ark:/12148/bpt6k90091z",
+    "iiif_manifest": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k90091z/manifest.json"
+  },
+  "ark": "bpt6k90091z",
+  "typographie": {
+    "category": "Serif/Roman",
+    "subtype": "Didone (Modern)"
+  },
+  "_annotations": {
+    "metadata.title": {
+      "readability": "Readable",
+      "correction": "Lehrbuch der anorganischen reinen und technischen Chemie"
     },
-    "langue": "de (German)",
-    "ark": "bpt6k90091z",
-    "typographie_suggestion": {
-        "category": "Serif/Roman",
-        "subtype": "Didone (Modern)",
-        "explanation": "The typeface features a high contrast between thick and thin strokes, vertical stress, and small, horizontal serifs, which are characteristic of the \"Modern\" or Didone style popular in the late 18th and 19th centuries.",
-        "raw": "Category: Serif/Roman\nSubtype: Didone (Modern)\nExplanation: The typeface features a high contrast between thick and thin strokes, vertical stress, and small, horizontal serifs, which are characteristic of the \"Modern\" or Didone style popular in the late 18th and 19th centuries."
+    "metadata.title_complement": {
+      "readability": "Readable",
+      "correction": "Anorganische Experimental-Chemie. I. Band: Die Mettaloide."
     },
-    "typographie": {
-        "category": "Serif/Roman",
-        "subtype": "Didone (Modern)"
+    "metadata.volume_number": {
+      "readability": "Readable",
+      "correction": "I. Band"
     },
-    "_annotations": {
-        "metadata.title": {
-            "lisibilite": "Lisible",
-            "correction": "Lehrbuch der anorganischen reinen und technischen Chemie"
-        },
-        "metadata.title_complement": {
-            "lisibilite": "Lisible",
-            "correction": "Anorganische Experimental-Chemie. I. Band: Die Mettaloide."
-        },
-        "metadata.volume_number": {
-            "lisibilite": "Lisible",
-            "correction": "I. Band"
-        },
-        "metadata.authors": {
-            "lisibilite": "Lisible",
-            "correction": "W. Steffen"
-        },
-        "metadata.publisher": {
-            "lisibilite": "Lisible",
-            "correction": "Verlag von Julius Maier"
-        },
-        "metadata.publication_place": {
-            "lisibilite": "Lisible",
-            "correction": "Stuttgart"
-        },
-        "metadata.date": {
-            "lisibilite": "Lisible",
-            "correction": "1889"
-        },
-        "langue": {
-            "lisibilite": "Lisible"
-        },
-        "metadata.identifier": {
-            "lisibilite": "Lisible"
-        },
-        "metadata.iiif_manifest": {
-            "lisibilite": "Lisible"
-        },
-        "ark": {
-            "lisibilite": "Lisible"
-        }
+    "metadata.authors": {
+      "readability": "Readable",
+      "correction": "W. Steffen"
+    },
+    "metadata.publisher": {
+      "readability": "Readable",
+      "correction": "Verlag von Julius Maier"
+    },
+    "metadata.publication_place": {
+      "readability": "Readable",
+      "correction": "Stuttgart"
+    },
+    "metadata.date": {
+      "readability": "Readable",
+      "correction": "1889"
+    },
+    "language": {
+      "readability": "Readable"
+    },
+    "metadata.identifier": {
+      "readability": "Readable"
+    },
+    "metadata.iiif_manifest": {
+      "readability": "Readable"
+    },
+    "ark": {
+      "readability": "Readable"
     }
+  },
+  "language": "de (German)"
 }

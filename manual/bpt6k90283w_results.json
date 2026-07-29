@@ -1,64 +1,58 @@
 {
-    "metadata": {
-        "title": "L'ÉNERGÉTIQUE DES RÉACTIONS CHIMIQUES",
-        "title_complement": "leçons professées à la Sorbonne",
-        "volume_number": "",
-        "authors": "G. URBAIN",
-        "publisher": "LIBRAIRIE OCTAVE DOIN",
-        "publication_place": "PARIS",
-        "date": "1925",
-        "identifier": "http://gallica.bnf.fr/ark:/12148/bpt6k90283w",
-        "iiif_manifest": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k90283w/manifest.json"
+  "metadata": {
+    "title": "L'ÉNERGÉTIQUE DES RÉACTIONS CHIMIQUES",
+    "title_complement": "leçons professées à la Sorbonne",
+    "volume_number": "",
+    "authors": "G. URBAIN",
+    "publisher": "LIBRAIRIE OCTAVE DOIN",
+    "publication_place": "PARIS",
+    "date": "1925",
+    "identifier": "http://gallica.bnf.fr/ark:/12148/bpt6k90283w",
+    "iiif_manifest": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k90283w/manifest.json"
+  },
+  "ark": "bpt6k90283w",
+  "typographie": {
+    "category": "Script",
+    "subtype": "Cursive / Copperplate"
+  },
+  "_annotations": {
+    "metadata.title": {
+      "readability": "Readable",
+      "correction": "L'ÉNERGÉTIQUE DES RÉACTIONS CHIMIQUES"
     },
-    "langue": "fr (French)",
-    "ark": "bpt6k90283w",
-    "typographie_suggestion": {
-        "category": "Script",
-        "subtype": "Cursive / Copperplate",
-        "explanation": "Mimics handwritten calligraphy with fluid, connected strokes and varying line weights.",
-        "raw": "Since the image contains multiple typefaces, I will identify the primary styles used for the main titles and body text.\n\n**Main Title (\"L'ÉNERGÉTIQUE\")**\nCategory: Serif/Roman\nSubtype: Didone (Modern)\nExplanation: Characterized by an extreme contrast between thick and thin strokes, vertical stress, and small, horizontal serifs.\n\n**Secondary Title (\"RÉACTIONS CHIMIQUES\")**\nCategory: Serif/Roman\nSubtype: Slab Serif (Egyptian)\nExplanation: Features heavy, block-like serifs of consistent thickness, typical of 19th and early 20th-century academic and industrial printing.\n\n**Body Text/Details**\nCategory: Serif/Roman\nSubtype: Old Style / Transitional\nExplanation: Standard book-face typography with moderate contrast and angled serifs for high legibility.\n\n**Dedication (\"Hommage de l'Editeur\")**\nCategory: Script\nSubtype: Cursive / Copperplate\nExplanation: Mimics handwritten calligraphy with fluid, connected strokes and varying line weights."
+    "metadata.title_complement": {
+      "readability": "Readable",
+      "correction": "leçons professées à la Sorbonne"
     },
-    "typographie": {
-        "category": "Script",
-        "subtype": "Cursive / Copperplate"
+    "metadata.volume_number": {
+      "readability": "Not readable",
+      "cause": "absent"
     },
-    "_annotations": {
-        "metadata.title": {
-            "lisibilite": "Lisible",
-            "correction": "L'ÉNERGÉTIQUE DES RÉACTIONS CHIMIQUES"
-        },
-        "metadata.title_complement": {
-            "lisibilite": "Lisible",
-            "correction": "leçons professées à la Sorbonne"
-        },
-        "metadata.volume_number": {
-            "lisibilite": "Non lisible",
-            "cause": "absent"
-        },
-        "metadata.authors": {
-            "lisibilite": "Lisible",
-            "correction": "G. URBAIN"
-        },
-        "metadata.publisher": {
-            "lisibilite": "Lisible"
-        },
-        "metadata.publication_place": {
-            "lisibilite": "Lisible"
-        },
-        "metadata.date": {
-            "lisibilite": "Lisible"
-        },
-        "langue": {
-            "lisibilite": "Lisible"
-        },
-        "metadata.identifier": {
-            "lisibilite": "Lisible"
-        },
-        "metadata.iiif_manifest": {
-            "lisibilite": "Lisible"
-        },
-        "ark": {
-            "lisibilite": "Lisible"
-        }
+    "metadata.authors": {
+      "readability": "Readable",
+      "correction": "G. URBAIN"
+    },
+    "metadata.publisher": {
+      "readability": "Readable"
+    },
+    "metadata.publication_place": {
+      "readability": "Readable"
+    },
+    "metadata.date": {
+      "readability": "Readable"
+    },
+    "language": {
+      "readability": "Readable"
+    },
+    "metadata.identifier": {
+      "readability": "Readable"
+    },
+    "metadata.iiif_manifest": {
+      "readability": "Readable"
+    },
+    "ark": {
+      "readability": "Readable"
     }
+  },
+  "language": "fr (French)"
 }

@@ -1,64 +1,58 @@
 {
-    "metadata": {
-        "title": "ESSAI DE MÉCANIQUE CHIMIQUE FONDÉE SUR LA THERMOCHIMIE",
-        "title_complement": "",
-        "volume_number": "TOME SECOND",
-        "authors": "M. BERTHELOT",
-        "publisher": "DUNOD, ÉDITEUR",
-        "publication_place": "PARIS",
-        "date": "1879",
-        "identifier": "http://gallica.bnf.fr/ark:/12148/bpt6k90302b",
-        "iiif_manifest": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k90302b/manifest.json"
+  "metadata": {
+    "title": "ESSAI DE MÉCANIQUE CHIMIQUE FONDÉE SUR LA THERMOCHIMIE",
+    "title_complement": "",
+    "volume_number": "TOME SECOND",
+    "authors": "M. BERTHELOT",
+    "publisher": "DUNOD, ÉDITEUR",
+    "publication_place": "PARIS",
+    "date": "1879",
+    "identifier": "http://gallica.bnf.fr/ark:/12148/bpt6k90302b",
+    "iiif_manifest": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k90302b/manifest.json"
+  },
+  "ark": "bpt6k90302b",
+  "typographie": {
+    "category": "Serif/Roman",
+    "subtype": "Modern (Didone)"
+  },
+  "_annotations": {
+    "metadata.title": {
+      "readability": "Readable",
+      "correction": "ESSAI DE MÉCANIQUE CHIMIQUE FONDÉE SUR LA THERMOCHIMIE"
     },
-    "langue": "fr (French)",
-    "ark": "bpt6k90302b",
-    "typographie_suggestion": {
-        "category": "Serif/Roman",
-        "subtype": "Modern (Didone)",
-        "explanation": "The typeface features a high contrast between thick and thin strokes, vertical stress, and small, horizontal serifs, which are characteristic of the Modern/Didone style popular in 19th-century academic and formal publishing.",
-        "raw": "Category: Serif/Roman\nSubtype: Modern (Didone)\nExplanation: The typeface features a high contrast between thick and thin strokes, vertical stress, and small, horizontal serifs, which are characteristic of the Modern/Didone style popular in 19th-century academic and formal publishing."
+    "metadata.title_complement": {
+      "readability": "Not readable",
+      "cause": "absent",
+      "correction": ""
     },
-    "typographie": {
-        "category": "Serif/Roman",
-        "subtype": "Modern (Didone)"
+    "metadata.volume_number": {
+      "readability": "Readable"
     },
-    "_annotations": {
-        "metadata.title": {
-            "lisibilite": "Lisible",
-            "correction": "ESSAI DE MÉCANIQUE CHIMIQUE FONDÉE SUR LA THERMOCHIMIE"
-        },
-        "metadata.title_complement": {
-            "lisibilite": "Non lisible",
-            "cause": "absent",
-            "correction": ""
-        },
-        "metadata.volume_number": {
-            "lisibilite": "Lisible"
-        },
-        "metadata.authors": {
-            "lisibilite": "Lisible",
-            "correction": "M. BERTHELOT"
-        },
-        "metadata.publisher": {
-            "lisibilite": "Lisible"
-        },
-        "metadata.publication_place": {
-            "lisibilite": "Lisible"
-        },
-        "metadata.date": {
-            "lisibilite": "Lisible"
-        },
-        "langue": {
-            "lisibilite": "Lisible"
-        },
-        "metadata.identifier": {
-            "lisibilite": "Lisible"
-        },
-        "metadata.iiif_manifest": {
-            "lisibilite": "Lisible"
-        },
-        "ark": {
-            "lisibilite": "Lisible"
-        }
+    "metadata.authors": {
+      "readability": "Readable",
+      "correction": "M. BERTHELOT"
+    },
+    "metadata.publisher": {
+      "readability": "Readable"
+    },
+    "metadata.publication_place": {
+      "readability": "Readable"
+    },
+    "metadata.date": {
+      "readability": "Readable"
+    },
+    "language": {
+      "readability": "Readable"
+    },
+    "metadata.identifier": {
+      "readability": "Readable"
+    },
+    "metadata.iiif_manifest": {
+      "readability": "Readable"
+    },
+    "ark": {
+      "readability": "Readable"
     }
+  },
+  "language": "fr (French)"
 }

@@ -1,64 +1,58 @@
 {
-    "metadata": {
-        "title": "A COURSE OF QUALITATIVE CHEMICAL ANALYSIS",
-        "title_complement": "",
-        "volume_number": "",
-        "authors": "Wm. Geo. VALENTIN",
-        "publisher": "J. & A. Churchill",
-        "publication_place": "London",
-        "date": "1874",
-        "identifier": "http://gallica.bnf.fr/ark:/12148/bpt6k90147r",
-        "iiif_manifest": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k90147r/manifest.json"
+  "metadata": {
+    "title": "A COURSE OF QUALITATIVE CHEMICAL ANALYSIS",
+    "title_complement": "",
+    "volume_number": "",
+    "authors": "Wm. Geo. VALENTIN",
+    "publisher": "J. & A. Churchill",
+    "publication_place": "London",
+    "date": "1874",
+    "identifier": "http://gallica.bnf.fr/ark:/12148/bpt6k90147r",
+    "iiif_manifest": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k90147r/manifest.json"
+  },
+  "ark": "bpt6k90147r",
+  "typographie": {
+    "category": "Serif/Roman",
+    "subtype": "Modern (Didone)"
+  },
+  "_annotations": {
+    "metadata.title": {
+      "readability": "Not readable",
+      "cause": "covered"
     },
-    "langue": "en (English)",
-    "ark": "bpt6k90147r",
-    "typographie_suggestion": {
-        "category": "Serif/Roman",
-        "subtype": "Modern (Didone)",
-        "explanation": "The typeface features the high contrast between thick and thin strokes and vertical stress characteristic of the 19th-century Modern/Didone style, which was standard for academic and scientific publishing during the 1870s.",
-        "raw": "Category: Serif/Roman\nSubtype: Modern (Didone)\nExplanation: The typeface features the high contrast between thick and thin strokes and vertical stress characteristic of the 19th-century Modern/Didone style, which was standard for academic and scientific publishing during the 1870s."
+    "metadata.title_complement": {
+      "readability": "Not readable",
+      "cause": "absent"
     },
-    "typographie": {
-        "category": "Serif/Roman",
-        "subtype": "Modern (Didone)"
+    "metadata.volume_number": {
+      "readability": "Not readable",
+      "cause": "absent"
     },
-    "_annotations": {
-        "metadata.title": {
-            "lisibilite": "Non lisible",
-            "cause": "recouvert"
-        },
-        "metadata.title_complement": {
-            "lisibilite": "Non lisible",
-            "cause": "absent"
-        },
-        "metadata.volume_number": {
-            "lisibilite": "Non lisible",
-            "cause": "absent"
-        },
-        "metadata.authors": {
-            "lisibilite": "Lisible",
-            "correction": "Wm. Geo. VALENTIN"
-        },
-        "metadata.publisher": {
-            "lisibilite": "Lisible"
-        },
-        "metadata.publication_place": {
-            "lisibilite": "Lisible"
-        },
-        "metadata.date": {
-            "lisibilite": "Lisible"
-        },
-        "langue": {
-            "lisibilite": "Lisible"
-        },
-        "metadata.identifier": {
-            "lisibilite": "Lisible"
-        },
-        "metadata.iiif_manifest": {
-            "lisibilite": "Lisible"
-        },
-        "ark": {
-            "lisibilite": "Lisible"
-        }
+    "metadata.authors": {
+      "readability": "Readable",
+      "correction": "Wm. Geo. VALENTIN"
+    },
+    "metadata.publisher": {
+      "readability": "Readable"
+    },
+    "metadata.publication_place": {
+      "readability": "Readable"
+    },
+    "metadata.date": {
+      "readability": "Readable"
+    },
+    "language": {
+      "readability": "Readable"
+    },
+    "metadata.identifier": {
+      "readability": "Readable"
+    },
+    "metadata.iiif_manifest": {
+      "readability": "Readable"
+    },
+    "ark": {
+      "readability": "Readable"
     }
+  },
+  "language": "en (English)"
 }

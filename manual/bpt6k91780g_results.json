@@ -1,65 +1,59 @@
 {
-    "metadata": {
-        "title": "OBSERVATIONS ET EXPÉRIENCES SUR L'OXYDATION DES MATIÈRES GRASSES D'ORIGINE VÉGÉTALE",
-        "title_complement": "",
-        "volume_number": "",
-        "authors": "François-Stanislas CLOEZ",
-        "publisher": "E. THUNOT ET Cie",
-        "publication_place": "PARIS",
-        "date": "1866",
-        "identifier": "http://gallica.bnf.fr/ark:/12148/bpt6k91780g",
-        "iiif_manifest": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k91780g/manifest.json"
+  "metadata": {
+    "title": "OBSERVATIONS ET EXPÉRIENCES SUR L'OXYDATION DES MATIÈRES GRASSES D'ORIGINE VÉGÉTALE",
+    "title_complement": "",
+    "volume_number": "",
+    "authors": "François-Stanislas CLOEZ",
+    "publisher": "E. THUNOT ET Cie",
+    "publication_place": "PARIS",
+    "date": "1866",
+    "identifier": "http://gallica.bnf.fr/ark:/12148/bpt6k91780g",
+    "iiif_manifest": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k91780g/manifest.json"
+  },
+  "ark": "bpt6k91780g",
+  "typographie": {
+    "category": "Serif/Roman",
+    "subtype": "Modern (Didone)"
+  },
+  "_annotations": {
+    "metadata.title": {
+      "readability": "Readable",
+      "correction": "OBSERVATIONS ET EXPÉRIENCES SUR L'OXYDATION DES MATIÈRES GRASSES D'ORIGINE VÉGÉTALE"
     },
-    "langue": "fr (French)",
-    "ark": "bpt6k91780g",
-    "typographie_suggestion": {
-        "category": "Serif/Roman",
-        "subtype": "Modern (Didone)",
-        "explanation": "The text features the high contrast between thick and thin strokes and vertical stress characteristic of the \"Modern\" or Didone style (popularized by Bodoni and Didot), which was the standard for formal academic and official printing in 19th-century France.",
-        "raw": "Category: Serif/Roman\nSubtype: Modern (Didone)\nExplanation: The text features the high contrast between thick and thin strokes and vertical stress characteristic of the \"Modern\" or Didone style (popularized by Bodoni and Didot), which was the standard for formal academic and official printing in 19th-century France."
+    "metadata.title_complement": {
+      "readability": "Not readable",
+      "cause": "absent",
+      "correction": ""
     },
-    "typographie": {
-        "category": "Serif/Roman",
-        "subtype": "Modern (Didone)"
+    "metadata.volume_number": {
+      "readability": "Not readable",
+      "cause": "absent"
     },
-    "_annotations": {
-        "metadata.title": {
-            "lisibilite": "Lisible",
-            "correction": "OBSERVATIONS ET EXPÉRIENCES SUR L'OXYDATION DES MATIÈRES GRASSES D'ORIGINE VÉGÉTALE"
-        },
-        "metadata.title_complement": {
-            "lisibilite": "Non lisible",
-            "cause": "absent",
-            "correction": ""
-        },
-        "metadata.volume_number": {
-            "lisibilite": "Non lisible",
-            "cause": "absent"
-        },
-        "metadata.authors": {
-            "lisibilite": "Lisible",
-            "correction": "François-Stanislas CLOEZ"
-        },
-        "metadata.publisher": {
-            "lisibilite": "Lisible"
-        },
-        "metadata.publication_place": {
-            "lisibilite": "Lisible"
-        },
-        "metadata.date": {
-            "lisibilite": "Lisible"
-        },
-        "langue": {
-            "lisibilite": "Lisible"
-        },
-        "metadata.identifier": {
-            "lisibilite": "Lisible"
-        },
-        "metadata.iiif_manifest": {
-            "lisibilite": "Lisible"
-        },
-        "ark": {
-            "lisibilite": "Lisible"
-        }
+    "metadata.authors": {
+      "readability": "Readable",
+      "correction": "François-Stanislas CLOEZ"
+    },
+    "metadata.publisher": {
+      "readability": "Readable"
+    },
+    "metadata.publication_place": {
+      "readability": "Readable"
+    },
+    "metadata.date": {
+      "readability": "Readable"
+    },
+    "language": {
+      "readability": "Readable"
+    },
+    "metadata.identifier": {
+      "readability": "Readable"
+    },
+    "metadata.iiif_manifest": {
+      "readability": "Readable"
+    },
+    "ark": {
+      "readability": "Readable"
     }
+  },
+  "language": "fr (French)"
 }

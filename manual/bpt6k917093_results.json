@@ -1,67 +1,61 @@
 {
-    "metadata": {
-        "title": "MANUEL D'UN COURS DE CHIMIE",
-        "title_complement": "ou Principes élémentaires, théoriques et pratiques de cette science",
-        "volume_number": "TOME PREMIER",
-        "authors": "E.-J.-B. BOUILLON LAGRANGE",
-        "publisher": "BERNARD",
-        "publication_place": "PARIS",
-        "date": "1802",
-        "identifier": "http://gallica.bnf.fr/ark:/12148/bpt6k917093",
-        "iiif_manifest": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k917093/manifest.json"
+  "metadata": {
+    "title": "MANUEL D'UN COURS DE CHIMIE",
+    "title_complement": "ou Principes élémentaires, théoriques et pratiques de cette science",
+    "volume_number": "TOME PREMIER",
+    "authors": "E.-J.-B. BOUILLON LAGRANGE",
+    "publisher": "BERNARD",
+    "publication_place": "PARIS",
+    "date": "1802",
+    "identifier": "http://gallica.bnf.fr/ark:/12148/bpt6k917093",
+    "iiif_manifest": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k917093/manifest.json"
+  },
+  "ark": "bpt6k917093",
+  "typographie": {
+    "category": "Serif/Roman",
+    "subtype": "Didone (Modern)"
+  },
+  "_annotations": {
+    "metadata.title": {
+      "readability": "Readable",
+      "correction": "MANUEL D'UN COURS DE CHIMIE"
     },
-    "langue": "fr (French)",
-    "ark": "bpt6k917093",
-    "typographie_suggestion": {
-        "category": "Serif/Roman",
-        "subtype": "Didone (Modern)",
-        "explanation": "The typeface features the high contrast between thick and thin strokes, vertical stress, and small, horizontal serifs characteristic of the late 18th and early 19th-century \"Modern\" style (similar to Bodoni or Didot), which was standard for French academic printing of that era.",
-        "raw": "Category: Serif/Roman\nSubtype: Didone (Modern)\nExplanation: The typeface features the high contrast between thick and thin strokes, vertical stress, and small, horizontal serifs characteristic of the late 18th and early 19th-century \"Modern\" style (similar to Bodoni or Didot), which was standard for French academic printing of that era."
+    "metadata.title_complement": {
+      "readability": "Readable",
+      "correction": "ou Principes élémentaires, théoriques et pratiques de cette science"
     },
-    "typographie": {
-        "category": "Serif/Roman",
-        "subtype": "Didone (Modern)"
+    "metadata.volume_number": {
+      "readability": "Readable",
+      "correction": "TOME PREMIER"
     },
-    "_annotations": {
-        "metadata.title": {
-            "lisibilite": "Lisible",
-            "correction": "MANUEL D'UN COURS DE CHIMIE"
-        },
-        "metadata.title_complement": {
-            "lisibilite": "Lisible",
-            "correction": "ou Principes élémentaires, théoriques et pratiques de cette science"
-        },
-        "metadata.volume_number": {
-            "lisibilite": "Lisible",
-            "correction": "TOME PREMIER"
-        },
-        "metadata.authors": {
-            "lisibilite": "Lisible",
-            "correction": "E.-J.-B. BOUILLON LAGRANGE"
-        },
-        "metadata.publisher": {
-            "lisibilite": "Lisible",
-            "correction": "BERNARD"
-        },
-        "metadata.publication_place": {
-            "lisibilite": "Lisible",
-            "correction": "PARIS"
-        },
-        "metadata.date": {
-            "lisibilite": "Lisible",
-            "correction": "1802"
-        },
-        "langue": {
-            "lisibilite": "Lisible"
-        },
-        "metadata.identifier": {
-            "lisibilite": "Lisible"
-        },
-        "metadata.iiif_manifest": {
-            "lisibilite": "Lisible"
-        },
-        "ark": {
-            "lisibilite": "Lisible"
-        }
+    "metadata.authors": {
+      "readability": "Readable",
+      "correction": "E.-J.-B. BOUILLON LAGRANGE"
+    },
+    "metadata.publisher": {
+      "readability": "Readable",
+      "correction": "BERNARD"
+    },
+    "metadata.publication_place": {
+      "readability": "Readable",
+      "correction": "PARIS"
+    },
+    "metadata.date": {
+      "readability": "Readable",
+      "correction": "1802"
+    },
+    "language": {
+      "readability": "Readable"
+    },
+    "metadata.identifier": {
+      "readability": "Readable"
+    },
+    "metadata.iiif_manifest": {
+      "readability": "Readable"
+    },
+    "ark": {
+      "readability": "Readable"
     }
+  },
+  "language": "fr (French)"
 }

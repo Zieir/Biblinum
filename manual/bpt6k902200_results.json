@@ -1,64 +1,58 @@
 {
-    "metadata": {
-        "title": "ŒUVRES de Charles Hermite",
-        "title_complement": "",
-        "volume_number": "TOME III",
-        "authors": "Charles Hermite",
-        "publisher": "Gauthier-Villars",
-        "publication_place": "Paris",
-        "date": "1912",
-        "identifier": "http://gallica.bnf.fr/ark:/12148/bpt6k902200",
-        "iiif_manifest": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k902200/manifest.json"
+  "metadata": {
+    "title": "ŒUVRES de Charles Hermite",
+    "title_complement": "",
+    "volume_number": "TOME III",
+    "authors": "Charles Hermite",
+    "publisher": "Gauthier-Villars",
+    "publication_place": "Paris",
+    "date": "1912",
+    "identifier": "http://gallica.bnf.fr/ark:/12148/bpt6k902200",
+    "iiif_manifest": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k902200/manifest.json"
+  },
+  "ark": "bpt6k902200",
+  "typographie": {
+    "category": "Serif/Roman",
+    "subtype": "Slab Serif (Egyptian)"
+  },
+  "_annotations": {
+    "metadata.title": {
+      "readability": "Readable",
+      "correction": "ŒUVRES de Charles Hermite"
     },
-    "langue": "fr (French)",
-    "ark": "bpt6k902200",
-    "typographie_suggestion": {
-        "category": "Serif/Roman",
-        "subtype": "Slab Serif (Egyptian)",
-        "explanation": "The primary text (\"CHARLES HERMITE\") features heavy, block-like serifs with little to no bracketing, characteristic of Slab Serif typefaces common in 19th and early 20th-century printing.",
-        "raw": "Category: Serif/Roman\nSubtype: Slab Serif (Egyptian)\nExplanation: The primary text (\"CHARLES HERMITE\") features heavy, block-like serifs with little to no bracketing, characteristic of Slab Serif typefaces common in 19th and early 20th-century printing."
+    "metadata.title_complement": {
+      "readability": "Not readable",
+      "cause": "absent",
+      "correction": ""
     },
-    "typographie": {
-        "category": "Serif/Roman",
-        "subtype": "Slab Serif (Egyptian)"
+    "metadata.volume_number": {
+      "readability": "Readable"
     },
-    "_annotations": {
-        "metadata.title": {
-            "lisibilite": "Lisible",
-            "correction": "ŒUVRES de Charles Hermite"
-        },
-        "metadata.title_complement": {
-            "lisibilite": "Non lisible",
-            "cause": "absent",
-            "correction": ""
-        },
-        "metadata.volume_number": {
-            "lisibilite": "Lisible"
-        },
-        "metadata.authors": {
-            "lisibilite": "Lisible",
-            "correction": "Charles Hermite"
-        },
-        "metadata.publisher": {
-            "lisibilite": "Lisible"
-        },
-        "metadata.publication_place": {
-            "lisibilite": "Lisible"
-        },
-        "metadata.date": {
-            "lisibilite": "Lisible"
-        },
-        "langue": {
-            "lisibilite": "Lisible"
-        },
-        "metadata.identifier": {
-            "lisibilite": "Lisible"
-        },
-        "metadata.iiif_manifest": {
-            "lisibilite": "Lisible"
-        },
-        "ark": {
-            "lisibilite": "Lisible"
-        }
+    "metadata.authors": {
+      "readability": "Readable",
+      "correction": "Charles Hermite"
+    },
+    "metadata.publisher": {
+      "readability": "Readable"
+    },
+    "metadata.publication_place": {
+      "readability": "Readable"
+    },
+    "metadata.date": {
+      "readability": "Readable"
+    },
+    "language": {
+      "readability": "Readable"
+    },
+    "metadata.identifier": {
+      "readability": "Readable"
+    },
+    "metadata.iiif_manifest": {
+      "readability": "Readable"
+    },
+    "ark": {
+      "readability": "Readable"
     }
+  },
+  "language": "fr (French)"
 }

@@ -1,62 +1,56 @@
 {
-    "metadata": {
-        "title": "ФИЗИКО-ХИМЕСКИЯ ТЕОРІИ",
-        "title_complement": "",
-        "volume_number": "",
-        "authors": "Ю. С. Залькинда ; В. И. Ярковскаго",
-        "publisher": "Изданіе И. Н. БАЗЛОВИДЗ",
-        "publication_place": "С-ПЕТЕРБУРГЪ",
-        "date": "1908",
-        "identifier": "http://gallica.bnf.fr/ark:/12148/bpt6k91907z",
-        "iiif_manifest": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k91907z/manifest.json"
+  "metadata": {
+    "title": "ФИЗИКО-ХИМЕСКИЯ ТЕОРІИ",
+    "title_complement": "",
+    "volume_number": "",
+    "authors": "Ю. С. Залькинда ; В. И. Ярковскаго",
+    "publisher": "Изданіе И. Н. БАЗЛОВИДЗ",
+    "publication_place": "С-ПЕТЕРБУРГЪ",
+    "date": "1908",
+    "identifier": "http://gallica.bnf.fr/ark:/12148/bpt6k91907z",
+    "iiif_manifest": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k91907z/manifest.json"
+  },
+  "ark": "bpt6k91907z",
+  "typographie": {
+    "category": "Serif/Roman",
+    "subtype": "Transitional / Modern (Cyrillic)"
+  },
+  "_annotations": {
+    "metadata.title": {
+      "readability": "Readable"
     },
-    "langue": "ru (Russian)",
-    "ark": "bpt6k91907z",
-    "typographie_suggestion": {
-        "category": "Serif/Roman",
-        "subtype": "Transitional / Modern (Cyrillic)",
-        "explanation": "The smaller text uses a standard high-contrast serif typeface common in Russian printing of the 1903 era, characterized by clear vertical stress and sharp serifs.",
-        "raw": "For the main title text (**ФИЗИКО-ХИМИЧЕСКІЯ ТЕОРІИ**):\n\nCategory: Display\nSubtype: Geometric / Art Nouveau influence\nExplanation: The letters feature heavy, blocky strokes with stylized, squared-off terminals and a consistent thickness, typical of early 20th-century Russian industrial and academic display faces.\n\nFor the body text (the rest of the page):\n\nCategory: Serif/Roman\nSubtype: Transitional / Modern (Cyrillic)\nExplanation: The smaller text uses a standard high-contrast serif typeface common in Russian printing of the 1903 era, characterized by clear vertical stress and sharp serifs."
+    "metadata.title_complement": {
+      "readability": "Readable"
     },
-    "typographie": {
-        "category": "Serif/Roman",
-        "subtype": "Transitional / Modern (Cyrillic)"
+    "metadata.volume_number": {
+      "readability": "Readable"
     },
-    "_annotations": {
-        "metadata.title": {
-            "lisibilite": "Lisible"
-        },
-        "metadata.title_complement": {
-            "lisibilite": "Lisible"
-        },
-        "metadata.volume_number": {
-            "lisibilite": "Lisible"
-        },
-        "metadata.authors": {
-            "lisibilite": "Lisible",
-            "correction": "Ю. С. Залькинда ; В. И. Ярковскаго"
-        },
-        "metadata.publisher": {
-            "lisibilite": "Lisible"
-        },
-        "metadata.publication_place": {
-            "lisibilite": "Lisible"
-        },
-        "metadata.date": {
-            "lisibilite": "Lisible"
-        },
-        "langue": {
-            "lisibilite": "Lisible"
-        },
-        "_note": "A revoir TODO",
-        "metadata.identifier": {
-            "lisibilite": "Lisible"
-        },
-        "metadata.iiif_manifest": {
-            "lisibilite": "Lisible"
-        },
-        "ark": {
-            "lisibilite": "Lisible"
-        }
+    "metadata.authors": {
+      "readability": "Readable",
+      "correction": "Ю. С. Залькинда ; В. И. Ярковскаго"
+    },
+    "metadata.publisher": {
+      "readability": "Readable"
+    },
+    "metadata.publication_place": {
+      "readability": "Readable"
+    },
+    "metadata.date": {
+      "readability": "Readable"
+    },
+    "language": {
+      "readability": "Readable"
+    },
+    "_note": "A revoir TODO",
+    "metadata.identifier": {
+      "readability": "Readable"
+    },
+    "metadata.iiif_manifest": {
+      "readability": "Readable"
+    },
+    "ark": {
+      "readability": "Readable"
     }
+  },
+  "language": "ru (Russian)"
 }

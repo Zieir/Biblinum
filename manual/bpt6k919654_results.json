@@ -1,61 +1,55 @@
 {
-    "metadata": {
-        "title": "Les Récents Progrès de la Chimie",
-        "title_complement": "CONFÉRENCES faites au Laboratoire de Chimie organique de la Sorbonne",
-        "volume_number": "DEUXIÈME SÉRIE",
-        "authors": "A. HALLER",
-        "publisher": "GAUTHIER-VILLARS, IMPRIMEUR-LIBRAIRE",
-        "publication_place": "PARIS",
-        "date": "1906",
-        "identifier": "http://gallica.bnf.fr/ark:/12148/bpt6k919654",
-        "iiif_manifest": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k919654/manifest.json"
+  "metadata": {
+    "title": "Les Récents Progrès de la Chimie",
+    "title_complement": "CONFÉRENCES faites au Laboratoire de Chimie organique de la Sorbonne",
+    "volume_number": "DEUXIÈME SÉRIE",
+    "authors": "A. HALLER",
+    "publisher": "GAUTHIER-VILLARS, IMPRIMEUR-LIBRAIRE",
+    "publication_place": "PARIS",
+    "date": "1906",
+    "identifier": "http://gallica.bnf.fr/ark:/12148/bpt6k919654",
+    "iiif_manifest": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k919654/manifest.json"
+  },
+  "ark": "bpt6k919654",
+  "typographie": {
+    "category": "Serif/Roman",
+    "subtype": "Transitional / Modern (Didone influence)"
+  },
+  "_annotations": {
+    "metadata.title": {
+      "readability": "Readable"
     },
-    "langue": "fr (French)",
-    "ark": "bpt6k919654",
-    "typographie_suggestion": {
-        "category": "Serif/Roman",
-        "subtype": "Transitional / Modern (Didone influence)",
-        "explanation": "The main title (\"Récents Progrès de la Chimie\") features high contrast between thick and thin strokes and vertical stress, characteristic of the Transitional and Modern styles popular in French printing during the late 19th and early 20th centuries.",
-        "raw": "Category: Serif/Roman\nSubtype: Transitional / Modern (Didone influence)\nExplanation: The main title (\"Récents Progrès de la Chimie\") features high contrast between thick and thin strokes and vertical stress, characteristic of the Transitional and Modern styles popular in French printing during the late 19th and early 20th centuries."
+    "metadata.title_complement": {
+      "readability": "Readable"
     },
-    "typographie": {
-        "category": "Serif/Roman",
-        "subtype": "Transitional / Modern (Didone influence)"
+    "metadata.volume_number": {
+      "readability": "Readable"
     },
-    "_annotations": {
-        "metadata.title": {
-            "lisibilite": "Lisible"
-        },
-        "metadata.title_complement": {
-            "lisibilite": "Lisible"
-        },
-        "metadata.volume_number": {
-            "lisibilite": "Lisible"
-        },
-        "metadata.authors": {
-            "lisibilite": "Lisible",
-            "correction": "A. HALLER"
-        },
-        "metadata.publisher": {
-            "lisibilite": "Lisible"
-        },
-        "metadata.publication_place": {
-            "lisibilite": "Lisible"
-        },
-        "metadata.date": {
-            "lisibilite": "Lisible"
-        },
-        "langue": {
-            "lisibilite": "Lisible"
-        },
-        "metadata.identifier": {
-            "lisibilite": "Lisible"
-        },
-        "metadata.iiif_manifest": {
-            "lisibilite": "Lisible"
-        },
-        "ark": {
-            "lisibilite": "Lisible"
-        }
+    "metadata.authors": {
+      "readability": "Readable",
+      "correction": "A. HALLER"
+    },
+    "metadata.publisher": {
+      "readability": "Readable"
+    },
+    "metadata.publication_place": {
+      "readability": "Readable"
+    },
+    "metadata.date": {
+      "readability": "Readable"
+    },
+    "language": {
+      "readability": "Readable"
+    },
+    "metadata.identifier": {
+      "readability": "Readable"
+    },
+    "metadata.iiif_manifest": {
+      "readability": "Readable"
+    },
+    "ark": {
+      "readability": "Readable"
     }
+  },
+  "language": "fr (French)"
 }

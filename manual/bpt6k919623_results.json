@@ -1,66 +1,60 @@
 {
-    "metadata": {
-        "title": "MANUEL DE TOXICOLOGIE",
-        "title_complement": "",
-        "volume_number": "",
-        "authors": "Dragendorff",
-        "publisher": "F. SAVY",
-        "publication_place": "PARIS",
-        "date": "1873",
-        "identifier": "http://gallica.bnf.fr/ark:/12148/bpt6k919623",
-        "iiif_manifest": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k919623/manifest.json"
+  "metadata": {
+    "title": "MANUEL DE TOXICOLOGIE",
+    "title_complement": "",
+    "volume_number": "",
+    "authors": "Dragendorff",
+    "publisher": "F. SAVY",
+    "publication_place": "PARIS",
+    "date": "1873",
+    "identifier": "http://gallica.bnf.fr/ark:/12148/bpt6k919623",
+    "iiif_manifest": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k919623/manifest.json"
+  },
+  "ark": "bpt6k919623",
+  "typographie": {
+    "category": "Serif/Roman",
+    "subtype": "Modern (Didone)"
+  },
+  "_annotations": {
+    "metadata.title": {
+      "readability": "Readable"
     },
-    "langue": "fr (French)",
-    "ark": "bpt6k919623",
-    "typographie_suggestion": {
-        "category": "Serif/Roman",
-        "subtype": "Modern (Didone)",
-        "explanation": "The text features the high contrast between thick and thin strokes, vertical stress, and small, horizontal serifs characteristic of the Modern/Didone style (similar to Bodoni or Didot), which was standard for academic and legal printing in the 19th century.",
-        "raw": "Category: Serif/Roman\nSubtype: Modern (Didone)\nExplanation: The text features the high contrast between thick and thin strokes, vertical stress, and small, horizontal serifs characteristic of the Modern/Didone style (similar to Bodoni or Didot), which was standard for academic and legal printing in the 19th century."
+    "metadata.title_complement": {
+      "readability": "Not readable",
+      "cause": "absent"
     },
-    "typographie": {
-        "category": "Serif/Roman",
-        "subtype": "Modern (Didone)"
+    "metadata.volume_number": {
+      "readability": "Not readable",
+      "cause": "absent"
     },
-    "_annotations": {
-        "metadata.title": {
-            "lisibilite": "Lisible"
-        },
-        "metadata.title_complement": {
-            "lisibilite": "Non lisible",
-            "cause": "absent"
-        },
-        "metadata.volume_number": {
-            "lisibilite": "Non lisible",
-            "cause": "absent"
-        },
-        "metadata.authors": {
-            "lisibilite": "Lisible",
-            "correction": "Dragendorff"
-        },
-        "metadata.publisher": {
-            "lisibilite": "Lisible",
-            "correction": "F. SAVY"
-        },
-        "metadata.publication_place": {
-            "lisibilite": "Lisible",
-            "correction": "PARIS"
-        },
-        "metadata.date": {
-            "lisibilite": "Lisible",
-            "correction": "1873"
-        },
-        "langue": {
-            "lisibilite": "Lisible"
-        },
-        "metadata.identifier": {
-            "lisibilite": "Lisible"
-        },
-        "metadata.iiif_manifest": {
-            "lisibilite": "Lisible"
-        },
-        "ark": {
-            "lisibilite": "Lisible"
-        }
+    "metadata.authors": {
+      "readability": "Readable",
+      "correction": "Dragendorff"
+    },
+    "metadata.publisher": {
+      "readability": "Readable",
+      "correction": "F. SAVY"
+    },
+    "metadata.publication_place": {
+      "readability": "Readable",
+      "correction": "PARIS"
+    },
+    "metadata.date": {
+      "readability": "Readable",
+      "correction": "1873"
+    },
+    "language": {
+      "readability": "Readable"
+    },
+    "metadata.identifier": {
+      "readability": "Readable"
+    },
+    "metadata.iiif_manifest": {
+      "readability": "Readable"
+    },
+    "ark": {
+      "readability": "Readable"
     }
+  },
+  "language": "fr (French)"
 }

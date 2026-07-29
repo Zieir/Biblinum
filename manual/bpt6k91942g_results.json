@@ -1,68 +1,62 @@
 {
-    "metadata": {
-        "title": "Les succédanés du chiffon en papeterie",
-        "title_complement": "",
-        "volume_number": "",
-        "authors": "V. URBAIN",
-        "publisher": "Gauthier-Villars et fils; Masson et cie ",
-        "publication_place": "PARIS",
-        "date": "",
-        "identifier": "http://gallica.bnf.fr/ark:/12148/bpt6k91942g",
-        "iiif_manifest": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k91942g/manifest.json"
+  "metadata": {
+    "title": "Les succédanés du chiffon en papeterie",
+    "title_complement": "",
+    "volume_number": "",
+    "authors": "V. URBAIN",
+    "publisher": "Gauthier-Villars et fils; Masson et cie ",
+    "publication_place": "PARIS",
+    "date": "",
+    "identifier": "http://gallica.bnf.fr/ark:/12148/bpt6k91942g",
+    "iiif_manifest": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k91942g/manifest.json"
+  },
+  "ark": "bpt6k91942g",
+  "typographie": {
+    "category": "Serif/Roman",
+    "subtype": "Didone (Modern)"
+  },
+  "_annotations": {
+    "metadata.title": {
+      "readability": "Readable",
+      "correction": "Les succédanés du chiffon en papeterie"
     },
-    "langue": "fr (French)",
-    "ark": "bpt6k91942g",
-    "typographie_suggestion": {
-        "category": "Serif/Roman",
-        "subtype": "Didone (Modern)",
-        "explanation": "The typeface features the high contrast between thick and thin strokes, vertical stress, and small, unbracketed (hairline) serifs characteristic of the late 18th and 19th-century \"Modern\" style (similar to Bodoni or Didot), which was standard for academic and scientific publishing of that era.",
-        "raw": "Category: Serif/Roman\nSubtype: Didone (Modern)\nExplanation: The typeface features the high contrast between thick and thin strokes, vertical stress, and small, unbracketed (hairline) serifs characteristic of the late 18th and 19th-century \"Modern\" style (similar to Bodoni or Didot), which was standard for academic and scientific publishing of that era."
+    "metadata.title_complement": {
+      "readability": "Not readable",
+      "cause": "absent",
+      "correction": ""
     },
-    "typographie": {
-        "category": "Serif/Roman",
-        "subtype": "Didone (Modern)"
+    "metadata.volume_number": {
+      "readability": "Not readable",
+      "cause": "absent"
     },
-    "_annotations": {
-        "metadata.title": {
-            "lisibilite": "Lisible",
-            "correction": "Les succédanés du chiffon en papeterie"
-        },
-        "metadata.title_complement": {
-            "lisibilite": "Non lisible",
-            "cause": "absent",
-            "correction": ""
-        },
-        "metadata.volume_number": {
-            "lisibilite": "Non lisible",
-            "cause": "absent"
-        },
-        "metadata.authors": {
-            "lisibilite": "Lisible",
-            "correction": "V. URBAIN"
-        },
-        "metadata.publisher": {
-            "lisibilite": "Lisible",
-            "correction": "Gauthier-Villars et fils; Masson et cie "
-        },
-        "metadata.publication_place": {
-            "lisibilite": "Lisible",
-            "correction": "PARIS"
-        },
-        "metadata.date": {
-            "lisibilite": "Non lisible",
-            "cause": "absent"
-        },
-        "langue": {
-            "lisibilite": "Lisible"
-        },
-        "metadata.identifier": {
-            "lisibilite": "Lisible"
-        },
-        "metadata.iiif_manifest": {
-            "lisibilite": "Lisible"
-        },
-        "ark": {
-            "lisibilite": "Lisible"
-        }
+    "metadata.authors": {
+      "readability": "Readable",
+      "correction": "V. URBAIN"
+    },
+    "metadata.publisher": {
+      "readability": "Readable",
+      "correction": "Gauthier-Villars et fils; Masson et cie "
+    },
+    "metadata.publication_place": {
+      "readability": "Readable",
+      "correction": "PARIS"
+    },
+    "metadata.date": {
+      "readability": "Not readable",
+      "cause": "absent"
+    },
+    "language": {
+      "readability": "Readable"
+    },
+    "metadata.identifier": {
+      "readability": "Readable"
+    },
+    "metadata.iiif_manifest": {
+      "readability": "Readable"
+    },
+    "ark": {
+      "readability": "Readable"
     }
+  },
+  "language": "fr (French)"
 }

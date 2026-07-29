@@ -1,64 +1,58 @@
 {
-    "metadata": {
-        "title": "LECONS DE CHIMIE ÉLÉMENTAIRE",
-        "title_complement": "APPLIQUÉES AUX ARTS INDUSTRIELS et faites aux ouvriers du XIIe arrondissement",
-        "volume_number": "TROISIÈME PARTIE",
-        "authors": "DORÉ FILS",
-        "publisher": "VICTOR DALMONT",
-        "publication_place": "PARIS",
-        "date": "1857",
-        "identifier": "http://gallica.bnf.fr/ark:/12148/bpt6k906203",
-        "iiif_manifest": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k906203/manifest.json"
+  "metadata": {
+    "title": "LECONS DE CHIMIE ÉLÉMENTAIRE",
+    "title_complement": "APPLIQUÉES AUX ARTS INDUSTRIELS et faites aux ouvriers du XIIe arrondissement",
+    "volume_number": "TROISIÈME PARTIE",
+    "authors": "DORÉ FILS",
+    "publisher": "VICTOR DALMONT",
+    "publication_place": "PARIS",
+    "date": "1857",
+    "identifier": "http://gallica.bnf.fr/ark:/12148/bpt6k906203",
+    "iiif_manifest": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k906203/manifest.json"
+  },
+  "ark": "bpt6k906203",
+  "typographie": {
+    "category": "Serif/Roman",
+    "subtype": "Slab Serif (Egyptian)"
+  },
+  "_annotations": {
+    "metadata.title": {
+      "readability": "Readable"
     },
-    "langue": "fr (French)",
-    "ark": "bpt6k906203",
-    "typographie_suggestion": {
-        "category": "Serif/Roman",
-        "subtype": "Slab Serif (Egyptian)",
-        "explanation": "The main title features heavy, block-like serifs with little to no bracketing between the serif and the stem, which is characteristic of the Slab Serif style popular in the 19th century for titles and advertising.",
-        "raw": "Based on the image provided, there are multiple typefaces used. I will identify the most prominent one (the main title \"CHIMIE ÉLÉMENTAIRE\").\n\nCategory: Serif/Roman\nSubtype: Slab Serif (Egyptian)\nExplanation: The main title features heavy, block-like serifs with little to no bracketing between the serif and the stem, which is characteristic of the Slab Serif style popular in the 19th century for titles and advertising."
+    "metadata.title_complement": {
+      "readability": "Readable",
+      "correction": "APPLIQUÉES AUX ARTS INDUSTRIELS et faites aux ouvriers du XIIe arrondissement"
     },
-    "typographie": {
-        "category": "Serif/Roman",
-        "subtype": "Slab Serif (Egyptian)"
+    "metadata.volume_number": {
+      "readability": "Readable"
     },
-    "_annotations": {
-        "metadata.title": {
-            "lisibilite": "Lisible"
-        },
-        "metadata.title_complement": {
-            "lisibilite": "Lisible",
-            "correction": "APPLIQUÉES AUX ARTS INDUSTRIELS et faites aux ouvriers du XIIe arrondissement"
-        },
-        "metadata.volume_number": {
-            "lisibilite": "Lisible"
-        },
-        "metadata.authors": {
-            "lisibilite": "Lisible",
-            "correction": "DORÉ FILS"
-        },
-        "metadata.publisher": {
-            "lisibilite": "Lisible"
-        },
-        "metadata.publication_place": {
-            "lisibilite": "Lisible"
-        },
-        "metadata.date": {
-            "lisibilite": "Non lisible",
-            "cause": "qualite",
-            "correction": "1857"
-        },
-        "langue": {
-            "lisibilite": "Lisible"
-        },
-        "metadata.identifier": {
-            "lisibilite": "Lisible"
-        },
-        "metadata.iiif_manifest": {
-            "lisibilite": "Lisible"
-        },
-        "ark": {
-            "lisibilite": "Lisible"
-        }
+    "metadata.authors": {
+      "readability": "Readable",
+      "correction": "DORÉ FILS"
+    },
+    "metadata.publisher": {
+      "readability": "Readable"
+    },
+    "metadata.publication_place": {
+      "readability": "Readable"
+    },
+    "metadata.date": {
+      "readability": "Not readable",
+      "cause": "quality",
+      "correction": "1857"
+    },
+    "language": {
+      "readability": "Readable"
+    },
+    "metadata.identifier": {
+      "readability": "Readable"
+    },
+    "metadata.iiif_manifest": {
+      "readability": "Readable"
+    },
+    "ark": {
+      "readability": "Readable"
     }
+  },
+  "language": "fr (French)"
 }

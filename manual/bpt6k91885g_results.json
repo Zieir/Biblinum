@@ -1,62 +1,56 @@
 {
-    "metadata": {
-        "title": "GRUNDRISS DER KOLLOIDCHEMIE",
-        "title_complement": "",
-        "volume_number": "ERSTE HÄLFTE",
-        "authors": "WO. OSTWALD; THOMAS GRAHAM",
-        "publisher": "THEODOR STEINKOPFF",
-        "publication_place": "DRESDEN UND LEIPZIG",
-        "date": "1919",
-        "identifier": "http://gallica.bnf.fr/ark:/12148/bpt6k91885g",
-        "iiif_manifest": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k91885g/manifest.json"
+  "metadata": {
+    "title": "GRUNDRISS DER KOLLOIDCHEMIE",
+    "title_complement": "",
+    "volume_number": "ERSTE HÄLFTE",
+    "authors": "WO. OSTWALD; THOMAS GRAHAM",
+    "publisher": "THEODOR STEINKOPFF",
+    "publication_place": "DRESDEN UND LEIPZIG",
+    "date": "1919",
+    "identifier": "http://gallica.bnf.fr/ark:/12148/bpt6k91885g",
+    "iiif_manifest": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k91885g/manifest.json"
+  },
+  "ark": "bpt6k91885g",
+  "typographie": {
+    "category": "Serif/Roman",
+    "subtype": "Slab Serif (Egyptian)"
+  },
+  "_annotations": {
+    "metadata.title": {
+      "readability": "Readable"
     },
-    "langue": "de (German)",
-    "ark": "bpt6k91885g",
-    "typographie_suggestion": {
-        "category": "Serif/Roman",
-        "subtype": "Slab Serif (Egyptian)",
-        "explanation": "The typeface features thick, block-like serifs with little to no bracketing between the serif and the stem, characteristic of the Slab Serif style common in early 20th-century academic and technical printing.",
-        "raw": "Category: Serif/Roman\nSubtype: Slab Serif (Egyptian)\nExplanation: The typeface features thick, block-like serifs with little to no bracketing between the serif and the stem, characteristic of the Slab Serif style common in early 20th-century academic and technical printing."
+    "metadata.title_complement": {
+      "readability": "Not readable",
+      "cause": "absent"
     },
-    "typographie": {
-        "category": "Serif/Roman",
-        "subtype": "Slab Serif (Egyptian)"
+    "metadata.volume_number": {
+      "readability": "Readable"
     },
-    "_annotations": {
-        "metadata.title": {
-            "lisibilite": "Lisible"
-        },
-        "metadata.title_complement": {
-            "lisibilite": "Non lisible",
-            "cause": "absent"
-        },
-        "metadata.volume_number": {
-            "lisibilite": "Lisible"
-        },
-        "metadata.authors": {
-            "lisibilite": "Lisible",
-            "correction": "WO. OSTWALD; THOMAS GRAHAM"
-        },
-        "metadata.publisher": {
-            "lisibilite": "Lisible"
-        },
-        "metadata.publication_place": {
-            "lisibilite": "Lisible"
-        },
-        "metadata.date": {
-            "lisibilite": "Lisible"
-        },
-        "langue": {
-            "lisibilite": "Lisible"
-        },
-        "metadata.identifier": {
-            "lisibilite": "Lisible"
-        },
-        "metadata.iiif_manifest": {
-            "lisibilite": "Lisible"
-        },
-        "ark": {
-            "lisibilite": "Lisible"
-        }
+    "metadata.authors": {
+      "readability": "Readable",
+      "correction": "WO. OSTWALD; THOMAS GRAHAM"
+    },
+    "metadata.publisher": {
+      "readability": "Readable"
+    },
+    "metadata.publication_place": {
+      "readability": "Readable"
+    },
+    "metadata.date": {
+      "readability": "Readable"
+    },
+    "language": {
+      "readability": "Readable"
+    },
+    "metadata.identifier": {
+      "readability": "Readable"
+    },
+    "metadata.iiif_manifest": {
+      "readability": "Readable"
+    },
+    "ark": {
+      "readability": "Readable"
     }
+  },
+  "language": "de (German)"
 }

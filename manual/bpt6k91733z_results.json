@@ -1,64 +1,58 @@
 {
-    "metadata": {
-        "title": "SELECT METHODS OF CHEMICAL ANALYSIS",
-        "title_complement": "(CHIEFLY INORGANIC)",
-        "volume_number": "",
-        "authors": "William CROOKES",
-        "publisher": "LONGMANS, GREEN, AND CO.",
-        "publication_place": "LONDON",
-        "date": "1871",
-        "identifier": "http://gallica.bnf.fr/ark:/12148/bpt6k91733z",
-        "iiif_manifest": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k91733z/manifest.json"
+  "metadata": {
+    "title": "SELECT METHODS OF CHEMICAL ANALYSIS",
+    "title_complement": "(CHIEFLY INORGANIC)",
+    "volume_number": "",
+    "authors": "William CROOKES",
+    "publisher": "LONGMANS, GREEN, AND CO.",
+    "publication_place": "LONDON",
+    "date": "1871",
+    "identifier": "http://gallica.bnf.fr/ark:/12148/bpt6k91733z",
+    "iiif_manifest": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k91733z/manifest.json"
+  },
+  "ark": "bpt6k91733z",
+  "typographie": {
+    "category": "Serif/Roman",
+    "subtype": "Modern (Didone)"
+  },
+  "_annotations": {
+    "metadata.title": {
+      "readability": "Not readable",
+      "cause": "covered",
+      "correction": "SELECT METHODS OF CHEMICAL ANALYSIS"
     },
-    "langue": "en (English)",
-    "ark": "bpt6k91733z",
-    "typographie_suggestion": {
-        "category": "Serif/Roman",
-        "subtype": "Modern (Didone)",
-        "explanation": "The typeface features the high contrast between thick and thin strokes and the flat, unbracketed serifs characteristic of the Modern/Didone style prevalent in 19th-century printing.",
-        "raw": "Category: Serif/Roman\nSubtype: Modern (Didone)\nExplanation: The typeface features the high contrast between thick and thin strokes and the flat, unbracketed serifs characteristic of the Modern/Didone style prevalent in 19th-century printing."
+    "metadata.title_complement": {
+      "readability": "Readable"
     },
-    "typographie": {
-        "category": "Serif/Roman",
-        "subtype": "Modern (Didone)"
+    "metadata.volume_number": {
+      "readability": "Not readable",
+      "cause": "absent"
     },
-    "_annotations": {
-        "metadata.title": {
-            "lisibilite": "Non lisible",
-            "cause": "recouvert",
-            "correction": "SELECT METHODS OF CHEMICAL ANALYSIS"
-        },
-        "metadata.title_complement": {
-            "lisibilite": "Lisible"
-        },
-        "metadata.volume_number": {
-            "lisibilite": "Non lisible",
-            "cause": "absent"
-        },
-        "metadata.authors": {
-            "lisibilite": "Lisible",
-            "correction": "William CROOKES"
-        },
-        "metadata.publisher": {
-            "lisibilite": "Lisible"
-        },
-        "metadata.publication_place": {
-            "lisibilite": "Lisible"
-        },
-        "metadata.date": {
-            "lisibilite": "Lisible"
-        },
-        "langue": {
-            "lisibilite": "Lisible"
-        },
-        "metadata.identifier": {
-            "lisibilite": "Lisible"
-        },
-        "metadata.iiif_manifest": {
-            "lisibilite": "Lisible"
-        },
-        "ark": {
-            "lisibilite": "Lisible"
-        }
+    "metadata.authors": {
+      "readability": "Readable",
+      "correction": "William CROOKES"
+    },
+    "metadata.publisher": {
+      "readability": "Readable"
+    },
+    "metadata.publication_place": {
+      "readability": "Readable"
+    },
+    "metadata.date": {
+      "readability": "Readable"
+    },
+    "language": {
+      "readability": "Readable"
+    },
+    "metadata.identifier": {
+      "readability": "Readable"
+    },
+    "metadata.iiif_manifest": {
+      "readability": "Readable"
+    },
+    "ark": {
+      "readability": "Readable"
     }
+  },
+  "language": "en (English)"
 }

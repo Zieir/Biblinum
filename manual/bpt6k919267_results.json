@@ -1,62 +1,56 @@
 {
-    "metadata": {
-        "title": "INTRODUCTION A LA CHIMIE DES COMPLEXES",
-        "title_complement": "THÉORIE ET SYSTÉMATIQUE DE LA CHIMIE DES COMPLEXES MINÉRAUX",
-        "volume_number": "",
-        "authors": "G. URBAIN; A. SÉNÉCHAL",
-        "publisher": "LIBRAIRIE SCIENTIFIQUE A. HERMANN ET FILS",
-        "publication_place": "PARIS",
-        "date": "1913",
-        "identifier": "http://gallica.bnf.fr/ark:/12148/bpt6k919267",
-        "iiif_manifest": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k919267/manifest.json"
+  "metadata": {
+    "title": "INTRODUCTION A LA CHIMIE DES COMPLEXES",
+    "title_complement": "THÉORIE ET SYSTÉMATIQUE DE LA CHIMIE DES COMPLEXES MINÉRAUX",
+    "volume_number": "",
+    "authors": "G. URBAIN; A. SÉNÉCHAL",
+    "publisher": "LIBRAIRIE SCIENTIFIQUE A. HERMANN ET FILS",
+    "publication_place": "PARIS",
+    "date": "1913",
+    "identifier": "http://gallica.bnf.fr/ark:/12148/bpt6k919267",
+    "iiif_manifest": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k919267/manifest.json"
+  },
+  "ark": "bpt6k919267",
+  "typographie": {
+    "category": "Serif/Roman",
+    "subtype": "Old Style / Transitional"
+  },
+  "_annotations": {
+    "metadata.title": {
+      "readability": "Readable"
     },
-    "langue": "fr (French)",
-    "ark": "bpt6k919267",
-    "typographie_suggestion": {
-        "category": "Serif/Roman",
-        "subtype": "Old Style / Transitional",
-        "explanation": "These sections use a more traditional Roman face with moderate contrast and bracketed serifs, typical of standard book typography of the era.",
-        "raw": "For the main title \"CHIMIE DES COMPLEXES\":\n\nCategory: Serif/Roman\nSubtype: Slab Serif (Egyptian)\nExplanation: The typeface features thick, block-like serifs with very little contrast between the thick and thin strokes, characteristic of the Slab Serif style popular in 19th and early 20th-century academic and industrial printing.\n\nFor the secondary text (e.g., \"INTRODUCTION\", \"PARIS\"):\n\nCategory: Serif/Roman\nSubtype: Old Style / Transitional\nExplanation: These sections use a more traditional Roman face with moderate contrast and bracketed serifs, typical of standard book typography of the era."
+    "metadata.title_complement": {
+      "readability": "Readable"
     },
-    "typographie": {
-        "category": "Serif/Roman",
-        "subtype": "Old Style / Transitional"
+    "metadata.volume_number": {
+      "readability": "Not readable",
+      "cause": "absent"
     },
-    "_annotations": {
-        "metadata.title": {
-            "lisibilite": "Lisible"
-        },
-        "metadata.title_complement": {
-            "lisibilite": "Lisible"
-        },
-        "metadata.volume_number": {
-            "lisibilite": "Non lisible",
-            "cause": "absent"
-        },
-        "metadata.authors": {
-            "lisibilite": "Lisible",
-            "correction": "G. URBAIN; A. SÉNÉCHAL"
-        },
-        "metadata.publisher": {
-            "lisibilite": "Lisible"
-        },
-        "metadata.publication_place": {
-            "lisibilite": "Lisible"
-        },
-        "metadata.date": {
-            "lisibilite": "Lisible"
-        },
-        "langue": {
-            "lisibilite": "Lisible"
-        },
-        "metadata.identifier": {
-            "lisibilite": "Lisible"
-        },
-        "metadata.iiif_manifest": {
-            "lisibilite": "Lisible"
-        },
-        "ark": {
-            "lisibilite": "Lisible"
-        }
+    "metadata.authors": {
+      "readability": "Readable",
+      "correction": "G. URBAIN; A. SÉNÉCHAL"
+    },
+    "metadata.publisher": {
+      "readability": "Readable"
+    },
+    "metadata.publication_place": {
+      "readability": "Readable"
+    },
+    "metadata.date": {
+      "readability": "Readable"
+    },
+    "language": {
+      "readability": "Readable"
+    },
+    "metadata.identifier": {
+      "readability": "Readable"
+    },
+    "metadata.iiif_manifest": {
+      "readability": "Readable"
+    },
+    "ark": {
+      "readability": "Readable"
     }
+  },
+  "language": "fr (French)"
 }

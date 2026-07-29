@@ -1,67 +1,61 @@
 {
-    "metadata": {
-        "title": "LEHRBUCH DER ANORGANISCHEN CHEMIE FÜR STUDIERENDE AN DER UNIVERSITÄTEN UND TECHNISCHEN HOCHSCHULEN",
-        "title_complement": "FÜR STUDIERENDE AN DER UNIVERSITÄTEN UND TECHNISCHEN HOCHSCHULEN",
-        "volume_number": "",
-        "authors": "A. F., Holleman",
-        "publisher": "VEIT & COMP.",
-        "publication_place": "Leipzig",
-        "date": "1900",
-        "identifier": "http://gallica.bnf.fr/ark:/12148/bpt6k90478v",
-        "iiif_manifest": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k90478v/manifest.json"
+  "metadata": {
+    "title": "LEHRBUCH DER ANORGANISCHEN CHEMIE FÜR STUDIERENDE AN DER UNIVERSITÄTEN UND TECHNISCHEN HOCHSCHULEN",
+    "title_complement": "FÜR STUDIERENDE AN DER UNIVERSITÄTEN UND TECHNISCHEN HOCHSCHULEN",
+    "volume_number": "",
+    "authors": "A. F., Holleman",
+    "publisher": "VEIT & COMP.",
+    "publication_place": "Leipzig",
+    "date": "1900",
+    "identifier": "http://gallica.bnf.fr/ark:/12148/bpt6k90478v",
+    "iiif_manifest": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k90478v/manifest.json"
+  },
+  "ark": "bpt6k90478v",
+  "typographie": {
+    "category": "Script",
+    "subtype": "Kurrent / Sütterlin"
+  },
+  "_annotations": {
+    "metadata.title": {
+      "readability": "Readable",
+      "correction": "LEHRBUCH DER ANORGANISCHEN CHEMIE FÜR STUDIERENDE AN DER UNIVERSITÄTEN UND TECHNISCHEN HOCHSCHULEN"
     },
-    "langue": "de (German)",
-    "ark": "bpt6k90478v",
-    "typographie_suggestion": {
-        "category": "Script",
-        "subtype": "Kurrent / Sütterlin",
-        "explanation": "The text exhibits the characteristic sharp angles, steep slant, and specific letterforms (such as the distinct \"h\" and \"e\") typical of old German cursive handwriting styles used from the early modern period through the mid-20th century.",
-        "raw": "Category: Script\nSubtype: Kurrent / Sütterlin\nExplanation: The text exhibits the characteristic sharp angles, steep slant, and specific letterforms (such as the distinct \"h\" and \"e\") typical of old German cursive handwriting styles used from the early modern period through the mid-20th century."
+    "metadata.title_complement": {
+      "readability": "Readable",
+      "correction": "FÜR STUDIERENDE AN DER UNIVERSITÄTEN UND TECHNISCHEN HOCHSCHULEN"
     },
-    "typographie": {
-        "category": "Script",
-        "subtype": "Kurrent / Sütterlin"
+    "metadata.volume_number": {
+      "readability": "Not readable",
+      "cause": "absent"
     },
-    "_annotations": {
-        "metadata.title": {
-            "lisibilite": "Lisible",
-            "correction": "LEHRBUCH DER ANORGANISCHEN CHEMIE FÜR STUDIERENDE AN DER UNIVERSITÄTEN UND TECHNISCHEN HOCHSCHULEN"
-        },
-        "metadata.title_complement": {
-            "lisibilite": "Lisible",
-            "correction": "FÜR STUDIERENDE AN DER UNIVERSITÄTEN UND TECHNISCHEN HOCHSCHULEN"
-        },
-        "metadata.volume_number": {
-            "lisibilite": "Non lisible",
-            "cause": "absent"
-        },
-        "metadata.authors": {
-            "lisibilite": "Lisible",
-            "correction": "A. F., Holleman"
-        },
-        "metadata.publisher": {
-            "lisibilite": "Lisible",
-            "correction": "VEIT & COMP."
-        },
-        "metadata.publication_place": {
-            "lisibilite": "Lisible",
-            "correction": "Leipzig"
-        },
-        "metadata.date": {
-            "lisibilite": "Lisible",
-            "correction": "1900"
-        },
-        "langue": {
-            "lisibilite": "Lisible"
-        },
-        "metadata.identifier": {
-            "lisibilite": "Lisible"
-        },
-        "metadata.iiif_manifest": {
-            "lisibilite": "Lisible"
-        },
-        "ark": {
-            "lisibilite": "Lisible"
-        }
+    "metadata.authors": {
+      "readability": "Readable",
+      "correction": "A. F., Holleman"
+    },
+    "metadata.publisher": {
+      "readability": "Readable",
+      "correction": "VEIT & COMP."
+    },
+    "metadata.publication_place": {
+      "readability": "Readable",
+      "correction": "Leipzig"
+    },
+    "metadata.date": {
+      "readability": "Readable",
+      "correction": "1900"
+    },
+    "language": {
+      "readability": "Readable"
+    },
+    "metadata.identifier": {
+      "readability": "Readable"
+    },
+    "metadata.iiif_manifest": {
+      "readability": "Readable"
+    },
+    "ark": {
+      "readability": "Readable"
     }
+  },
+  "language": "de (German)"
 }

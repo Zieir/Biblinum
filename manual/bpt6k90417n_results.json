@@ -1,68 +1,62 @@
 {
-    "metadata": {
-        "title": "TRAITÉ ÉLÉMENTAIRE D'ANALYSE QUALITATIVE DES MATIÈRES MINÉRALES",
-        "title_complement": "",
-        "volume_number": "",
-        "authors": "ALFRED DITTE",
-        "publisher": "Vve CH. DUNOD",
-        "publication_place": "PARIS",
-        "date": "1893",
-        "identifier": "http://gallica.bnf.fr/ark:/12148/bpt6k90417n",
-        "iiif_manifest": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k90417n/manifest.json"
+  "metadata": {
+    "title": "TRAITÉ ÉLÉMENTAIRE D'ANALYSE QUALITATIVE DES MATIÈRES MINÉRALES",
+    "title_complement": "",
+    "volume_number": "",
+    "authors": "ALFRED DITTE",
+    "publisher": "Vve CH. DUNOD",
+    "publication_place": "PARIS",
+    "date": "1893",
+    "identifier": "http://gallica.bnf.fr/ark:/12148/bpt6k90417n",
+    "iiif_manifest": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k90417n/manifest.json"
+  },
+  "ark": "bpt6k90417n",
+  "typographie": {
+    "category": "Serif/Roman",
+    "subtype": "Didone (Modern)"
+  },
+  "_annotations": {
+    "metadata.title": {
+      "readability": "Readable",
+      "correction": "TRAITÉ ÉLÉMENTAIRE D'ANALYSE QUALITATIVE DES MATIÈRES MINÉRALES"
     },
-    "langue": "fr (French)",
-    "ark": "bpt6k90417n",
-    "typographie_suggestion": {
-        "category": "Serif/Roman",
-        "subtype": "Didone (Modern)",
-        "explanation": "The typeface features the high contrast between thick and thin strokes, vertical stress, and small, unbracketed (hairline) serifs characteristic of the \"Modern\" or Didone style popular in 19th-century academic and formal printing.",
-        "raw": "Category: Serif/Roman\nSubtype: Didone (Modern)\nExplanation: The typeface features the high contrast between thick and thin strokes, vertical stress, and small, unbracketed (hairline) serifs characteristic of the \"Modern\" or Didone style popular in 19th-century academic and formal printing."
+    "metadata.title_complement": {
+      "readability": "Not readable",
+      "cause": "absent",
+      "correction": ""
     },
-    "typographie": {
-        "category": "Serif/Roman",
-        "subtype": "Didone (Modern)"
+    "metadata.volume_number": {
+      "readability": "Not readable",
+      "cause": "absent"
     },
-    "_annotations": {
-        "metadata.title": {
-            "lisibilite": "Lisible",
-            "correction": "TRAITÉ ÉLÉMENTAIRE D'ANALYSE QUALITATIVE DES MATIÈRES MINÉRALES"
-        },
-        "metadata.title_complement": {
-            "lisibilite": "Non lisible",
-            "cause": "absent",
-            "correction": ""
-        },
-        "metadata.volume_number": {
-            "lisibilite": "Non lisible",
-            "cause": "absent"
-        },
-        "metadata.authors": {
-            "lisibilite": "Lisible",
-            "correction": "ALFRED DITTE"
-        },
-        "metadata.publisher": {
-            "lisibilite": "Lisible",
-            "correction": "Vve CH. DUNOD"
-        },
-        "metadata.publication_place": {
-            "lisibilite": "Lisible",
-            "correction": "PARIS"
-        },
-        "metadata.date": {
-            "lisibilite": "Lisible",
-            "correction": "1893"
-        },
-        "langue": {
-            "lisibilite": "Lisible"
-        },
-        "metadata.identifier": {
-            "lisibilite": "Lisible"
-        },
-        "metadata.iiif_manifest": {
-            "lisibilite": "Lisible"
-        },
-        "ark": {
-            "lisibilite": "Lisible"
-        }
+    "metadata.authors": {
+      "readability": "Readable",
+      "correction": "ALFRED DITTE"
+    },
+    "metadata.publisher": {
+      "readability": "Readable",
+      "correction": "Vve CH. DUNOD"
+    },
+    "metadata.publication_place": {
+      "readability": "Readable",
+      "correction": "PARIS"
+    },
+    "metadata.date": {
+      "readability": "Readable",
+      "correction": "1893"
+    },
+    "language": {
+      "readability": "Readable"
+    },
+    "metadata.identifier": {
+      "readability": "Readable"
+    },
+    "metadata.iiif_manifest": {
+      "readability": "Readable"
+    },
+    "ark": {
+      "readability": "Readable"
     }
+  },
+  "language": "fr (French)"
 }

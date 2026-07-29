@@ -1,66 +1,60 @@
 {
-    "metadata": {
-        "title": "TRAITÉ DE MÉTALLURGIE",
-        "title_complement": "",
-        "volume_number": "PREMIÈRE PARTIE - TOME SECOND",
-        "authors": "L. GRUNER",
-        "publisher": "DUNOD",
-        "publication_place": "PARIS",
-        "date": "1878",
-        "identifier": "http://gallica.bnf.fr/ark:/12148/bpt6k91964s",
-        "iiif_manifest": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k91964s/manifest.json"
+  "metadata": {
+    "title": "TRAITÉ DE MÉTALLURGIE",
+    "title_complement": "",
+    "volume_number": "PREMIÈRE PARTIE - TOME SECOND",
+    "authors": "L. GRUNER",
+    "publisher": "DUNOD",
+    "publication_place": "PARIS",
+    "date": "1878",
+    "identifier": "http://gallica.bnf.fr/ark:/12148/bpt6k91964s",
+    "iiif_manifest": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k91964s/manifest.json"
+  },
+  "ark": "bpt6k91964s",
+  "typographie": {
+    "category": "Serif/Roman",
+    "subtype": "Modern (Didone)"
+  },
+  "_annotations": {
+    "metadata.title": {
+      "readability": "Readable"
     },
-    "langue": "fr (French)",
-    "ark": "bpt6k91964s",
-    "typographie_suggestion": {
-        "category": "Serif/Roman",
-        "subtype": "Modern (Didone)",
-        "explanation": "The primary headings exhibit the high contrast between thick and thin strokes and the vertical stress characteristic of the Modern/Didone style, which was prevalent in 19th-century French publishing.",
-        "raw": "Category: Serif/Roman\nSubtype: Modern (Didone)\nExplanation: The primary headings exhibit the high contrast between thick and thin strokes and the vertical stress characteristic of the Modern/Didone style, which was prevalent in 19th-century French publishing."
+    "metadata.title_complement": {
+      "readability": "Not readable",
+      "cause": "absent"
     },
-    "typographie": {
-        "category": "Serif/Roman",
-        "subtype": "Modern (Didone)"
+    "metadata.volume_number": {
+      "readability": "Readable",
+      "correction": "PREMIÈRE PARTIE - TOME SECOND"
     },
-    "_annotations": {
-        "metadata.title": {
-            "lisibilite": "Lisible"
-        },
-        "metadata.title_complement": {
-            "lisibilite": "Non lisible",
-            "cause": "absent"
-        },
-        "metadata.volume_number": {
-            "lisibilite": "Lisible",
-            "correction": "PREMIÈRE PARTIE - TOME SECOND"
-        },
-        "metadata.authors": {
-            "lisibilite": "Lisible",
-            "correction": "L. GRUNER"
-        },
-        "metadata.publisher": {
-            "lisibilite": "Lisible",
-            "correction": "DUNOD"
-        },
-        "metadata.publication_place": {
-            "lisibilite": "Lisible",
-            "correction": "PARIS"
-        },
-        "metadata.date": {
-            "lisibilite": "Lisible",
-            "correction": "1878"
-        },
-        "langue": {
-            "lisibilite": "Lisible"
-        },
-        "metadata.identifier": {
-            "lisibilite": "Lisible"
-        },
-        "metadata.iiif_manifest": {
-            "lisibilite": "Lisible"
-        },
-        "ark": {
-            "lisibilite": "Lisible"
-        }
+    "metadata.authors": {
+      "readability": "Readable",
+      "correction": "L. GRUNER"
+    },
+    "metadata.publisher": {
+      "readability": "Readable",
+      "correction": "DUNOD"
+    },
+    "metadata.publication_place": {
+      "readability": "Readable",
+      "correction": "PARIS"
+    },
+    "metadata.date": {
+      "readability": "Readable",
+      "correction": "1878"
+    },
+    "language": {
+      "readability": "Readable"
+    },
+    "metadata.identifier": {
+      "readability": "Readable"
+    },
+    "metadata.iiif_manifest": {
+      "readability": "Readable"
+    },
+    "ark": {
+      "readability": "Readable"
     }
+  },
+  "language": "fr (French)"
 }

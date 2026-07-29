@@ -1,67 +1,61 @@
 {
-    "metadata": {
-        "title": "TRAITÉ ÉLÉMENTAIRE DE MÉCANIQUE CHIMIQUE",
-        "title_complement": "fondée sur la thermodynamique",
-        "volume_number": "TOME III",
-        "authors": "P. DUHEM",
-        "publisher": "A. HERMANN",
-        "publication_place": "PARIS",
-        "date": "1898",
-        "identifier": "http://gallica.bnf.fr/ark:/12148/bpt6k917705",
-        "iiif_manifest": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k917705/manifest.json"
+  "metadata": {
+    "title": "TRAITÉ ÉLÉMENTAIRE DE MÉCANIQUE CHIMIQUE",
+    "title_complement": "fondée sur la thermodynamique",
+    "volume_number": "TOME III",
+    "authors": "P. DUHEM",
+    "publisher": "A. HERMANN",
+    "publication_place": "PARIS",
+    "date": "1898",
+    "identifier": "http://gallica.bnf.fr/ark:/12148/bpt6k917705",
+    "iiif_manifest": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k917705/manifest.json"
+  },
+  "ark": "bpt6k917705",
+  "typographie": {
+    "category": "Serif/Roman",
+    "subtype": "Slab Serif (Egyptian)"
+  },
+  "_annotations": {
+    "metadata.title": {
+      "readability": "Readable"
     },
-    "langue": "fr (French)",
-    "ark": "bpt6k917705",
-    "typographie_suggestion": {
-        "category": "Serif/Roman",
-        "subtype": "Slab Serif (Egyptian)",
-        "explanation": "The primary title \"MÉCANIQUE CHIMIQUE\" features heavy, block-like serifs with little to no bracketing, which is characteristic of the Slab Serif style common in 19th-century academic and industrial printing.",
-        "raw": "Category: Serif/Roman\nSubtype: Slab Serif (Egyptian)\nExplanation: The primary title \"MÉCANIQUE CHIMIQUE\" features heavy, block-like serifs with little to no bracketing, which is characteristic of the Slab Serif style common in 19th-century academic and industrial printing."
+    "metadata.title_complement": {
+      "readability": "Readable",
+      "correction": "fondée sur la thermodynamique"
     },
-    "typographie": {
-        "category": "Serif/Roman",
-        "subtype": "Slab Serif (Egyptian)"
+    "metadata.volume_number": {
+      "readability": "Readable",
+      "correction": "TOME III"
     },
-    "_annotations": {
-        "metadata.title": {
-            "lisibilite": "Lisible"
-        },
-        "metadata.title_complement": {
-            "lisibilite": "Lisible",
-            "correction": "fondée sur la thermodynamique"
-        },
-        "metadata.volume_number": {
-            "lisibilite": "Lisible",
-            "correction": "TOME III"
-        },
-        "metadata.authors": {
-            "lisibilite": "Lisible",
-            "correction": "P. DUHEM"
-        },
-        "metadata.publisher": {
-            "lisibilite": "Lisible",
-            "correction": "A. HERMANN"
-        },
-        "metadata.publication_place": {
-            "lisibilite": "Lisible",
-            "correction": "PARIS"
-        },
-        "metadata.date": {
-            "lisibilite": "Non lisible",
-            "cause": "qualite",
-            "correction": "1898"
-        },
-        "langue": {
-            "lisibilite": "Lisible"
-        },
-        "metadata.identifier": {
-            "lisibilite": "Lisible"
-        },
-        "metadata.iiif_manifest": {
-            "lisibilite": "Lisible"
-        },
-        "ark": {
-            "lisibilite": "Lisible"
-        }
+    "metadata.authors": {
+      "readability": "Readable",
+      "correction": "P. DUHEM"
+    },
+    "metadata.publisher": {
+      "readability": "Readable",
+      "correction": "A. HERMANN"
+    },
+    "metadata.publication_place": {
+      "readability": "Readable",
+      "correction": "PARIS"
+    },
+    "metadata.date": {
+      "readability": "Not readable",
+      "cause": "quality",
+      "correction": "1898"
+    },
+    "language": {
+      "readability": "Readable"
+    },
+    "metadata.identifier": {
+      "readability": "Readable"
+    },
+    "metadata.iiif_manifest": {
+      "readability": "Readable"
+    },
+    "ark": {
+      "readability": "Readable"
     }
+  },
+  "language": "fr (French)"
 }

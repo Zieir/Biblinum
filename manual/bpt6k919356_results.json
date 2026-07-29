@@ -1,63 +1,57 @@
 {
-    "metadata": {
-        "title": "ESSAI SUR LA GARANCE",
-        "title_complement": "",
-        "volume_number": "",
-        "authors": "SACC",
-        "publisher": "VICTOR MASSON ET FILS",
-        "publication_place": "PARIS",
-        "date": "1861",
-        "identifier": "http://gallica.bnf.fr/ark:/12148/bpt6k919356",
-        "iiif_manifest": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k919356/manifest.json"
+  "metadata": {
+    "title": "ESSAI SUR LA GARANCE",
+    "title_complement": "",
+    "volume_number": "",
+    "authors": "SACC",
+    "publisher": "VICTOR MASSON ET FILS",
+    "publication_place": "PARIS",
+    "date": "1861",
+    "identifier": "http://gallica.bnf.fr/ark:/12148/bpt6k919356",
+    "iiif_manifest": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k919356/manifest.json"
+  },
+  "ark": "bpt6k919356",
+  "typographie": {
+    "category": "Serif/Roman",
+    "subtype": "Slab Serif (Egyptian)"
+  },
+  "_annotations": {
+    "metadata.title": {
+      "readability": "Readable"
     },
-    "langue": "fr (French)",
-    "ark": "bpt6k919356",
-    "typographie_suggestion": {
-        "category": "Serif/Roman",
-        "subtype": "Slab Serif (Egyptian)",
-        "explanation": "The main title features heavy, block-like serifs with little to no bracketing, which is characteristic of the Slab Serif style popular in 19th-century printing. The smaller body text follows a standard Modern/Didone serif style common for academic publications of that era.",
-        "raw": "Based on the primary title \"LA GARANCE\" and the general body text of the document:\n\nCategory: Serif/Roman\nSubtype: Slab Serif (Egyptian)\nExplanation: The main title features heavy, block-like serifs with little to no bracketing, which is characteristic of the Slab Serif style popular in 19th-century printing. The smaller body text follows a standard Modern/Didone serif style common for academic publications of that era."
+    "metadata.title_complement": {
+      "readability": "Not readable",
+      "cause": "absent"
     },
-    "typographie": {
-        "category": "Serif/Roman",
-        "subtype": "Slab Serif (Egyptian)"
+    "metadata.volume_number": {
+      "readability": "Not readable",
+      "cause": "absent"
     },
-    "_annotations": {
-        "metadata.title": {
-            "lisibilite": "Lisible"
-        },
-        "metadata.title_complement": {
-            "lisibilite": "Non lisible",
-            "cause": "absent"
-        },
-        "metadata.volume_number": {
-            "lisibilite": "Non lisible",
-            "cause": "absent"
-        },
-        "metadata.authors": {
-            "lisibilite": "Lisible",
-            "correction": "SACC"
-        },
-        "metadata.publisher": {
-            "lisibilite": "Lisible"
-        },
-        "metadata.publication_place": {
-            "lisibilite": "Lisible"
-        },
-        "metadata.date": {
-            "lisibilite": "Lisible"
-        },
-        "langue": {
-            "lisibilite": "Lisible"
-        },
-        "metadata.identifier": {
-            "lisibilite": "Lisible"
-        },
-        "metadata.iiif_manifest": {
-            "lisibilite": "Lisible"
-        },
-        "ark": {
-            "lisibilite": "Lisible"
-        }
+    "metadata.authors": {
+      "readability": "Readable",
+      "correction": "SACC"
+    },
+    "metadata.publisher": {
+      "readability": "Readable"
+    },
+    "metadata.publication_place": {
+      "readability": "Readable"
+    },
+    "metadata.date": {
+      "readability": "Readable"
+    },
+    "language": {
+      "readability": "Readable"
+    },
+    "metadata.identifier": {
+      "readability": "Readable"
+    },
+    "metadata.iiif_manifest": {
+      "readability": "Readable"
+    },
+    "ark": {
+      "readability": "Readable"
     }
+  },
+  "language": "fr (French)"
 }

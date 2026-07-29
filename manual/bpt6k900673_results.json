@@ -1,65 +1,59 @@
 {
-    "metadata": {
-        "title": "CHEMIE DER KOHLENSTOFFVERBINDUNGEN ODER ORGANISCHE CHEMIE",
-        "title_complement": "",
-        "volume_number": "",
-        "authors": "V. V. Richter",
-        "publisher": "MAX COHEN & SOHN (FR. COHEN)",
-        "publication_place": "BONN",
-        "date": "1888",
-        "identifier": "http://gallica.bnf.fr/ark:/12148/bpt6k900673",
-        "iiif_manifest": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k900673/manifest.json"
+  "metadata": {
+    "title": "CHEMIE DER KOHLENSTOFFVERBINDUNGEN ODER ORGANISCHE CHEMIE",
+    "title_complement": "",
+    "volume_number": "",
+    "authors": "V. V. Richter",
+    "publisher": "MAX COHEN & SOHN (FR. COHEN)",
+    "publication_place": "BONN",
+    "date": "1888",
+    "identifier": "http://gallica.bnf.fr/ark:/12148/bpt6k900673",
+    "iiif_manifest": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k900673/manifest.json"
+  },
+  "ark": "bpt6k900673",
+  "typographie": {
+    "category": "Serif/Roman",
+    "subtype": "Didone (Modern)"
+  },
+  "_annotations": {
+    "metadata.title": {
+      "readability": "Readable",
+      "correction": "CHEMIE DER KOHLENSTOFFVERBINDUNGEN ODER ORGANISCHE CHEMIE"
     },
-    "langue": "de (German)",
-    "ark": "bpt6k900673",
-    "typographie_suggestion": {
-        "category": "Serif/Roman",
-        "subtype": "Didone (Modern)",
-        "explanation": "The typeface features a strong contrast between thick and thin strokes, vertical stress, and thin, horizontal serifs, which are the defining characteristics of the Didone/Modern style popular in the 19th century.",
-        "raw": "Category: Serif/Roman\nSubtype: Didone (Modern)\nExplanation: The typeface features a strong contrast between thick and thin strokes, vertical stress, and thin, horizontal serifs, which are the defining characteristics of the Didone/Modern style popular in the 19th century."
+    "metadata.title_complement": {
+      "readability": "Not readable",
+      "cause": "absent"
     },
-    "typographie": {
-        "category": "Serif/Roman",
-        "subtype": "Didone (Modern)"
+    "metadata.volume_number": {
+      "readability": "Not readable",
+      "cause": "absent"
     },
-    "_annotations": {
-        "metadata.title": {
-            "lisibilite": "Lisible",
-            "correction": "CHEMIE DER KOHLENSTOFFVERBINDUNGEN ODER ORGANISCHE CHEMIE"
-        },
-        "metadata.title_complement": {
-            "lisibilite": "Non lisible",
-            "cause": "absent"
-        },
-        "metadata.volume_number": {
-            "lisibilite": "Non lisible",
-            "cause": "absent"
-        },
-        "metadata.authors": {
-            "lisibilite": "Lisible",
-            "correction": "V. V. Richter"
-        },
-        "metadata.publisher": {
-            "lisibilite": "Lisible"
-        },
-        "metadata.publication_place": {
-            "lisibilite": "Lisible"
-        },
-        "metadata.date": {
-            "lisibilite": "Non lisible",
-            "cause": "qualite"
-        },
-        "langue": {
-            "lisibilite": "Lisible"
-        },
-        "metadata.identifier": {
-            "lisibilite": "Lisible"
-        },
-        "metadata.iiif_manifest": {
-            "lisibilite": "Lisible"
-        },
-        "ark": {
-            "lisibilite": "Lisible"
-        }
+    "metadata.authors": {
+      "readability": "Readable",
+      "correction": "V. V. Richter"
+    },
+    "metadata.publisher": {
+      "readability": "Readable"
+    },
+    "metadata.publication_place": {
+      "readability": "Readable"
+    },
+    "metadata.date": {
+      "readability": "Not readable",
+      "cause": "quality"
+    },
+    "language": {
+      "readability": "Readable"
+    },
+    "metadata.identifier": {
+      "readability": "Readable"
+    },
+    "metadata.iiif_manifest": {
+      "readability": "Readable"
+    },
+    "ark": {
+      "readability": "Readable"
     }
+  },
+  "language": "de (German)"
 }

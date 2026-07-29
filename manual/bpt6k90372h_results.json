@@ -1,66 +1,60 @@
 {
-    "metadata": {
-        "title": "TRAITÉ DE CHIMIE ORGANIQUE",
-        "title_complement": "D'APRÈS LES THÉORIES MODERNES",
-        "volume_number": "TOME PREMIER",
-        "authors": "Auguste BÉHAL; Amand VALEUR",
-        "publisher": "OCTAVE DOIN ET FILS ",
-        "publication_place": "PARIS",
-        "date": "1909",
-        "identifier": "http://gallica.bnf.fr/ark:/12148/bpt6k90372h",
-        "iiif_manifest": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k90372h/manifest.json"
+  "metadata": {
+    "title": "TRAITÉ DE CHIMIE ORGANIQUE",
+    "title_complement": "D'APRÈS LES THÉORIES MODERNES",
+    "volume_number": "TOME PREMIER",
+    "authors": "Auguste BÉHAL; Amand VALEUR",
+    "publisher": "OCTAVE DOIN ET FILS ",
+    "publication_place": "PARIS",
+    "date": "1909",
+    "identifier": "http://gallica.bnf.fr/ark:/12148/bpt6k90372h",
+    "iiif_manifest": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k90372h/manifest.json"
+  },
+  "ark": "bpt6k90372h",
+  "typographie": {
+    "category": "Serif/Roman",
+    "subtype": "Didone (Modern)"
+  },
+  "_annotations": {
+    "metadata.title": {
+      "readability": "Readable",
+      "correction": "TRAITÉ DE CHIMIE ORGANIQUE"
     },
-    "langue": "fr (French)",
-    "ark": "bpt6k90372h",
-    "typographie_suggestion": {
-        "category": "Serif/Roman",
-        "subtype": "Didone (Modern)",
-        "explanation": "The main title \"CHIMIE ORGANIQUE\" features the high contrast between thick and thin strokes, vertical stress, and small, unbracketed serifs characteristic of the Didone style (similar to Bodoni or Didot), which was prevalent in academic and formal French printing during this era.",
-        "raw": "Category: Serif/Roman\nSubtype: Didone (Modern)\nExplanation: The main title \"CHIMIE ORGANIQUE\" features the high contrast between thick and thin strokes, vertical stress, and small, unbracketed serifs characteristic of the Didone style (similar to Bodoni or Didot), which was prevalent in academic and formal French printing during this era."
+    "metadata.title_complement": {
+      "readability": "Readable",
+      "correction": "D'APRÈS LES THÉORIES MODERNES"
     },
-    "typographie": {
-        "category": "Serif/Roman",
-        "subtype": "Didone (Modern)"
+    "metadata.volume_number": {
+      "readability": "Readable"
     },
-    "_annotations": {
-        "metadata.title": {
-            "lisibilite": "Lisible",
-            "correction": "TRAITÉ DE CHIMIE ORGANIQUE"
-        },
-        "metadata.title_complement": {
-            "lisibilite": "Lisible",
-            "correction": "D'APRÈS LES THÉORIES MODERNES"
-        },
-        "metadata.volume_number": {
-            "lisibilite": "Lisible"
-        },
-        "metadata.authors": {
-            "lisibilite": "Lisible",
-            "correction": "Auguste BÉHAL; Amand VALEUR"
-        },
-        "metadata.publisher": {
-            "lisibilite": "Lisible",
-            "correction": "OCTAVE DOIN ET FILS "
-        },
-        "metadata.publication_place": {
-            "lisibilite": "Lisible",
-            "correction": "PARIS"
-        },
-        "metadata.date": {
-            "lisibilite": "Lisible",
-            "correction": "1909"
-        },
-        "langue": {
-            "lisibilite": "Lisible"
-        },
-        "metadata.identifier": {
-            "lisibilite": "Lisible"
-        },
-        "metadata.iiif_manifest": {
-            "lisibilite": "Lisible"
-        },
-        "ark": {
-            "lisibilite": "Lisible"
-        }
+    "metadata.authors": {
+      "readability": "Readable",
+      "correction": "Auguste BÉHAL; Amand VALEUR"
+    },
+    "metadata.publisher": {
+      "readability": "Readable",
+      "correction": "OCTAVE DOIN ET FILS "
+    },
+    "metadata.publication_place": {
+      "readability": "Readable",
+      "correction": "PARIS"
+    },
+    "metadata.date": {
+      "readability": "Readable",
+      "correction": "1909"
+    },
+    "language": {
+      "readability": "Readable"
+    },
+    "metadata.identifier": {
+      "readability": "Readable"
+    },
+    "metadata.iiif_manifest": {
+      "readability": "Readable"
+    },
+    "ark": {
+      "readability": "Readable"
     }
+  },
+  "language": "fr (French)"
 }

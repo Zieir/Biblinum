@@ -1,63 +1,57 @@
 {
-    "metadata": {
-        "title": "ON THE MANUFACTURE OF CHLORINE",
-        "title_complement": "A Lecture , delivered, at the request of the council of the Society of Arts, before the chemical section of that society, May 22nd, 1874",
-        "volume_number": "",
-        "authors": "Walter Weldon",
-        "publisher": "Thomas Scott",
-        "publication_place": "London",
-        "date": "1874",
-        "identifier": "http://gallica.bnf.fr/ark:/12148/bpt6k901510",
-        "iiif_manifest": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k901510/manifest.json"
+  "metadata": {
+    "title": "ON THE MANUFACTURE OF CHLORINE",
+    "title_complement": "A Lecture , delivered, at the request of the council of the Society of Arts, before the chemical section of that society, May 22nd, 1874",
+    "volume_number": "",
+    "authors": "Walter Weldon",
+    "publisher": "Thomas Scott",
+    "publication_place": "London",
+    "date": "1874",
+    "identifier": "http://gallica.bnf.fr/ark:/12148/bpt6k901510",
+    "iiif_manifest": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k901510/manifest.json"
+  },
+  "ark": "bpt6k901510",
+  "typographie": {
+    "category": "Blackletter",
+    "subtype": "Fraktur"
+  },
+  "_annotations": {
+    "metadata.title": {
+      "readability": "Readable"
     },
-    "langue": "en (English)",
-    "ark": "bpt6k901510",
-    "typographie_suggestion": {
-        "category": "Blackletter",
-        "subtype": "Fraktur",
-        "explanation": "This is a decorative, broken-script style with angular forms and ornate flourishes, used here for emphasis and tradition.",
-        "raw": "Since the image contains several different typefaces, I will identify the most prominent ones used in the layout:\n\n**For the main title (\"MANUFACTURE OF CHLORINE\"):**\nCategory: Serif/Roman\nSubtype: Slab Serif (Egyptian)\nExplanation: The letters feature thick, block-like serifs with very little contrast between the thick and thin strokes, typical of 19th-century industrial and headline typography.\n\n**For the body text and names (\"A. W. WILLIAMSON\", etc.):**\nCategory: Serif/Roman\nSubtype: Modern/Didone\nExplanation: These faces exhibit high contrast between thick and thin strokes and vertical stress, characteristic of the \"Modern\" style prevalent in 19th-century printing.\n\n**For the word \"Lecture\":**\nCategory: Blackletter\nSubtype: Fraktur\nExplanation: This is a decorative, broken-script style with angular forms and ornate flourishes, used here for emphasis and tradition."
+    "metadata.title_complement": {
+      "readability": "Readable",
+      "correction": "A Lecture , delivered, at the request of the council of the Society of Arts, before the chemical section of that society, May 22nd, 1874"
     },
-    "typographie": {
-        "category": "Blackletter",
-        "subtype": "Fraktur"
+    "metadata.volume_number": {
+      "readability": "Not readable",
+      "cause": "absent"
     },
-    "_annotations": {
-        "metadata.title": {
-            "lisibilite": "Lisible"
-        },
-        "metadata.title_complement": {
-            "lisibilite": "Lisible",
-            "correction": "A Lecture , delivered, at the request of the council of the Society of Arts, before the chemical section of that society, May 22nd, 1874"
-        },
-        "metadata.volume_number": {
-            "lisibilite": "Non lisible",
-            "cause": "absent"
-        },
-        "metadata.authors": {
-            "lisibilite": "Lisible",
-            "correction": "Walter Weldon"
-        },
-        "metadata.publisher": {
-            "lisibilite": "Lisible"
-        },
-        "metadata.publication_place": {
-            "lisibilite": "Lisible"
-        },
-        "metadata.date": {
-            "lisibilite": "Lisible"
-        },
-        "langue": {
-            "lisibilite": "Lisible"
-        },
-        "metadata.identifier": {
-            "lisibilite": "Lisible"
-        },
-        "metadata.iiif_manifest": {
-            "lisibilite": "Lisible"
-        },
-        "ark": {
-            "lisibilite": "Lisible"
-        }
+    "metadata.authors": {
+      "readability": "Readable",
+      "correction": "Walter Weldon"
+    },
+    "metadata.publisher": {
+      "readability": "Readable"
+    },
+    "metadata.publication_place": {
+      "readability": "Readable"
+    },
+    "metadata.date": {
+      "readability": "Readable"
+    },
+    "language": {
+      "readability": "Readable"
+    },
+    "metadata.identifier": {
+      "readability": "Readable"
+    },
+    "metadata.iiif_manifest": {
+      "readability": "Readable"
+    },
+    "ark": {
+      "readability": "Readable"
     }
+  },
+  "language": "en (English)"
 }

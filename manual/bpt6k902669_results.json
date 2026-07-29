@@ -1,66 +1,60 @@
 {
-    "metadata": {
-        "title": "CLOUDS & SMOKES",
-        "title_complement": "the properties of disperse systems in gases and their practical applications",
-        "volume_number": "",
-        "authors": "William E. Gibbs",
-        "publisher": "J. & A. Churchill",
-        "publication_place": "LONDON",
-        "date": "1924",
-        "identifier": "http://gallica.bnf.fr/ark:/12148/bpt6k902669",
-        "iiif_manifest": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k902669/manifest.json"
+  "metadata": {
+    "title": "CLOUDS & SMOKES",
+    "title_complement": "the properties of disperse systems in gases and their practical applications",
+    "volume_number": "",
+    "authors": "William E. Gibbs",
+    "publisher": "J. & A. Churchill",
+    "publication_place": "LONDON",
+    "date": "1924",
+    "identifier": "http://gallica.bnf.fr/ark:/12148/bpt6k902669",
+    "iiif_manifest": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k902669/manifest.json"
+  },
+  "ark": "bpt6k902669",
+  "typographie": {
+    "category": "Serif/Roman",
+    "subtype": "Old Style / Transitional"
+  },
+  "_annotations": {
+    "metadata.title": {
+      "readability": "Readable"
     },
-    "langue": "en (English)",
-    "ark": "bpt6k902669",
-    "typographie_suggestion": {
-        "category": "Serif/Roman",
-        "subtype": "Old Style / Transitional",
-        "explanation": "The text utilizes a classic serif typeface characterized by moderate contrast between thick and thin strokes and bracketed serifs. The proportions and style are typical of early 20th-century academic publishing, blending elements of Old Style readability with the sharper precision of Transitional faces.",
-        "raw": "Category: Serif/Roman\nSubtype: Old Style / Transitional\nExplanation: The text utilizes a classic serif typeface characterized by moderate contrast between thick and thin strokes and bracketed serifs. The proportions and style are typical of early 20th-century academic publishing, blending elements of Old Style readability with the sharper precision of Transitional faces."
+    "metadata.title_complement": {
+      "readability": "Readable",
+      "correction": "the properties of disperse systems in gases and their practical applications"
     },
-    "typographie": {
-        "category": "Serif/Roman",
-        "subtype": "Old Style / Transitional"
+    "metadata.volume_number": {
+      "readability": "Not readable",
+      "cause": "absent"
     },
-    "_annotations": {
-        "metadata.title": {
-            "lisibilite": "Lisible"
-        },
-        "metadata.title_complement": {
-            "lisibilite": "Lisible",
-            "correction": "the properties of disperse systems in gases and their practical applications"
-        },
-        "metadata.volume_number": {
-            "lisibilite": "Non lisible",
-            "cause": "absent"
-        },
-        "metadata.authors": {
-            "lisibilite": "Lisible",
-            "correction": "William E. Gibbs"
-        },
-        "metadata.publisher": {
-            "lisibilite": "Lisible",
-            "correction": "J. & A. Churchill"
-        },
-        "metadata.publication_place": {
-            "lisibilite": "Lisible",
-            "correction": "LONDON"
-        },
-        "metadata.date": {
-            "lisibilite": "Lisible",
-            "correction": "1924"
-        },
-        "langue": {
-            "lisibilite": "Lisible"
-        },
-        "metadata.identifier": {
-            "lisibilite": "Lisible"
-        },
-        "metadata.iiif_manifest": {
-            "lisibilite": "Lisible"
-        },
-        "ark": {
-            "lisibilite": "Lisible"
-        }
+    "metadata.authors": {
+      "readability": "Readable",
+      "correction": "William E. Gibbs"
+    },
+    "metadata.publisher": {
+      "readability": "Readable",
+      "correction": "J. & A. Churchill"
+    },
+    "metadata.publication_place": {
+      "readability": "Readable",
+      "correction": "LONDON"
+    },
+    "metadata.date": {
+      "readability": "Readable",
+      "correction": "1924"
+    },
+    "language": {
+      "readability": "Readable"
+    },
+    "metadata.identifier": {
+      "readability": "Readable"
+    },
+    "metadata.iiif_manifest": {
+      "readability": "Readable"
+    },
+    "ark": {
+      "readability": "Readable"
     }
+  },
+  "language": "en (English)"
 }

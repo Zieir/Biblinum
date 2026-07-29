@@ -1,67 +1,61 @@
 {
-    "metadata": {
-        "title": "ATLAS DE CHIMIE ANALYTIQUE MINÉRALE",
-        "title_complement": "renfermant les premières notions indispensables aux personnes qui commencent la chimie et dix-sept tableaux parfaitement imprimés en couleur des précipités donnés par les réactifs et des colorations obtenues au chalumeau ",
-        "volume_number": "",
-        "authors": "A. Terreil",
-        "publisher": "DUNOD",
-        "publication_place": "PARIS",
-        "date": "1861",
-        "identifier": "http://gallica.bnf.fr/ark:/12148/bpt6k90089d",
-        "iiif_manifest": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k90089d/manifest.json"
+  "metadata": {
+    "title": "ATLAS DE CHIMIE ANALYTIQUE MINÉRALE",
+    "title_complement": "renfermant les premières notions indispensables aux personnes qui commencent la chimie et dix-sept tableaux parfaitement imprimés en couleur des précipités donnés par les réactifs et des colorations obtenues au chalumeau ",
+    "volume_number": "",
+    "authors": "A. Terreil",
+    "publisher": "DUNOD",
+    "publication_place": "PARIS",
+    "date": "1861",
+    "identifier": "http://gallica.bnf.fr/ark:/12148/bpt6k90089d",
+    "iiif_manifest": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k90089d/manifest.json"
+  },
+  "ark": "bpt6k90089d",
+  "typographie": {
+    "category": "Serif/Roman",
+    "subtype": "Didone (Modern)"
+  },
+  "_annotations": {
+    "metadata.title": {
+      "readability": "Readable",
+      "correction": "ATLAS DE CHIMIE ANALYTIQUE MINÉRALE"
     },
-    "langue": "fr (French)",
-    "ark": "bpt6k90089d",
-    "typographie_suggestion": {
-        "category": "Serif/Roman",
-        "subtype": "Didone (Modern)",
-        "explanation": "The primary headings (\"ATLAS\", \"CHIMIE ANALYTIQUE\") feature the high contrast between thick and thin strokes and vertical stress characteristic of the Didone style (similar to Bodoni or Didot), which was prevalent in 19th-century French printing.",
-        "raw": "Category: Serif/Roman\nSubtype: Didone (Modern)\nExplanation: The primary headings (\"ATLAS\", \"CHIMIE ANALYTIQUE\") feature the high contrast between thick and thin strokes and vertical stress characteristic of the Didone style (similar to Bodoni or Didot), which was prevalent in 19th-century French printing."
+    "metadata.title_complement": {
+      "readability": "Readable",
+      "correction": "renfermant les premières notions indispensables aux personnes qui commencent la chimie et dix-sept tableaux parfaitement imprimés en couleur des précipités donnés par les réactifs et des colorations obtenues au chalumeau "
     },
-    "typographie": {
-        "category": "Serif/Roman",
-        "subtype": "Didone (Modern)"
+    "metadata.volume_number": {
+      "readability": "Not readable",
+      "cause": "absent"
     },
-    "_annotations": {
-        "metadata.title": {
-            "lisibilite": "Lisible",
-            "correction": "ATLAS DE CHIMIE ANALYTIQUE MINÉRALE"
-        },
-        "metadata.title_complement": {
-            "lisibilite": "Lisible",
-            "correction": "renfermant les premières notions indispensables aux personnes qui commencent la chimie et dix-sept tableaux parfaitement imprimés en couleur des précipités donnés par les réactifs et des colorations obtenues au chalumeau "
-        },
-        "metadata.volume_number": {
-            "lisibilite": "Non lisible",
-            "cause": "absent"
-        },
-        "metadata.authors": {
-            "lisibilite": "Lisible",
-            "correction": "A. Terreil"
-        },
-        "metadata.publisher": {
-            "lisibilite": "Lisible",
-            "correction": "DUNOD"
-        },
-        "metadata.publication_place": {
-            "lisibilite": "Lisible",
-            "correction": "PARIS"
-        },
-        "metadata.date": {
-            "lisibilite": "Lisible",
-            "correction": "1861"
-        },
-        "langue": {
-            "lisibilite": "Lisible"
-        },
-        "metadata.identifier": {
-            "lisibilite": "Lisible"
-        },
-        "metadata.iiif_manifest": {
-            "lisibilite": "Lisible"
-        },
-        "ark": {
-            "lisibilite": "Lisible"
-        }
+    "metadata.authors": {
+      "readability": "Readable",
+      "correction": "A. Terreil"
+    },
+    "metadata.publisher": {
+      "readability": "Readable",
+      "correction": "DUNOD"
+    },
+    "metadata.publication_place": {
+      "readability": "Readable",
+      "correction": "PARIS"
+    },
+    "metadata.date": {
+      "readability": "Readable",
+      "correction": "1861"
+    },
+    "language": {
+      "readability": "Readable"
+    },
+    "metadata.identifier": {
+      "readability": "Readable"
+    },
+    "metadata.iiif_manifest": {
+      "readability": "Readable"
+    },
+    "ark": {
+      "readability": "Readable"
     }
+  },
+  "language": "fr (French)"
 }

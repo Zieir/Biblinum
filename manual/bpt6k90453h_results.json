@@ -1,66 +1,60 @@
 {
-    "metadata": {
-        "title": "LEÇONS DE CHIMIE ÉLÉMENTAIRE",
-        "title_complement": "appliquée aux arts industriels",
-        "volume_number": "IV",
-        "authors": "J. GIRARDIN",
-        "publisher": "G. MASSON",
-        "publication_place": "PARIS",
-        "date": "1877",
-        "identifier": "http://gallica.bnf.fr/ark:/12148/bpt6k90453h",
-        "iiif_manifest": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k90453h/manifest.json"
+  "metadata": {
+    "title": "LEÇONS DE CHIMIE ÉLÉMENTAIRE",
+    "title_complement": "appliquée aux arts industriels",
+    "volume_number": "IV",
+    "authors": "J. GIRARDIN",
+    "publisher": "G. MASSON",
+    "publication_place": "PARIS",
+    "date": "1877",
+    "identifier": "http://gallica.bnf.fr/ark:/12148/bpt6k90453h",
+    "iiif_manifest": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k90453h/manifest.json"
+  },
+  "ark": "bpt6k90453h",
+  "typographie": {
+    "category": "Serif/Roman",
+    "subtype": "Didone (Modern)"
+  },
+  "_annotations": {
+    "metadata.title": {
+      "readability": "Readable"
     },
-    "langue": "fr (French)",
-    "ark": "bpt6k90453h",
-    "typographie_suggestion": {
-        "category": "Serif/Roman",
-        "subtype": "Didone (Modern)",
-        "explanation": "The typeface features a high contrast between thick and thin strokes, vertical stress, and thin, horizontal serifs. This is characteristic of the \"Modern\" or Didone style (such as Didot or Bodoni), which was prevalent in French academic and formal printing during the 19th century.",
-        "raw": "Category: Serif/Roman\nSubtype: Didone (Modern)\nExplanation: The typeface features a high contrast between thick and thin strokes, vertical stress, and thin, horizontal serifs. This is characteristic of the \"Modern\" or Didone style (such as Didot or Bodoni), which was prevalent in French academic and formal printing during the 19th century."
+    "metadata.title_complement": {
+      "readability": "Readable",
+      "correction": "appliquée aux arts industriels"
     },
-    "typographie": {
-        "category": "Serif/Roman",
-        "subtype": "Didone (Modern)"
+    "metadata.volume_number": {
+      "readability": "Readable",
+      "correction": "IV"
     },
-    "_annotations": {
-        "metadata.title": {
-            "lisibilite": "Lisible"
-        },
-        "metadata.title_complement": {
-            "lisibilite": "Lisible",
-            "correction": "appliquée aux arts industriels"
-        },
-        "metadata.volume_number": {
-            "lisibilite": "Lisible",
-            "correction": "IV"
-        },
-        "metadata.authors": {
-            "lisibilite": "Lisible",
-            "correction": "J. GIRARDIN"
-        },
-        "metadata.publisher": {
-            "lisibilite": "Lisible",
-            "correction": "G. MASSON"
-        },
-        "metadata.publication_place": {
-            "lisibilite": "Lisible",
-            "correction": "PARIS"
-        },
-        "metadata.date": {
-            "lisibilite": "Lisible",
-            "correction": "1877"
-        },
-        "langue": {
-            "lisibilite": "Lisible"
-        },
-        "metadata.identifier": {
-            "lisibilite": "Lisible"
-        },
-        "metadata.iiif_manifest": {
-            "lisibilite": "Lisible"
-        },
-        "ark": {
-            "lisibilite": "Lisible"
-        }
+    "metadata.authors": {
+      "readability": "Readable",
+      "correction": "J. GIRARDIN"
+    },
+    "metadata.publisher": {
+      "readability": "Readable",
+      "correction": "G. MASSON"
+    },
+    "metadata.publication_place": {
+      "readability": "Readable",
+      "correction": "PARIS"
+    },
+    "metadata.date": {
+      "readability": "Readable",
+      "correction": "1877"
+    },
+    "language": {
+      "readability": "Readable"
+    },
+    "metadata.identifier": {
+      "readability": "Readable"
+    },
+    "metadata.iiif_manifest": {
+      "readability": "Readable"
+    },
+    "ark": {
+      "readability": "Readable"
     }
+  },
+  "language": "fr (French)"
 }

@@ -1,63 +1,57 @@
 {
-    "metadata": {
-        "title": "Sels organiques uraniques",
-        "title_complement": "",
-        "volume_number": "",
-        "authors": "Gaston Courtois",
-        "publisher": "Imprimerie et lithographie Lucien Delorme",
-        "publication_place": "Lons-le-Saunier",
-        "date": "1914",
-        "identifier": "http://gallica.bnf.fr/ark:/12148/bpt6k90408p",
-        "iiif_manifest": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k90408p/manifest.json"
+  "metadata": {
+    "title": "Sels organiques uraniques",
+    "title_complement": "",
+    "volume_number": "",
+    "authors": "Gaston Courtois",
+    "publisher": "Imprimerie et lithographie Lucien Delorme",
+    "publication_place": "Lons-le-Saunier",
+    "date": "1914",
+    "identifier": "http://gallica.bnf.fr/ark:/12148/bpt6k90408p",
+    "iiif_manifest": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k90408p/manifest.json"
+  },
+  "ark": "bpt6k90408p",
+  "typographie": {
+    "category": "Blackletter",
+    "subtype": "Textura"
+  },
+  "_annotations": {
+    "metadata.title": {
+      "readability": "Readable"
     },
-    "langue": "fr (French)",
-    "ark": "bpt6k90408p",
-    "typographie_suggestion": {
-        "category": "Blackletter",
-        "subtype": "Textura",
-        "explanation": "The main title \"SELS ORGANIQUES URANIQUES\" features the characteristic heavy, angular, and condensed strokes of the Textura style, which is a formal and structured form of Blackletter common in early printing and ceremonial headings.",
-        "raw": "Category: Blackletter\nSubtype: Textura\nExplanation: The main title \"SELS ORGANIQUES URANIQUES\" features the characteristic heavy, angular, and condensed strokes of the Textura style, which is a formal and structured form of Blackletter common in early printing and ceremonial headings."
+    "metadata.title_complement": {
+      "readability": "Not readable",
+      "cause": "absent"
     },
-    "typographie": {
-        "category": "Blackletter",
-        "subtype": "Textura"
+    "metadata.volume_number": {
+      "readability": "Not readable",
+      "cause": "absent"
     },
-    "_annotations": {
-        "metadata.title": {
-            "lisibilite": "Lisible"
-        },
-        "metadata.title_complement": {
-            "lisibilite": "Non lisible",
-            "cause": "absent"
-        },
-        "metadata.volume_number": {
-            "lisibilite": "Non lisible",
-            "cause": "absent"
-        },
-        "metadata.authors": {
-            "lisibilite": "Lisible",
-            "correction": "Gaston Courtois"
-        },
-        "metadata.publisher": {
-            "lisibilite": "Lisible"
-        },
-        "metadata.publication_place": {
-            "lisibilite": "Lisible"
-        },
-        "metadata.date": {
-            "lisibilite": "Lisible"
-        },
-        "langue": {
-            "lisibilite": "Lisible"
-        },
-        "metadata.identifier": {
-            "lisibilite": "Lisible"
-        },
-        "metadata.iiif_manifest": {
-            "lisibilite": "Lisible"
-        },
-        "ark": {
-            "lisibilite": "Lisible"
-        }
+    "metadata.authors": {
+      "readability": "Readable",
+      "correction": "Gaston Courtois"
+    },
+    "metadata.publisher": {
+      "readability": "Readable"
+    },
+    "metadata.publication_place": {
+      "readability": "Readable"
+    },
+    "metadata.date": {
+      "readability": "Readable"
+    },
+    "language": {
+      "readability": "Readable"
+    },
+    "metadata.identifier": {
+      "readability": "Readable"
+    },
+    "metadata.iiif_manifest": {
+      "readability": "Readable"
+    },
+    "ark": {
+      "readability": "Readable"
     }
+  },
+  "language": "fr (French)"
 }

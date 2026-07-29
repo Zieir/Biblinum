@@ -1,63 +1,57 @@
 {
-    "metadata": {
-        "title": "Chemische Briefe",
-        "title_complement": "",
-        "volume_number": "",
-        "authors": "Justus von Liebig",
-        "publisher": "C. F. Winter'sche Verlagshandlung",
-        "publication_place": "Leipzig und Heidelberg",
-        "date": "1865",
-        "identifier": "http://gallica.bnf.fr/ark:/12148/bpt6k90340w",
-        "iiif_manifest": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k90340w/manifest.json"
+  "metadata": {
+    "title": "Chemische Briefe",
+    "title_complement": "",
+    "volume_number": "",
+    "authors": "Justus von Liebig",
+    "publisher": "C. F. Winter'sche Verlagshandlung",
+    "publication_place": "Leipzig und Heidelberg",
+    "date": "1865",
+    "identifier": "http://gallica.bnf.fr/ark:/12148/bpt6k90340w",
+    "iiif_manifest": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k90340w/manifest.json"
+  },
+  "ark": "bpt6k90340w",
+  "typographie": {
+    "category": "Blackletter",
+    "subtype": "Fraktur"
+  },
+  "_annotations": {
+    "metadata.title": {
+      "readability": "Readable"
     },
-    "langue": "de (German)",
-    "ark": "bpt6k90340w",
-    "typographie_suggestion": {
-        "category": "Blackletter",
-        "subtype": "Fraktur",
-        "explanation": "The typeface features the characteristic broken strokes, angular forms, and decorative flourishes typical of the Fraktur style, which was the standard for German printing during the 19th century.",
-        "raw": "Category: Blackletter\nSubtype: Fraktur\nExplanation: The typeface features the characteristic broken strokes, angular forms, and decorative flourishes typical of the Fraktur style, which was the standard for German printing during the 19th century."
+    "metadata.title_complement": {
+      "readability": "Not readable",
+      "cause": "absent"
     },
-    "typographie": {
-        "category": "Blackletter",
-        "subtype": "Fraktur"
+    "metadata.volume_number": {
+      "readability": "Not readable",
+      "cause": "absent"
     },
-    "_annotations": {
-        "metadata.title": {
-            "lisibilite": "Lisible"
-        },
-        "metadata.title_complement": {
-            "lisibilite": "Non lisible",
-            "cause": "absent"
-        },
-        "metadata.volume_number": {
-            "lisibilite": "Non lisible",
-            "cause": "absent"
-        },
-        "metadata.authors": {
-            "lisibilite": "Lisible"
-        },
-        "metadata.publisher": {
-            "lisibilite": "Lisible"
-        },
-        "metadata.publication_place": {
-            "lisibilite": "Lisible"
-        },
-        "metadata.date": {
-            "lisibilite": "Lisible"
-        },
-        "langue": {
-            "lisibilite": "Lisible"
-        },
-        "_note": "A revoir",
-        "metadata.identifier": {
-            "lisibilite": "Lisible"
-        },
-        "metadata.iiif_manifest": {
-            "lisibilite": "Lisible"
-        },
-        "ark": {
-            "lisibilite": "Lisible"
-        }
+    "metadata.authors": {
+      "readability": "Readable"
+    },
+    "metadata.publisher": {
+      "readability": "Readable"
+    },
+    "metadata.publication_place": {
+      "readability": "Readable"
+    },
+    "metadata.date": {
+      "readability": "Readable"
+    },
+    "language": {
+      "readability": "Readable"
+    },
+    "_note": "A revoir",
+    "metadata.identifier": {
+      "readability": "Readable"
+    },
+    "metadata.iiif_manifest": {
+      "readability": "Readable"
+    },
+    "ark": {
+      "readability": "Readable"
     }
+  },
+  "language": "de (German)"
 }

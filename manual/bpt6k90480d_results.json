@@ -1,64 +1,58 @@
 {
-    "metadata": {
-        "title": "CHIMIE INORGANIQUE",
-        "title_complement": "à l'usage des Universités",
-        "volume_number": "",
-        "authors": "A. F. HOLLEMAN",
-        "publisher": "L. Geisler",
-        "publication_place": "PARIS",
-        "date": "1912",
-        "identifier": "http://gallica.bnf.fr/ark:/12148/bpt6k90480d",
-        "iiif_manifest": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k90480d/manifest.json"
+  "metadata": {
+    "title": "CHIMIE INORGANIQUE",
+    "title_complement": "à l'usage des Universités",
+    "volume_number": "",
+    "authors": "A. F. HOLLEMAN",
+    "publisher": "L. Geisler",
+    "publication_place": "PARIS",
+    "date": "1912",
+    "identifier": "http://gallica.bnf.fr/ark:/12148/bpt6k90480d",
+    "iiif_manifest": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k90480d/manifest.json"
+  },
+  "ark": "bpt6k90480d",
+  "typographie": {
+    "category": "Serif/Roman",
+    "subtype": "Didone (Modern)"
+  },
+  "_annotations": {
+    "metadata.title": {
+      "readability": "Not readable",
+      "cause": "covered"
     },
-    "langue": "fr (French)",
-    "ark": "bpt6k90480d",
-    "typographie_suggestion": {
-        "category": "Serif/Roman",
-        "subtype": "Didone (Modern)",
-        "explanation": "The text features the high contrast between thick and thin strokes, vertical stress, and unbracketed, hairline serifs characteristic of the Didone style (similar to Bodoni or Didot), which was the standard for formal academic and scientific publishing in France during the early 20th century.",
-        "raw": "Category: Serif/Roman\nSubtype: Didone (Modern)\nExplanation: The text features the high contrast between thick and thin strokes, vertical stress, and unbracketed, hairline serifs characteristic of the Didone style (similar to Bodoni or Didot), which was the standard for formal academic and scientific publishing in France during the early 20th century."
+    "metadata.title_complement": {
+      "readability": "Readable"
     },
-    "typographie": {
-        "category": "Serif/Roman",
-        "subtype": "Didone (Modern)"
+    "metadata.volume_number": {
+      "readability": "Not readable",
+      "cause": "absent"
     },
-    "_annotations": {
-        "metadata.title": {
-            "lisibilite": "Non lisible",
-            "cause": "recouvert"
-        },
-        "metadata.title_complement": {
-            "lisibilite": "Lisible"
-        },
-        "metadata.volume_number": {
-            "lisibilite": "Non lisible",
-            "cause": "absent"
-        },
-        "metadata.authors": {
-            "lisibilite": "Lisible",
-            "correction": "A. F. HOLLEMAN"
-        },
-        "metadata.publisher": {
-            "lisibilite": "Lisible",
-            "correction": "L. Geisler"
-        },
-        "metadata.publication_place": {
-            "lisibilite": "Lisible"
-        },
-        "metadata.date": {
-            "lisibilite": "Lisible"
-        },
-        "langue": {
-            "lisibilite": "Lisible"
-        },
-        "metadata.identifier": {
-            "lisibilite": "Lisible"
-        },
-        "metadata.iiif_manifest": {
-            "lisibilite": "Lisible"
-        },
-        "ark": {
-            "lisibilite": "Lisible"
-        }
+    "metadata.authors": {
+      "readability": "Readable",
+      "correction": "A. F. HOLLEMAN"
+    },
+    "metadata.publisher": {
+      "readability": "Readable",
+      "correction": "L. Geisler"
+    },
+    "metadata.publication_place": {
+      "readability": "Readable"
+    },
+    "metadata.date": {
+      "readability": "Readable"
+    },
+    "language": {
+      "readability": "Readable"
+    },
+    "metadata.identifier": {
+      "readability": "Readable"
+    },
+    "metadata.iiif_manifest": {
+      "readability": "Readable"
+    },
+    "ark": {
+      "readability": "Readable"
     }
+  },
+  "language": "fr (French)"
 }

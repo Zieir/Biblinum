@@ -1,65 +1,59 @@
 {
-    "metadata": {
-        "title": "TRAITÉ DE CHIMIE",
-        "title_complement": "APPLIQUÉE AUX ARTS",
-        "volume_number": "TOME CINQUIÈME",
-        "authors": "DUMAS",
-        "publisher": "Béchet jeune",
-        "publication_place": "PARIS",
-        "date": "1833",
-        "identifier": "http://gallica.bnf.fr/ark:/12148/bpt6k90625t",
-        "iiif_manifest": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k90625t/manifest.json"
+  "metadata": {
+    "title": "TRAITÉ DE CHIMIE",
+    "title_complement": "APPLIQUÉE AUX ARTS",
+    "volume_number": "TOME CINQUIÈME",
+    "authors": "DUMAS",
+    "publisher": "Béchet jeune",
+    "publication_place": "PARIS",
+    "date": "1833",
+    "identifier": "http://gallica.bnf.fr/ark:/12148/bpt6k90625t",
+    "iiif_manifest": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k90625t/manifest.json"
+  },
+  "ark": "bpt6k90625t",
+  "typographie": {
+    "category": "Serif/Roman",
+    "subtype": "Didone (Modern)"
+  },
+  "_annotations": {
+    "metadata.title": {
+      "readability": "Readable"
     },
-    "langue": "fr (French)",
-    "ark": "bpt6k90625t",
-    "typographie_suggestion": {
-        "category": "Serif/Roman",
-        "subtype": "Didone (Modern)",
-        "explanation": "The text exhibits the hallmarks of the \"Modern\" or Didone style popular in the early 19th century (consistent with the 1835 date). It features a high contrast between thick and thin strokes and horizontal, unbracketed serifs.",
-        "raw": "Category: Serif/Roman\nSubtype: Didone (Modern)\nExplanation: The text exhibits the hallmarks of the \"Modern\" or Didone style popular in the early 19th century (consistent with the 1835 date). It features a high contrast between thick and thin strokes and horizontal, unbracketed serifs."
+    "metadata.title_complement": {
+      "readability": "Readable"
     },
-    "typographie": {
-        "category": "Serif/Roman",
-        "subtype": "Didone (Modern)"
+    "metadata.volume_number": {
+      "readability": "Readable",
+      "correction": "TOME CINQUIÈME"
     },
-    "_annotations": {
-        "metadata.title": {
-            "lisibilite": "Lisible"
-        },
-        "metadata.title_complement": {
-            "lisibilite": "Lisible"
-        },
-        "metadata.volume_number": {
-            "lisibilite": "Lisible",
-            "correction": "TOME CINQUIÈME"
-        },
-        "metadata.authors": {
-            "lisibilite": "Lisible",
-            "correction": "DUMAS"
-        },
-        "metadata.publisher": {
-            "lisibilite": "Lisible",
-            "correction": "Béchet jeune"
-        },
-        "metadata.publication_place": {
-            "lisibilite": "Lisible",
-            "correction": "PARIS"
-        },
-        "metadata.date": {
-            "lisibilite": "Lisible",
-            "correction": "1833"
-        },
-        "langue": {
-            "lisibilite": "Lisible"
-        },
-        "metadata.identifier": {
-            "lisibilite": "Lisible"
-        },
-        "metadata.iiif_manifest": {
-            "lisibilite": "Lisible"
-        },
-        "ark": {
-            "lisibilite": "Lisible"
-        }
+    "metadata.authors": {
+      "readability": "Readable",
+      "correction": "DUMAS"
+    },
+    "metadata.publisher": {
+      "readability": "Readable",
+      "correction": "Béchet jeune"
+    },
+    "metadata.publication_place": {
+      "readability": "Readable",
+      "correction": "PARIS"
+    },
+    "metadata.date": {
+      "readability": "Readable",
+      "correction": "1833"
+    },
+    "language": {
+      "readability": "Readable"
+    },
+    "metadata.identifier": {
+      "readability": "Readable"
+    },
+    "metadata.iiif_manifest": {
+      "readability": "Readable"
+    },
+    "ark": {
+      "readability": "Readable"
     }
+  },
+  "language": "fr (French)"
 }

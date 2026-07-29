@@ -1,64 +1,58 @@
 {
-    "metadata": {
-        "title": "TRAITÉ PRATIQUE D'ANALYSE CHIMIQUE",
-        "title_complement": "",
-        "volume_number": "TOME PREMIER",
-        "authors": "Henri ROSE",
-        "publisher": "J.-B. BAILLIÈRE; H. BAILLIÈRE",
-        "publication_place": "PARIS; LONDRES",
-        "date": "1843",
-        "identifier": "http://gallica.bnf.fr/ark:/12148/bpt6k90074c",
-        "iiif_manifest": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k90074c/manifest.json"
+  "metadata": {
+    "title": "TRAITÉ PRATIQUE D'ANALYSE CHIMIQUE",
+    "title_complement": "",
+    "volume_number": "TOME PREMIER",
+    "authors": "Henri ROSE",
+    "publisher": "J.-B. BAILLIÈRE; H. BAILLIÈRE",
+    "publication_place": "PARIS; LONDRES",
+    "date": "1843",
+    "identifier": "http://gallica.bnf.fr/ark:/12148/bpt6k90074c",
+    "iiif_manifest": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k90074c/manifest.json"
+  },
+  "ark": "bpt6k90074c",
+  "typographie": {
+    "category": "Serif/Roman",
+    "subtype": "Didone (Modern)"
+  },
+  "_annotations": {
+    "metadata.title": {
+      "readability": "Readable"
     },
-    "langue": "fr (French)",
-    "ark": "bpt6k90074c",
-    "typographie_suggestion": {
-        "category": "Serif/Roman",
-        "subtype": "Didone (Modern)",
-        "explanation": "The typeface features the high contrast between thick and thin strokes, vertical stress, and thin, horizontal serifs characteristic of the \"Modern\" or Didone style (popularized by Didot and Bodoni), which was the standard for formal academic and scientific printing in France during the mid-19th century.",
-        "raw": "Category: Serif/Roman\nSubtype: Didone (Modern)\nExplanation: The typeface features the high contrast between thick and thin strokes, vertical stress, and thin, horizontal serifs characteristic of the \"Modern\" or Didone style (popularized by Didot and Bodoni), which was the standard for formal academic and scientific printing in France during the mid-19th century."
+    "metadata.title_complement": {
+      "readability": "Not readable",
+      "cause": "absent"
     },
-    "typographie": {
-        "category": "Serif/Roman",
-        "subtype": "Didone (Modern)"
+    "metadata.volume_number": {
+      "readability": "Readable"
     },
-    "_annotations": {
-        "metadata.title": {
-            "lisibilite": "Lisible"
-        },
-        "metadata.title_complement": {
-            "lisibilite": "Non lisible",
-            "cause": "absent"
-        },
-        "metadata.volume_number": {
-            "lisibilite": "Lisible"
-        },
-        "metadata.authors": {
-            "lisibilite": "Lisible",
-            "correction": "Henri ROSE"
-        },
-        "metadata.publisher": {
-            "lisibilite": "Lisible",
-            "correction": "J.-B. BAILLIÈRE; H. BAILLIÈRE"
-        },
-        "metadata.publication_place": {
-            "lisibilite": "Lisible",
-            "correction": "PARIS; LONDRES"
-        },
-        "metadata.date": {
-            "lisibilite": "Lisible"
-        },
-        "langue": {
-            "lisibilite": "Lisible"
-        },
-        "metadata.identifier": {
-            "lisibilite": "Lisible"
-        },
-        "metadata.iiif_manifest": {
-            "lisibilite": "Lisible"
-        },
-        "ark": {
-            "lisibilite": "Lisible"
-        }
+    "metadata.authors": {
+      "readability": "Readable",
+      "correction": "Henri ROSE"
+    },
+    "metadata.publisher": {
+      "readability": "Readable",
+      "correction": "J.-B. BAILLIÈRE; H. BAILLIÈRE"
+    },
+    "metadata.publication_place": {
+      "readability": "Readable",
+      "correction": "PARIS; LONDRES"
+    },
+    "metadata.date": {
+      "readability": "Readable"
+    },
+    "language": {
+      "readability": "Readable"
+    },
+    "metadata.identifier": {
+      "readability": "Readable"
+    },
+    "metadata.iiif_manifest": {
+      "readability": "Readable"
+    },
+    "ark": {
+      "readability": "Readable"
     }
+  },
+  "language": "fr (French)"
 }

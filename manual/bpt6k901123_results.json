@@ -1,64 +1,58 @@
 {
-    "metadata": {
-        "title": "BREV",
-        "title_complement": "BREVVÄXLING MELLAN BERZELIUS OCH C. F. RAMMELSBERG (1838—1847)",
-        "volume_number": "XII",
-        "authors": "Berzelius, Jac.",
-        "publisher": "KUNGL. SVENSKA VETENSKAPSAKADEMIEN",
-        "publication_place": "",
-        "date": "",
-        "identifier": "http://gallica.bnf.fr/ark:/12148/bpt6k901123",
-        "iiif_manifest": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k901123/manifest.json"
+  "metadata": {
+    "title": "BREV",
+    "title_complement": "BREVVÄXLING MELLAN BERZELIUS OCH C. F. RAMMELSBERG (1838—1847)",
+    "volume_number": "XII",
+    "authors": "Berzelius, Jac.",
+    "publisher": "KUNGL. SVENSKA VETENSKAPSAKADEMIEN",
+    "publication_place": "",
+    "date": "",
+    "identifier": "http://gallica.bnf.fr/ark:/12148/bpt6k901123",
+    "iiif_manifest": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k901123/manifest.json"
+  },
+  "ark": "bpt6k901123",
+  "typographie": {
+    "category": "Serif/Roman",
+    "subtype": "Modern / Didone"
+  },
+  "_annotations": {
+    "metadata.title": {
+      "readability": "Readable",
+      "correction": "BREV"
     },
-    "langue": "sv (Swedish)",
-    "ark": "bpt6k901123",
-    "typographie_suggestion": {
-        "category": "Serif/Roman",
-        "subtype": "Modern / Didone",
-        "explanation": "The typeface features a high contrast between thick and thin strokes, vertical stress, and small, horizontal serifs, which are characteristic of the Modern/Didone style popular in 19th-century academic printing.",
-        "raw": "Category: Serif/Roman\nSubtype: Modern / Didone\nExplanation: The typeface features a high contrast between thick and thin strokes, vertical stress, and small, horizontal serifs, which are characteristic of the Modern/Didone style popular in 19th-century academic printing."
+    "metadata.title_complement": {
+      "readability": "Readable"
     },
-    "typographie": {
-        "category": "Serif/Roman",
-        "subtype": "Modern / Didone"
+    "metadata.volume_number": {
+      "readability": "Readable"
     },
-    "_annotations": {
-        "metadata.title": {
-            "lisibilite": "Lisible",
-            "correction": "BREV"
-        },
-        "metadata.title_complement": {
-            "lisibilite": "Lisible"
-        },
-        "metadata.volume_number": {
-            "lisibilite": "Lisible"
-        },
-        "metadata.authors": {
-            "lisibilite": "Lisible",
-            "correction": "Berzelius, Jac."
-        },
-        "metadata.publisher": {
-            "lisibilite": "Lisible"
-        },
-        "metadata.publication_place": {
-            "lisibilite": "Non lisible",
-            "cause": "absent"
-        },
-        "metadata.date": {
-            "lisibilite": "Non lisible",
-            "cause": "absent"
-        },
-        "langue": {
-            "lisibilite": "Lisible"
-        },
-        "metadata.identifier": {
-            "lisibilite": "Lisible"
-        },
-        "metadata.iiif_manifest": {
-            "lisibilite": "Lisible"
-        },
-        "ark": {
-            "lisibilite": "Lisible"
-        }
+    "metadata.authors": {
+      "readability": "Readable",
+      "correction": "Berzelius, Jac."
+    },
+    "metadata.publisher": {
+      "readability": "Readable"
+    },
+    "metadata.publication_place": {
+      "readability": "Not readable",
+      "cause": "absent"
+    },
+    "metadata.date": {
+      "readability": "Not readable",
+      "cause": "absent"
+    },
+    "language": {
+      "readability": "Readable"
+    },
+    "metadata.identifier": {
+      "readability": "Readable"
+    },
+    "metadata.iiif_manifest": {
+      "readability": "Readable"
+    },
+    "ark": {
+      "readability": "Readable"
     }
+  },
+  "language": "sv (Swedish)"
 }

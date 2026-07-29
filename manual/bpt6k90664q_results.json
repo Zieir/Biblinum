@@ -1,63 +1,57 @@
 {
-    "metadata": {
-        "title": "Geschichte Der Chemie",
-        "title_complement": "",
-        "volume_number": "Dritter Theil",
-        "authors": "Hermann Kopp",
-        "publisher": "Friedrich Vieweg und Sohn",
-        "publication_place": "Braunschweig",
-        "date": "1845",
-        "identifier": "http://gallica.bnf.fr/ark:/12148/bpt6k90664q",
-        "iiif_manifest": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k90664q/manifest.json"
+  "metadata": {
+    "title": "Geschichte Der Chemie",
+    "title_complement": "",
+    "volume_number": "Dritter Theil",
+    "authors": "Hermann Kopp",
+    "publisher": "Friedrich Vieweg und Sohn",
+    "publication_place": "Braunschweig",
+    "date": "1845",
+    "identifier": "http://gallica.bnf.fr/ark:/12148/bpt6k90664q",
+    "iiif_manifest": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k90664q/manifest.json"
+  },
+  "ark": "bpt6k90664q",
+  "typographie": {
+    "category": "Blackletter",
+    "subtype": "Fraktur"
+  },
+  "_annotations": {
+    "metadata.title": {
+      "readability": "Not readable",
+      "cause": "covered"
     },
-    "langue": "de (German)",
-    "ark": "bpt6k90664q",
-    "typographie_suggestion": {
-        "category": "Blackletter",
-        "subtype": "Fraktur",
-        "explanation": "The text features the characteristic broken, angular strokes and decorative flourishes typical of German blackletter. Specifically, the \"broken\" curves and the specific forms of the capital letters (such as the 'G' in Geschichte) identify it as Fraktur, which was the standard typeface for German printing during the 19th century.",
-        "raw": "Category: Blackletter\nSubtype: Fraktur\nExplanation: The text features the characteristic broken, angular strokes and decorative flourishes typical of German blackletter. Specifically, the \"broken\" curves and the specific forms of the capital letters (such as the 'G' in Geschichte) identify it as Fraktur, which was the standard typeface for German printing during the 19th century."
+    "metadata.title_complement": {
+      "readability": "Not readable",
+      "cause": "absent"
     },
-    "typographie": {
-        "category": "Blackletter",
-        "subtype": "Fraktur"
+    "metadata.volume_number": {
+      "readability": "Readable"
     },
-    "_annotations": {
-        "metadata.title": {
-            "lisibilite": "Non lisible",
-            "cause": "recouvert"
-        },
-        "metadata.title_complement": {
-            "lisibilite": "Non lisible",
-            "cause": "absent"
-        },
-        "metadata.volume_number": {
-            "lisibilite": "Lisible"
-        },
-        "metadata.authors": {
-            "lisibilite": "Lisible"
-        },
-        "metadata.publisher": {
-            "lisibilite": "Lisible",
-            "correction": "Friedrich Vieweg und Sohn"
-        },
-        "metadata.publication_place": {
-            "lisibilite": "Lisible"
-        },
-        "metadata.date": {
-            "lisibilite": "Lisible"
-        },
-        "langue": {
-            "lisibilite": "Lisible"
-        },
-        "metadata.identifier": {
-            "lisibilite": "Lisible"
-        },
-        "metadata.iiif_manifest": {
-            "lisibilite": "Lisible"
-        },
-        "ark": {
-            "lisibilite": "Lisible"
-        }
+    "metadata.authors": {
+      "readability": "Readable"
+    },
+    "metadata.publisher": {
+      "readability": "Readable",
+      "correction": "Friedrich Vieweg und Sohn"
+    },
+    "metadata.publication_place": {
+      "readability": "Readable"
+    },
+    "metadata.date": {
+      "readability": "Readable"
+    },
+    "language": {
+      "readability": "Readable"
+    },
+    "metadata.identifier": {
+      "readability": "Readable"
+    },
+    "metadata.iiif_manifest": {
+      "readability": "Readable"
+    },
+    "ark": {
+      "readability": "Readable"
     }
+  },
+  "language": "de (German)"
 }

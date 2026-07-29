@@ -1,68 +1,62 @@
 {
-    "metadata": {
-        "title": "C. G. J. JACOBI'S VORLESUNGEN UBER DYNAMIK",
-        "title_complement": "GEHALTEN AN DER UNIVERSITÄT ZU KÖNIGSBERG IN WINTERSEMESTER 1842-1843 UND NACH EINEM VON C. W. BORCHARDT AUSGEARBEITETEN HEFTE HERAUSGEGEBEN VON A. CLEBSCH",
-        "volume_number": "",
-        "authors": "C. G. J. JACOBI",
-        "publisher": "G. REIMER",
-        "publication_place": "BERLIN",
-        "date": "1884",
-        "identifier": "http://gallica.bnf.fr/ark:/12148/bpt6k902111",
-        "iiif_manifest": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k902111/manifest.json"
+  "metadata": {
+    "title": "C. G. J. JACOBI'S VORLESUNGEN UBER DYNAMIK",
+    "title_complement": "GEHALTEN AN DER UNIVERSITÄT ZU KÖNIGSBERG IN WINTERSEMESTER 1842-1843 UND NACH EINEM VON C. W. BORCHARDT AUSGEARBEITETEN HEFTE HERAUSGEGEBEN VON A. CLEBSCH",
+    "volume_number": "",
+    "authors": "C. G. J. JACOBI",
+    "publisher": "G. REIMER",
+    "publication_place": "BERLIN",
+    "date": "1884",
+    "identifier": "http://gallica.bnf.fr/ark:/12148/bpt6k902111",
+    "iiif_manifest": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k902111/manifest.json"
+  },
+  "ark": "bpt6k902111",
+  "typographie": {
+    "category": "Serif/Roman",
+    "subtype": "Slab Serif"
+  },
+  "_annotations": {
+    "metadata.title": {
+      "readability": "Readable",
+      "correction": "C. G. J. JACOBI'S VORLESUNGEN UBER DYNAMIK"
     },
-    "langue": "de (German)",
-    "ark": "bpt6k902111",
-    "typographie_suggestion": {
-        "category": "Serif/Roman",
-        "subtype": "Slab Serif",
-        "explanation": "The typeface features thick, block-like serifs with little to no bracketing between the serif and the stem, characteristic of the Slab Serif (or Egyptian) style.",
-        "raw": "Category: Serif/Roman\nSubtype: Slab Serif\nExplanation: The typeface features thick, block-like serifs with little to no bracketing between the serif and the stem, characteristic of the Slab Serif (or Egyptian) style."
+    "metadata.title_complement": {
+      "readability": "Readable",
+      "correction": "GEHALTEN AN DER UNIVERSITÄT ZU KÖNIGSBERG IN WINTERSEMESTER 1842-1843 UND NACH EINEM VON C. W. BORCHARDT AUSGEARBEITETEN HEFTE HERAUSGEGEBEN VON A. CLEBSCH"
     },
-    "typographie": {
-        "category": "Serif/Roman",
-        "subtype": "Slab Serif"
+    "metadata.volume_number": {
+      "readability": "Not readable",
+      "cause": "absent"
     },
-    "_annotations": {
-        "metadata.title": {
-            "lisibilite": "Lisible",
-            "correction": "C. G. J. JACOBI'S VORLESUNGEN UBER DYNAMIK"
-        },
-        "metadata.title_complement": {
-            "lisibilite": "Lisible",
-            "correction": "GEHALTEN AN DER UNIVERSITÄT ZU KÖNIGSBERG IN WINTERSEMESTER 1842-1843 UND NACH EINEM VON C. W. BORCHARDT AUSGEARBEITETEN HEFTE HERAUSGEGEBEN VON A. CLEBSCH"
-        },
-        "metadata.volume_number": {
-            "lisibilite": "Non lisible",
-            "cause": "absent"
-        },
-        "metadata.authors": {
-            "lisibilite": "Lisible",
-            "correction": "C. G. J. JACOBI"
-        },
-        "metadata.publisher": {
-            "lisibilite": "Lisible",
-            "correction": "G. REIMER"
-        },
-        "metadata.publication_place": {
-            "lisibilite": "Lisible",
-            "correction": "BERLIN"
-        },
-        "metadata.date": {
-            "lisibilite": "Lisible",
-            "correction": "1884"
-        },
-        "langue": {
-            "lisibilite": "Lisible",
-            "correction": "de (German)"
-        },
-        "metadata.identifier": {
-            "lisibilite": "Lisible"
-        },
-        "metadata.iiif_manifest": {
-            "lisibilite": "Lisible"
-        },
-        "ark": {
-            "lisibilite": "Lisible"
-        }
+    "metadata.authors": {
+      "readability": "Readable",
+      "correction": "C. G. J. JACOBI"
+    },
+    "metadata.publisher": {
+      "readability": "Readable",
+      "correction": "G. REIMER"
+    },
+    "metadata.publication_place": {
+      "readability": "Readable",
+      "correction": "BERLIN"
+    },
+    "metadata.date": {
+      "readability": "Readable",
+      "correction": "1884"
+    },
+    "language": {
+      "readability": "Readable",
+      "correction": "de (German)"
+    },
+    "metadata.identifier": {
+      "readability": "Readable"
+    },
+    "metadata.iiif_manifest": {
+      "readability": "Readable"
+    },
+    "ark": {
+      "readability": "Readable"
     }
+  },
+  "language": "de (German)"
 }

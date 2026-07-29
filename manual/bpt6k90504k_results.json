@@ -1,61 +1,55 @@
 {
-    "metadata": {
-        "title": "Lehrbuch der Organischen Chemie",
-        "title_complement": "oder der Chemie der Kohlenstoffverbindungen",
-        "volume_number": "Erster Band",
-        "authors": "Aug. Kekulé",
-        "publisher": "Ferdinand Enke",
-        "publication_place": "Erlangen",
-        "date": "1867",
-        "identifier": "http://gallica.bnf.fr/ark:/12148/bpt6k90504k",
-        "iiif_manifest": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k90504k/manifest.json"
+  "metadata": {
+    "title": "Lehrbuch der Organischen Chemie",
+    "title_complement": "oder der Chemie der Kohlenstoffverbindungen",
+    "volume_number": "Erster Band",
+    "authors": "Aug. Kekulé",
+    "publisher": "Ferdinand Enke",
+    "publication_place": "Erlangen",
+    "date": "1867",
+    "identifier": "http://gallica.bnf.fr/ark:/12148/bpt6k90504k",
+    "iiif_manifest": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k90504k/manifest.json"
+  },
+  "ark": "bpt6k90504k",
+  "typographie": {
+    "category": "Serif/Roman",
+    "subtype": "Modern (Didone)"
+  },
+  "_annotations": {
+    "metadata.title": {
+      "readability": "Readable"
     },
-    "langue": "de (German)",
-    "ark": "bpt6k90504k",
-    "typographie_suggestion": {
-        "category": "Serif/Roman",
-        "subtype": "Modern (Didone)",
-        "explanation": "The typeface features a high contrast between thick and thin strokes, vertical stress, and small, horizontal serifs, which are characteristic of the Modern/Didone style prevalent in 19th-century academic printing.",
-        "raw": "Category: Serif/Roman\nSubtype: Modern (Didone)\nExplanation: The typeface features a high contrast between thick and thin strokes, vertical stress, and small, horizontal serifs, which are characteristic of the Modern/Didone style prevalent in 19th-century academic printing."
+    "metadata.title_complement": {
+      "readability": "Readable",
+      "correction": "oder der Chemie der Kohlenstoffverbindungen"
     },
-    "typographie": {
-        "category": "Serif/Roman",
-        "subtype": "Modern (Didone)"
+    "metadata.volume_number": {
+      "readability": "Readable"
     },
-    "_annotations": {
-        "metadata.title": {
-            "lisibilite": "Lisible"
-        },
-        "metadata.title_complement": {
-            "lisibilite": "Lisible",
-            "correction": "oder der Chemie der Kohlenstoffverbindungen"
-        },
-        "metadata.volume_number": {
-            "lisibilite": "Lisible"
-        },
-        "metadata.authors": {
-            "lisibilite": "Lisible"
-        },
-        "metadata.publisher": {
-            "lisibilite": "Lisible"
-        },
-        "metadata.publication_place": {
-            "lisibilite": "Lisible"
-        },
-        "metadata.date": {
-            "lisibilite": "Lisible"
-        },
-        "langue": {
-            "lisibilite": "Lisible"
-        },
-        "metadata.identifier": {
-            "lisibilite": "Lisible"
-        },
-        "metadata.iiif_manifest": {
-            "lisibilite": "Lisible"
-        },
-        "ark": {
-            "lisibilite": "Lisible"
-        }
+    "metadata.authors": {
+      "readability": "Readable"
+    },
+    "metadata.publisher": {
+      "readability": "Readable"
+    },
+    "metadata.publication_place": {
+      "readability": "Readable"
+    },
+    "metadata.date": {
+      "readability": "Readable"
+    },
+    "language": {
+      "readability": "Readable"
+    },
+    "metadata.identifier": {
+      "readability": "Readable"
+    },
+    "metadata.iiif_manifest": {
+      "readability": "Readable"
+    },
+    "ark": {
+      "readability": "Readable"
     }
+  },
+  "language": "de (German)"
 }

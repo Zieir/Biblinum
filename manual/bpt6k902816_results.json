@@ -1,67 +1,61 @@
 {
-    "metadata": {
-        "title": "LES MÉTAUX SONT DES CORPS COMPOSÉS",
-        "title_complement": "mémoires présentés à l'Académie des sciences",
-        "volume_number": "",
-        "authors": "C.-Théodore Tiffereau; FRANCK",
-        "publisher": "Alfred Choisnet",
-        "publication_place": "VAUGIRARD",
-        "date": "1857",
-        "identifier": "http://gallica.bnf.fr/ark:/12148/bpt6k902816",
-        "iiif_manifest": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k902816/manifest.json"
+  "metadata": {
+    "title": "LES MÉTAUX SONT DES CORPS COMPOSÉS",
+    "title_complement": "mémoires présentés à l'Académie des sciences",
+    "volume_number": "",
+    "authors": "C.-Théodore Tiffereau; FRANCK",
+    "publisher": "Alfred Choisnet",
+    "publication_place": "VAUGIRARD",
+    "date": "1857",
+    "identifier": "http://gallica.bnf.fr/ark:/12148/bpt6k902816",
+    "iiif_manifest": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k902816/manifest.json"
+  },
+  "ark": "bpt6k902816",
+  "typographie": {
+    "category": "Serif/Roman",
+    "subtype": "Didone (Modern)"
+  },
+  "_annotations": {
+    "metadata.title": {
+      "readability": "Readable",
+      "correction": "LES MÉTAUX SONT DES CORPS COMPOSÉS"
     },
-    "langue": "fr (French)",
-    "ark": "bpt6k902816",
-    "typographie_suggestion": {
-        "category": "Serif/Roman",
-        "subtype": "Didone (Modern)",
-        "explanation": "The typeface features the high contrast between thick and thin strokes, vertical stress, and small, horizontal serifs characteristic of the \"Modern\" or Didone style (similar to Bodoni or Didot), which was prevalent in 19th-century academic and formal printing.",
-        "raw": "Category: Serif/Roman\nSubtype: Didone (Modern)\nExplanation: The typeface features the high contrast between thick and thin strokes, vertical stress, and small, horizontal serifs characteristic of the \"Modern\" or Didone style (similar to Bodoni or Didot), which was prevalent in 19th-century academic and formal printing."
+    "metadata.title_complement": {
+      "readability": "Readable",
+      "correction": "mémoires présentés à l'Académie des sciences"
     },
-    "typographie": {
-        "category": "Serif/Roman",
-        "subtype": "Didone (Modern)"
+    "metadata.volume_number": {
+      "readability": "Not readable",
+      "cause": "absent"
     },
-    "_annotations": {
-        "metadata.title": {
-            "lisibilite": "Lisible",
-            "correction": "LES MÉTAUX SONT DES CORPS COMPOSÉS"
-        },
-        "metadata.title_complement": {
-            "lisibilite": "Lisible",
-            "correction": "mémoires présentés à l'Académie des sciences"
-        },
-        "metadata.volume_number": {
-            "lisibilite": "Non lisible",
-            "cause": "absent"
-        },
-        "metadata.authors": {
-            "lisibilite": "Lisible",
-            "correction": "C.-Théodore Tiffereau; FRANCK"
-        },
-        "metadata.publisher": {
-            "lisibilite": "Lisible",
-            "correction": "Alfred Choisnet"
-        },
-        "metadata.publication_place": {
-            "lisibilite": "Non lisible",
-            "cause": "qualite",
-            "correction": "VAUGIRARD"
-        },
-        "metadata.date": {
-            "lisibilite": "Lisible"
-        },
-        "langue": {
-            "lisibilite": "Lisible"
-        },
-        "metadata.identifier": {
-            "lisibilite": "Lisible"
-        },
-        "metadata.iiif_manifest": {
-            "lisibilite": "Lisible"
-        },
-        "ark": {
-            "lisibilite": "Lisible"
-        }
+    "metadata.authors": {
+      "readability": "Readable",
+      "correction": "C.-Théodore Tiffereau; FRANCK"
+    },
+    "metadata.publisher": {
+      "readability": "Readable",
+      "correction": "Alfred Choisnet"
+    },
+    "metadata.publication_place": {
+      "readability": "Not readable",
+      "cause": "quality",
+      "correction": "VAUGIRARD"
+    },
+    "metadata.date": {
+      "readability": "Readable"
+    },
+    "language": {
+      "readability": "Readable"
+    },
+    "metadata.identifier": {
+      "readability": "Readable"
+    },
+    "metadata.iiif_manifest": {
+      "readability": "Readable"
+    },
+    "ark": {
+      "readability": "Readable"
     }
+  },
+  "language": "fr (French)"
 }

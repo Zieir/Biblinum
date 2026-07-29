@@ -1,61 +1,55 @@
 {
-    "metadata": {
-        "title": "AUS DER MOLECULAR-WELT",
-        "title_complement": "EINE GRATULATIONS-SCHRIFT AN ROBERT BUNSEN",
-        "volume_number": "",
-        "authors": "HERMANN KOPP, ",
-        "publisher": "CARL WINTERS UNIVERSITÄTSBUCHHANDLUNG",
-        "publication_place": "HEIDELBERG",
-        "date": "1886",
-        "identifier": "http://gallica.bnf.fr/ark:/12148/bpt6k91778x",
-        "iiif_manifest": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k91778x/manifest.json"
+  "metadata": {
+    "title": "AUS DER MOLECULAR-WELT",
+    "title_complement": "EINE GRATULATIONS-SCHRIFT AN ROBERT BUNSEN",
+    "volume_number": "",
+    "authors": "HERMANN KOPP, ",
+    "publisher": "CARL WINTERS UNIVERSITÄTSBUCHHANDLUNG",
+    "publication_place": "HEIDELBERG",
+    "date": "1886",
+    "identifier": "http://gallica.bnf.fr/ark:/12148/bpt6k91778x",
+    "iiif_manifest": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k91778x/manifest.json"
+  },
+  "ark": "bpt6k91778x",
+  "typographie": {
+    "category": "Serif/Roman",
+    "subtype": "Didone (Modern)"
+  },
+  "_annotations": {
+    "metadata.title": {
+      "readability": "Readable"
     },
-    "langue": "de (German)",
-    "ark": "bpt6k91778x",
-    "typographie_suggestion": {
-        "category": "Serif/Roman",
-        "subtype": "Didone (Modern)",
-        "explanation": "The main title \"MOLECULAR-WELT\" features the high contrast between thick and thin strokes and vertical stress characteristic of the Didone style, which was prevalent in academic and formal printing during the 19th century.",
-        "raw": "Category: Serif/Roman\nSubtype: Didone (Modern)\nExplanation: The main title \"MOLECULAR-WELT\" features the high contrast between thick and thin strokes and vertical stress characteristic of the Didone style, which was prevalent in academic and formal printing during the 19th century."
+    "metadata.title_complement": {
+      "readability": "Not readable",
+      "cause": "quality"
     },
-    "typographie": {
-        "category": "Serif/Roman",
-        "subtype": "Didone (Modern)"
+    "metadata.volume_number": {
+      "readability": "Readable"
     },
-    "_annotations": {
-        "metadata.title": {
-            "lisibilite": "Lisible"
-        },
-        "metadata.title_complement": {
-            "lisibilite": "Non lisible",
-            "cause": "qualite"
-        },
-        "metadata.volume_number": {
-            "lisibilite": "Lisible"
-        },
-        "metadata.authors": {
-            "lisibilite": "Lisible"
-        },
-        "metadata.publisher": {
-            "lisibilite": "Lisible"
-        },
-        "metadata.publication_place": {
-            "lisibilite": "Lisible"
-        },
-        "metadata.date": {
-            "lisibilite": "Lisible"
-        },
-        "langue": {
-            "lisibilite": "Lisible"
-        },
-        "metadata.identifier": {
-            "lisibilite": "Lisible"
-        },
-        "metadata.iiif_manifest": {
-            "lisibilite": "Lisible"
-        },
-        "ark": {
-            "lisibilite": "Lisible"
-        }
+    "metadata.authors": {
+      "readability": "Readable"
+    },
+    "metadata.publisher": {
+      "readability": "Readable"
+    },
+    "metadata.publication_place": {
+      "readability": "Readable"
+    },
+    "metadata.date": {
+      "readability": "Readable"
+    },
+    "language": {
+      "readability": "Readable"
+    },
+    "metadata.identifier": {
+      "readability": "Readable"
+    },
+    "metadata.iiif_manifest": {
+      "readability": "Readable"
+    },
+    "ark": {
+      "readability": "Readable"
     }
+  },
+  "language": "de (German)"
 }

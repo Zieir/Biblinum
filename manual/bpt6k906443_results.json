@@ -1,63 +1,57 @@
 {
-    "metadata": {
-        "title": "COURS DE CHIMIE",
-        "title_complement": "CHIMIE MINÉRALE",
-        "volume_number": "TOME PREMIER",
-        "authors": "ARMAND GAUTIER",
-        "publisher": "LIBRAIRIE F. SAVY",
-        "publication_place": "PARIS",
-        "date": "1887",
-        "identifier": "http://gallica.bnf.fr/ark:/12148/bpt6k906443",
-        "iiif_manifest": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k906443/manifest.json"
+  "metadata": {
+    "title": "COURS DE CHIMIE",
+    "title_complement": "CHIMIE MINÉRALE",
+    "volume_number": "TOME PREMIER",
+    "authors": "ARMAND GAUTIER",
+    "publisher": "LIBRAIRIE F. SAVY",
+    "publication_place": "PARIS",
+    "date": "1887",
+    "identifier": "http://gallica.bnf.fr/ark:/12148/bpt6k906443",
+    "iiif_manifest": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k906443/manifest.json"
+  },
+  "ark": "bpt6k906443",
+  "typographie": {
+    "category": "Serif/Roman",
+    "subtype": "Didone (Modern)"
+  },
+  "_annotations": {
+    "metadata.title": {
+      "readability": "Readable"
     },
-    "langue": "fr (French)",
-    "ark": "bpt6k906443",
-    "typographie_suggestion": {
-        "category": "Serif/Roman",
-        "subtype": "Didone (Modern)",
-        "explanation": "The primary text (especially \"DE CHIMIE\") features the high contrast between thick and thin strokes, vertical stress, and unbracketed, hairline serifs characteristic of the Didone style popular in the 19th century.",
-        "raw": "Category: Serif/Roman\nSubtype: Didone (Modern)\nExplanation: The primary text (especially \"DE CHIMIE\") features the high contrast between thick and thin strokes, vertical stress, and unbracketed, hairline serifs characteristic of the Didone style popular in the 19th century."
+    "metadata.title_complement": {
+      "readability": "Readable"
     },
-    "typographie": {
-        "category": "Serif/Roman",
-        "subtype": "Didone (Modern)"
+    "metadata.volume_number": {
+      "readability": "Readable"
     },
-    "_annotations": {
-        "metadata.title": {
-            "lisibilite": "Lisible"
-        },
-        "metadata.title_complement": {
-            "lisibilite": "Lisible"
-        },
-        "metadata.volume_number": {
-            "lisibilite": "Lisible"
-        },
-        "metadata.authors": {
-            "lisibilite": "Lisible",
-            "correction": "ARMAND GAUTIER"
-        },
-        "metadata.publisher": {
-            "lisibilite": "Non lisible",
-            "cause": "recouvert",
-            "correction": "LIBRAIRIE F. SAVY"
-        },
-        "metadata.publication_place": {
-            "lisibilite": "Lisible"
-        },
-        "metadata.date": {
-            "lisibilite": "Lisible"
-        },
-        "langue": {
-            "lisibilite": "Lisible"
-        },
-        "metadata.identifier": {
-            "lisibilite": "Lisible"
-        },
-        "metadata.iiif_manifest": {
-            "lisibilite": "Lisible"
-        },
-        "ark": {
-            "lisibilite": "Lisible"
-        }
+    "metadata.authors": {
+      "readability": "Readable",
+      "correction": "ARMAND GAUTIER"
+    },
+    "metadata.publisher": {
+      "readability": "Not readable",
+      "cause": "covered",
+      "correction": "LIBRAIRIE F. SAVY"
+    },
+    "metadata.publication_place": {
+      "readability": "Readable"
+    },
+    "metadata.date": {
+      "readability": "Readable"
+    },
+    "language": {
+      "readability": "Readable"
+    },
+    "metadata.identifier": {
+      "readability": "Readable"
+    },
+    "metadata.iiif_manifest": {
+      "readability": "Readable"
+    },
+    "ark": {
+      "readability": "Readable"
     }
+  },
+  "language": "fr (French)"
 }

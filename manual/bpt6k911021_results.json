@@ -1,64 +1,58 @@
 {
-    "metadata": {
-        "title": "SUR LES RELATIONS D'ISOMORPHISME",
-        "title_complement": "QUI EXISTENT ENTRE LES MÉTAUX DU GROUPE DE L'AZOTE",
-        "volume_number": "",
-        "authors": "J. NICKLÈS",
-        "publisher": "Vve RAYBOIS, IMPRIMEUR DE L'ACADÉMIE DE STANISLAS",
-        "publication_place": "NANCY",
-        "date": "1862",
-        "identifier": "http://gallica.bnf.fr/ark:/12148/bpt6k911021",
-        "iiif_manifest": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k911021/manifest.json"
+  "metadata": {
+    "title": "SUR LES RELATIONS D'ISOMORPHISME",
+    "title_complement": "QUI EXISTENT ENTRE LES MÉTAUX DU GROUPE DE L'AZOTE",
+    "volume_number": "",
+    "authors": "J. NICKLÈS",
+    "publisher": "Vve RAYBOIS, IMPRIMEUR DE L'ACADÉMIE DE STANISLAS",
+    "publication_place": "NANCY",
+    "date": "1862",
+    "identifier": "http://gallica.bnf.fr/ark:/12148/bpt6k911021",
+    "iiif_manifest": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k911021/manifest.json"
+  },
+  "ark": "bpt6k911021",
+  "typographie": {
+    "category": "Serif/Roman",
+    "subtype": "Didone (Modern)"
+  },
+  "_annotations": {
+    "metadata.title": {
+      "readability": "Readable",
+      "correction": "SUR LES RELATIONS D'ISOMORPHISME"
     },
-    "langue": "fr (French)",
-    "ark": "bpt6k911021",
-    "typographie_suggestion": {
-        "category": "Serif/Roman",
-        "subtype": "Didone (Modern)",
-        "explanation": "The typeface features a strong contrast between thick and thin strokes, vertical stress, and thin, horizontal serifs, which are characteristic of the \"Modern\" or Didone style (similar to Bodoni or Didot) common in academic and formal printing of the 19th and early 20th centuries.",
-        "raw": "Category: Serif/Roman\nSubtype: Didone (Modern)\nExplanation: The typeface features a strong contrast between thick and thin strokes, vertical stress, and thin, horizontal serifs, which are characteristic of the \"Modern\" or Didone style (similar to Bodoni or Didot) common in academic and formal printing of the 19th and early 20th centuries."
+    "metadata.title_complement": {
+      "readability": "Readable"
     },
-    "typographie": {
-        "category": "Serif/Roman",
-        "subtype": "Didone (Modern)"
+    "metadata.volume_number": {
+      "readability": "Not readable",
+      "cause": "absent"
     },
-    "_annotations": {
-        "metadata.title": {
-            "lisibilite": "Lisible",
-            "correction": "SUR LES RELATIONS D'ISOMORPHISME"
-        },
-        "metadata.title_complement": {
-            "lisibilite": "Lisible"
-        },
-        "metadata.volume_number": {
-            "lisibilite": "Non lisible",
-            "cause": "absent"
-        },
-        "metadata.authors": {
-            "lisibilite": "Lisible",
-            "correction": "J. NICKLÈS"
-        },
-        "metadata.publisher": {
-            "lisibilite": "Lisible",
-            "correction": "Vve RAYBOIS, IMPRIMEUR DE L'ACADÉMIE DE STANISLAS"
-        },
-        "metadata.publication_place": {
-            "lisibilite": "Lisible"
-        },
-        "metadata.date": {
-            "lisibilite": "Lisible"
-        },
-        "langue": {
-            "lisibilite": "Lisible"
-        },
-        "metadata.identifier": {
-            "lisibilite": "Lisible"
-        },
-        "metadata.iiif_manifest": {
-            "lisibilite": "Lisible"
-        },
-        "ark": {
-            "lisibilite": "Lisible"
-        }
+    "metadata.authors": {
+      "readability": "Readable",
+      "correction": "J. NICKLÈS"
+    },
+    "metadata.publisher": {
+      "readability": "Readable",
+      "correction": "Vve RAYBOIS, IMPRIMEUR DE L'ACADÉMIE DE STANISLAS"
+    },
+    "metadata.publication_place": {
+      "readability": "Readable"
+    },
+    "metadata.date": {
+      "readability": "Readable"
+    },
+    "language": {
+      "readability": "Readable"
+    },
+    "metadata.identifier": {
+      "readability": "Readable"
+    },
+    "metadata.iiif_manifest": {
+      "readability": "Readable"
+    },
+    "ark": {
+      "readability": "Readable"
     }
+  },
+  "language": "fr (French)"
 }

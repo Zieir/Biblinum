@@ -1,64 +1,58 @@
 {
-    "metadata": {
-        "title": "Recherches sur la structure des corps cristallisés doués de pouvoir rotatoire. Recherches sur la composition et la forme de quelques nouveaux tartrates.",
-        "title_complement": "Thèses présentées à la faculté des sciences de l'université de Paris pour obtenir le grade de docteur ès  sciences physiques ",
-        "volume_number": "",
-        "authors": "G. WYROUBOFF",
-        "publisher": "GAUTHIER-VILLARS",
-        "publication_place": "Paris",
-        "date": "1886",
-        "identifier": "http://gallica.bnf.fr/ark:/12148/bpt6k91793t",
-        "iiif_manifest": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k91793t/manifest.json"
+  "metadata": {
+    "title": "Recherches sur la structure des corps cristallisés doués de pouvoir rotatoire. Recherches sur la composition et la forme de quelques nouveaux tartrates.",
+    "title_complement": "Thèses présentées à la faculté des sciences de l'université de Paris pour obtenir le grade de docteur ès  sciences physiques ",
+    "volume_number": "",
+    "authors": "G. WYROUBOFF",
+    "publisher": "GAUTHIER-VILLARS",
+    "publication_place": "Paris",
+    "date": "1886",
+    "identifier": "http://gallica.bnf.fr/ark:/12148/bpt6k91793t",
+    "iiif_manifest": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k91793t/manifest.json"
+  },
+  "ark": "bpt6k91793t",
+  "typographie": {
+    "category": "Serif/Roman",
+    "subtype": "Didone (Modern)"
+  },
+  "_annotations": {
+    "metadata.title": {
+      "readability": "Readable",
+      "correction": "Recherches sur la structure des corps cristallisés doués de pouvoir rotatoire. Recherches sur la composition et la forme de quelques nouveaux tartrates."
     },
-    "langue": "fr (French)",
-    "ark": "bpt6k91793t",
-    "typographie_suggestion": {
-        "category": "Serif/Roman",
-        "subtype": "Didone (Modern)",
-        "explanation": "The primary text features the high contrast between thick and thin strokes, vertical stress, and small, horizontal serifs characteristic of the Didone style (similar to Bodoni or Didot), which was the standard for official French academic and government printing in the 19th century.",
-        "raw": "Category: Serif/Roman\nSubtype: Didone (Modern)\nExplanation: The primary text features the high contrast between thick and thin strokes, vertical stress, and small, horizontal serifs characteristic of the Didone style (similar to Bodoni or Didot), which was the standard for official French academic and government printing in the 19th century."
+    "metadata.title_complement": {
+      "readability": "Readable",
+      "correction": "Thèses présentées à la faculté des sciences de l'université de Paris pour obtenir le grade de docteur ès  sciences physiques "
     },
-    "typographie": {
-        "category": "Serif/Roman",
-        "subtype": "Didone (Modern)"
+    "metadata.volume_number": {
+      "readability": "Not readable",
+      "cause": "absent"
     },
-    "_annotations": {
-        "metadata.title": {
-            "lisibilite": "Lisible",
-            "correction": "Recherches sur la structure des corps cristallisés doués de pouvoir rotatoire. Recherches sur la composition et la forme de quelques nouveaux tartrates."
-        },
-        "metadata.title_complement": {
-            "lisibilite": "Lisible",
-            "correction": "Thèses présentées à la faculté des sciences de l'université de Paris pour obtenir le grade de docteur ès  sciences physiques "
-        },
-        "metadata.volume_number": {
-            "lisibilite": "Non lisible",
-            "cause": "absent"
-        },
-        "metadata.authors": {
-            "lisibilite": "Lisible",
-            "correction": "G. WYROUBOFF"
-        },
-        "metadata.publisher": {
-            "lisibilite": "Lisible"
-        },
-        "metadata.publication_place": {
-            "lisibilite": "Lisible"
-        },
-        "metadata.date": {
-            "lisibilite": "Lisible"
-        },
-        "langue": {
-            "lisibilite": "Lisible"
-        },
-        "metadata.identifier": {
-            "lisibilite": "Lisible"
-        },
-        "metadata.iiif_manifest": {
-            "lisibilite": "Lisible"
-        },
-        "ark": {
-            "lisibilite": "Lisible"
-        }
+    "metadata.authors": {
+      "readability": "Readable",
+      "correction": "G. WYROUBOFF"
+    },
+    "metadata.publisher": {
+      "readability": "Readable"
+    },
+    "metadata.publication_place": {
+      "readability": "Readable"
+    },
+    "metadata.date": {
+      "readability": "Readable"
+    },
+    "language": {
+      "readability": "Readable"
+    },
+    "metadata.identifier": {
+      "readability": "Readable"
+    },
+    "metadata.iiif_manifest": {
+      "readability": "Readable"
+    },
+    "ark": {
+      "readability": "Readable"
     }
+  },
+  "language": "fr (French)"
 }

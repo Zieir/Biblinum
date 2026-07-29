@@ -1,62 +1,56 @@
 {
-    "metadata": {
-        "title": "ÉTUDE GÉNÉRALE DES SELS",
-        "title_complement": "SELS BINAIRES",
-        "volume_number": "PREMIÈRE PARTIE",
-        "authors": "ALFRED DITTE",
-        "publisher": "H. DUNOD ET E. PINAT, EDITEURS",
-        "publication_place": "PARIS",
-        "date": "1906",
-        "identifier": "http://gallica.bnf.fr/ark:/12148/bpt6k90615h",
-        "iiif_manifest": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k90615h/manifest.json"
+  "metadata": {
+    "title": "ÉTUDE GÉNÉRALE DES SELS",
+    "title_complement": "SELS BINAIRES",
+    "volume_number": "PREMIÈRE PARTIE",
+    "authors": "ALFRED DITTE",
+    "publisher": "H. DUNOD ET E. PINAT, EDITEURS",
+    "publication_place": "PARIS",
+    "date": "1906",
+    "identifier": "http://gallica.bnf.fr/ark:/12148/bpt6k90615h",
+    "iiif_manifest": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k90615h/manifest.json"
+  },
+  "ark": "bpt6k90615h",
+  "typographie": {
+    "category": "Serif/Roman",
+    "subtype": "Old Style / Transitional"
+  },
+  "_annotations": {
+    "metadata.title": {
+      "readability": "Readable"
     },
-    "langue": "fr (French)",
-    "ark": "bpt6k90615h",
-    "typographie_suggestion": {
-        "category": "Serif/Roman",
-        "subtype": "Old Style / Transitional",
-        "explanation": "The text features clear serifs (small strokes attached to the ends of larger strokes) with a moderate contrast between thick and thin lines. The proportions and structure are characteristic of classical academic printing from the early 20th century, typical of the \"Old Style\" or \"Transitional\" families used in formal publishing.",
-        "raw": "Category: Serif/Roman\nSubtype: Old Style / Transitional\nExplanation: The text features clear serifs (small strokes attached to the ends of larger strokes) with a moderate contrast between thick and thin lines. The proportions and structure are characteristic of classical academic printing from the early 20th century, typical of the \"Old Style\" or \"Transitional\" families used in formal publishing."
+    "metadata.title_complement": {
+      "readability": "Readable",
+      "correction": "SELS BINAIRES"
     },
-    "typographie": {
-        "category": "Serif/Roman",
-        "subtype": "Old Style / Transitional"
+    "metadata.volume_number": {
+      "readability": "Readable"
     },
-    "_annotations": {
-        "metadata.title": {
-            "lisibilite": "Lisible"
-        },
-        "metadata.title_complement": {
-            "lisibilite": "Lisible",
-            "correction": "SELS BINAIRES"
-        },
-        "metadata.volume_number": {
-            "lisibilite": "Lisible"
-        },
-        "metadata.authors": {
-            "lisibilite": "Lisible",
-            "correction": "ALFRED DITTE"
-        },
-        "metadata.publisher": {
-            "lisibilite": "Lisible"
-        },
-        "metadata.publication_place": {
-            "lisibilite": "Lisible"
-        },
-        "metadata.date": {
-            "lisibilite": "Lisible"
-        },
-        "langue": {
-            "lisibilite": "Lisible"
-        },
-        "metadata.identifier": {
-            "lisibilite": "Lisible"
-        },
-        "metadata.iiif_manifest": {
-            "lisibilite": "Lisible"
-        },
-        "ark": {
-            "lisibilite": "Lisible"
-        }
+    "metadata.authors": {
+      "readability": "Readable",
+      "correction": "ALFRED DITTE"
+    },
+    "metadata.publisher": {
+      "readability": "Readable"
+    },
+    "metadata.publication_place": {
+      "readability": "Readable"
+    },
+    "metadata.date": {
+      "readability": "Readable"
+    },
+    "language": {
+      "readability": "Readable"
+    },
+    "metadata.identifier": {
+      "readability": "Readable"
+    },
+    "metadata.iiif_manifest": {
+      "readability": "Readable"
+    },
+    "ark": {
+      "readability": "Readable"
     }
+  },
+  "language": "fr (French)"
 }

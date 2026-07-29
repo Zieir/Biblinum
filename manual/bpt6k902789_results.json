@@ -1,61 +1,55 @@
 {
-    "metadata": {
-        "title": "COURS DE CHIMIE",
-        "title_complement": "comprenant l'histoire des sels, la chimie végétale et animale",
-        "volume_number": "TOME PREMIER",
-        "authors": "Gay-Lussac",
-        "publisher": "Pichon et Didier",
-        "publication_place": "Paris",
-        "date": "1828",
-        "identifier": "http://gallica.bnf.fr/ark:/12148/bpt6k902789",
-        "iiif_manifest": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k902789/manifest.json"
+  "metadata": {
+    "title": "COURS DE CHIMIE",
+    "title_complement": "comprenant l'histoire des sels, la chimie végétale et animale",
+    "volume_number": "TOME PREMIER",
+    "authors": "Gay-Lussac",
+    "publisher": "Pichon et Didier",
+    "publication_place": "Paris",
+    "date": "1828",
+    "identifier": "http://gallica.bnf.fr/ark:/12148/bpt6k902789",
+    "iiif_manifest": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k902789/manifest.json"
+  },
+  "ark": "bpt6k902789",
+  "typographie": {
+    "category": "Serif/Roman",
+    "subtype": "Didone (Modern)"
+  },
+  "_annotations": {
+    "metadata.title": {
+      "readability": "Readable"
     },
-    "langue": "fr (French)",
-    "ark": "bpt6k902789",
-    "typographie_suggestion": {
-        "category": "Serif/Roman",
-        "subtype": "Didone (Modern)",
-        "explanation": "These follow the same stylistic family as the main title, utilizing high contrast and horizontal serifs, though set in smaller point sizes.",
-        "raw": "Based on the provided image of the title page, there are multiple typefaces used. I will identify the dominant styles:\n\n**For the main title (\"COURS DE CHIMIE\"):**\nCategory: Serif/Roman\nSubtype: Didone (Modern)\nExplanation: This typeface features the extreme contrast between thick and thin strokes and vertical stress characteristic of the late 18th and early 19th-century \"Modern\" style (similar to Didot or Bodoni), which was standard for French academic printing in 1828.\n\n**For the city name (\"Paris\"):**\nCategory: Blackletter\nSubtype: Fraktur/Textura hybrid\nExplanation: This is a decorative calligraphic style used here as a display element to provide a formal, traditional contrast to the modern serif text.\n\n**For the author and publisher (\"PAR M. GAY-LUSSAC\", etc.):**\nCategory: Serif/Roman\nSubtype: Didone (Modern)\nExplanation: These follow the same stylistic family as the main title, utilizing high contrast and horizontal serifs, though set in smaller point sizes."
+    "metadata.title_complement": {
+      "readability": "Readable"
     },
-    "typographie": {
-        "category": "Serif/Roman",
-        "subtype": "Didone (Modern)"
+    "metadata.volume_number": {
+      "readability": "Readable"
     },
-    "_annotations": {
-        "metadata.title": {
-            "lisibilite": "Lisible"
-        },
-        "metadata.title_complement": {
-            "lisibilite": "Lisible"
-        },
-        "metadata.volume_number": {
-            "lisibilite": "Lisible"
-        },
-        "metadata.authors": {
-            "lisibilite": "Lisible",
-            "correction": "Gay-Lussac"
-        },
-        "metadata.publisher": {
-            "lisibilite": "Lisible"
-        },
-        "metadata.publication_place": {
-            "lisibilite": "Lisible"
-        },
-        "metadata.date": {
-            "lisibilite": "Lisible"
-        },
-        "langue": {
-            "lisibilite": "Lisible"
-        },
-        "metadata.identifier": {
-            "lisibilite": "Lisible"
-        },
-        "metadata.iiif_manifest": {
-            "lisibilite": "Lisible"
-        },
-        "ark": {
-            "lisibilite": "Lisible"
-        }
+    "metadata.authors": {
+      "readability": "Readable",
+      "correction": "Gay-Lussac"
+    },
+    "metadata.publisher": {
+      "readability": "Readable"
+    },
+    "metadata.publication_place": {
+      "readability": "Readable"
+    },
+    "metadata.date": {
+      "readability": "Readable"
+    },
+    "language": {
+      "readability": "Readable"
+    },
+    "metadata.identifier": {
+      "readability": "Readable"
+    },
+    "metadata.iiif_manifest": {
+      "readability": "Readable"
+    },
+    "ark": {
+      "readability": "Readable"
     }
+  },
+  "language": "fr (French)"
 }

@@ -1,63 +1,57 @@
 {
-    "metadata": {
-        "title": "CHYMIE EXPERIMENTALE",
-        "title_complement": "ET RAISONNÉE",
-        "volume_number": "TOME I",
-        "authors": "BAUMÉ",
-        "publisher": "P. Franç. DIDOT",
-        "publication_place": "PARIS",
-        "date": "1773",
-        "identifier": "http://gallica.bnf.fr/ark:/12148/bpt6k916926",
-        "iiif_manifest": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k916926/manifest.json"
+  "metadata": {
+    "title": "CHYMIE EXPERIMENTALE",
+    "title_complement": "ET RAISONNÉE",
+    "volume_number": "TOME I",
+    "authors": "BAUMÉ",
+    "publisher": "P. Franç. DIDOT",
+    "publication_place": "PARIS",
+    "date": "1773",
+    "identifier": "http://gallica.bnf.fr/ark:/12148/bpt6k916926",
+    "iiif_manifest": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k916926/manifest.json"
+  },
+  "ark": "bpt6k916926",
+  "typographie": {
+    "category": "Serif/Roman",
+    "subtype": "Transitional / Didone"
+  },
+  "_annotations": {
+    "metadata.title": {
+      "readability": "Readable"
     },
-    "langue": "fr (French)",
-    "ark": "bpt6k916926",
-    "typographie_suggestion": {
-        "category": "Serif/Roman",
-        "subtype": "Transitional / Didone",
-        "explanation": "The typeface features a strong contrast between thick and thin strokes and vertical stress, characteristic of the 18th-century French printing style (specifically the Didot family, as mentioned in the imprint \"Chez P. Franç. Didot\"). It marks the transition from the softer Old Style to the high-contrast Modern/Didone style.",
-        "raw": "Category: Serif/Roman\nSubtype: Transitional / Didone\nExplanation: The typeface features a strong contrast between thick and thin strokes and vertical stress, characteristic of the 18th-century French printing style (specifically the Didot family, as mentioned in the imprint \"Chez P. Franç. Didot\"). It marks the transition from the softer Old Style to the high-contrast Modern/Didone style."
+    "metadata.title_complement": {
+      "readability": "Readable"
     },
-    "typographie": {
-        "category": "Serif/Roman",
-        "subtype": "Transitional / Didone"
+    "metadata.volume_number": {
+      "readability": "Readable"
     },
-    "_annotations": {
-        "metadata.title": {
-            "lisibilite": "Lisible"
-        },
-        "metadata.title_complement": {
-            "lisibilite": "Lisible"
-        },
-        "metadata.volume_number": {
-            "lisibilite": "Lisible"
-        },
-        "metadata.authors": {
-            "lisibilite": "Lisible",
-            "correction": "BAUMÉ"
-        },
-        "metadata.publisher": {
-            "lisibilite": "Lisible",
-            "correction": "P. Franç. DIDOT"
-        },
-        "metadata.publication_place": {
-            "lisibilite": "Lisible"
-        },
-        "metadata.date": {
-            "lisibilite": "Lisible",
-            "correction": "1773"
-        },
-        "langue": {
-            "lisibilite": "Lisible"
-        },
-        "metadata.identifier": {
-            "lisibilite": "Lisible"
-        },
-        "metadata.iiif_manifest": {
-            "lisibilite": "Lisible"
-        },
-        "ark": {
-            "lisibilite": "Lisible"
-        }
+    "metadata.authors": {
+      "readability": "Readable",
+      "correction": "BAUMÉ"
+    },
+    "metadata.publisher": {
+      "readability": "Readable",
+      "correction": "P. Franç. DIDOT"
+    },
+    "metadata.publication_place": {
+      "readability": "Readable"
+    },
+    "metadata.date": {
+      "readability": "Readable",
+      "correction": "1773"
+    },
+    "language": {
+      "readability": "Readable"
+    },
+    "metadata.identifier": {
+      "readability": "Readable"
+    },
+    "metadata.iiif_manifest": {
+      "readability": "Readable"
+    },
+    "ark": {
+      "readability": "Readable"
     }
+  },
+  "language": "fr (French)"
 }

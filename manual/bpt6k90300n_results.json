@@ -1,65 +1,59 @@
 {
-    "metadata": {
-        "title": "DE L'ALLOTROPIE ET DE L'ISOMÉRIE",
-        "title_complement": "",
-        "volume_number": "",
-        "authors": "A. NAQUET",
-        "publisher": "J.-B. BAILLIÈRE ET FILS",
-        "publication_place": "PARIS",
-        "date": "1860",
-        "identifier": "http://gallica.bnf.fr/ark:/12148/bpt6k90300n",
-        "iiif_manifest": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k90300n/manifest.json"
+  "metadata": {
+    "title": "DE L'ALLOTROPIE ET DE L'ISOMÉRIE",
+    "title_complement": "",
+    "volume_number": "",
+    "authors": "A. NAQUET",
+    "publisher": "J.-B. BAILLIÈRE ET FILS",
+    "publication_place": "PARIS",
+    "date": "1860",
+    "identifier": "http://gallica.bnf.fr/ark:/12148/bpt6k90300n",
+    "iiif_manifest": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k90300n/manifest.json"
+  },
+  "ark": "bpt6k90300n",
+  "typographie": {
+    "category": "Serif/Roman",
+    "subtype": "Didone (Modern)"
+  },
+  "_annotations": {
+    "metadata.title": {
+      "readability": "Readable",
+      "correction": "DE L'ALLOTROPIE ET DE L'ISOMÉRIE"
     },
-    "langue": "fr (French)",
-    "ark": "bpt6k90300n",
-    "typographie_suggestion": {
-        "category": "Serif/Roman",
-        "subtype": "Didone (Modern)",
-        "explanation": "The typeface features the high contrast between thick and thin strokes and vertical stress characteristic of the late 18th and 19th-century \"Modern\" style (similar to Bodoni or Didot), which was standard for academic and scientific publishing in France during this era.",
-        "raw": "Based on the primary titles (\"L'ALLOTROPIE\" and \"L'ISOMÉRIE\") on the provided book cover:\n\nCategory: Serif/Roman\nSubtype: Didone (Modern)\nExplanation: The typeface features the high contrast between thick and thin strokes and vertical stress characteristic of the late 18th and 19th-century \"Modern\" style (similar to Bodoni or Didot), which was standard for academic and scientific publishing in France during this era."
+    "metadata.title_complement": {
+      "readability": "Not readable",
+      "cause": "absent",
+      "correction": ""
     },
-    "typographie": {
-        "category": "Serif/Roman",
-        "subtype": "Didone (Modern)"
+    "metadata.volume_number": {
+      "readability": "Not readable",
+      "cause": "absent"
     },
-    "_annotations": {
-        "metadata.title": {
-            "lisibilite": "Lisible",
-            "correction": "DE L'ALLOTROPIE ET DE L'ISOMÉRIE"
-        },
-        "metadata.title_complement": {
-            "lisibilite": "Non lisible",
-            "cause": "absent",
-            "correction": ""
-        },
-        "metadata.volume_number": {
-            "lisibilite": "Non lisible",
-            "cause": "absent"
-        },
-        "metadata.authors": {
-            "lisibilite": "Lisible",
-            "correction": "A. NAQUET"
-        },
-        "metadata.publisher": {
-            "lisibilite": "Lisible"
-        },
-        "metadata.publication_place": {
-            "lisibilite": "Lisible"
-        },
-        "metadata.date": {
-            "lisibilite": "Lisible"
-        },
-        "langue": {
-            "lisibilite": "Lisible"
-        },
-        "metadata.identifier": {
-            "lisibilite": "Lisible"
-        },
-        "metadata.iiif_manifest": {
-            "lisibilite": "Lisible"
-        },
-        "ark": {
-            "lisibilite": "Lisible"
-        }
+    "metadata.authors": {
+      "readability": "Readable",
+      "correction": "A. NAQUET"
+    },
+    "metadata.publisher": {
+      "readability": "Readable"
+    },
+    "metadata.publication_place": {
+      "readability": "Readable"
+    },
+    "metadata.date": {
+      "readability": "Readable"
+    },
+    "language": {
+      "readability": "Readable"
+    },
+    "metadata.identifier": {
+      "readability": "Readable"
+    },
+    "metadata.iiif_manifest": {
+      "readability": "Readable"
+    },
+    "ark": {
+      "readability": "Readable"
     }
+  },
+  "language": "fr (French)"
 }

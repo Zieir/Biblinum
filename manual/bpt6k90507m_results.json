@@ -1,66 +1,60 @@
 {
-    "metadata": {
-        "title": "Lehrbuch der Organischen Chemie",
-        "title_complement": "oder der Chemie der Kohlenstoffverbindungen",
-        "volume_number": "Dritter Band",
-        "authors": "Aug. Kekulé",
-        "publisher": "Ferdinand Enke",
-        "publication_place": "Erlangen",
-        "date": "1887",
-        "identifier": "http://gallica.bnf.fr/ark:/12148/bpt6k90507m",
-        "iiif_manifest": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k90507m/manifest.json"
+  "metadata": {
+    "title": "Lehrbuch der Organischen Chemie",
+    "title_complement": "oder der Chemie der Kohlenstoffverbindungen",
+    "volume_number": "Dritter Band",
+    "authors": "Aug. Kekulé",
+    "publisher": "Ferdinand Enke",
+    "publication_place": "Erlangen",
+    "date": "1887",
+    "identifier": "http://gallica.bnf.fr/ark:/12148/bpt6k90507m",
+    "iiif_manifest": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k90507m/manifest.json"
+  },
+  "ark": "bpt6k90507m",
+  "typographie": {
+    "category": "Blackletter",
+    "subtype": "Fraktur"
+  },
+  "_annotations": {
+    "metadata.title": {
+      "readability": "Not readable",
+      "cause": "quality",
+      "correction": "Lehrbuch der Organischen Chemie"
     },
-    "langue": "de (German)",
-    "ark": "bpt6k90507m",
-    "typographie_suggestion": {
-        "category": "Blackletter",
-        "subtype": "Fraktur",
-        "explanation": "The typeface features the characteristic broken strokes, high contrast, and ornate, angular forms typical of German Fraktur, which was the standard printing style for academic and scientific texts in Germany during the 19th century.",
-        "raw": "Category: Blackletter\nSubtype: Fraktur\nExplanation: The typeface features the characteristic broken strokes, high contrast, and ornate, angular forms typical of German Fraktur, which was the standard printing style for academic and scientific texts in Germany during the 19th century."
+    "metadata.title_complement": {
+      "readability": "Readable"
     },
-    "typographie": {
-        "category": "Blackletter",
-        "subtype": "Fraktur"
+    "metadata.volume_number": {
+      "readability": "Not readable",
+      "cause": "covered",
+      "correction": "Dritter Band"
     },
-    "_annotations": {
-        "metadata.title": {
-            "lisibilite": "Non lisible",
-            "cause": "qualite",
-            "correction": "Lehrbuch der Organischen Chemie"
-        },
-        "metadata.title_complement": {
-            "lisibilite": "Lisible"
-        },
-        "metadata.volume_number": {
-            "lisibilite": "Non lisible",
-            "cause": "recouvert",
-            "correction": "Dritter Band"
-        },
-        "metadata.authors": {
-            "lisibilite": "Lisible"
-        },
-        "metadata.publisher": {
-            "lisibilite": "Non lisible",
-            "cause": "qualite",
-            "correction": "Ferdinand Enke"
-        },
-        "metadata.publication_place": {
-            "lisibilite": "Lisible"
-        },
-        "metadata.date": {
-            "lisibilite": "Lisible"
-        },
-        "langue": {
-            "lisibilite": "Lisible"
-        },
-        "metadata.identifier": {
-            "lisibilite": "Lisible"
-        },
-        "metadata.iiif_manifest": {
-            "lisibilite": "Lisible"
-        },
-        "ark": {
-            "lisibilite": "Lisible"
-        }
+    "metadata.authors": {
+      "readability": "Readable"
+    },
+    "metadata.publisher": {
+      "readability": "Not readable",
+      "cause": "quality",
+      "correction": "Ferdinand Enke"
+    },
+    "metadata.publication_place": {
+      "readability": "Readable"
+    },
+    "metadata.date": {
+      "readability": "Readable"
+    },
+    "language": {
+      "readability": "Readable"
+    },
+    "metadata.identifier": {
+      "readability": "Readable"
+    },
+    "metadata.iiif_manifest": {
+      "readability": "Readable"
+    },
+    "ark": {
+      "readability": "Readable"
     }
+  },
+  "language": "de (German)"
 }

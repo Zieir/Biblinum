@@ -1,63 +1,57 @@
 {
-    "metadata": {
-        "title": "A SELECT BIBLIOGRAPHY OF CHEMISTRY",
-        "title_complement": "1492-1897",
-        "volume_number": "FIRST SUPPLEMENT",
-        "authors": "Henry Carrington BOLTON",
-        "publisher": "SMITHSONIAN INSTITUTION",
-        "publication_place": "CITY OF WASHINGTON",
-        "date": "1899",
-        "identifier": "http://gallica.bnf.fr/ark:/12148/bpt6k903866",
-        "iiif_manifest": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k903866/manifest.json"
+  "metadata": {
+    "title": "A SELECT BIBLIOGRAPHY OF CHEMISTRY",
+    "title_complement": "1492-1897",
+    "volume_number": "FIRST SUPPLEMENT",
+    "authors": "Henry Carrington BOLTON",
+    "publisher": "SMITHSONIAN INSTITUTION",
+    "publication_place": "CITY OF WASHINGTON",
+    "date": "1899",
+    "identifier": "http://gallica.bnf.fr/ark:/12148/bpt6k903866",
+    "iiif_manifest": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k903866/manifest.json"
+  },
+  "ark": "bpt6k903866",
+  "typographie": {
+    "category": "Serif/Roman",
+    "subtype": "Old Style / Transitional"
+  },
+  "_annotations": {
+    "metadata.title": {
+      "readability": "Not readable",
+      "cause": "covered",
+      "correction": "A SELECT BIBLIOGRAPHY OF CHEMISTRY"
     },
-    "langue": "en (English)",
-    "ark": "bpt6k903866",
-    "typographie_suggestion": {
-        "category": "Serif/Roman",
-        "subtype": "Old Style / Transitional",
-        "explanation": "The text features moderate contrast between thick and thin strokes, bracketed serifs, and a classical structure typical of late 19th-century academic printing. The larger \"CHEMISTRY\" text exhibits the balanced proportions and refined serifs characteristic of transitional Roman faces.",
-        "raw": "Category: Serif/Roman\nSubtype: Old Style / Transitional\nExplanation: The text features moderate contrast between thick and thin strokes, bracketed serifs, and a classical structure typical of late 19th-century academic printing. The larger \"CHEMISTRY\" text exhibits the balanced proportions and refined serifs characteristic of transitional Roman faces."
+    "metadata.title_complement": {
+      "readability": "Readable"
     },
-    "typographie": {
-        "category": "Serif/Roman",
-        "subtype": "Old Style / Transitional"
+    "metadata.volume_number": {
+      "readability": "Readable"
     },
-    "_annotations": {
-        "metadata.title": {
-            "lisibilite": "Non lisible",
-            "cause": "recouvert",
-            "correction": "A SELECT BIBLIOGRAPHY OF CHEMISTRY"
-        },
-        "metadata.title_complement": {
-            "lisibilite": "Lisible"
-        },
-        "metadata.volume_number": {
-            "lisibilite": "Lisible"
-        },
-        "metadata.authors": {
-            "lisibilite": "Lisible",
-            "correction": "Henry Carrington BOLTON"
-        },
-        "metadata.publisher": {
-            "lisibilite": "Lisible"
-        },
-        "metadata.publication_place": {
-            "lisibilite": "Lisible"
-        },
-        "metadata.date": {
-            "lisibilite": "Lisible"
-        },
-        "langue": {
-            "lisibilite": "Lisible"
-        },
-        "metadata.identifier": {
-            "lisibilite": "Lisible"
-        },
-        "metadata.iiif_manifest": {
-            "lisibilite": "Lisible"
-        },
-        "ark": {
-            "lisibilite": "Lisible"
-        }
+    "metadata.authors": {
+      "readability": "Readable",
+      "correction": "Henry Carrington BOLTON"
+    },
+    "metadata.publisher": {
+      "readability": "Readable"
+    },
+    "metadata.publication_place": {
+      "readability": "Readable"
+    },
+    "metadata.date": {
+      "readability": "Readable"
+    },
+    "language": {
+      "readability": "Readable"
+    },
+    "metadata.identifier": {
+      "readability": "Readable"
+    },
+    "metadata.iiif_manifest": {
+      "readability": "Readable"
+    },
+    "ark": {
+      "readability": "Readable"
     }
+  },
+  "language": "en (English)"
 }

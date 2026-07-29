@@ -1,65 +1,59 @@
 {
-    "metadata": {
-        "title": "Briefe von Justus Liebig",
-        "title_complement": "nach neuen Funden",
-        "volume_number": "",
-        "authors": "JUSTUS LIEBIG",
-        "publisher": "Selbstverlag der Gesellschaft Liebig-Museum; Selbstverlag der Liebighaus-Stiftung ",
-        "publication_place": "Giessen; Darmstadt",
-        "date": "",
-        "identifier": "http://gallica.bnf.fr/ark:/12148/bpt6k905811/f2.item",
-        "iiif_manifest": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k905811/manifest.json"
+  "metadata": {
+    "title": "Briefe von Justus Liebig",
+    "title_complement": "nach neuen Funden",
+    "volume_number": "",
+    "authors": "JUSTUS LIEBIG",
+    "publisher": "Selbstverlag der Gesellschaft Liebig-Museum; Selbstverlag der Liebighaus-Stiftung ",
+    "publication_place": "Giessen; Darmstadt",
+    "date": "",
+    "identifier": "http://gallica.bnf.fr/ark:/12148/bpt6k905811/f2.item",
+    "iiif_manifest": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k905811/manifest.json"
+  },
+  "ark": "bpt6k905811",
+  "typographie": {
+    "category": "Serif/Roman",
+    "subtype": "Old Style / Transitional"
+  },
+  "_annotations": {
+    "metadata.title": {
+      "readability": "Readable",
+      "correction": "Briefe von Justus Liebig"
     },
-    "langue": "de (German)",
-    "ark": "bpt6k905811",
-    "typographie_suggestion": {
-        "category": "Serif/Roman",
-        "subtype": "Old Style / Transitional",
-        "explanation": "The typeface features moderate contrast between thick and thin strokes, bracketed serifs, and a classical structure typical of early 20th-century academic printing, leaning towards the Old Style or Transitional tradition (similar to Garamond or Baskerville).",
-        "raw": "Category: Serif/Roman\nSubtype: Old Style / Transitional\nExplanation: The typeface features moderate contrast between thick and thin strokes, bracketed serifs, and a classical structure typical of early 20th-century academic printing, leaning towards the Old Style or Transitional tradition (similar to Garamond or Baskerville)."
+    "metadata.title_complement": {
+      "readability": "Readable"
     },
-    "typographie": {
-        "category": "Serif/Roman",
-        "subtype": "Old Style / Transitional"
+    "metadata.volume_number": {
+      "readability": "Not readable",
+      "cause": "absent"
     },
-    "_annotations": {
-        "metadata.title": {
-            "lisibilite": "Lisible",
-            "correction": "Briefe von Justus Liebig"
-        },
-        "metadata.title_complement": {
-            "lisibilite": "Lisible"
-        },
-        "metadata.volume_number": {
-            "lisibilite": "Non lisible",
-            "cause": "absent"
-        },
-        "metadata.authors": {
-            "lisibilite": "Lisible"
-        },
-        "metadata.publisher": {
-            "lisibilite": "Lisible",
-            "correction": "Selbstverlag der Gesellschaft Liebig-Museum; Selbstverlag der Liebighaus-Stiftung "
-        },
-        "metadata.publication_place": {
-            "lisibilite": "Lisible",
-            "correction": "Giessen; Darmstadt"
-        },
-        "metadata.date": {
-            "lisibilite": "Non lisible",
-            "cause": "absent"
-        },
-        "langue": {
-            "lisibilite": "Lisible"
-        },
-        "metadata.identifier": {
-            "lisibilite": "Lisible"
-        },
-        "metadata.iiif_manifest": {
-            "lisibilite": "Lisible"
-        },
-        "ark": {
-            "lisibilite": "Lisible"
-        }
+    "metadata.authors": {
+      "readability": "Readable"
+    },
+    "metadata.publisher": {
+      "readability": "Readable",
+      "correction": "Selbstverlag der Gesellschaft Liebig-Museum; Selbstverlag der Liebighaus-Stiftung "
+    },
+    "metadata.publication_place": {
+      "readability": "Readable",
+      "correction": "Giessen; Darmstadt"
+    },
+    "metadata.date": {
+      "readability": "Not readable",
+      "cause": "absent"
+    },
+    "language": {
+      "readability": "Readable"
+    },
+    "metadata.identifier": {
+      "readability": "Readable"
+    },
+    "metadata.iiif_manifest": {
+      "readability": "Readable"
+    },
+    "ark": {
+      "readability": "Readable"
     }
+  },
+  "language": "de (German)"
 }

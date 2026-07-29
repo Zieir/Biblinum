@@ -1,66 +1,60 @@
 {
-    "metadata": {
-        "title": "TRAITÉ DE CHIMIE ANATOMIQUE ET PHYSIOLOGIQUE NORMALE ET PATHOLOGIQUE ",
-        "title_complement": "OU DES PRINCIPES IMMÉDIATS NORMAUX ET MORBIDES QUI CONSTITUENT LE CORPS DE L'HOMME ET DES MAMMIFÈRES",
-        "volume_number": "Tome TROISIEME",
-        "authors": "Charles ROBIN; F. Verdeil",
-        "publisher": "J.-B. Baillière; H. Baillière; H. Baillière; C. BAILLY Baillière ",
-        "publication_place": "PARIS; LONDRES; NEW-YORK; MADRID",
-        "date": "1853",
-        "identifier": "http://gallica.bnf.fr/ark:/12148/bpt6k90062c",
-        "iiif_manifest": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k90062c/manifest.json"
+  "metadata": {
+    "title": "TRAITÉ DE CHIMIE ANATOMIQUE ET PHYSIOLOGIQUE NORMALE ET PATHOLOGIQUE ",
+    "title_complement": "OU DES PRINCIPES IMMÉDIATS NORMAUX ET MORBIDES QUI CONSTITUENT LE CORPS DE L'HOMME ET DES MAMMIFÈRES",
+    "volume_number": "Tome TROISIEME",
+    "authors": "Charles ROBIN; F. Verdeil",
+    "publisher": "J.-B. Baillière; H. Baillière; H. Baillière; C. BAILLY Baillière ",
+    "publication_place": "PARIS; LONDRES; NEW-YORK; MADRID",
+    "date": "1853",
+    "identifier": "http://gallica.bnf.fr/ark:/12148/bpt6k90062c",
+    "iiif_manifest": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k90062c/manifest.json"
+  },
+  "ark": "bpt6k90062c",
+  "typographie": {
+    "category": "Serif/Roman",
+    "subtype": "Didone (Modern)"
+  },
+  "_annotations": {
+    "metadata.title": {
+      "readability": "Readable",
+      "correction": "TRAITÉ DE CHIMIE ANATOMIQUE ET PHYSIOLOGIQUE NORMALE ET PATHOLOGIQUE "
     },
-    "langue": "fr (French)",
-    "ark": "bpt6k90062c",
-    "typographie_suggestion": {
-        "category": "Serif/Roman",
-        "subtype": "Didone (Modern)",
-        "explanation": "The typeface features the high contrast between thick and thin strokes, vertical stress, and small, horizontal serifs characteristic of the \"Modern\" or Didone style (similar to Bodoni or Didot), which was prevalent in 19th-century academic and scientific printing.",
-        "raw": "Category: Serif/Roman\nSubtype: Didone (Modern)\nExplanation: The typeface features the high contrast between thick and thin strokes, vertical stress, and small, horizontal serifs characteristic of the \"Modern\" or Didone style (similar to Bodoni or Didot), which was prevalent in 19th-century academic and scientific printing."
+    "metadata.title_complement": {
+      "readability": "Readable",
+      "correction": "OU DES PRINCIPES IMMÉDIATS NORMAUX ET MORBIDES QUI CONSTITUENT LE CORPS DE L'HOMME ET DES MAMMIFÈRES"
     },
-    "typographie": {
-        "category": "Serif/Roman",
-        "subtype": "Didone (Modern)"
+    "metadata.volume_number": {
+      "readability": "Readable",
+      "correction": "Tome TROISIEME"
     },
-    "_annotations": {
-        "metadata.title": {
-            "lisibilite": "Lisible",
-            "correction": "TRAITÉ DE CHIMIE ANATOMIQUE ET PHYSIOLOGIQUE NORMALE ET PATHOLOGIQUE "
-        },
-        "metadata.title_complement": {
-            "lisibilite": "Lisible",
-            "correction": "OU DES PRINCIPES IMMÉDIATS NORMAUX ET MORBIDES QUI CONSTITUENT LE CORPS DE L'HOMME ET DES MAMMIFÈRES"
-        },
-        "metadata.volume_number": {
-            "lisibilite": "Lisible",
-            "correction": "Tome TROISIEME"
-        },
-        "metadata.authors": {
-            "lisibilite": "Lisible",
-            "correction": "Charles ROBIN; F. Verdeil"
-        },
-        "metadata.publisher": {
-            "lisibilite": "Lisible",
-            "correction": "J.-B. Baillière; H. Baillière; H. Baillière; C. BAILLY Baillière "
-        },
-        "metadata.publication_place": {
-            "lisibilite": "Lisible",
-            "correction": "PARIS; LONDRES; NEW-YORK; MADRID"
-        },
-        "metadata.date": {
-            "lisibilite": "Lisible"
-        },
-        "langue": {
-            "lisibilite": "Lisible"
-        },
-        "metadata.identifier": {
-            "lisibilite": "Lisible"
-        },
-        "metadata.iiif_manifest": {
-            "lisibilite": "Lisible"
-        },
-        "ark": {
-            "lisibilite": "Lisible"
-        }
+    "metadata.authors": {
+      "readability": "Readable",
+      "correction": "Charles ROBIN; F. Verdeil"
+    },
+    "metadata.publisher": {
+      "readability": "Readable",
+      "correction": "J.-B. Baillière; H. Baillière; H. Baillière; C. BAILLY Baillière "
+    },
+    "metadata.publication_place": {
+      "readability": "Readable",
+      "correction": "PARIS; LONDRES; NEW-YORK; MADRID"
+    },
+    "metadata.date": {
+      "readability": "Readable"
+    },
+    "language": {
+      "readability": "Readable"
+    },
+    "metadata.identifier": {
+      "readability": "Readable"
+    },
+    "metadata.iiif_manifest": {
+      "readability": "Readable"
+    },
+    "ark": {
+      "readability": "Readable"
     }
+  },
+  "language": "fr (French)"
 }

@@ -1,67 +1,61 @@
 {
-    "metadata": {
-        "title": "LEÇONS SUR LES MÉTHODES GÉNÉRALES DE SYNTHÈSE EN CHIMIE ORGANIQUE",
-        "title_complement": "professées en 1864 au Collège de France ",
-        "volume_number": "",
-        "authors": "M. BERTHELOT",
-        "publisher": "Gauthier-Villars ",
-        "publication_place": "PARIS",
-        "date": "1864",
-        "identifier": "http://gallica.bnf.fr/ark:/12148/bpt6k919565",
-        "iiif_manifest": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k919565/manifest.json"
+  "metadata": {
+    "title": "LEÇONS SUR LES MÉTHODES GÉNÉRALES DE SYNTHÈSE EN CHIMIE ORGANIQUE",
+    "title_complement": "professées en 1864 au Collège de France ",
+    "volume_number": "",
+    "authors": "M. BERTHELOT",
+    "publisher": "Gauthier-Villars ",
+    "publication_place": "PARIS",
+    "date": "1864",
+    "identifier": "http://gallica.bnf.fr/ark:/12148/bpt6k919565",
+    "iiif_manifest": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k919565/manifest.json"
+  },
+  "ark": "bpt6k919565",
+  "typographie": {
+    "category": "Serif/Roman",
+    "subtype": "Modern (Didone)"
+  },
+  "_annotations": {
+    "metadata.title": {
+      "readability": "Readable",
+      "correction": "LEÇONS SUR LES MÉTHODES GÉNÉRALES DE SYNTHÈSE EN CHIMIE ORGANIQUE"
     },
-    "langue": "fr (French)",
-    "ark": "bpt6k919565",
-    "typographie_suggestion": {
-        "category": "Serif/Roman",
-        "subtype": "Modern (Didone)",
-        "explanation": "The typeface features a high contrast between thick and thin strokes, vertical stress, and small, horizontal serifs, which are characteristic of the Modern/Didone style prevalent in 19th-century academic and formal printing.",
-        "raw": "Category: Serif/Roman\nSubtype: Modern (Didone)\nExplanation: The typeface features a high contrast between thick and thin strokes, vertical stress, and small, horizontal serifs, which are characteristic of the Modern/Didone style prevalent in 19th-century academic and formal printing."
+    "metadata.title_complement": {
+      "readability": "Readable",
+      "correction": "professées en 1864 au Collège de France "
     },
-    "typographie": {
-        "category": "Serif/Roman",
-        "subtype": "Modern (Didone)"
+    "metadata.volume_number": {
+      "readability": "Not readable",
+      "cause": "absent"
     },
-    "_annotations": {
-        "metadata.title": {
-            "lisibilite": "Lisible",
-            "correction": "LEÇONS SUR LES MÉTHODES GÉNÉRALES DE SYNTHÈSE EN CHIMIE ORGANIQUE"
-        },
-        "metadata.title_complement": {
-            "lisibilite": "Lisible",
-            "correction": "professées en 1864 au Collège de France "
-        },
-        "metadata.volume_number": {
-            "lisibilite": "Non lisible",
-            "cause": "absent"
-        },
-        "metadata.authors": {
-            "lisibilite": "Lisible",
-            "correction": "M. BERTHELOT"
-        },
-        "metadata.publisher": {
-            "lisibilite": "Lisible",
-            "correction": "Gauthier-Villars "
-        },
-        "metadata.publication_place": {
-            "lisibilite": "Lisible",
-            "correction": "PARIS"
-        },
-        "metadata.date": {
-            "lisibilite": "Lisible",
-            "correction": "1864"
-        },
-        "langue": {
-            "lisibilite": "Lisible"
-        },
-        "metadata.identifier": {
-            "lisibilite": "Lisible"
-        },
-        "metadata.iiif_manifest": {
-            "lisibilite": "Lisible"
-        },
-        "ark": {
-            "lisibilite": "Lisible"
-        }
+    "metadata.authors": {
+      "readability": "Readable",
+      "correction": "M. BERTHELOT"
+    },
+    "metadata.publisher": {
+      "readability": "Readable",
+      "correction": "Gauthier-Villars "
+    },
+    "metadata.publication_place": {
+      "readability": "Readable",
+      "correction": "PARIS"
+    },
+    "metadata.date": {
+      "readability": "Readable",
+      "correction": "1864"
+    },
+    "language": {
+      "readability": "Readable"
+    },
+    "metadata.identifier": {
+      "readability": "Readable"
+    },
+    "metadata.iiif_manifest": {
+      "readability": "Readable"
+    },
+    "ark": {
+      "readability": "Readable"
     }
+  },
+  "language": "fr (French)"
 }

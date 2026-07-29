@@ -1,68 +1,62 @@
 {
-    "metadata": {
-        "title": "ŒUVRES COMPLÈTES d'Augustin Cauchy",
-        "title_complement": "",
-        "volume_number": "SÉRIE I TOME IX",
-        "authors": "Augustin Cauchy",
-        "publisher": "Gauthier-Villars ",
-        "publication_place": "PARIS",
-        "date": "1896",
-        "identifier": "http://gallica.bnf.fr/ark:/12148/bpt6k90189p",
-        "iiif_manifest": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k90189p/manifest.json"
+  "metadata": {
+    "title": "ŒUVRES COMPLÈTES d'Augustin Cauchy",
+    "title_complement": "",
+    "volume_number": "SÉRIE I TOME IX",
+    "authors": "Augustin Cauchy",
+    "publisher": "Gauthier-Villars ",
+    "publication_place": "PARIS",
+    "date": "1896",
+    "identifier": "http://gallica.bnf.fr/ark:/12148/bpt6k90189p",
+    "iiif_manifest": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k90189p/manifest.json"
+  },
+  "ark": "bpt6k90189p",
+  "typographie": {
+    "category": "Serif/Roman",
+    "subtype": "Didone (Modern)"
+  },
+  "_annotations": {
+    "metadata.title": {
+      "readability": "Readable",
+      "correction": "ŒUVRES COMPLÈTES d'Augustin Cauchy"
     },
-    "langue": "fr (French)",
-    "ark": "bpt6k90189p",
-    "typographie_suggestion": {
-        "category": "Serif/Roman",
-        "subtype": "Didone (Modern)",
-        "explanation": "The typeface features the high contrast between thick and thin strokes, vertical stress, and small, unbracketed (hairline) serifs characteristic of the \"Modern\" style popularized by Didot and Bodoni in the late 18th and 19th centuries.",
-        "raw": "Category: Serif/Roman\nSubtype: Didone (Modern)\nExplanation: The typeface features the high contrast between thick and thin strokes, vertical stress, and small, unbracketed (hairline) serifs characteristic of the \"Modern\" style popularized by Didot and Bodoni in the late 18th and 19th centuries."
+    "metadata.title_complement": {
+      "readability": "Not readable",
+      "cause": "absent",
+      "correction": ""
     },
-    "typographie": {
-        "category": "Serif/Roman",
-        "subtype": "Didone (Modern)"
+    "metadata.volume_number": {
+      "readability": "Readable",
+      "correction": "SÉRIE I TOME IX"
     },
-    "_annotations": {
-        "metadata.title": {
-            "lisibilite": "Lisible",
-            "correction": "ŒUVRES COMPLÈTES d'Augustin Cauchy"
-        },
-        "metadata.title_complement": {
-            "lisibilite": "Non lisible",
-            "cause": "absent",
-            "correction": ""
-        },
-        "metadata.volume_number": {
-            "lisibilite": "Lisible",
-            "correction": "SÉRIE I TOME IX"
-        },
-        "metadata.authors": {
-            "lisibilite": "Lisible",
-            "correction": "Augustin Cauchy"
-        },
-        "metadata.publisher": {
-            "lisibilite": "Lisible",
-            "correction": "Gauthier-Villars "
-        },
-        "metadata.publication_place": {
-            "lisibilite": "Lisible",
-            "correction": "PARIS"
-        },
-        "metadata.date": {
-            "lisibilite": "Lisible",
-            "correction": "1896"
-        },
-        "langue": {
-            "lisibilite": "Lisible"
-        },
-        "metadata.identifier": {
-            "lisibilite": "Lisible"
-        },
-        "metadata.iiif_manifest": {
-            "lisibilite": "Lisible"
-        },
-        "ark": {
-            "lisibilite": "Lisible"
-        }
+    "metadata.authors": {
+      "readability": "Readable",
+      "correction": "Augustin Cauchy"
+    },
+    "metadata.publisher": {
+      "readability": "Readable",
+      "correction": "Gauthier-Villars "
+    },
+    "metadata.publication_place": {
+      "readability": "Readable",
+      "correction": "PARIS"
+    },
+    "metadata.date": {
+      "readability": "Readable",
+      "correction": "1896"
+    },
+    "language": {
+      "readability": "Readable"
+    },
+    "metadata.identifier": {
+      "readability": "Readable"
+    },
+    "metadata.iiif_manifest": {
+      "readability": "Readable"
+    },
+    "ark": {
+      "readability": "Readable"
     }
+  },
+  "language": "fr (French)"
 }

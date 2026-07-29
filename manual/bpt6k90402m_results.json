@@ -1,61 +1,55 @@
 {
-    "metadata": {
-        "title": "THE CONSTANTS OF NATURE",
-        "title_complement": "A RECALCULATION OF THE ATOMIC WEIGHTS",
-        "volume_number": "PART V",
-        "authors": "FRANK WIGGLESWORTH CLARKE",
-        "publisher": "SMITHSONIAN INSTITUTION",
-        "publication_place": "WASHINGTON",
-        "date": "1882",
-        "identifier": "http://gallica.bnf.fr/ark:/12148/bpt6k90402m",
-        "iiif_manifest": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k90402m/manifest.json"
+  "metadata": {
+    "title": "THE CONSTANTS OF NATURE",
+    "title_complement": "A RECALCULATION OF THE ATOMIC WEIGHTS",
+    "volume_number": "PART V",
+    "authors": "FRANK WIGGLESWORTH CLARKE",
+    "publisher": "SMITHSONIAN INSTITUTION",
+    "publication_place": "WASHINGTON",
+    "date": "1882",
+    "identifier": "http://gallica.bnf.fr/ark:/12148/bpt6k90402m",
+    "iiif_manifest": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k90402m/manifest.json"
+  },
+  "ark": "bpt6k90402m",
+  "typographie": {
+    "category": "Serif/Roman",
+    "subtype": "Modern / Didone"
+  },
+  "_annotations": {
+    "metadata.title": {
+      "readability": "Readable"
     },
-    "langue": "en (English)",
-    "ark": "bpt6k90402m",
-    "typographie_suggestion": {
-        "category": "Serif/Roman",
-        "subtype": "Modern / Didone",
-        "explanation": "The typeface features a high contrast between thick and thin strokes, vertical stress, and small, horizontal serifs, which are characteristic of the \"Modern\" or Didone style prevalent in 19th-century academic and official printing.",
-        "raw": "Category: Serif/Roman\nSubtype: Modern / Didone\nExplanation: The typeface features a high contrast between thick and thin strokes, vertical stress, and small, horizontal serifs, which are characteristic of the \"Modern\" or Didone style prevalent in 19th-century academic and official printing."
+    "metadata.title_complement": {
+      "readability": "Readable"
     },
-    "typographie": {
-        "category": "Serif/Roman",
-        "subtype": "Modern / Didone"
+    "metadata.volume_number": {
+      "readability": "Readable"
     },
-    "_annotations": {
-        "metadata.title": {
-            "lisibilite": "Lisible"
-        },
-        "metadata.title_complement": {
-            "lisibilite": "Lisible"
-        },
-        "metadata.volume_number": {
-            "lisibilite": "Lisible"
-        },
-        "metadata.authors": {
-            "lisibilite": "Lisible",
-            "correction": "FRANK WIGGLESWORTH CLARKE"
-        },
-        "metadata.publisher": {
-            "lisibilite": "Lisible"
-        },
-        "metadata.publication_place": {
-            "lisibilite": "Lisible"
-        },
-        "metadata.date": {
-            "lisibilite": "Lisible"
-        },
-        "langue": {
-            "lisibilite": "Lisible"
-        },
-        "metadata.identifier": {
-            "lisibilite": "Lisible"
-        },
-        "metadata.iiif_manifest": {
-            "lisibilite": "Lisible"
-        },
-        "ark": {
-            "lisibilite": "Lisible"
-        }
+    "metadata.authors": {
+      "readability": "Readable",
+      "correction": "FRANK WIGGLESWORTH CLARKE"
+    },
+    "metadata.publisher": {
+      "readability": "Readable"
+    },
+    "metadata.publication_place": {
+      "readability": "Readable"
+    },
+    "metadata.date": {
+      "readability": "Readable"
+    },
+    "language": {
+      "readability": "Readable"
+    },
+    "metadata.identifier": {
+      "readability": "Readable"
+    },
+    "metadata.iiif_manifest": {
+      "readability": "Readable"
+    },
+    "ark": {
+      "readability": "Readable"
     }
+  },
+  "language": "en (English)"
 }

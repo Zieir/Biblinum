@@ -1,66 +1,60 @@
 {
-    "metadata": {
-        "title": "Célébration du Centenaire de Gaston Planté",
-        "title_complement": "",
-        "volume_number": "",
-        "authors": "",
-        "publisher": "",
-        "publication_place": "",
-        "date": "1934",
-        "identifier": "http://gallica.bnf.fr/ark:/12148/bpt6k904049",
-        "iiif_manifest": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k904049/manifest.json"
+  "metadata": {
+    "title": "Célébration du Centenaire de Gaston Planté",
+    "title_complement": "",
+    "volume_number": "",
+    "authors": "",
+    "publisher": "",
+    "publication_place": "",
+    "date": "1934",
+    "identifier": "http://gallica.bnf.fr/ark:/12148/bpt6k904049",
+    "iiif_manifest": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k904049/manifest.json"
+  },
+  "ark": "bpt6k904049",
+  "typographie": {
+    "category": "Serif/Roman",
+    "subtype": "Slab Serif"
+  },
+  "_annotations": {
+    "metadata.title": {
+      "readability": "Readable"
     },
-    "langue": "fr (French)",
-    "ark": "bpt6k904049",
-    "typographie_suggestion": {
-        "category": "Serif/Roman",
-        "subtype": "Slab Serif",
-        "explanation": "The typeface features thick, block-like serifs with little to no bracketing between the serif and the stem, characteristic of the Slab Serif (or Egyptian) style common in 19th and early 20th-century printing.",
-        "raw": "Category: Serif/Roman\nSubtype: Slab Serif\nExplanation: The typeface features thick, block-like serifs with little to no bracketing between the serif and the stem, characteristic of the Slab Serif (or Egyptian) style common in 19th and early 20th-century printing."
+    "metadata.title_complement": {
+      "readability": "Not readable",
+      "cause": "absent"
     },
-    "typographie": {
-        "category": "Serif/Roman",
-        "subtype": "Slab Serif"
+    "metadata.volume_number": {
+      "readability": "Not readable",
+      "cause": "absent"
     },
-    "_annotations": {
-        "metadata.title": {
-            "lisibilite": "Lisible"
-        },
-        "metadata.title_complement": {
-            "lisibilite": "Non lisible",
-            "cause": "absent"
-        },
-        "metadata.volume_number": {
-            "lisibilite": "Non lisible",
-            "cause": "absent"
-        },
-        "metadata.authors": {
-            "lisibilite": "Non lisible",
-            "cause": "absent"
-        },
-        "metadata.publisher": {
-            "lisibilite": "Non lisible",
-            "cause": "absent"
-        },
-        "metadata.publication_place": {
-            "lisibilite": "Non lisible",
-            "cause": "absent"
-        },
-        "metadata.date": {
-            "lisibilite": "Lisible"
-        },
-        "langue": {
-            "lisibilite": "Lisible"
-        },
-        "_note": "Must check how the date got gotten -either ocr _ less impressive -understanding that it is a century celebration so it got published at the end of the century",
-        "metadata.identifier": {
-            "lisibilite": "Lisible"
-        },
-        "metadata.iiif_manifest": {
-            "lisibilite": "Lisible"
-        },
-        "ark": {
-            "lisibilite": "Lisible"
-        }
+    "metadata.authors": {
+      "readability": "Not readable",
+      "cause": "absent"
+    },
+    "metadata.publisher": {
+      "readability": "Not readable",
+      "cause": "absent"
+    },
+    "metadata.publication_place": {
+      "readability": "Not readable",
+      "cause": "absent"
+    },
+    "metadata.date": {
+      "readability": "Readable"
+    },
+    "language": {
+      "readability": "Readable"
+    },
+    "_note": "Must check how the date got gotten -either ocr _ less impressive -understanding that it is a century celebration so it got published at the end of the century",
+    "metadata.identifier": {
+      "readability": "Readable"
+    },
+    "metadata.iiif_manifest": {
+      "readability": "Readable"
+    },
+    "ark": {
+      "readability": "Readable"
     }
+  },
+  "language": "fr (French)"
 }

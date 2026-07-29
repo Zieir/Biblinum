@@ -1,67 +1,61 @@
 {
-    "metadata": {
-        "title": "ŒUVRES COMPLÈTES D'AUGUSTIN CAUCHY",
-        "title_complement": "",
-        "volume_number": "SÉRIE I TOME VII",
-        "authors": "Augustin Cauchy",
-        "publisher": "Gauthier-Villars",
-        "publication_place": "PARIS",
-        "date": "1892",
-        "identifier": "http://gallica.bnf.fr/ark:/12148/bpt6k901870",
-        "iiif_manifest": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k901870/manifest.json"
+  "metadata": {
+    "title": "ŒUVRES COMPLÈTES D'AUGUSTIN CAUCHY",
+    "title_complement": "",
+    "volume_number": "SÉRIE I TOME VII",
+    "authors": "Augustin Cauchy",
+    "publisher": "Gauthier-Villars",
+    "publication_place": "PARIS",
+    "date": "1892",
+    "identifier": "http://gallica.bnf.fr/ark:/12148/bpt6k901870",
+    "iiif_manifest": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k901870/manifest.json"
+  },
+  "ark": "bpt6k901870",
+  "typographie": {
+    "category": "Serif/Roman",
+    "subtype": "Didone (Modern)"
+  },
+  "_annotations": {
+    "metadata.title": {
+      "readability": "Readable",
+      "correction": "ŒUVRES COMPLÈTES D'AUGUSTIN CAUCHY"
     },
-    "langue": "fr (French)",
-    "ark": "bpt6k901870",
-    "typographie_suggestion": {
-        "category": "Serif/Roman",
-        "subtype": "Didone (Modern)",
-        "explanation": "The typeface features the high contrast between thick and thin strokes, vertical stress, and small, unbracketed hair-line serifs characteristic of the \"Modern\" or Didone style (similar to Bodoni or Didot), which was prevalent in French academic printing during the 19th century.",
-        "raw": "Category: Serif/Roman\nSubtype: Didone (Modern)\nExplanation: The typeface features the high contrast between thick and thin strokes, vertical stress, and small, unbracketed hair-line serifs characteristic of the \"Modern\" or Didone style (similar to Bodoni or Didot), which was prevalent in French academic printing during the 19th century."
+    "metadata.title_complement": {
+      "readability": "Not readable",
+      "cause": "absent",
+      "correction": ""
     },
-    "typographie": {
-        "category": "Serif/Roman",
-        "subtype": "Didone (Modern)"
+    "metadata.volume_number": {
+      "readability": "Readable",
+      "correction": "SÉRIE I TOME VII"
     },
-    "_annotations": {
-        "metadata.title": {
-            "lisibilite": "Lisible",
-            "correction": "ŒUVRES COMPLÈTES D'AUGUSTIN CAUCHY"
-        },
-        "metadata.title_complement": {
-            "lisibilite": "Non lisible",
-            "cause": "absent",
-            "correction": ""
-        },
-        "metadata.volume_number": {
-            "lisibilite": "Lisible",
-            "correction": "SÉRIE I TOME VII"
-        },
-        "metadata.authors": {
-            "lisibilite": "Lisible",
-            "correction": "Augustin Cauchy"
-        },
-        "metadata.publisher": {
-            "lisibilite": "Lisible"
-        },
-        "metadata.publication_place": {
-            "lisibilite": "Lisible"
-        },
-        "metadata.date": {
-            "lisibilite": "Non lisible",
-            "cause": "qualite",
-            "correction": "1892"
-        },
-        "langue": {
-            "lisibilite": "Lisible"
-        },
-        "metadata.identifier": {
-            "lisibilite": "Lisible"
-        },
-        "metadata.iiif_manifest": {
-            "lisibilite": "Lisible"
-        },
-        "ark": {
-            "lisibilite": "Lisible"
-        }
+    "metadata.authors": {
+      "readability": "Readable",
+      "correction": "Augustin Cauchy"
+    },
+    "metadata.publisher": {
+      "readability": "Readable"
+    },
+    "metadata.publication_place": {
+      "readability": "Readable"
+    },
+    "metadata.date": {
+      "readability": "Not readable",
+      "cause": "quality",
+      "correction": "1892"
+    },
+    "language": {
+      "readability": "Readable"
+    },
+    "metadata.identifier": {
+      "readability": "Readable"
+    },
+    "metadata.iiif_manifest": {
+      "readability": "Readable"
+    },
+    "ark": {
+      "readability": "Readable"
     }
+  },
+  "language": "fr (French)"
 }

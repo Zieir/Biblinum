@@ -1,61 +1,55 @@
 {
-    "metadata": {
-        "title": "CHIMIE VÉGÉTALE ET AGRICOLE",
-        "title_complement": "RECHERCHES SPÉCIALES SUR LA VÉGÉTATION",
-        "volume_number": "TOME TROISIÈME",
-        "authors": "M. BERTHELOT",
-        "publisher": "MASSON ET Cie ; LIBRAIRIE GAUTHIER-VILLARS",
-        "publication_place": "PARIS",
-        "date": "1899",
-        "identifier": "http://gallica.bnf.fr/ark:/12148/bpt6k916988",
-        "iiif_manifest": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k916988/manifest.json"
+  "metadata": {
+    "title": "CHIMIE VÉGÉTALE ET AGRICOLE",
+    "title_complement": "RECHERCHES SPÉCIALES SUR LA VÉGÉTATION",
+    "volume_number": "TOME TROISIÈME",
+    "authors": "M. BERTHELOT",
+    "publisher": "MASSON ET Cie ; LIBRAIRIE GAUTHIER-VILLARS",
+    "publication_place": "PARIS",
+    "date": "1899",
+    "identifier": "http://gallica.bnf.fr/ark:/12148/bpt6k916988",
+    "iiif_manifest": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k916988/manifest.json"
+  },
+  "ark": "bpt6k916988",
+  "typographie": {
+    "category": "Serif/Roman",
+    "subtype": "Didone (Modern)"
+  },
+  "_annotations": {
+    "metadata.title": {
+      "readability": "Readable"
     },
-    "langue": "fr (French)",
-    "ark": "bpt6k916988",
-    "typographie_suggestion": {
-        "category": "Serif/Roman",
-        "subtype": "Didone (Modern)",
-        "explanation": "The text features the high contrast between thick and thin strokes, vertical stress, and unbracketed, hairline serifs characteristic of the Didone style (similar to Bodoni or Didot), which was standard for formal French academic and scientific publications of the late 19th century.",
-        "raw": "Category: Serif/Roman\nSubtype: Didone (Modern)\nExplanation: The text features the high contrast between thick and thin strokes, vertical stress, and unbracketed, hairline serifs characteristic of the Didone style (similar to Bodoni or Didot), which was standard for formal French academic and scientific publications of the late 19th century."
+    "metadata.title_complement": {
+      "readability": "Readable"
     },
-    "typographie": {
-        "category": "Serif/Roman",
-        "subtype": "Didone (Modern)"
+    "metadata.volume_number": {
+      "readability": "Readable"
     },
-    "_annotations": {
-        "metadata.title": {
-            "lisibilite": "Lisible"
-        },
-        "metadata.title_complement": {
-            "lisibilite": "Lisible"
-        },
-        "metadata.volume_number": {
-            "lisibilite": "Lisible"
-        },
-        "metadata.authors": {
-            "lisibilite": "Lisible",
-            "correction": "M. BERTHELOT"
-        },
-        "metadata.publisher": {
-            "lisibilite": "Lisible"
-        },
-        "metadata.publication_place": {
-            "lisibilite": "Lisible"
-        },
-        "metadata.date": {
-            "lisibilite": "Lisible"
-        },
-        "langue": {
-            "lisibilite": "Lisible"
-        },
-        "metadata.identifier": {
-            "lisibilite": "Lisible"
-        },
-        "metadata.iiif_manifest": {
-            "lisibilite": "Lisible"
-        },
-        "ark": {
-            "lisibilite": "Lisible"
-        }
+    "metadata.authors": {
+      "readability": "Readable",
+      "correction": "M. BERTHELOT"
+    },
+    "metadata.publisher": {
+      "readability": "Readable"
+    },
+    "metadata.publication_place": {
+      "readability": "Readable"
+    },
+    "metadata.date": {
+      "readability": "Readable"
+    },
+    "language": {
+      "readability": "Readable"
+    },
+    "metadata.identifier": {
+      "readability": "Readable"
+    },
+    "metadata.iiif_manifest": {
+      "readability": "Readable"
+    },
+    "ark": {
+      "readability": "Readable"
     }
+  },
+  "language": "fr (French)"
 }

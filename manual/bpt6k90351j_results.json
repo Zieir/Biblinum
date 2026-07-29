@@ -1,67 +1,61 @@
 {
-    "metadata": {
-        "title": "ONORANZE CENTENARIE AD ASCANIO SOBRERO",
-        "title_complement": "",
-        "volume_number": "",
-        "authors": "Associazione Chimica Industriale di Torino",
-        "publisher": "Unione Tipografico-Editrice Torinese",
-        "publication_place": "TORINO",
-        "date": "1914",
-        "identifier": "http://gallica.bnf.fr/ark:/12148/bpt6k90351j",
-        "iiif_manifest": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k90351j/manifest.json"
+  "metadata": {
+    "title": "ONORANZE CENTENARIE AD ASCANIO SOBRERO",
+    "title_complement": "",
+    "volume_number": "",
+    "authors": "Associazione Chimica Industriale di Torino",
+    "publisher": "Unione Tipografico-Editrice Torinese",
+    "publication_place": "TORINO",
+    "date": "1914",
+    "identifier": "http://gallica.bnf.fr/ark:/12148/bpt6k90351j",
+    "iiif_manifest": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k90351j/manifest.json"
+  },
+  "ark": "bpt6k90351j",
+  "typographie": {
+    "category": "Serif/Roman",
+    "subtype": "Slab Serif (Egyptian)"
+  },
+  "_annotations": {
+    "metadata.title": {
+      "readability": "Readable",
+      "correction": "ONORANZE CENTENARIE AD ASCANIO SOBRERO"
     },
-    "langue": "it (Italian)",
-    "ark": "bpt6k90351j",
-    "typographie_suggestion": {
-        "category": "Serif/Roman",
-        "subtype": "Slab Serif (Egyptian)",
-        "explanation": "The typeface features thick, block-like serifs with little to no bracketing between the serif and the stem, characteristic of the Slab Serif style common in early 20th-century printing and formal announcements.",
-        "raw": "Category: Serif/Roman\nSubtype: Slab Serif (Egyptian)\nExplanation: The typeface features thick, block-like serifs with little to no bracketing between the serif and the stem, characteristic of the Slab Serif style common in early 20th-century printing and formal announcements."
+    "metadata.title_complement": {
+      "readability": "Not readable",
+      "cause": "absent"
     },
-    "typographie": {
-        "category": "Serif/Roman",
-        "subtype": "Slab Serif (Egyptian)"
+    "metadata.volume_number": {
+      "readability": "Not readable",
+      "cause": "absent"
     },
-    "_annotations": {
-        "metadata.title": {
-            "lisibilite": "Lisible",
-            "correction": "ONORANZE CENTENARIE AD ASCANIO SOBRERO"
-        },
-        "metadata.title_complement": {
-            "lisibilite": "Non lisible",
-            "cause": "absent"
-        },
-        "metadata.volume_number": {
-            "lisibilite": "Non lisible",
-            "cause": "absent"
-        },
-        "metadata.authors": {
-            "lisibilite": "Lisible",
-            "correction": "Associazione Chimica Industriale di Torino"
-        },
-        "metadata.publisher": {
-            "lisibilite": "Lisible",
-            "correction": "Unione Tipografico-Editrice Torinese"
-        },
-        "metadata.publication_place": {
-            "lisibilite": "Lisible",
-            "correction": "TORINO"
-        },
-        "metadata.date": {
-            "lisibilite": "Lisible",
-            "correction": "1914"
-        },
-        "langue": {
-            "lisibilite": "Lisible"
-        },
-        "metadata.identifier": {
-            "lisibilite": "Lisible"
-        },
-        "metadata.iiif_manifest": {
-            "lisibilite": "Lisible"
-        },
-        "ark": {
-            "lisibilite": "Lisible"
-        }
+    "metadata.authors": {
+      "readability": "Readable",
+      "correction": "Associazione Chimica Industriale di Torino"
+    },
+    "metadata.publisher": {
+      "readability": "Readable",
+      "correction": "Unione Tipografico-Editrice Torinese"
+    },
+    "metadata.publication_place": {
+      "readability": "Readable",
+      "correction": "TORINO"
+    },
+    "metadata.date": {
+      "readability": "Readable",
+      "correction": "1914"
+    },
+    "language": {
+      "readability": "Readable"
+    },
+    "metadata.identifier": {
+      "readability": "Readable"
+    },
+    "metadata.iiif_manifest": {
+      "readability": "Readable"
+    },
+    "ark": {
+      "readability": "Readable"
     }
+  },
+  "language": "it (Italian)"
 }

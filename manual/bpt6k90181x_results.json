@@ -1,68 +1,62 @@
 {
-    "metadata": {
-        "title": "ŒUVRES COMPLÈTES d'AUGUSTIN CAUCHY",
-        "title_complement": "",
-        "volume_number": "1re Série - TOME I",
-        "authors": "Augustin CAUCHY",
-        "publisher": "Gauthier-Villars ",
-        "publication_place": "PARIS",
-        "date": "1882",
-        "identifier": "http://gallica.bnf.fr/ark:/12148/bpt6k90181x",
-        "iiif_manifest": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k90181x/manifest.json"
+  "metadata": {
+    "title": "ŒUVRES COMPLÈTES d'AUGUSTIN CAUCHY",
+    "title_complement": "",
+    "volume_number": "1re Série - TOME I",
+    "authors": "Augustin CAUCHY",
+    "publisher": "Gauthier-Villars ",
+    "publication_place": "PARIS",
+    "date": "1882",
+    "identifier": "http://gallica.bnf.fr/ark:/12148/bpt6k90181x",
+    "iiif_manifest": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k90181x/manifest.json"
+  },
+  "ark": "bpt6k90181x",
+  "typographie": {
+    "category": "Serif/Roman",
+    "subtype": "Didone (Modern)"
+  },
+  "_annotations": {
+    "metadata.title": {
+      "readability": "Readable",
+      "correction": "ŒUVRES COMPLÈTES d'AUGUSTIN CAUCHY"
     },
-    "langue": "fr (French)",
-    "ark": "bpt6k90181x",
-    "typographie_suggestion": {
-        "category": "Serif/Roman",
-        "subtype": "Didone (Modern)",
-        "explanation": "The typeface features the high contrast between thick and thin strokes, vertical stress, and small, unbracketed (hairline) serifs characteristic of the \"Modern\" style popularized by Didot and Bodoni in the late 18th and early 19th centuries.",
-        "raw": "Category: Serif/Roman\nSubtype: Didone (Modern)\nExplanation: The typeface features the high contrast between thick and thin strokes, vertical stress, and small, unbracketed (hairline) serifs characteristic of the \"Modern\" style popularized by Didot and Bodoni in the late 18th and early 19th centuries."
+    "metadata.title_complement": {
+      "readability": "Not readable",
+      "cause": "absent",
+      "correction": ""
     },
-    "typographie": {
-        "category": "Serif/Roman",
-        "subtype": "Didone (Modern)"
+    "metadata.volume_number": {
+      "readability": "Readable",
+      "correction": "1re Série - TOME I"
     },
-    "_annotations": {
-        "metadata.title": {
-            "lisibilite": "Lisible",
-            "correction": "ŒUVRES COMPLÈTES d'AUGUSTIN CAUCHY"
-        },
-        "metadata.title_complement": {
-            "lisibilite": "Non lisible",
-            "cause": "absent",
-            "correction": ""
-        },
-        "metadata.volume_number": {
-            "lisibilite": "Lisible",
-            "correction": "1re Série - TOME I"
-        },
-        "metadata.authors": {
-            "lisibilite": "Lisible",
-            "correction": "Augustin CAUCHY"
-        },
-        "metadata.publisher": {
-            "lisibilite": "Lisible",
-            "correction": "Gauthier-Villars "
-        },
-        "metadata.publication_place": {
-            "lisibilite": "Lisible",
-            "correction": "PARIS"
-        },
-        "metadata.date": {
-            "lisibilite": "Lisible",
-            "correction": "1882"
-        },
-        "langue": {
-            "lisibilite": "Lisible"
-        },
-        "metadata.identifier": {
-            "lisibilite": "Lisible"
-        },
-        "metadata.iiif_manifest": {
-            "lisibilite": "Lisible"
-        },
-        "ark": {
-            "lisibilite": "Lisible"
-        }
+    "metadata.authors": {
+      "readability": "Readable",
+      "correction": "Augustin CAUCHY"
+    },
+    "metadata.publisher": {
+      "readability": "Readable",
+      "correction": "Gauthier-Villars "
+    },
+    "metadata.publication_place": {
+      "readability": "Readable",
+      "correction": "PARIS"
+    },
+    "metadata.date": {
+      "readability": "Readable",
+      "correction": "1882"
+    },
+    "language": {
+      "readability": "Readable"
+    },
+    "metadata.identifier": {
+      "readability": "Readable"
+    },
+    "metadata.iiif_manifest": {
+      "readability": "Readable"
+    },
+    "ark": {
+      "readability": "Readable"
     }
+  },
+  "language": "fr (French)"
 }

@@ -1,63 +1,57 @@
 {
-    "metadata": {
-        "title": "WÖHLER'S GRUNDRISS DER ORGANISCHEN CHEMIE",
-        "title_complement": "",
-        "volume_number": "",
-        "authors": "RUDOLPH FITTIG",
-        "publisher": "DUNCKER & HUMBLOT",
-        "publication_place": "LEIPZIG",
-        "date": "1872",
-        "identifier": "http://gallica.bnf.fr/ark:/12148/bpt6k90636g",
-        "iiif_manifest": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k90636g/manifest.json"
+  "metadata": {
+    "title": "WÖHLER'S GRUNDRISS DER ORGANISCHEN CHEMIE",
+    "title_complement": "",
+    "volume_number": "",
+    "authors": "RUDOLPH FITTIG",
+    "publisher": "DUNCKER & HUMBLOT",
+    "publication_place": "LEIPZIG",
+    "date": "1872",
+    "identifier": "http://gallica.bnf.fr/ark:/12148/bpt6k90636g",
+    "iiif_manifest": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k90636g/manifest.json"
+  },
+  "ark": "bpt6k90636g",
+  "typographie": {
+    "category": "Serif/Roman",
+    "subtype": "Didone (Modern)"
+  },
+  "_annotations": {
+    "metadata.title": {
+      "readability": "Readable",
+      "correction": "WÖHLER'S GRUNDRISS DER ORGANISCHEN CHEMIE"
     },
-    "langue": "de (German)",
-    "ark": "bpt6k90636g",
-    "typographie_suggestion": {
-        "category": "Serif/Roman",
-        "subtype": "Didone (Modern)",
-        "explanation": "The typeface features a high contrast between thick and thin strokes, vertical stress, and small, unbracketed (flat) serifs, which are characteristic of the Modern/Didone style popular in the 18th and 19th centuries.",
-        "raw": "Category: Serif/Roman\nSubtype: Didone (Modern)\nExplanation: The typeface features a high contrast between thick and thin strokes, vertical stress, and small, unbracketed (flat) serifs, which are characteristic of the Modern/Didone style popular in the 18th and 19th centuries."
+    "metadata.title_complement": {
+      "readability": "Readable"
     },
-    "typographie": {
-        "category": "Serif/Roman",
-        "subtype": "Didone (Modern)"
+    "metadata.volume_number": {
+      "readability": "Not readable",
+      "cause": "absent",
+      "correction": ""
     },
-    "_annotations": {
-        "metadata.title": {
-            "lisibilite": "Lisible",
-            "correction": "WÖHLER'S GRUNDRISS DER ORGANISCHEN CHEMIE"
-        },
-        "metadata.title_complement": {
-            "lisibilite": "Lisible"
-        },
-        "metadata.volume_number": {
-            "lisibilite": "Non lisible",
-            "cause": "absent",
-            "correction": ""
-        },
-        "metadata.authors": {
-            "lisibilite": "Lisible"
-        },
-        "metadata.publisher": {
-            "lisibilite": "Lisible"
-        },
-        "metadata.publication_place": {
-            "lisibilite": "Lisible"
-        },
-        "metadata.date": {
-            "lisibilite": "Lisible"
-        },
-        "langue": {
-            "lisibilite": "Lisible"
-        },
-        "metadata.identifier": {
-            "lisibilite": "Lisible"
-        },
-        "metadata.iiif_manifest": {
-            "lisibilite": "Lisible"
-        },
-        "ark": {
-            "lisibilite": "Lisible"
-        }
+    "metadata.authors": {
+      "readability": "Readable"
+    },
+    "metadata.publisher": {
+      "readability": "Readable"
+    },
+    "metadata.publication_place": {
+      "readability": "Readable"
+    },
+    "metadata.date": {
+      "readability": "Readable"
+    },
+    "language": {
+      "readability": "Readable"
+    },
+    "metadata.identifier": {
+      "readability": "Readable"
+    },
+    "metadata.iiif_manifest": {
+      "readability": "Readable"
+    },
+    "ark": {
+      "readability": "Readable"
     }
+  },
+  "language": "de (German)"
 }

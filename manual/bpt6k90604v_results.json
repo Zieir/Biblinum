@@ -1,63 +1,57 @@
 {
-    "metadata": {
-        "title": "LOIS GÉNÉRALES DE LA CHIMIE",
-        "title_complement": "INTRODUCTION DU COURS DE CHIMIE GÉNÉRALE PROFESSÉ A L'ÉCOLE NATIONALE DES MINES",
-        "volume_number": "",
-        "authors": "G. CHESNEAU",
-        "publisher": "LIBRAIRIE POLYTECHNIQUE CH. BÉRANGER",
-        "publication_place": "PARIS; LIÈGE",
-        "date": "1899",
-        "identifier": "http://gallica.bnf.fr/ark:/12148/bpt6k90604v",
-        "iiif_manifest": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k90604v/manifest.json"
+  "metadata": {
+    "title": "LOIS GÉNÉRALES DE LA CHIMIE",
+    "title_complement": "INTRODUCTION DU COURS DE CHIMIE GÉNÉRALE PROFESSÉ A L'ÉCOLE NATIONALE DES MINES",
+    "volume_number": "",
+    "authors": "G. CHESNEAU",
+    "publisher": "LIBRAIRIE POLYTECHNIQUE CH. BÉRANGER",
+    "publication_place": "PARIS; LIÈGE",
+    "date": "1899",
+    "identifier": "http://gallica.bnf.fr/ark:/12148/bpt6k90604v",
+    "iiif_manifest": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k90604v/manifest.json"
+  },
+  "ark": "bpt6k90604v",
+  "typographie": {
+    "category": "Serif/Roman",
+    "subtype": "Didone (Modern)"
+  },
+  "_annotations": {
+    "metadata.title": {
+      "readability": "Readable"
     },
-    "langue": "fr (French)",
-    "ark": "bpt6k90604v",
-    "typographie_suggestion": {
-        "category": "Serif/Roman",
-        "subtype": "Didone (Modern)",
-        "explanation": "The typeface features the high contrast between thick and thin strokes, vertical stress, and small, horizontal serifs characteristic of the \"Modern\" or Didone style (similar to Bodoni or Didot), which was prevalent in academic and formal French publishing during the late 19th century.",
-        "raw": "Category: Serif/Roman\nSubtype: Didone (Modern)\nExplanation: The typeface features the high contrast between thick and thin strokes, vertical stress, and small, horizontal serifs characteristic of the \"Modern\" or Didone style (similar to Bodoni or Didot), which was prevalent in academic and formal French publishing during the late 19th century."
+    "metadata.title_complement": {
+      "readability": "Readable"
     },
-    "typographie": {
-        "category": "Serif/Roman",
-        "subtype": "Didone (Modern)"
+    "metadata.volume_number": {
+      "readability": "Not readable",
+      "cause": "absent"
     },
-    "_annotations": {
-        "metadata.title": {
-            "lisibilite": "Lisible"
-        },
-        "metadata.title_complement": {
-            "lisibilite": "Lisible"
-        },
-        "metadata.volume_number": {
-            "lisibilite": "Non lisible",
-            "cause": "absent"
-        },
-        "metadata.authors": {
-            "lisibilite": "Lisible",
-            "correction": "G. CHESNEAU"
-        },
-        "metadata.publisher": {
-            "lisibilite": "Lisible"
-        },
-        "metadata.publication_place": {
-            "lisibilite": "Lisible",
-            "correction": "PARIS; LIÈGE"
-        },
-        "metadata.date": {
-            "lisibilite": "Lisible"
-        },
-        "langue": {
-            "lisibilite": "Lisible"
-        },
-        "metadata.identifier": {
-            "lisibilite": "Lisible"
-        },
-        "metadata.iiif_manifest": {
-            "lisibilite": "Lisible"
-        },
-        "ark": {
-            "lisibilite": "Lisible"
-        }
+    "metadata.authors": {
+      "readability": "Readable",
+      "correction": "G. CHESNEAU"
+    },
+    "metadata.publisher": {
+      "readability": "Readable"
+    },
+    "metadata.publication_place": {
+      "readability": "Readable",
+      "correction": "PARIS; LIÈGE"
+    },
+    "metadata.date": {
+      "readability": "Readable"
+    },
+    "language": {
+      "readability": "Readable"
+    },
+    "metadata.identifier": {
+      "readability": "Readable"
+    },
+    "metadata.iiif_manifest": {
+      "readability": "Readable"
+    },
+    "ark": {
+      "readability": "Readable"
     }
+  },
+  "language": "fr (French)"
 }

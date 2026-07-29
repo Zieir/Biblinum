@@ -1,66 +1,60 @@
 {
-    "metadata": {
-        "title": "DOCIMASIE",
-        "title_complement": "traité des substances minérales à l'usage des ingénieurs des mines et des directeurs de mines et d'usines",
-        "volume_number": "TOME TROISIÈME",
-        "authors": "L. -E. RIVOT",
-        "publisher": "Baudry et Cie",
-        "publication_place": "PARIS",
-        "date": "1886",
-        "identifier": "http://gallica.bnf.fr/ark:/12148/bpt6k90030r",
-        "iiif_manifest": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k90030r/manifest.json"
+  "metadata": {
+    "title": "DOCIMASIE",
+    "title_complement": "traité des substances minérales à l'usage des ingénieurs des mines et des directeurs de mines et d'usines",
+    "volume_number": "TOME TROISIÈME",
+    "authors": "L. -E. RIVOT",
+    "publisher": "Baudry et Cie",
+    "publication_place": "PARIS",
+    "date": "1886",
+    "identifier": "http://gallica.bnf.fr/ark:/12148/bpt6k90030r",
+    "iiif_manifest": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k90030r/manifest.json"
+  },
+  "ark": "bpt6k90030r",
+  "typographie": {
+    "category": "Serif/Roman",
+    "subtype": "Didone (Modern)"
+  },
+  "_annotations": {
+    "metadata.title": {
+      "readability": "Readable"
     },
-    "langue": "fr (French)",
-    "ark": "bpt6k90030r",
-    "typographie_suggestion": {
-        "category": "Serif/Roman",
-        "subtype": "Didone (Modern)",
-        "explanation": "The main text (\"DOCIMASIE\") features the high contrast between thick and thin strokes and vertical stress characteristic of the Didone style, which was prominent in late 18th and 19th-century printing.",
-        "raw": "Category: Serif/Roman\nSubtype: Didone (Modern)\nExplanation: The main text (\"DOCIMASIE\") features the high contrast between thick and thin strokes and vertical stress characteristic of the Didone style, which was prominent in late 18th and 19th-century printing."
+    "metadata.title_complement": {
+      "readability": "Readable",
+      "correction": "traité des substances minérales à l'usage des ingénieurs des mines et des directeurs de mines et d'usines"
     },
-    "typographie": {
-        "category": "Serif/Roman",
-        "subtype": "Didone (Modern)"
+    "metadata.volume_number": {
+      "readability": "Readable",
+      "correction": "TOME TROISIÈME"
     },
-    "_annotations": {
-        "metadata.title": {
-            "lisibilite": "Lisible"
-        },
-        "metadata.title_complement": {
-            "lisibilite": "Lisible",
-            "correction": "traité des substances minérales à l'usage des ingénieurs des mines et des directeurs de mines et d'usines"
-        },
-        "metadata.volume_number": {
-            "lisibilite": "Lisible",
-            "correction": "TOME TROISIÈME"
-        },
-        "metadata.authors": {
-            "lisibilite": "Lisible",
-            "correction": "L. -E. RIVOT"
-        },
-        "metadata.publisher": {
-            "lisibilite": "Lisible",
-            "correction": "Baudry et Cie"
-        },
-        "metadata.publication_place": {
-            "lisibilite": "Lisible",
-            "correction": "PARIS"
-        },
-        "metadata.date": {
-            "lisibilite": "Lisible",
-            "correction": "1886"
-        },
-        "langue": {
-            "lisibilite": "Lisible"
-        },
-        "metadata.identifier": {
-            "lisibilite": "Lisible"
-        },
-        "metadata.iiif_manifest": {
-            "lisibilite": "Lisible"
-        },
-        "ark": {
-            "lisibilite": "Lisible"
-        }
+    "metadata.authors": {
+      "readability": "Readable",
+      "correction": "L. -E. RIVOT"
+    },
+    "metadata.publisher": {
+      "readability": "Readable",
+      "correction": "Baudry et Cie"
+    },
+    "metadata.publication_place": {
+      "readability": "Readable",
+      "correction": "PARIS"
+    },
+    "metadata.date": {
+      "readability": "Readable",
+      "correction": "1886"
+    },
+    "language": {
+      "readability": "Readable"
+    },
+    "metadata.identifier": {
+      "readability": "Readable"
+    },
+    "metadata.iiif_manifest": {
+      "readability": "Readable"
+    },
+    "ark": {
+      "readability": "Readable"
     }
+  },
+  "language": "fr (French)"
 }

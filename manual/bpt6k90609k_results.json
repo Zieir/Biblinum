@@ -1,67 +1,61 @@
 {
-    "metadata": {
-        "title": "ÉCOLE CENTRALE DES ARTS ET MANUFACTURES",
-        "title_complement": "1829 - 1879",
-        "volume_number": "",
-        "authors": "",
-        "publisher": "",
-        "publication_place": "",
-        "date": "1879",
-        "identifier": "http://gallica.bnf.fr/ark:/12148/bpt6k90609k",
-        "iiif_manifest": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k90609k/manifest.json"
+  "metadata": {
+    "title": "ÉCOLE CENTRALE DES ARTS ET MANUFACTURES",
+    "title_complement": "1829 - 1879",
+    "volume_number": "",
+    "authors": "",
+    "publisher": "",
+    "publication_place": "",
+    "date": "1879",
+    "identifier": "http://gallica.bnf.fr/ark:/12148/bpt6k90609k",
+    "iiif_manifest": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k90609k/manifest.json"
+  },
+  "ark": "bpt6k90609k",
+  "typographie": {
+    "category": "Serif/Roman",
+    "subtype": "Slab Serif (Egyptian)"
+  },
+  "_annotations": {
+    "metadata.title": {
+      "readability": "Readable",
+      "correction": "ÉCOLE CENTRALE DES ARTS ET MANUFACTURES"
     },
-    "langue": "fr (French)",
-    "ark": "bpt6k90609k",
-    "typographie_suggestion": {
-        "category": "Serif/Roman",
-        "subtype": "Slab Serif (Egyptian)",
-        "explanation": "The typeface features thick, block-like serifs with little to no bracketing, characteristic of the Slab Serif style common in 19th-century institutional and commercial printing.",
-        "raw": "Based on the primary printed text (\"ÉCOLE CENTRALE\"):\n\nCategory: Serif/Roman\nSubtype: Slab Serif (Egyptian)\nExplanation: The typeface features thick, block-like serifs with little to no bracketing, characteristic of the Slab Serif style common in 19th-century institutional and commercial printing."
+    "metadata.title_complement": {
+      "readability": "Readable",
+      "correction": "1829 - 1879"
     },
-    "typographie": {
-        "category": "Serif/Roman",
-        "subtype": "Slab Serif (Egyptian)"
+    "metadata.volume_number": {
+      "readability": "Not readable",
+      "cause": "absent"
     },
-    "_annotations": {
-        "metadata.title": {
-            "lisibilite": "Lisible",
-            "correction": "ÉCOLE CENTRALE DES ARTS ET MANUFACTURES"
-        },
-        "metadata.title_complement": {
-            "lisibilite": "Lisible",
-            "correction": "1829 - 1879"
-        },
-        "metadata.volume_number": {
-            "lisibilite": "Non lisible",
-            "cause": "absent"
-        },
-        "metadata.authors": {
-            "lisibilite": "Non lisible",
-            "cause": "absent"
-        },
-        "metadata.publisher": {
-            "lisibilite": "Non lisible",
-            "cause": "absent",
-            "correction": ""
-        },
-        "metadata.publication_place": {
-            "lisibilite": "Non lisible",
-            "cause": "absent"
-        },
-        "metadata.date": {
-            "lisibilite": "Lisible"
-        },
-        "langue": {
-            "lisibilite": "Lisible"
-        },
-        "metadata.identifier": {
-            "lisibilite": "Lisible"
-        },
-        "metadata.iiif_manifest": {
-            "lisibilite": "Lisible"
-        },
-        "ark": {
-            "lisibilite": "Lisible"
-        }
+    "metadata.authors": {
+      "readability": "Not readable",
+      "cause": "absent"
+    },
+    "metadata.publisher": {
+      "readability": "Not readable",
+      "cause": "absent",
+      "correction": ""
+    },
+    "metadata.publication_place": {
+      "readability": "Not readable",
+      "cause": "absent"
+    },
+    "metadata.date": {
+      "readability": "Readable"
+    },
+    "language": {
+      "readability": "Readable"
+    },
+    "metadata.identifier": {
+      "readability": "Readable"
+    },
+    "metadata.iiif_manifest": {
+      "readability": "Readable"
+    },
+    "ark": {
+      "readability": "Readable"
     }
+  },
+  "language": "fr (French)"
 }

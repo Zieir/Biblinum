@@ -1,63 +1,57 @@
 {
-    "metadata": {
-        "title": "COURS DE CHYMIE",
-        "title_complement": "CONTENANT LA MANIERE DE FAIRE LES OPERATIONS QUI SONT En usage dans la Médecine, par une Méthode facile.",
-        "volume_number": "",
-        "authors": "LEMERY",
-        "publisher": "Chez Laurent-Charles D'Houry, Fils",
-        "publication_place": "PARIS",
-        "date": "1757",
-        "identifier": "http://gallica.bnf.fr/ark:/12148/bpt6k918604",
-        "iiif_manifest": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k918604/manifest.json"
+  "metadata": {
+    "title": "COURS DE CHYMIE",
+    "title_complement": "CONTENANT LA MANIERE DE FAIRE LES OPERATIONS QUI SONT En usage dans la Médecine, par une Méthode facile.",
+    "volume_number": "",
+    "authors": "LEMERY",
+    "publisher": "Chez Laurent-Charles D'Houry, Fils",
+    "publication_place": "PARIS",
+    "date": "1757",
+    "identifier": "http://gallica.bnf.fr/ark:/12148/bpt6k918604",
+    "iiif_manifest": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k918604/manifest.json"
+  },
+  "ark": "bpt6k918604",
+  "typographie": {
+    "category": "Serif/Roman",
+    "subtype": "Old Style (Garalde)"
+  },
+  "_annotations": {
+    "metadata.title": {
+      "readability": "Readable"
     },
-    "langue": "fr (French)",
-    "ark": "bpt6k918604",
-    "typographie_suggestion": {
-        "category": "Serif/Roman",
-        "subtype": "Old Style (Garalde)",
-        "explanation": "The text features the characteristic traits of 17th and 18th-century French printing, characterized by moderate contrast between thick and thin strokes, slanted serifs, and a humanist axis. The large display capitals for \"COURS DE CHYMIE\" exhibit the classic proportions of the Old Style period.",
-        "raw": "Category: Serif/Roman\nSubtype: Old Style (Garalde)\nExplanation: The text features the characteristic traits of 17th and 18th-century French printing, characterized by moderate contrast between thick and thin strokes, slanted serifs, and a humanist axis. The large display capitals for \"COURS DE CHYMIE\" exhibit the classic proportions of the Old Style period."
+    "metadata.title_complement": {
+      "readability": "Readable"
     },
-    "typographie": {
-        "category": "Serif/Roman",
-        "subtype": "Old Style (Garalde)"
+    "metadata.volume_number": {
+      "readability": "Not readable",
+      "cause": "absent"
     },
-    "_annotations": {
-        "metadata.title": {
-            "lisibilite": "Lisible"
-        },
-        "metadata.title_complement": {
-            "lisibilite": "Lisible"
-        },
-        "metadata.volume_number": {
-            "lisibilite": "Non lisible",
-            "cause": "absent"
-        },
-        "metadata.authors": {
-            "lisibilite": "Lisible",
-            "correction": "LEMERY"
-        },
-        "metadata.publisher": {
-            "lisibilite": "Lisible"
-        },
-        "metadata.publication_place": {
-            "lisibilite": "Lisible"
-        },
-        "metadata.date": {
-            "lisibilite": "Lisible",
-            "correction": "1757"
-        },
-        "langue": {
-            "lisibilite": "Lisible"
-        },
-        "metadata.identifier": {
-            "lisibilite": "Lisible"
-        },
-        "metadata.iiif_manifest": {
-            "lisibilite": "Lisible"
-        },
-        "ark": {
-            "lisibilite": "Lisible"
-        }
+    "metadata.authors": {
+      "readability": "Readable",
+      "correction": "LEMERY"
+    },
+    "metadata.publisher": {
+      "readability": "Readable"
+    },
+    "metadata.publication_place": {
+      "readability": "Readable"
+    },
+    "metadata.date": {
+      "readability": "Readable",
+      "correction": "1757"
+    },
+    "language": {
+      "readability": "Readable"
+    },
+    "metadata.identifier": {
+      "readability": "Readable"
+    },
+    "metadata.iiif_manifest": {
+      "readability": "Readable"
+    },
+    "ark": {
+      "readability": "Readable"
     }
+  },
+  "language": "fr (French)"
 }
