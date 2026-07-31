@@ -1,59 +1,59 @@
 {
-  "metadata": {
-    "title": "Stanislao Cannizzaro. Scritti vari e lettere inedite nel centenario della nascita",
-    "title_complement": "",
-    "volume_number": "",
-    "authors": "Associazione Italiana di Chimica Generale ed Applicata",
-    "publisher": "Tip. Leonardo da Vinci",
-    "publication_place": "ROMA",
-    "date": "1926",
-    "identifier": "http://gallica.bnf.fr/ark:/12148/bpt6k903537",
-    "iiif_manifest": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k903537/manifest.json"
-  },
-  "ark": "bpt6k903537",
-  "typographie": {
-    "category": "Serif/Roman",
-    "subtype": "Slab Serif"
-  },
-  "_annotations": {
-    "metadata.title": {
-      "readability": "Readable",
-      "correction": "Stanislao Cannizzaro. Scritti vari e lettere inedite nel centenario della nascita"
+    "metadata": {
+        "title": "Stanislao Cannizzaro. Scritti vari e lettere inedite nel centenario della nascita",
+        "title_complement": "",
+        "volume_number": "",
+        "authors": "Associazione Italiana di Chimica Generale ed Applicata",
+        "publisher": "TIP. LEONARDO DA VINCI",
+        "publication_place": "ROMA",
+        "date": "1926",
+        "identifier": "http://gallica.bnf.fr/ark:/12148/bpt6k903537",
+        "iiif_manifest": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k903537/manifest.json"
     },
-    "metadata.title_complement": {
-      "readability": "Readable",
-      "correction": ""
+    "ark": "bpt6k903537",
+    "typographie": {
+        "category": "Serif/Roman",
+        "subtype": "Slab Serif"
     },
-    "metadata.volume_number": {
-      "readability": "Not readable",
-      "cause": "absent"
+    "_annotations": {
+        "metadata.title": {
+            "readability": "Readable",
+            "correction": "Stanislao Cannizzaro. Scritti vari e lettere inedite nel centenario della nascita"
+        },
+        "metadata.title_complement": {
+            "readability": "Not readable",
+            "cause": "absent"
+        },
+        "metadata.volume_number": {
+            "readability": "Not readable",
+            "cause": "absent"
+        },
+        "metadata.authors": {
+            "readability": "Readable",
+            "correction": "Associazione Italiana di Chimica Generale ed Applicata"
+        },
+        "metadata.publisher": {
+            "readability": "Readable",
+            "correction": "Tip. Leonardo da Vinci"
+        },
+        "metadata.publication_place": {
+            "readability": "Readable"
+        },
+        "metadata.date": {
+            "readability": "Readable"
+        },
+        "language": {
+            "readability": "Readable"
+        },
+        "metadata.identifier": {
+            "readability": "Readable"
+        },
+        "metadata.iiif_manifest": {
+            "readability": "Readable"
+        },
+        "ark": {
+            "readability": "Readable"
+        }
     },
-    "metadata.authors": {
-      "readability": "Readable",
-      "correction": "Associazione Italiana di Chimica Generale ed Applicata"
-    },
-    "metadata.publisher": {
-      "readability": "Readable",
-      "correction": "Tip. Leonardo da Vinci"
-    },
-    "metadata.publication_place": {
-      "readability": "Readable"
-    },
-    "metadata.date": {
-      "readability": "Readable"
-    },
-    "language": {
-      "readability": "Readable"
-    },
-    "metadata.identifier": {
-      "readability": "Readable"
-    },
-    "metadata.iiif_manifest": {
-      "readability": "Readable"
-    },
-    "ark": {
-      "readability": "Readable"
-    }
-  },
-  "language": "it (Italian)"
+    "language": "it (Italian)"
 }

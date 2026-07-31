@@ -1,58 +1,59 @@
 {
-  "metadata": {
-    "title": "Mémoires de J.-B. Boussingault",
-    "title_complement": "",
-    "volume_number": "TOME TROISIÈME",
-    "authors": "J.-B. BOUSSINGAULT",
-    "publisher": "Chamerot et Renouard ",
-    "publication_place": "PARIS",
-    "date": "1900",
-    "identifier": "http://gallica.bnf.fr/ark:/12148/bpt6k90314b",
-    "iiif_manifest": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k90314b/manifest.json"
-  },
-  "ark": "bpt6k90314b",
-  "typographie": {
-    "category": "Serif/Roman",
-    "subtype": "Didone (Modern)"
-  },
-  "_annotations": {
-    "metadata.title": {
-      "readability": "Readable",
-      "correction": "Mémoires de J.-B. Boussingault"
+    "metadata": {
+        "title": "Mémoires de J.-B. Boussingault",
+        "title_complement": "",
+        "volume_number": "TOME TROISIÈME",
+        "authors": "J.-B. BOUSSINGAULT",
+        "publisher": "CHAMEROT ET RENOUARD",
+        "publication_place": "PARIS",
+        "date": "1900",
+        "identifier": "http://gallica.bnf.fr/ark:/12148/bpt6k90314b",
+        "iiif_manifest": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k90314b/manifest.json"
     },
-    "metadata.title_complement": {
-      "readability": "Readable"
+    "ark": "bpt6k90314b",
+    "typographie": {
+        "category": "Serif/Roman",
+        "subtype": "Didone (Modern)"
     },
-    "metadata.volume_number": {
-      "readability": "Readable"
+    "_annotations": {
+        "metadata.title": {
+            "readability": "Readable",
+            "correction": "Mémoires de J.-B. Boussingault"
+        },
+        "metadata.title_complement": {
+            "readability": "Not readable",
+            "cause": "absent"
+        },
+        "metadata.volume_number": {
+            "readability": "Readable"
+        },
+        "metadata.authors": {
+            "readability": "Readable",
+            "correction": "J.-B. BOUSSINGAULT"
+        },
+        "metadata.publisher": {
+            "readability": "Readable",
+            "correction": "Chamerot et Renouard "
+        },
+        "metadata.publication_place": {
+            "readability": "Readable"
+        },
+        "metadata.date": {
+            "readability": "Readable",
+            "correction": "1900"
+        },
+        "language": {
+            "readability": "Readable"
+        },
+        "metadata.identifier": {
+            "readability": "Readable"
+        },
+        "metadata.iiif_manifest": {
+            "readability": "Readable"
+        },
+        "ark": {
+            "readability": "Readable"
+        }
     },
-    "metadata.authors": {
-      "readability": "Readable",
-      "correction": "J.-B. BOUSSINGAULT"
-    },
-    "metadata.publisher": {
-      "readability": "Readable",
-      "correction": "Chamerot et Renouard "
-    },
-    "metadata.publication_place": {
-      "readability": "Readable"
-    },
-    "metadata.date": {
-      "readability": "Readable",
-      "correction": "1900"
-    },
-    "language": {
-      "readability": "Readable"
-    },
-    "metadata.identifier": {
-      "readability": "Readable"
-    },
-    "metadata.iiif_manifest": {
-      "readability": "Readable"
-    },
-    "ark": {
-      "readability": "Readable"
-    }
-  },
-  "language": "fr (French)"
+    "language": "fr (French)"
 }

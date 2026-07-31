@@ -1,57 +1,57 @@
 {
-  "metadata": {
-    "title": "PRÉCIS DE CHIMIE INDUSTRIELLE",
-    "title_complement": "",
-    "volume_number": "Quatrième Edition",
-    "authors": "A. PAYEN",
-    "publisher": "LIBRAIRIE DE L. HACHETTE ET Ccie",
-    "publication_place": "PARIS",
-    "date": "1859",
-    "identifier": "http://gallica.bnf.fr/ark:/12148/bpt6k49901s",
-    "iiif_manifest": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k49901s/manifest.json"
-  },
-  "ark": "bpt6k49901s",
-  "typographie": {
-    "category": "Serif/Roman",
-    "subtype": "Didone (Modern)"
-  },
-  "_annotations": {
-    "metadata.title": {
-      "readability": "Readable"
+    "metadata": {
+        "title": "PRÉCIS DE CHIMIE INDUSTRIELLE",
+        "title_complement": "à l'usage des écoles d'arts et manufactures et d'arts et métiers. Des écoles préparatoires aux professions industrielles. Des fabricants et des agriculteurs",
+        "volume_number": "Quatrième Edition",
+        "authors": "A. PAYEN",
+        "publisher": "LIBRAIRIE DE L. HACHETTE ET CCIE",
+        "publication_place": "PARIS",
+        "date": "1859",
+        "identifier": "http://gallica.bnf.fr/ark:/12148/bpt6k49901s",
+        "iiif_manifest": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k49901s/manifest.json"
     },
-    "metadata.title_complement": {
-      "readability": "Readable"
+    "ark": "bpt6k49901s",
+    "typographie": {
+        "category": "Serif/Roman",
+        "subtype": "Didone (Modern)"
     },
-    "metadata.volume_number": {
-      "readability": "Readable",
-      "correction": "Quatrième Edition"
+    "_annotations": {
+        "metadata.title": {
+            "readability": "Readable"
+        },
+        "metadata.title_complement": {
+            "readability": "Readable"
+        },
+        "metadata.volume_number": {
+            "readability": "Readable",
+            "correction": "Quatrième Edition"
+        },
+        "metadata.authors": {
+            "readability": "Readable",
+            "correction": "A. PAYEN"
+        },
+        "metadata.publisher": {
+            "readability": "Readable"
+        },
+        "metadata.publication_place": {
+            "readability": "Readable"
+        },
+        "metadata.date": {
+            "readability": "Not readable",
+            "cause": "absent"
+        },
+        "language": {
+            "readability": "Readable"
+        },
+        "metadata.identifier": {
+            "readability": "Readable"
+        },
+        "metadata.iiif_manifest": {
+            "readability": "Readable"
+        },
+        "ark": {
+            "readability": "Readable"
+        }
     },
-    "metadata.authors": {
-      "readability": "Readable",
-      "correction": "A. PAYEN"
-    },
-    "metadata.publisher": {
-      "readability": "Readable"
-    },
-    "metadata.publication_place": {
-      "readability": "Readable"
-    },
-    "metadata.date": {
-      "readability": "Not readable",
-      "cause": "absent"
-    },
-    "language": {
-      "readability": "Readable"
-    },
-    "metadata.identifier": {
-      "readability": "Readable"
-    },
-    "metadata.iiif_manifest": {
-      "readability": "Readable"
-    },
-    "ark": {
-      "readability": "Readable"
-    }
-  },
-  "language": "fr (French)"
+    "language": "fr (French)"
 }

@@ -1,62 +1,62 @@
 {
-  "metadata": {
-    "title": "OEUVRES COMPLÈTES  d'Augustin Cauchy",
-    "title_complement": "",
-    "volume_number": "",
-    "authors": "Augustin CAUCHY",
-    "publisher": "",
-    "publication_place": "PARIS",
-    "date": "",
-    "identifier": "http://gallica.bnf.fr/ark:/12148/bpt6k90204r",
-    "iiif_manifest": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k90204r/manifest.json"
-  },
-  "ark": "bpt6k90204r",
-  "typographie": {
-    "category": "Serif/Roman",
-    "subtype": "Didone (Modern)"
-  },
-  "_annotations": {
-    "metadata.title": {
-      "readability": "Not readable",
-      "cause": "quality",
-      "correction": "OEUVRES COMPLÈTES  d'Augustin Cauchy"
+    "metadata": {
+        "title": "OEUVRES COMPLÈTES  d'Augustin Cauchy",
+        "title_complement": "",
+        "volume_number": "",
+        "authors": "Augustin CAUCHY",
+        "publisher": "",
+        "publication_place": "PARIS",
+        "date": "",
+        "identifier": "http://gallica.bnf.fr/ark:/12148/bpt6k90204r",
+        "iiif_manifest": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k90204r/manifest.json"
     },
-    "metadata.title_complement": {
-      "readability": "Readable",
-      "correction": ""
+    "ark": "bpt6k90204r",
+    "typographie": {
+        "category": "Serif/Roman",
+        "subtype": "Didone (Modern)"
     },
-    "metadata.volume_number": {
-      "readability": "Not readable",
-      "cause": "quality"
+    "_annotations": {
+        "metadata.title": {
+            "readability": "Not readable",
+            "cause": "quality",
+            "correction": "OEUVRES COMPLÈTES  d'Augustin Cauchy"
+        },
+        "metadata.title_complement": {
+            "readability": "Not readable",
+            "cause": "quality"
+        },
+        "metadata.volume_number": {
+            "readability": "Not readable",
+            "cause": "quality"
+        },
+        "metadata.authors": {
+            "readability": "Readable",
+            "correction": "Augustin CAUCHY"
+        },
+        "metadata.publisher": {
+            "readability": "Not readable",
+            "cause": "quality"
+        },
+        "metadata.publication_place": {
+            "readability": "Not readable",
+            "cause": "quality"
+        },
+        "metadata.date": {
+            "readability": "Not readable",
+            "cause": "quality"
+        },
+        "language": {
+            "readability": "Readable"
+        },
+        "metadata.identifier": {
+            "readability": "Readable"
+        },
+        "metadata.iiif_manifest": {
+            "readability": "Readable"
+        },
+        "ark": {
+            "readability": "Readable"
+        }
     },
-    "metadata.authors": {
-      "readability": "Readable",
-      "correction": "Augustin CAUCHY"
-    },
-    "metadata.publisher": {
-      "readability": "Not readable",
-      "cause": "quality"
-    },
-    "metadata.publication_place": {
-      "readability": "Not readable",
-      "cause": "quality"
-    },
-    "metadata.date": {
-      "readability": "Not readable",
-      "cause": "quality"
-    },
-    "language": {
-      "readability": "Readable"
-    },
-    "metadata.identifier": {
-      "readability": "Readable"
-    },
-    "metadata.iiif_manifest": {
-      "readability": "Readable"
-    },
-    "ark": {
-      "readability": "Readable"
-    }
-  },
-  "language": "fr (French)"
+    "language": "fr (French)"
 }

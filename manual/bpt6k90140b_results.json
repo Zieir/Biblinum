@@ -1,55 +1,56 @@
 {
-  "metadata": {
-    "title": "HEAT",
-    "title_complement": "A MODE OF MOTION",
-    "volume_number": "",
-    "authors": "John Tyndall",
-    "publisher": "Longmans, Green, and Co.",
-    "publication_place": "London",
-    "date": "1875",
-    "identifier": "http://gallica.bnf.fr/ark:/12148/bpt6k90140b",
-    "iiif_manifest": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k90140b/manifest.json"
-  },
-  "ark": "bpt6k90140b",
-  "typographie": {
-    "category": "Serif/Roman",
-    "subtype": "Modern / Didone"
-  },
-  "_annotations": {
-    "metadata.title": {
-      "readability": "Readable"
+    "metadata": {
+        "title": "HEAT",
+        "title_complement": "A MODE OF MOTION",
+        "volume_number": "",
+        "authors": "John Tyndall",
+        "publisher": "LONGMANS, GREEN, AND CO.",
+        "publication_place": "LONDON",
+        "date": "1875",
+        "identifier": "http://gallica.bnf.fr/ark:/12148/bpt6k90140b",
+        "iiif_manifest": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k90140b/manifest.json"
     },
-    "metadata.title_complement": {
-      "readability": "Readable"
+    "ark": "bpt6k90140b",
+    "typographie": {
+        "category": "Serif/Roman",
+        "subtype": "Modern / Didone"
     },
-    "metadata.volume_number": {
-      "readability": "Readable"
+    "_annotations": {
+        "metadata.title": {
+            "readability": "Readable"
+        },
+        "metadata.title_complement": {
+            "readability": "Readable"
+        },
+        "metadata.volume_number": {
+            "readability": "Not readable",
+            "cause": "absent"
+        },
+        "metadata.authors": {
+            "readability": "Readable",
+            "correction": "John Tyndall"
+        },
+        "metadata.publisher": {
+            "readability": "Readable"
+        },
+        "metadata.publication_place": {
+            "readability": "Readable"
+        },
+        "metadata.date": {
+            "readability": "Readable"
+        },
+        "language": {
+            "readability": "Readable"
+        },
+        "metadata.identifier": {
+            "readability": "Readable"
+        },
+        "metadata.iiif_manifest": {
+            "readability": "Readable"
+        },
+        "ark": {
+            "readability": "Readable"
+        }
     },
-    "metadata.authors": {
-      "readability": "Readable",
-      "correction": "John Tyndall"
-    },
-    "metadata.publisher": {
-      "readability": "Readable"
-    },
-    "metadata.publication_place": {
-      "readability": "Readable"
-    },
-    "metadata.date": {
-      "readability": "Readable"
-    },
-    "language": {
-      "readability": "Readable"
-    },
-    "metadata.identifier": {
-      "readability": "Readable"
-    },
-    "metadata.iiif_manifest": {
-      "readability": "Readable"
-    },
-    "ark": {
-      "readability": "Readable"
-    }
-  },
-  "language": "en (English)"
+    "language": "en (English)"
 }

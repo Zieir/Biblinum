@@ -41,7 +41,8 @@
       "correction": ""
     },
     "metadata.date": {
-      "readability": "Readable"
+      "readability": "Not readable",
+      "cause": "absent"
     },
     "language": {
       "readability": "Readable"

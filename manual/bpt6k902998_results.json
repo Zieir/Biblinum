@@ -1,57 +1,58 @@
 {
-  "metadata": {
-    "title": "CHIMIE ORGANIQUE",
-    "title_complement": "PRINCIPES DE LA CLASSIFICATION DES SUBSTANCES ORGANIQUES",
-    "volume_number": "",
-    "authors": "A. Edme BOURGOIN",
-    "publisher": "LIBRAIRIE J. -B. BAILLIÈRE ET FILS",
-    "publication_place": "PARIS",
-    "date": "1876",
-    "identifier": "http://gallica.bnf.fr/ark:/12148/bpt6k902998",
-    "iiif_manifest": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k902998/manifest.json"
-  },
-  "ark": "bpt6k902998",
-  "typographie": {
-    "category": "Serif/Roman",
-    "subtype": "Didone (Modern)"
-  },
-  "_annotations": {
-    "metadata.title": {
-      "readability": "Readable"
+    "metadata": {
+        "title": "CHIMIE ORGANIQUE",
+        "title_complement": "PRINCIPES DE LA CLASSIFICATION DES SUBSTANCES ORGANIQUES",
+        "volume_number": "",
+        "authors": "A. Edme BOURGOIN",
+        "publisher": "LIBRAIRIE J. -B. BAILLIÈRE ET FILS",
+        "publication_place": "PARIS",
+        "date": "1876",
+        "identifier": "http://gallica.bnf.fr/ark:/12148/bpt6k902998",
+        "iiif_manifest": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k902998/manifest.json"
     },
-    "metadata.title_complement": {
-      "readability": "Readable"
+    "ark": "bpt6k902998",
+    "typographie": {
+        "category": "Serif/Roman",
+        "subtype": "Didone (Modern)"
     },
-    "metadata.volume_number": {
-      "readability": "Readable"
+    "_annotations": {
+        "metadata.title": {
+            "readability": "Readable"
+        },
+        "metadata.title_complement": {
+            "readability": "Readable"
+        },
+        "metadata.volume_number": {
+            "readability": "Not readable",
+            "cause": "absent"
+        },
+        "metadata.authors": {
+            "readability": "Readable",
+            "correction": "A. Edme BOURGOIN"
+        },
+        "metadata.publisher": {
+            "readability": "Not readable",
+            "cause": "covered",
+            "correction": "LIBRAIRIE J. -B. BAILLIÈRE ET FILS"
+        },
+        "metadata.publication_place": {
+            "readability": "Readable"
+        },
+        "metadata.date": {
+            "readability": "Readable"
+        },
+        "language": {
+            "readability": "Readable"
+        },
+        "metadata.identifier": {
+            "readability": "Readable"
+        },
+        "metadata.iiif_manifest": {
+            "readability": "Readable"
+        },
+        "ark": {
+            "readability": "Readable"
+        }
     },
-    "metadata.authors": {
-      "readability": "Readable",
-      "correction": "A. Edme BOURGOIN"
-    },
-    "metadata.publisher": {
-      "readability": "Not readable",
-      "cause": "covered",
-      "correction": "LIBRAIRIE J. -B. BAILLIÈRE ET FILS"
-    },
-    "metadata.publication_place": {
-      "readability": "Readable"
-    },
-    "metadata.date": {
-      "readability": "Readable"
-    },
-    "language": {
-      "readability": "Readable"
-    },
-    "metadata.identifier": {
-      "readability": "Readable"
-    },
-    "metadata.iiif_manifest": {
-      "readability": "Readable"
-    },
-    "ark": {
-      "readability": "Readable"
-    }
-  },
-  "language": "fr (French)"
+    "language": "fr (French)"
 }

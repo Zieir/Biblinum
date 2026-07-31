@@ -1,56 +1,57 @@
 {
-  "metadata": {
-    "title": "QUÍMICA",
-    "title_complement": "",
-    "volume_number": "PARTE II 2",
-    "authors": "Pedro N. Arata",
-    "publisher": "LIBRERIA DANTE ALIGHIERI",
-    "publication_place": "BUENOS AIRES",
-    "date": "",
-    "identifier": "http://gallica.bnf.fr/ark:/12148/bpt6k901661",
-    "iiif_manifest": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k901661/manifest.json"
-  },
-  "ark": "bpt6k901661",
-  "typographie": {
-    "category": "Serif/Roman",
-    "subtype": "Didone (Modern)"
-  },
-  "_annotations": {
-    "metadata.title": {
-      "readability": "Readable"
+    "metadata": {
+        "title": "QUÍMICA",
+        "title_complement": "",
+        "volume_number": "PARTE II 2",
+        "authors": "Pedro N. Arata",
+        "publisher": "LIBRERIA DANTE ALIGHIERI",
+        "publication_place": "BUENOS AIRES",
+        "date": "",
+        "identifier": "http://gallica.bnf.fr/ark:/12148/bpt6k901661",
+        "iiif_manifest": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k901661/manifest.json"
     },
-    "metadata.title_complement": {
-      "readability": "Readable"
+    "ark": "bpt6k901661",
+    "typographie": {
+        "category": "Serif/Roman",
+        "subtype": "Didone (Modern)"
     },
-    "metadata.volume_number": {
-      "readability": "Readable"
+    "_annotations": {
+        "metadata.title": {
+            "readability": "Readable"
+        },
+        "metadata.title_complement": {
+            "readability": "Not readable",
+            "cause": "absent"
+        },
+        "metadata.volume_number": {
+            "readability": "Readable"
+        },
+        "metadata.authors": {
+            "readability": "Readable",
+            "correction": "Pedro N. Arata"
+        },
+        "metadata.publisher": {
+            "readability": "Readable"
+        },
+        "metadata.publication_place": {
+            "readability": "Readable"
+        },
+        "metadata.date": {
+            "readability": "Not readable",
+            "cause": "absent"
+        },
+        "language": {
+            "readability": "Readable"
+        },
+        "metadata.identifier": {
+            "readability": "Readable"
+        },
+        "metadata.iiif_manifest": {
+            "readability": "Readable"
+        },
+        "ark": {
+            "readability": "Readable"
+        }
     },
-    "metadata.authors": {
-      "readability": "Readable",
-      "correction": "Pedro N. Arata"
-    },
-    "metadata.publisher": {
-      "readability": "Readable"
-    },
-    "metadata.publication_place": {
-      "readability": "Readable"
-    },
-    "metadata.date": {
-      "readability": "Not readable",
-      "cause": "absent"
-    },
-    "language": {
-      "readability": "Readable"
-    },
-    "metadata.identifier": {
-      "readability": "Readable"
-    },
-    "metadata.iiif_manifest": {
-      "readability": "Readable"
-    },
-    "ark": {
-      "readability": "Readable"
-    }
-  },
-  "language": "es (Spanish)"
+    "language": "es (Spanish)"
 }
