@@ -1,0 +1,58 @@
+{
+  "metadata": {
+    "title": "Carl Friedrich Plattner's Probirkunst",
+    "title_complement": "oder vollständige Anleitung zu qualitativen und quantitativen Löthrohr-Untersuchungen",
+    "volume_number": "",
+    "authors": "Carl Friedrich Plattner, Theodor Richter",
+    "publisher": "JOHANN AMBROSIUS BARTH",
+    "publication_place": "LEIPZIG",
+    "date": "1865",
+    "identifier": "http://gallica.bnf.fr/ark:/12148/bpt6k90065d",
+    "iiif_manifest": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k90065d/manifest.json"
+  },
+  "ark": "bpt6k90065d",
+  "typographie": {
+    "category": "Blackletter",
+    "subtype": "Fraktur"
+  },
+  "_annotations": {
+    "metadata.title": {
+      "readability": "Not readable",
+      "cause": "covered",
+      "correction": "Carl Friedrich Plattner's Probirkunst"
+    },
+    "metadata.title_complement": {
+      "readability": "Readable"
+    },
+    "metadata.volume_number": {
+      "readability": "Not readable",
+      "cause": "absent"
+    },
+    "metadata.authors": {
+      "readability": "Readable",
+      "correction": "Carl Friedrich Plattner, Theodor Richter"
+    },
+    "metadata.publisher": {
+      "readability": "Readable"
+    },
+    "metadata.publication_place": {
+      "readability": "Readable"
+    },
+    "metadata.date": {
+      "readability": "Readable"
+    },
+    "language": {
+      "readability": "Readable"
+    },
+    "metadata.identifier": {
+      "readability": "Readable"
+    },
+    "metadata.iiif_manifest": {
+      "readability": "Readable"
+    },
+    "ark": {
+      "readability": "Readable"
+    }
+  },
+  "language": "de (German)"
+}

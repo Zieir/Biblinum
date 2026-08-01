@@ -1,0 +1,58 @@
+{
+  "metadata": {
+    "title": "Recherches sur le lithium et ses composés",
+    "title_complement": "thèses présentées à la Faculté des sciences de Paris pour obtenir le grade de docteur ès sciences soutenues le 17 juin 1857 devant la Commission d'examen",
+    "volume_number": "",
+    "authors": "L. Troost",
+    "publisher": "MALLET-BACHELIER",
+    "publication_place": "PARIS",
+    "date": "1857",
+    "identifier": "http://gallica.bnf.fr/ark:/12148/bpt6k91835x",
+    "iiif_manifest": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k91835x/manifest.json"
+  },
+  "ark": "bpt6k91835x",
+  "typographie": {
+    "category": "Serif/Roman",
+    "subtype": "Didone (Modern)"
+  },
+  "_annotations": {
+    "metadata.title": {
+      "readability": "Readable",
+      "correction": "Recherches sur le lithium et ses composés"
+    },
+    "metadata.title_complement": {
+      "readability": "Readable",
+      "correction": "thèses présentées à la Faculté des sciences de Paris pour obtenir le grade de docteur ès sciences soutenues le 17 juin 1857 devant la Commission d'examen"
+    },
+    "metadata.volume_number": {
+      "readability": "Not readable",
+      "cause": "absent"
+    },
+    "metadata.authors": {
+      "readability": "Readable",
+      "correction": "L. Troost"
+    },
+    "metadata.publisher": {
+      "readability": "Readable"
+    },
+    "metadata.publication_place": {
+      "readability": "Readable"
+    },
+    "metadata.date": {
+      "readability": "Readable"
+    },
+    "language": {
+      "readability": "Readable"
+    },
+    "metadata.identifier": {
+      "readability": "Readable"
+    },
+    "metadata.iiif_manifest": {
+      "readability": "Readable"
+    },
+    "ark": {
+      "readability": "Readable"
+    }
+  },
+  "language": "fr (French)"
+}

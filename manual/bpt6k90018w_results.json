@@ -1,0 +1,56 @@
+{
+  "metadata": {
+    "title": "MÉCANIQUE CHIMIQUE",
+    "title_complement": "",
+    "volume_number": "N° 2",
+    "authors": "M.-Emm. POZZI-ESCOT",
+    "publisher": "LIBRAIRIE MÉDICALE & SCIENTIFIQUE JULES ROUSSET",
+    "publication_place": "PARIS",
+    "date": "1906",
+    "identifier": "http://gallica.bnf.fr/ark:/12148/bpt6k90018w",
+    "iiif_manifest": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k90018w/manifest.json"
+  },
+  "ark": "bpt6k90018w",
+  "typographie": {
+    "category": "Serif/Roman",
+    "subtype": "Didone (Modern)"
+  },
+  "_annotations": {
+    "metadata.title": {
+      "readability": "Readable"
+    },
+    "metadata.title_complement": {
+      "readability": "Not readable",
+      "cause": "absent"
+    },
+    "metadata.volume_number": {
+      "readability": "Readable"
+    },
+    "metadata.authors": {
+      "readability": "Readable",
+      "correction": "M.-Emm. POZZI-ESCOT"
+    },
+    "metadata.publisher": {
+      "readability": "Readable"
+    },
+    "metadata.publication_place": {
+      "readability": "Readable"
+    },
+    "metadata.date": {
+      "readability": "Readable"
+    },
+    "language": {
+      "readability": "Readable"
+    },
+    "metadata.identifier": {
+      "readability": "Readable"
+    },
+    "metadata.iiif_manifest": {
+      "readability": "Readable"
+    },
+    "ark": {
+      "readability": "Readable"
+    }
+  },
+  "language": "fr (French)"
+}

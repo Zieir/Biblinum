@@ -1,0 +1,60 @@
+{
+  "metadata": {
+    "title": "Célébration du Centenaire de Gaston Planté",
+    "title_complement": "",
+    "volume_number": "",
+    "authors": "",
+    "publisher": "",
+    "publication_place": "",
+    "date": "1934",
+    "identifier": "http://gallica.bnf.fr/ark:/12148/bpt6k904049",
+    "iiif_manifest": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k904049/manifest.json"
+  },
+  "ark": "bpt6k904049",
+  "typographie": {
+    "category": "Serif/Roman",
+    "subtype": "Slab Serif"
+  },
+  "_annotations": {
+    "metadata.title": {
+      "readability": "Readable"
+    },
+    "metadata.title_complement": {
+      "readability": "Not readable",
+      "cause": "absent"
+    },
+    "metadata.volume_number": {
+      "readability": "Not readable",
+      "cause": "absent"
+    },
+    "metadata.authors": {
+      "readability": "Not readable",
+      "cause": "absent"
+    },
+    "metadata.publisher": {
+      "readability": "Not readable",
+      "cause": "absent"
+    },
+    "metadata.publication_place": {
+      "readability": "Not readable",
+      "cause": "absent"
+    },
+    "metadata.date": {
+      "readability": "Readable"
+    },
+    "language": {
+      "readability": "Readable"
+    },
+    "_note": "Must check how the date got gotten -either ocr _ less impressive -understanding that it is a century celebration so it got published at the end of the century",
+    "metadata.identifier": {
+      "readability": "Readable"
+    },
+    "metadata.iiif_manifest": {
+      "readability": "Readable"
+    },
+    "ark": {
+      "readability": "Readable"
+    }
+  },
+  "language": "fr (French)"
+}

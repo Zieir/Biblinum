@@ -1,0 +1,59 @@
+{
+  "metadata": {
+    "title": "LA SILICE ET LES SILICATES",
+    "title_complement": "",
+    "volume_number": "",
+    "authors": "Henry LE CHATELIER",
+    "publisher": "A. HERMANN ET FILS",
+    "publication_place": "PARIS",
+    "date": "1914",
+    "identifier": "http://gallica.bnf.fr/ark:/12148/bpt6k91846k",
+    "iiif_manifest": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k91846k/manifest.json"
+  },
+  "ark": "bpt6k91846k",
+  "typographie": {
+    "category": "Serif/Roman",
+    "subtype": "Didone (Modern)"
+  },
+  "_annotations": {
+    "metadata.title": {
+      "readability": "Readable",
+      "correction": "LA SILICE ET LES SILICATES"
+    },
+    "metadata.title_complement": {
+      "readability": "Not readable",
+      "cause": "absent",
+      "correction": ""
+    },
+    "metadata.volume_number": {
+      "readability": "Not readable",
+      "cause": "absent"
+    },
+    "metadata.authors": {
+      "readability": "Readable",
+      "correction": "Henry LE CHATELIER"
+    },
+    "metadata.publisher": {
+      "readability": "Readable"
+    },
+    "metadata.publication_place": {
+      "readability": "Readable"
+    },
+    "metadata.date": {
+      "readability": "Readable"
+    },
+    "language": {
+      "readability": "Readable"
+    },
+    "metadata.identifier": {
+      "readability": "Readable"
+    },
+    "metadata.iiif_manifest": {
+      "readability": "Readable"
+    },
+    "ark": {
+      "readability": "Readable"
+    }
+  },
+  "language": "fr (French)"
+}

@@ -1,0 +1,58 @@
+{
+  "metadata": {
+    "title": "CHIMIE ORGANIQUE ÉLÉMENTAIRE",
+    "title_complement": "leçons professées à la faculté de médecine ",
+    "volume_number": "",
+    "authors": "Edouard Grimaux",
+    "publisher": "ANCIENNE LIBRAIRIE GERMER BAILLIÈRE ET CIE, FELIX ALCAN, ÉDITEUR",
+    "publication_place": "PARIS",
+    "date": "1889",
+    "identifier": "http://gallica.bnf.fr/ark:/12148/bpt6k90298x",
+    "iiif_manifest": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k90298x/manifest.json"
+  },
+  "ark": "bpt6k90298x",
+  "typographie": {
+    "category": "Serif/Roman",
+    "subtype": "Didone (Modern)"
+  },
+  "_annotations": {
+    "metadata.title": {
+      "readability": "Readable",
+      "correction": "CHIMIE ORGANIQUE ÉLÉMENTAIRE"
+    },
+    "metadata.title_complement": {
+      "readability": "Readable",
+      "correction": "leçons professées à la faculté de médecine "
+    },
+    "metadata.volume_number": {
+      "readability": "Not readable",
+      "cause": "absent"
+    },
+    "metadata.authors": {
+      "readability": "Readable",
+      "correction": "Edouard Grimaux"
+    },
+    "metadata.publisher": {
+      "readability": "Readable"
+    },
+    "metadata.publication_place": {
+      "readability": "Readable"
+    },
+    "metadata.date": {
+      "readability": "Readable"
+    },
+    "language": {
+      "readability": "Readable"
+    },
+    "metadata.identifier": {
+      "readability": "Readable"
+    },
+    "metadata.iiif_manifest": {
+      "readability": "Readable"
+    },
+    "ark": {
+      "readability": "Readable"
+    }
+  },
+  "language": "fr (French)"
+}

@@ -1,0 +1,60 @@
+{
+  "metadata": {
+    "title": "GUIDE PRATIQUE DU DOREUR, DE L'ARGENTEUR ET DU GALVANOPLASTE",
+    "title_complement": "",
+    "volume_number": "",
+    "authors": "Alfred ROSELEUR",
+    "publisher": "M. DE PLAZANET",
+    "publication_place": "PARIS",
+    "date": "1873",
+    "identifier": "http://gallica.bnf.fr/ark:/12148/bpt6k90327p",
+    "iiif_manifest": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k90327p/manifest.json"
+  },
+  "ark": "bpt6k90327p",
+  "typographie": {
+    "category": "Serif/Roman",
+    "subtype": "Slab Serif (Egyptian)"
+  },
+  "_annotations": {
+    "metadata.title": {
+      "readability": "Readable"
+    },
+    "metadata.title_complement": {
+      "readability": "Not readable",
+      "cause": "absent"
+    },
+    "metadata.volume_number": {
+      "readability": "Not readable",
+      "cause": "absent"
+    },
+    "metadata.authors": {
+      "readability": "Readable",
+      "correction": "Alfred ROSELEUR"
+    },
+    "metadata.publisher": {
+      "readability": "Readable",
+      "correction": "M. DE PLAZANET"
+    },
+    "metadata.publication_place": {
+      "readability": "Readable",
+      "correction": "PARIS"
+    },
+    "metadata.date": {
+      "readability": "Readable",
+      "correction": "1873"
+    },
+    "language": {
+      "readability": "Readable"
+    },
+    "metadata.identifier": {
+      "readability": "Readable"
+    },
+    "metadata.iiif_manifest": {
+      "readability": "Readable"
+    },
+    "ark": {
+      "readability": "Readable"
+    }
+  },
+  "language": "fr (French)"
+}

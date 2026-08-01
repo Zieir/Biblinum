@@ -1,0 +1,57 @@
+{
+  "metadata": {
+    "title": "EXPOSITION UNIVERSELLE INTERNATIONALE DE 1878, À PARIS",
+    "title_complement": "CATALOGUE OFFICIEL publié par le commissariat général",
+    "volume_number": "TOME III",
+    "authors": "",
+    "publisher": "COMMISSARIAT GÉNÉRAL",
+    "publication_place": "PARIS",
+    "date": "1878",
+    "identifier": "http://gallica.bnf.fr/ark:/12148/bpt6k904258",
+    "iiif_manifest": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k904258/manifest.json"
+  },
+  "ark": "bpt6k904258",
+  "typographie": {
+    "category": "Script",
+    "subtype": "Cursive"
+  },
+  "_annotations": {
+    "metadata.title": {
+      "readability": "Readable",
+      "correction": "EXPOSITION UNIVERSELLE INTERNATIONALE DE 1878, À PARIS"
+    },
+    "metadata.title_complement": {
+      "readability": "Readable",
+      "correction": "CATALOGUE OFFICIEL publié par le commissariat général"
+    },
+    "metadata.volume_number": {
+      "readability": "Readable"
+    },
+    "metadata.authors": {
+      "readability": "Not readable",
+      "cause": "absent"
+    },
+    "metadata.publisher": {
+      "readability": "Readable"
+    },
+    "metadata.publication_place": {
+      "readability": "Readable"
+    },
+    "metadata.date": {
+      "readability": "Readable"
+    },
+    "language": {
+      "readability": "Readable"
+    },
+    "metadata.identifier": {
+      "readability": "Readable"
+    },
+    "metadata.iiif_manifest": {
+      "readability": "Readable"
+    },
+    "ark": {
+      "readability": "Readable"
+    }
+  },
+  "language": "fr (French)"
+}

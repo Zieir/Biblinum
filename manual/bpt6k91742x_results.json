@@ -1,0 +1,62 @@
+{
+  "metadata": {
+    "title": "MÉMOIRS ET DÉBATS SUR LES GRANDS PRINCIPES DES SCIENCES PHYSIQUES",
+    "title_complement": "",
+    "volume_number": "",
+    "authors": "Émile MARTIN",
+    "publisher": "LIBRAIRIE SCIENTIFIQUE, INDUSTRIELLE ET AGRICOLE, EUGÈNE LACROIX",
+    "publication_place": "PARIS",
+    "date": "",
+    "identifier": "http://gallica.bnf.fr/ark:/12148/bpt6k91742x",
+    "iiif_manifest": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k91742x/manifest.json"
+  },
+  "ark": "bpt6k91742x",
+  "typographie": {
+    "category": "Serif/Roman",
+    "subtype": "Didone (Modern)"
+  },
+  "_annotations": {
+    "metadata.title": {
+      "readability": "Not readable",
+      "cause": "quality",
+      "correction": "MÉMOIRS ET DÉBATS SUR LES GRANDS PRINCIPES DES SCIENCES PHYSIQUES"
+    },
+    "metadata.title_complement": {
+      "readability": "Not readable",
+      "cause": "absent",
+      "correction": ""
+    },
+    "metadata.volume_number": {
+      "readability": "Not readable",
+      "cause": "absent"
+    },
+    "metadata.authors": {
+      "readability": "Readable",
+      "correction": "Émile MARTIN"
+    },
+    "metadata.publisher": {
+      "readability": "Readable",
+      "correction": "Librairie Scientifique, Industrielle et Agricole, Eugène Lacroix"
+    },
+    "metadata.publication_place": {
+      "readability": "Readable"
+    },
+    "metadata.date": {
+      "readability": "Not readable",
+      "cause": "absent"
+    },
+    "language": {
+      "readability": "Readable"
+    },
+    "metadata.identifier": {
+      "readability": "Readable"
+    },
+    "metadata.iiif_manifest": {
+      "readability": "Readable"
+    },
+    "ark": {
+      "readability": "Readable"
+    }
+  },
+  "language": "fr (French)"
+}

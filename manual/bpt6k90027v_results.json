@@ -1,0 +1,65 @@
+{
+  "metadata": {
+    "title": "THÉORIES & SYMBOLES DES ALCHIMISTES",
+    "title_complement": "le grand-oeuvre suivi d'un essai sur la Bibliographie alchimique du XIXe siècle",
+    "volume_number": "",
+    "authors": "Albert Poisson",
+    "publisher": "CHACORNAC",
+    "publication_place": "PARIS",
+    "date": "1891",
+    "identifier": "http://gallica.bnf.fr/ark:/12148/bpt6k90027v",
+    "iiif_manifest": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k90027v/manifest.json"
+  },
+  "ark": "bpt6k90027v",
+  "typographie": {
+    "category": "Serif/Roman",
+    "subtype": "Didone (Modern)"
+  },
+  "_annotations": {
+    "metadata.title": {
+      "readability": "Readable",
+      "correction": "THÉORIES & SYMBOLES DES ALCHIMISTES"
+    },
+    "metadata.title_complement": {
+      "readability": "Not readable",
+      "cause": "quality",
+      "correction": "le grand-oeuvre suivi d'un essai sur la Bibliographie alchimique du XIXe siècle"
+    },
+    "metadata.volume_number": {
+      "readability": "Not readable",
+      "cause": "absent"
+    },
+    "metadata.authors": {
+      "readability": "Readable",
+      "correction": "Albert Poisson"
+    },
+    "metadata.publisher": {
+      "readability": "Not readable",
+      "cause": "quality",
+      "correction": "Chacornac"
+    },
+    "metadata.publication_place": {
+      "readability": "Not readable",
+      "cause": "quality",
+      "correction": "Paris"
+    },
+    "metadata.date": {
+      "readability": "Not readable",
+      "cause": "quality",
+      "correction": "1891"
+    },
+    "language": {
+      "readability": "Readable"
+    },
+    "metadata.identifier": {
+      "readability": "Readable"
+    },
+    "metadata.iiif_manifest": {
+      "readability": "Readable"
+    },
+    "ark": {
+      "readability": "Readable"
+    }
+  },
+  "language": "fr (French)"
+}

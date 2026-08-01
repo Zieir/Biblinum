@@ -1,0 +1,62 @@
+{
+  "metadata": {
+    "title": "COURS ELEMENTAIRE THÉORIQUE ET PRATIQUE DE PHARMACIE-CHIMIQUE",
+    "title_complement": "Ou Manuel du pharmacien-chimiste. Contenant la définition des diverses opérations pharmaceuto-chimiques ; la description de tous les procédés connus, tant anciens que modernes ; le mode d'exercice-pratique relatif à chacun d'eux ; l'explication des divers phénomènes qui se passent dans chaque opération, conformément à la théorie la plus moderne ; l'exposition des vertus, de l'usage, et des doses des médicaments, tant magistraux qu'officinaux ; avec l'application de l'art du Pharmacien aux autres arts qui lui sont relatifs, notamment à ceux du Distillateur, du Confiseur, du Parfumeur, du Fabricant de couleurs et du Vernisseur ; et avec l'adoption et l'explication des nouveaux poids et mesures comparés aux anciens, et les anciens signes de médecine conservés",
+    "volume_number": "TOME PREMIER",
+    "authors": "Simon Morelot",
+    "publisher": "",
+    "publication_place": "",
+    "date": "1803",
+    "identifier": "http://gallica.bnf.fr/ark:/12148/bpt6k91876h",
+    "iiif_manifest": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k91876h/manifest.json"
+  },
+  "ark": "bpt6k91876h",
+  "typographie": {
+    "category": "Serif/Roman",
+    "subtype": "Didone (Modern)"
+  },
+  "_annotations": {
+    "metadata.title": {
+      "readability": "Readable",
+      "correction": "COURS ELEMENTAIRE THÉORIQUE ET PRATIQUE DE PHARMACIE-CHIMIQUE"
+    },
+    "metadata.title_complement": {
+      "readability": "Readable",
+      "correction": "Ou Manuel du pharmacien-chimiste. Contenant la définition des diverses opérations pharmaceuto-chimiques ; la description de tous les procédés connus, tant anciens que modernes ; le mode d'exercice-pratique relatif à chacun d'eux ; l'explication des divers phénomènes qui se passent dans chaque opération, conformément à la théorie la plus moderne ; l'exposition des vertus, de l'usage, et des doses des médicaments, tant magistraux qu'officinaux ; avec l'application de l'art du Pharmacien aux autres arts qui lui sont relatifs, notamment à ceux du Distillateur, du Confiseur, du Parfumeur, du Fabricant de couleurs et du Vernisseur ; et avec l'adoption et l'explication des nouveaux poids et mesures comparés aux anciens, et les anciens signes de médecine conservés"
+    },
+    "metadata.volume_number": {
+      "readability": "Not readable",
+      "cause": "covered",
+      "correction": "TOME PREMIER"
+    },
+    "metadata.authors": {
+      "readability": "Readable",
+      "correction": "Simon Morelot"
+    },
+    "metadata.publisher": {
+      "readability": "Not readable",
+      "cause": "absent"
+    },
+    "metadata.publication_place": {
+      "readability": "Not readable",
+      "cause": "absent"
+    },
+    "metadata.date": {
+      "readability": "Readable",
+      "correction": "1803"
+    },
+    "language": {
+      "readability": "Readable"
+    },
+    "metadata.identifier": {
+      "readability": "Readable"
+    },
+    "metadata.iiif_manifest": {
+      "readability": "Readable"
+    },
+    "ark": {
+      "readability": "Readable"
+    }
+  },
+  "language": "fr (French)"
+}

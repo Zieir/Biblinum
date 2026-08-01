@@ -1,0 +1,59 @@
+{
+  "metadata": {
+    "title": "CONFÉRENCES SCIENTIFIQUES ET ALLOCUTIONS",
+    "title_complement": "nstitution de la matière",
+    "volume_number": "",
+    "authors": "William Thomson",
+    "publisher": "GAUTHIER-VILLARS ET FILS",
+    "publication_place": "PARIS",
+    "date": "1893",
+    "identifier": "http://gallica.bnf.fr/ark:/12148/bpt6k91921h",
+    "iiif_manifest": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k91921h/manifest.json"
+  },
+  "ark": "bpt6k91921h",
+  "typographie": {
+    "category": "Serif/Roman",
+    "subtype": "Modern (Didone)"
+  },
+  "_annotations": {
+    "metadata.title": {
+      "readability": "Readable",
+      "correction": "CONFÉRENCES SCIENTIFIQUES ET ALLOCUTIONS"
+    },
+    "metadata.title_complement": {
+      "readability": "Not readable",
+      "cause": "covered",
+      "correction": "nstitution de la matière"
+    },
+    "metadata.volume_number": {
+      "readability": "Not readable",
+      "cause": "absent"
+    },
+    "metadata.authors": {
+      "readability": "Readable",
+      "correction": "William Thomson"
+    },
+    "metadata.publisher": {
+      "readability": "Readable"
+    },
+    "metadata.publication_place": {
+      "readability": "Readable"
+    },
+    "metadata.date": {
+      "readability": "Readable"
+    },
+    "language": {
+      "readability": "Readable"
+    },
+    "metadata.identifier": {
+      "readability": "Readable"
+    },
+    "metadata.iiif_manifest": {
+      "readability": "Readable"
+    },
+    "ark": {
+      "readability": "Readable"
+    }
+  },
+  "language": "fr (French)"
+}

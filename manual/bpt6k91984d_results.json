@@ -1,0 +1,59 @@
+{
+  "metadata": {
+    "title": "TRAITÉ DE PHYSIQUE THÉORIQUE ET EXPÉRIMENTALE",
+    "title_complement": "avec les applications à la météorologie et aux arts industriels",
+    "volume_number": "TOME TROISIÈME",
+    "authors": "P. A. DAGUIN",
+    "publisher": "ÉDOUARD PRIVAT ; DEZOBRY & E. MAGDELEINE",
+    "publication_place": "TOULOUSE ; PARIS",
+    "date": "1861",
+    "identifier": "http://gallica.bnf.fr/ark:/12148/bpt6k91984d",
+    "iiif_manifest": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k91984d/manifest.json"
+  },
+  "ark": "bpt6k91984d",
+  "typographie": {
+    "category": "Serif/Roman",
+    "subtype": "Didone (Modern)"
+  },
+  "_annotations": {
+    "metadata.title": {
+      "readability": "Readable",
+      "correction": "TRAITÉ DE PHYSIQUE THÉORIQUE ET EXPÉRIMENTALE"
+    },
+    "metadata.title_complement": {
+      "readability": "Readable",
+      "correction": "avec les applications à la météorologie et aux arts industriels"
+    },
+    "metadata.volume_number": {
+      "readability": "Readable"
+    },
+    "metadata.authors": {
+      "readability": "Readable",
+      "correction": "P. A. DAGUIN"
+    },
+    "metadata.publisher": {
+      "readability": "Readable"
+    },
+    "metadata.publication_place": {
+      "readability": "Readable"
+    },
+    "metadata.date": {
+      "readability": "Not readable",
+      "cause": "handwritten",
+      "correction": "1861"
+    },
+    "language": {
+      "readability": "Readable"
+    },
+    "metadata.identifier": {
+      "readability": "Readable"
+    },
+    "metadata.iiif_manifest": {
+      "readability": "Readable"
+    },
+    "ark": {
+      "readability": "Readable"
+    }
+  },
+  "language": "fr (French)"
+}

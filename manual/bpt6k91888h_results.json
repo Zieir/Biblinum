@@ -1,0 +1,58 @@
+{
+  "metadata": {
+    "title": "L'INDUSTRIE DES PARFUMS D'APRÈS LES THÉORIES DE LA CHIMIE MODERNE",
+    "title_complement": "notations et formules, les parfums naturels, les parfums artificiels",
+    "volume_number": "",
+    "authors": "M. OTTO",
+    "publisher": "H. DUNOD ET E. PINAT, ÉDITEURS",
+    "publication_place": "PARIS",
+    "date": "1909",
+    "identifier": "http://gallica.bnf.fr/ark:/12148/bpt6k91888h",
+    "iiif_manifest": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k91888h/manifest.json"
+  },
+  "ark": "bpt6k91888h",
+  "typographie": {
+    "category": "Serif/Roman",
+    "subtype": "Didone (Modern)"
+  },
+  "_annotations": {
+    "metadata.title": {
+      "readability": "Readable",
+      "correction": "L'INDUSTRIE DES PARFUMS D'APRÈS LES THÉORIES DE LA CHIMIE MODERNE"
+    },
+    "metadata.title_complement": {
+      "readability": "Readable",
+      "correction": "notations et formules, les parfums naturels, les parfums artificiels"
+    },
+    "metadata.volume_number": {
+      "readability": "Not readable",
+      "cause": "absent"
+    },
+    "metadata.authors": {
+      "readability": "Readable",
+      "correction": "M. OTTO"
+    },
+    "metadata.publisher": {
+      "readability": "Readable"
+    },
+    "metadata.publication_place": {
+      "readability": "Readable"
+    },
+    "metadata.date": {
+      "readability": "Readable"
+    },
+    "language": {
+      "readability": "Readable"
+    },
+    "metadata.identifier": {
+      "readability": "Readable"
+    },
+    "metadata.iiif_manifest": {
+      "readability": "Readable"
+    },
+    "ark": {
+      "readability": "Readable"
+    }
+  },
+  "language": "fr (French)"
+}

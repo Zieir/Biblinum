@@ -1,0 +1,59 @@
+{
+  "metadata": {
+    "title": "RECHERCHES SUR LA NOTION DE L'INDIVIDUALITÉ CHIMIQUE",
+    "title_complement": "A PROPOS DE LA CONSTITUTION DE LA PINACOLINE",
+    "volume_number": "",
+    "authors": "MAURICE DELACRE",
+    "publisher": "HENRY LAMERTIN",
+    "publication_place": "BRUXELLES",
+    "date": "1905",
+    "identifier": "http://gallica.bnf.fr/ark:/12148/bpt6k91750j",
+    "iiif_manifest": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k91750j/manifest.json"
+  },
+  "ark": "bpt6k91750j",
+  "typographie": {
+    "category": "Serif/Roman",
+    "subtype": "Didone (Modern)"
+  },
+  "_annotations": {
+    "metadata.title": {
+      "readability": "Readable"
+    },
+    "metadata.title_complement": {
+      "readability": "Readable"
+    },
+    "metadata.volume_number": {
+      "readability": "Not readable",
+      "cause": "absent"
+    },
+    "metadata.authors": {
+      "readability": "Readable",
+      "correction": "MAURICE DELACRE"
+    },
+    "metadata.publisher": {
+      "readability": "Readable",
+      "correction": "HENRY LAMERTIN"
+    },
+    "metadata.publication_place": {
+      "readability": "Readable",
+      "correction": "BRUXELLES"
+    },
+    "metadata.date": {
+      "readability": "Readable",
+      "correction": "1905"
+    },
+    "language": {
+      "readability": "Readable"
+    },
+    "metadata.identifier": {
+      "readability": "Readable"
+    },
+    "metadata.iiif_manifest": {
+      "readability": "Readable"
+    },
+    "ark": {
+      "readability": "Readable"
+    }
+  },
+  "language": "fr (French)"
+}

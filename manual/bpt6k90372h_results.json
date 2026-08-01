@@ -1,0 +1,60 @@
+{
+  "metadata": {
+    "title": "TRAITÉ DE CHIMIE ORGANIQUE",
+    "title_complement": "D'APRÈS LES THÉORIES MODERNES",
+    "volume_number": "TOME PREMIER",
+    "authors": "Auguste BÉHAL; Amand VALEUR",
+    "publisher": "OCTAVE DOIN ET FILS",
+    "publication_place": "PARIS",
+    "date": "1909",
+    "identifier": "http://gallica.bnf.fr/ark:/12148/bpt6k90372h",
+    "iiif_manifest": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k90372h/manifest.json"
+  },
+  "ark": "bpt6k90372h",
+  "typographie": {
+    "category": "Serif/Roman",
+    "subtype": "Didone (Modern)"
+  },
+  "_annotations": {
+    "metadata.title": {
+      "readability": "Readable",
+      "correction": "TRAITÉ DE CHIMIE ORGANIQUE"
+    },
+    "metadata.title_complement": {
+      "readability": "Readable",
+      "correction": "D'APRÈS LES THÉORIES MODERNES"
+    },
+    "metadata.volume_number": {
+      "readability": "Readable"
+    },
+    "metadata.authors": {
+      "readability": "Readable",
+      "correction": "Auguste BÉHAL; Amand VALEUR"
+    },
+    "metadata.publisher": {
+      "readability": "Readable",
+      "correction": "OCTAVE DOIN ET FILS "
+    },
+    "metadata.publication_place": {
+      "readability": "Readable",
+      "correction": "PARIS"
+    },
+    "metadata.date": {
+      "readability": "Readable",
+      "correction": "1909"
+    },
+    "language": {
+      "readability": "Readable"
+    },
+    "metadata.identifier": {
+      "readability": "Readable"
+    },
+    "metadata.iiif_manifest": {
+      "readability": "Readable"
+    },
+    "ark": {
+      "readability": "Readable"
+    }
+  },
+  "language": "fr (French)"
+}

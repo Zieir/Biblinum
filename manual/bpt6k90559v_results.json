@@ -1,0 +1,60 @@
+{
+  "metadata": {
+    "title": "CICLO DE CONFERENCIAS CONMEMORATIVAS CENTENARIO DEL NACIMIENTO DE BERTHELOT",
+    "title_complement": "organizadas por el Comité argentino constituido al efecto",
+    "volume_number": "",
+    "authors": "",
+    "publisher": "CONI",
+    "publication_place": "BUENOS AIRES",
+    "date": "1928",
+    "identifier": "http://gallica.bnf.fr/ark:/12148/bpt6k90559v",
+    "iiif_manifest": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k90559v/manifest.json"
+  },
+  "ark": "bpt6k90559v",
+  "typographie": {
+    "category": "Serif/Roman",
+    "subtype": "Slab Serif (Egyptian)"
+  },
+  "_annotations": {
+    "metadata.title": {
+      "readability": "Readable",
+      "correction": "CICLO DE CONFERENCIAS CONMEMORATIVAS CENTENARIO DEL NACIMIENTO DE BERTHELOT"
+    },
+    "metadata.title_complement": {
+      "readability": "Readable",
+      "correction": "organizadas por el Comité argentino constituido al efecto"
+    },
+    "metadata.volume_number": {
+      "readability": "Not readable",
+      "cause": "absent"
+    },
+    "metadata.authors": {
+      "readability": "Not readable",
+      "cause": "absent"
+    },
+    "metadata.publisher": {
+      "readability": "Not readable",
+      "cause": "quality",
+      "correction": "Coni"
+    },
+    "metadata.publication_place": {
+      "readability": "Readable"
+    },
+    "metadata.date": {
+      "readability": "Readable"
+    },
+    "language": {
+      "readability": "Readable"
+    },
+    "metadata.identifier": {
+      "readability": "Readable"
+    },
+    "metadata.iiif_manifest": {
+      "readability": "Readable"
+    },
+    "ark": {
+      "readability": "Readable"
+    }
+  },
+  "language": "es (Spanish)"
+}

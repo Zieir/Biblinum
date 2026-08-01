@@ -1,0 +1,59 @@
+{
+  "metadata": {
+    "title": "DICTIONNAIRE DE CHIMIE INDUSTRIELLE",
+    "title_complement": "",
+    "volume_number": "TOME PREMIER",
+    "authors": "BARRESWIL; AIMÉ GIRARD",
+    "publisher": "DEZOBRY, E. MAGDELEINE ET CIE",
+    "publication_place": "PARIS",
+    "date": "1861",
+    "identifier": "http://gallica.bnf.fr/ark:/12148/bpt6k90357m",
+    "iiif_manifest": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k90357m/manifest.json"
+  },
+  "ark": "bpt6k90357m",
+  "typographie": {
+    "category": "Serif/Roman",
+    "subtype": "Didone (Modern)"
+  },
+  "_annotations": {
+    "metadata.title": {
+      "readability": "Readable"
+    },
+    "metadata.title_complement": {
+      "readability": "Not readable",
+      "cause": "absent"
+    },
+    "metadata.volume_number": {
+      "readability": "Readable"
+    },
+    "metadata.authors": {
+      "readability": "Readable",
+      "correction": "BARRESWIL; AIMÉ GIRARD"
+    },
+    "metadata.publisher": {
+      "readability": "Readable",
+      "correction": "Dezobry, E. Magdeleine et Cie"
+    },
+    "metadata.publication_place": {
+      "readability": "Readable",
+      "correction": "Paris"
+    },
+    "metadata.date": {
+      "readability": "Readable",
+      "correction": "1861"
+    },
+    "language": {
+      "readability": "Readable"
+    },
+    "metadata.identifier": {
+      "readability": "Readable"
+    },
+    "metadata.iiif_manifest": {
+      "readability": "Readable"
+    },
+    "ark": {
+      "readability": "Readable"
+    }
+  },
+  "language": "fr (French)"
+}

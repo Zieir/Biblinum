@@ -1,0 +1,56 @@
+{
+  "metadata": {
+    "title": "COURS DE VERRERIE  professé au Conservatoire national des arts et métiers.",
+    "title_complement": "LA PHYSIQUE THERMIQUE DU VERRE",
+    "volume_number": "DEUXIÈME PARTIE",
+    "authors": "ÉMILIO DAMOUR",
+    "publisher": "LIBRAIRIE POLYTECHNIQUE CH. BÉRANGER",
+    "publication_place": "PARIS ET LIÈGE",
+    "date": "1932",
+    "identifier": "http://gallica.bnf.fr/ark:/12148/bpt6k91737b",
+    "iiif_manifest": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k91737b/manifest.json"
+  },
+  "ark": "bpt6k91737b",
+  "typographie": {
+    "category": "Serif/Roman",
+    "subtype": "Didone (Modern)"
+  },
+  "_annotations": {
+    "metadata.title": {
+      "readability": "Readable",
+      "correction": "COURS DE VERRERIE  professé au Conservatoire national des arts et métiers."
+    },
+    "metadata.title_complement": {
+      "readability": "Readable"
+    },
+    "metadata.volume_number": {
+      "readability": "Readable"
+    },
+    "metadata.authors": {
+      "readability": "Readable",
+      "correction": "ÉMILIO DAMOUR"
+    },
+    "metadata.publisher": {
+      "readability": "Readable"
+    },
+    "metadata.publication_place": {
+      "readability": "Readable"
+    },
+    "metadata.date": {
+      "readability": "Readable"
+    },
+    "language": {
+      "readability": "Readable"
+    },
+    "metadata.identifier": {
+      "readability": "Readable"
+    },
+    "metadata.iiif_manifest": {
+      "readability": "Readable"
+    },
+    "ark": {
+      "readability": "Readable"
+    }
+  },
+  "language": "fr (French)"
+}

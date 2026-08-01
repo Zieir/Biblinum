@@ -1,0 +1,60 @@
+{
+  "metadata": {
+    "title": "RECHERCHES SUR QUELQUES OXALATES",
+    "title_complement": "",
+    "volume_number": "T. XXIII",
+    "authors": "G. WYROUBOFF",
+    "publisher": "IMPRIMERIE DESLIS FRÈRES",
+    "publication_place": "TOURS",
+    "date": "1900",
+    "identifier": "http://gallica.bnf.fr/ark:/12148/bpt6k917589",
+    "iiif_manifest": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k917589/manifest.json"
+  },
+  "ark": "bpt6k917589",
+  "typographie": {
+    "category": "Serif/Roman",
+    "subtype": "Didone (Modern)"
+  },
+  "_annotations": {
+    "metadata.title": {
+      "readability": "Readable"
+    },
+    "metadata.title_complement": {
+      "readability": "Not readable",
+      "cause": "absent"
+    },
+    "metadata.volume_number": {
+      "readability": "Readable"
+    },
+    "metadata.authors": {
+      "readability": "Readable",
+      "correction": "G. WYROUBOFF"
+    },
+    "metadata.publisher": {
+      "readability": "Not readable",
+      "cause": "covered",
+      "correction": "IMPRIMERIE DESLIS FRÈRES"
+    },
+    "metadata.publication_place": {
+      "readability": "Not readable",
+      "cause": "covered",
+      "correction": "TOURS"
+    },
+    "metadata.date": {
+      "readability": "Readable"
+    },
+    "language": {
+      "readability": "Readable"
+    },
+    "metadata.identifier": {
+      "readability": "Readable"
+    },
+    "metadata.iiif_manifest": {
+      "readability": "Readable"
+    },
+    "ark": {
+      "readability": "Readable"
+    }
+  },
+  "language": "fr (French)"
+}

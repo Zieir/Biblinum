@@ -1,0 +1,61 @@
+{
+  "metadata": {
+    "title": "Lehrbuch der anorganischen reinen und technischen Chemie",
+    "title_complement": "Anorganische Experimental-Chemie. I. Band: Die Mettaloide.",
+    "volume_number": "I. Band",
+    "authors": "W. Steffen",
+    "publisher": "VERLAG VON JULIUS MAIER",
+    "publication_place": "STUTTGART",
+    "date": "1889",
+    "identifier": "http://gallica.bnf.fr/ark:/12148/bpt6k90091z",
+    "iiif_manifest": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k90091z/manifest.json"
+  },
+  "ark": "bpt6k90091z",
+  "typographie": {
+    "category": "Serif/Roman",
+    "subtype": "Didone (Modern)"
+  },
+  "_annotations": {
+    "metadata.title": {
+      "readability": "Readable",
+      "correction": "Lehrbuch der anorganischen reinen und technischen Chemie"
+    },
+    "metadata.title_complement": {
+      "readability": "Readable",
+      "correction": "Anorganische Experimental-Chemie. I. Band: Die Mettaloide."
+    },
+    "metadata.volume_number": {
+      "readability": "Readable",
+      "correction": "I. Band"
+    },
+    "metadata.authors": {
+      "readability": "Readable",
+      "correction": "W. Steffen"
+    },
+    "metadata.publisher": {
+      "readability": "Readable",
+      "correction": "Verlag von Julius Maier"
+    },
+    "metadata.publication_place": {
+      "readability": "Readable",
+      "correction": "Stuttgart"
+    },
+    "metadata.date": {
+      "readability": "Readable",
+      "correction": "1889"
+    },
+    "language": {
+      "readability": "Readable"
+    },
+    "metadata.identifier": {
+      "readability": "Readable"
+    },
+    "metadata.iiif_manifest": {
+      "readability": "Readable"
+    },
+    "ark": {
+      "readability": "Readable"
+    }
+  },
+  "language": "de (German)"
+}

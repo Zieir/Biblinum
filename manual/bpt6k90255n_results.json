@@ -1,0 +1,58 @@
+{
+  "metadata": {
+    "title": "TRAITÉ PRATIQUE D'ANALYSES CHIMIQUES ET D'ESSAIS INDUSTRIELS",
+    "title_complement": "Méthodes nouvelles pour le dosage des substances minérales. Minerais, métaux, alliages et produits d'art. À l'usage des ingénieurs, des chimistes, des métallurgistes, etc",
+    "volume_number": "",
+    "authors": "Raoul JAGNAUX",
+    "publisher": "OCTAVE DOIN",
+    "publication_place": "PARIS",
+    "date": "1884",
+    "identifier": "http://gallica.bnf.fr/ark:/12148/bpt6k90255n",
+    "iiif_manifest": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k90255n/manifest.json"
+  },
+  "ark": "bpt6k90255n",
+  "typographie": {
+    "category": "Serif/Roman",
+    "subtype": "Didone (Modern)"
+  },
+  "_annotations": {
+    "metadata.title": {
+      "readability": "Readable",
+      "correction": "TRAITÉ PRATIQUE D'ANALYSES CHIMIQUES ET D'ESSAIS INDUSTRIELS"
+    },
+    "metadata.title_complement": {
+      "readability": "Readable",
+      "correction": "Méthodes nouvelles pour le dosage des substances minérales. Minerais, métaux, alliages et produits d'art. À l'usage des ingénieurs, des chimistes, des métallurgistes, etc"
+    },
+    "metadata.volume_number": {
+      "readability": "Not readable",
+      "cause": "absent"
+    },
+    "metadata.authors": {
+      "readability": "Readable",
+      "correction": "Raoul JAGNAUX"
+    },
+    "metadata.publisher": {
+      "readability": "Readable"
+    },
+    "metadata.publication_place": {
+      "readability": "Readable"
+    },
+    "metadata.date": {
+      "readability": "Readable"
+    },
+    "language": {
+      "readability": "Readable"
+    },
+    "metadata.identifier": {
+      "readability": "Readable"
+    },
+    "metadata.iiif_manifest": {
+      "readability": "Readable"
+    },
+    "ark": {
+      "readability": "Readable"
+    }
+  },
+  "language": "fr (French)"
+}

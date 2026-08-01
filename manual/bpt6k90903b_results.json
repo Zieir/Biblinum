@@ -1,0 +1,57 @@
+{
+  "metadata": {
+    "title": "L'OEUVRE DE JEAN-BAPTISTE DUMAS",
+    "title_complement": "",
+    "volume_number": "",
+    "authors": "MAINDRON ; SCHÜTZENBERGER",
+    "publisher": "G. MASSON, ÉDITEUR",
+    "publication_place": "PARIS",
+    "date": "1886",
+    "identifier": "http://gallica.bnf.fr/ark:/12148/bpt6k90903b",
+    "iiif_manifest": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k90903b/manifest.json"
+  },
+  "ark": "bpt6k90903b",
+  "typographie": {
+    "category": "Serif/Roman",
+    "subtype": "Didone (Modern)"
+  },
+  "_annotations": {
+    "metadata.title": {
+      "readability": "Readable"
+    },
+    "metadata.title_complement": {
+      "readability": "Not readable",
+      "cause": "absent"
+    },
+    "metadata.volume_number": {
+      "readability": "Not readable",
+      "cause": "absent"
+    },
+    "metadata.authors": {
+      "readability": "Readable",
+      "correction": "MAINDRON ; SCHÜTZENBERGER"
+    },
+    "metadata.publisher": {
+      "readability": "Readable"
+    },
+    "metadata.publication_place": {
+      "readability": "Readable"
+    },
+    "metadata.date": {
+      "readability": "Readable"
+    },
+    "language": {
+      "readability": "Readable"
+    },
+    "metadata.identifier": {
+      "readability": "Readable"
+    },
+    "metadata.iiif_manifest": {
+      "readability": "Readable"
+    },
+    "ark": {
+      "readability": "Readable"
+    }
+  },
+  "language": "fr (French)"
+}

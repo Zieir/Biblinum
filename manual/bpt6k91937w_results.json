@@ -1,0 +1,58 @@
+{
+  "metadata": {
+    "title": "OEUVRES COMPLÈTES D'AUGUSTIN FRESNEL",
+    "title_complement": "",
+    "volume_number": "TOME DEUXIÈME",
+    "authors": "Augustin Fresnel",
+    "publisher": "IMPRIMERIE IMPÉRIALE",
+    "publication_place": "PARIS",
+    "date": "1868",
+    "identifier": "http://gallica.bnf.fr/ark:/12148/bpt6k91937w",
+    "iiif_manifest": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k91937w/manifest.json"
+  },
+  "ark": "bpt6k91937w",
+  "typographie": {
+    "category": "Serif/Roman",
+    "subtype": "Didone (Modern)"
+  },
+  "_annotations": {
+    "metadata.title": {
+      "readability": "Readable",
+      "correction": "OEUVRES COMPLÈTES D'AUGUSTIN FRESNEL"
+    },
+    "metadata.title_complement": {
+      "readability": "Not readable",
+      "cause": "absent",
+      "correction": ""
+    },
+    "metadata.volume_number": {
+      "readability": "Readable"
+    },
+    "metadata.authors": {
+      "readability": "Readable",
+      "correction": "Augustin Fresnel"
+    },
+    "metadata.publisher": {
+      "readability": "Readable"
+    },
+    "metadata.publication_place": {
+      "readability": "Readable"
+    },
+    "metadata.date": {
+      "readability": "Readable"
+    },
+    "language": {
+      "readability": "Readable"
+    },
+    "metadata.identifier": {
+      "readability": "Readable"
+    },
+    "metadata.iiif_manifest": {
+      "readability": "Readable"
+    },
+    "ark": {
+      "readability": "Readable"
+    }
+  },
+  "language": "fr (French)"
+}

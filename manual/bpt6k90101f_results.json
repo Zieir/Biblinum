@@ -1,0 +1,60 @@
+{
+  "metadata": {
+    "title": "DU PLATINE",
+    "title_complement": "DES METAUX QUI L'ACCOMPAGNENT",
+    "volume_number": "",
+    "authors": "H.  SAINTE-CLAIRE DEVILLE; H. DEBRAY",
+    "publisher": "",
+    "publication_place": "",
+    "date": "",
+    "identifier": "http://gallica.bnf.fr/ark:/12148/bpt6k90101f",
+    "iiif_manifest": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k90101f/manifest.json"
+  },
+  "ark": "bpt6k90101f",
+  "typographie": {
+    "category": "Serif/Roman",
+    "subtype": "Didone (Modern)"
+  },
+  "_annotations": {
+    "metadata.title": {
+      "readability": "Readable"
+    },
+    "metadata.title_complement": {
+      "readability": "Readable"
+    },
+    "metadata.volume_number": {
+      "readability": "Not readable",
+      "cause": "absent"
+    },
+    "metadata.authors": {
+      "readability": "Not readable",
+      "cause": "quality",
+      "correction": "H.  SAINTE-CLAIRE DEVILLE; H. DEBRAY"
+    },
+    "metadata.publisher": {
+      "readability": "Not readable",
+      "cause": "absent"
+    },
+    "metadata.publication_place": {
+      "readability": "Not readable",
+      "cause": "absent"
+    },
+    "metadata.date": {
+      "readability": "Not readable",
+      "cause": "absent"
+    },
+    "language": {
+      "readability": "Readable"
+    },
+    "metadata.identifier": {
+      "readability": "Readable"
+    },
+    "metadata.iiif_manifest": {
+      "readability": "Readable"
+    },
+    "ark": {
+      "readability": "Readable"
+    }
+  },
+  "language": "fr (French)"
+}

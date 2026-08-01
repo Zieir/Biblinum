@@ -1,0 +1,55 @@
+{
+  "metadata": {
+    "title": "THE ELEMENTS OF ATOM-MECHANICS",
+    "title_complement": "THE TRUE ATOMIC WEIGHTS OF THE CHEMICAL ELEMENTS AND THE UNITY OF MATTER",
+    "volume_number": "VOLUME FIRST",
+    "authors": "Gustavus Detlef HINRICOHS",
+    "publisher": "CARL GUSTAVB HINRICHS",
+    "publication_place": "ST. LOUIS, MO.",
+    "date": "1894",
+    "identifier": "http://gallica.bnf.fr/ark:/12148/bpt6k90474g",
+    "iiif_manifest": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k90474g/manifest.json"
+  },
+  "ark": "bpt6k90474g",
+  "typographie": {
+    "category": "Serif/Roman",
+    "subtype": "Modern (Didone)"
+  },
+  "_annotations": {
+    "metadata.title": {
+      "readability": "Readable"
+    },
+    "metadata.title_complement": {
+      "readability": "Readable"
+    },
+    "metadata.volume_number": {
+      "readability": "Readable"
+    },
+    "metadata.authors": {
+      "readability": "Readable",
+      "correction": "Gustavus Detlef HINRICOHS"
+    },
+    "metadata.publisher": {
+      "readability": "Readable"
+    },
+    "metadata.publication_place": {
+      "readability": "Readable"
+    },
+    "metadata.date": {
+      "readability": "Readable"
+    },
+    "language": {
+      "readability": "Readable"
+    },
+    "metadata.identifier": {
+      "readability": "Readable"
+    },
+    "metadata.iiif_manifest": {
+      "readability": "Readable"
+    },
+    "ark": {
+      "readability": "Readable"
+    }
+  },
+  "language": "en (English)"
+}

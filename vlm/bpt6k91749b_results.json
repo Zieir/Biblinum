@@ -1,0 +1,15 @@
+{
+    "processing_time_seconds": 2.28,
+    "metadata": {
+        "title": "L'OZONE",
+        "title_complement": "Recherches chimiques, anatomiques, physiologiques et médicales sur l'oxygène électrisé",
+        "volume_number": "",
+        "authors": "SCOUTETTEN, H.",
+        "publisher": "Librairie de Victor Masson ; Librairie de M. Alcan",
+        "publication_place": "Paris ; Metz",
+        "date": "1856",
+        "identifier": "http://gallica.bnf.fr/ark:/12148/bpt6k91749b",
+        "iiif_manifest": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k91749b/manifest.json"
+    },
+    "ark": "bpt6k91749b"
+}

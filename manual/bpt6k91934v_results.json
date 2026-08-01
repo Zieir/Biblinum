@@ -1,0 +1,57 @@
+{
+  "metadata": {
+    "title": "PRINCIPE DE CHIMIE",
+    "title_complement": "SUR LES THÉORIES MODERNES",
+    "volume_number": "TOME SECOND",
+    "authors": "A. NAQUET; M. HANRIOT",
+    "publisher": "LIBRAIRIE F. SAVY",
+    "publication_place": "PARIS",
+    "date": "1885",
+    "identifier": "http://gallica.bnf.fr/ark:/12148/bpt6k91934v",
+    "iiif_manifest": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k91934v/manifest.json"
+  },
+  "ark": "bpt6k91934v",
+  "typographie": {
+    "category": "Serif/Roman",
+    "subtype": "Didone (Modern)"
+  },
+  "_annotations": {
+    "metadata.title": {
+      "readability": "Not readable",
+      "cause": "covered",
+      "correction": "PRINCIPE DE CHIMIE"
+    },
+    "metadata.title_complement": {
+      "readability": "Readable"
+    },
+    "metadata.volume_number": {
+      "readability": "Readable"
+    },
+    "metadata.authors": {
+      "readability": "Readable",
+      "correction": "A. NAQUET; M. HANRIOT"
+    },
+    "metadata.publisher": {
+      "readability": "Readable"
+    },
+    "metadata.publication_place": {
+      "readability": "Readable"
+    },
+    "metadata.date": {
+      "readability": "Readable"
+    },
+    "language": {
+      "readability": "Readable"
+    },
+    "metadata.identifier": {
+      "readability": "Readable"
+    },
+    "metadata.iiif_manifest": {
+      "readability": "Readable"
+    },
+    "ark": {
+      "readability": "Readable"
+    }
+  },
+  "language": "fr (French)"
+}

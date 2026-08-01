@@ -1,0 +1,61 @@
+{
+  "metadata": {
+    "title": "ŒUVRES COMPLÈTES",
+    "title_complement": "",
+    "volume_number": "TOME III",
+    "authors": "Jean-Servais STAS",
+    "publisher": "C. MUQUARDT",
+    "publication_place": "BRUXELLES; LEIPZIG",
+    "date": "1894",
+    "identifier": "http://gallica.bnf.fr/ark:/12148/bpt6k919952",
+    "iiif_manifest": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k919952/manifest.json"
+  },
+  "ark": "bpt6k919952",
+  "typographie": {
+    "category": "Serif/Roman",
+    "subtype": "Didone (Modern)"
+  },
+  "_annotations": {
+    "metadata.title": {
+      "readability": "Readable"
+    },
+    "metadata.title_complement": {
+      "readability": "Not readable",
+      "cause": "absent",
+      "correction": ""
+    },
+    "metadata.volume_number": {
+      "readability": "Readable",
+      "correction": "TOME III"
+    },
+    "metadata.authors": {
+      "readability": "Readable",
+      "correction": "Jean-Servais STAS"
+    },
+    "metadata.publisher": {
+      "readability": "Readable",
+      "correction": "C. Muquardt"
+    },
+    "metadata.publication_place": {
+      "readability": "Readable",
+      "correction": "BRUXELLES; LEIPZIG"
+    },
+    "metadata.date": {
+      "readability": "Readable",
+      "correction": "1894"
+    },
+    "language": {
+      "readability": "Readable"
+    },
+    "metadata.identifier": {
+      "readability": "Readable"
+    },
+    "metadata.iiif_manifest": {
+      "readability": "Readable"
+    },
+    "ark": {
+      "readability": "Readable"
+    }
+  },
+  "language": "fr (French)"
+}

@@ -1,0 +1,58 @@
+{
+  "metadata": {
+    "title": "TRAITÉ DE MINÉRALOGIE",
+    "title_complement": "",
+    "volume_number": "TOME CINQUIÈME",
+    "authors": "A. DUFRENOY",
+    "publisher": "VICTOR DALMONT",
+    "publication_place": "PARIS",
+    "date": "1856",
+    "identifier": "http://gallica.bnf.fr/ark:/12148/bpt6k90621f",
+    "iiif_manifest": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k90621f/manifest.json"
+  },
+  "ark": "bpt6k90621f",
+  "typographie": {
+    "category": "Serif/Roman",
+    "subtype": "Didone (Modern)"
+  },
+  "_annotations": {
+    "metadata.title": {
+      "readability": "Readable"
+    },
+    "metadata.title_complement": {
+      "readability": "Not readable",
+      "cause": "absent"
+    },
+    "metadata.volume_number": {
+      "readability": "Readable"
+    },
+    "metadata.authors": {
+      "readability": "Readable",
+      "correction": "A. DUFRENOY"
+    },
+    "metadata.publisher": {
+      "readability": "Readable"
+    },
+    "metadata.publication_place": {
+      "readability": "Readable"
+    },
+    "metadata.date": {
+      "readability": "Not readable",
+      "cause": "quality",
+      "correction": "1856"
+    },
+    "language": {
+      "readability": "Readable"
+    },
+    "metadata.identifier": {
+      "readability": "Readable"
+    },
+    "metadata.iiif_manifest": {
+      "readability": "Readable"
+    },
+    "ark": {
+      "readability": "Readable"
+    }
+  },
+  "language": "fr (French)"
+}

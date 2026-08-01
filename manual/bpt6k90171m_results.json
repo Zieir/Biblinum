@@ -1,0 +1,61 @@
+{
+  "metadata": {
+    "title": "TRAITÉ DE CHIMIE MINÉRALE ET ORGANIQUE",
+    "title_complement": "COMPRENANT LA CHIMIE PURE ET SES APPLICATIONS",
+    "volume_number": "TOME IV",
+    "authors": "Ed. WILLM; M. HANRIOT",
+    "publisher": "G. MASSON",
+    "publication_place": "PARIS",
+    "date": "1889",
+    "identifier": "http://gallica.bnf.fr/ark:/12148/bpt6k90171m",
+    "iiif_manifest": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k90171m/manifest.json"
+  },
+  "ark": "bpt6k90171m",
+  "typographie": {
+    "category": "Serif/Roman",
+    "subtype": "Didone (Modern)"
+  },
+  "_annotations": {
+    "metadata.title": {
+      "readability": "Readable",
+      "correction": "TRAITÉ DE CHIMIE MINÉRALE ET ORGANIQUE"
+    },
+    "metadata.title_complement": {
+      "readability": "Readable",
+      "correction": "COMPRENANT LA CHIMIE PURE ET SES APPLICATIONS"
+    },
+    "metadata.volume_number": {
+      "readability": "Readable",
+      "correction": "TOME IV"
+    },
+    "metadata.authors": {
+      "readability": "Readable",
+      "correction": "Ed. WILLM; M. HANRIOT"
+    },
+    "metadata.publisher": {
+      "readability": "Readable",
+      "correction": "G. MASSON"
+    },
+    "metadata.publication_place": {
+      "readability": "Readable",
+      "correction": "PARIS"
+    },
+    "metadata.date": {
+      "readability": "Readable",
+      "correction": "1889"
+    },
+    "language": {
+      "readability": "Readable"
+    },
+    "metadata.identifier": {
+      "readability": "Readable"
+    },
+    "metadata.iiif_manifest": {
+      "readability": "Readable"
+    },
+    "ark": {
+      "readability": "Readable"
+    }
+  },
+  "language": "fr (French)"
+}

@@ -1,0 +1,61 @@
+{
+  "metadata": {
+    "title": "CONFÉRENCES SUR QUELQUES PROBLÈMES ACTUELS DE LA CHIMIE PHYSIQUE ET COSMIQUE",
+    "title_complement": "faites à l'Université de Paris en avril et mai 1922 ",
+    "volume_number": "",
+    "authors": "Svante Arrhenius",
+    "publisher": "GAUTHIER-VILLARS ET CIE",
+    "publication_place": "PARIS",
+    "date": "1923",
+    "identifier": "http://gallica.bnf.fr/ark:/12148/bpt6k91955t",
+    "iiif_manifest": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k91955t/manifest.json"
+  },
+  "ark": "bpt6k91955t",
+  "typographie": {
+    "category": "Serif/Roman",
+    "subtype": "Modern / Didone"
+  },
+  "_annotations": {
+    "metadata.title": {
+      "readability": "Readable"
+    },
+    "metadata.title_complement": {
+      "readability": "Readable",
+      "correction": "faites à l'Université de Paris en avril et mai 1922 "
+    },
+    "metadata.volume_number": {
+      "readability": "Not readable",
+      "cause": "absent"
+    },
+    "metadata.authors": {
+      "readability": "Readable",
+      "correction": "Svante Arrhenius"
+    },
+    "metadata.publisher": {
+      "readability": "Readable",
+      "correction": "Gauthier-Villars et Cie "
+    },
+    "metadata.publication_place": {
+      "readability": "Readable",
+      "correction": "PARIS"
+    },
+    "metadata.date": {
+      "readability": "Not readable",
+      "cause": "handwritten",
+      "correction": "1923"
+    },
+    "language": {
+      "readability": "Readable"
+    },
+    "metadata.identifier": {
+      "readability": "Readable"
+    },
+    "metadata.iiif_manifest": {
+      "readability": "Readable"
+    },
+    "ark": {
+      "readability": "Readable"
+    }
+  },
+  "language": "fr (French)"
+}

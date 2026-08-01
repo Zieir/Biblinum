@@ -1,0 +1,15 @@
+{
+    "processing_time_seconds": 2.29,
+    "metadata": {
+        "title": "COURS DE CHIMIE",
+        "title_complement": "CHIMIE MINÉRALE",
+        "volume_number": "TOME PREMIER",
+        "authors": "GAUTIER, ARMAND",
+        "publisher": "LIBRAIRIE E. SAVY",
+        "publication_place": "PARIS",
+        "date": "1887",
+        "identifier": "http://gallica.bnf.fr/ark:/12148/bpt6k906443",
+        "iiif_manifest": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k906443/manifest.json"
+    },
+    "ark": "bpt6k906443"
+}

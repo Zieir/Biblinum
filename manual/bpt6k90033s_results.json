@@ -1,0 +1,57 @@
+{
+  "metadata": {
+    "title": "ABRÉGÉ DE CHIMIE GÉNÉRALE",
+    "title_complement": "",
+    "volume_number": "",
+    "authors": "Wilhelm OSTWALD",
+    "publisher": "GEORGES CARRÉ, ÉDITEUR",
+    "publication_place": "PARIS",
+    "date": "1893",
+    "identifier": "http://gallica.bnf.fr/ark:/12148/bpt6k90033s",
+    "iiif_manifest": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k90033s/manifest.json"
+  },
+  "ark": "bpt6k90033s",
+  "typographie": {
+    "category": "Serif/Roman",
+    "subtype": "Didone (Modern)"
+  },
+  "_annotations": {
+    "metadata.title": {
+      "readability": "Readable"
+    },
+    "metadata.title_complement": {
+      "readability": "Not readable",
+      "cause": "absent"
+    },
+    "metadata.volume_number": {
+      "readability": "Not readable",
+      "cause": "absent"
+    },
+    "metadata.authors": {
+      "readability": "Readable",
+      "correction": "Wilhelm OSTWALD"
+    },
+    "metadata.publisher": {
+      "readability": "Readable"
+    },
+    "metadata.publication_place": {
+      "readability": "Readable"
+    },
+    "metadata.date": {
+      "readability": "Readable"
+    },
+    "language": {
+      "readability": "Readable"
+    },
+    "metadata.identifier": {
+      "readability": "Readable"
+    },
+    "metadata.iiif_manifest": {
+      "readability": "Readable"
+    },
+    "ark": {
+      "readability": "Readable"
+    }
+  },
+  "language": "fr (French)"
+}

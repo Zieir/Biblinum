@@ -1,0 +1,60 @@
+{
+  "metadata": {
+    "title": "RESEARCHES ON THE AMMONIA-COBALT BASES",
+    "title_complement": "",
+    "volume_number": "",
+    "authors": "Wolcott GIBBS; Frederick Aug. GENTH",
+    "publisher": "SMITHSONIAN CONTRIBUTIONS TO KNOWLEDGE",
+    "publication_place": "",
+    "date": "1856",
+    "identifier": "http://gallica.bnf.fr/ark:/12148/bpt6k91801m",
+    "iiif_manifest": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k91801m/manifest.json"
+  },
+  "ark": "bpt6k91801m",
+  "typographie": {
+    "category": "Serif/Roman",
+    "subtype": "Modern / Didone"
+  },
+  "_annotations": {
+    "metadata.title": {
+      "readability": "Readable",
+      "correction": "RESEARCHES ON THE AMMONIA-COBALT BASES"
+    },
+    "metadata.title_complement": {
+      "readability": "Not readable",
+      "cause": "absent",
+      "correction": ""
+    },
+    "metadata.volume_number": {
+      "readability": "Not readable",
+      "cause": "absent"
+    },
+    "metadata.authors": {
+      "readability": "Readable",
+      "correction": "Wolcott GIBBS; Frederick Aug. GENTH"
+    },
+    "metadata.publisher": {
+      "readability": "Readable"
+    },
+    "metadata.publication_place": {
+      "readability": "Not readable",
+      "cause": "absent"
+    },
+    "metadata.date": {
+      "readability": "Readable"
+    },
+    "language": {
+      "readability": "Readable"
+    },
+    "metadata.identifier": {
+      "readability": "Readable"
+    },
+    "metadata.iiif_manifest": {
+      "readability": "Readable"
+    },
+    "ark": {
+      "readability": "Readable"
+    }
+  },
+  "language": "en (English)"
+}

@@ -1,0 +1,61 @@
+{
+  "metadata": {
+    "title": "LEHRBUCH DER ANORGANISCHEN CHEMIE FÜR STUDIERENDE AN DER UNIVERSITÄTEN UND TECHNISCHEN HOCHSCHULEN",
+    "title_complement": "FÜR STUDIERENDE AN DER UNIVERSITÄTEN UND TECHNISCHEN HOCHSCHULEN",
+    "volume_number": "",
+    "authors": "A. F., Holleman",
+    "publisher": "VEIT & COMP.",
+    "publication_place": "LEIPZIG",
+    "date": "1900",
+    "identifier": "http://gallica.bnf.fr/ark:/12148/bpt6k90478v",
+    "iiif_manifest": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k90478v/manifest.json"
+  },
+  "ark": "bpt6k90478v",
+  "typographie": {
+    "category": "Script",
+    "subtype": "Kurrent / Sütterlin"
+  },
+  "_annotations": {
+    "metadata.title": {
+      "readability": "Readable",
+      "correction": "LEHRBUCH DER ANORGANISCHEN CHEMIE FÜR STUDIERENDE AN DER UNIVERSITÄTEN UND TECHNISCHEN HOCHSCHULEN"
+    },
+    "metadata.title_complement": {
+      "readability": "Readable",
+      "correction": "FÜR STUDIERENDE AN DER UNIVERSITÄTEN UND TECHNISCHEN HOCHSCHULEN"
+    },
+    "metadata.volume_number": {
+      "readability": "Not readable",
+      "cause": "absent"
+    },
+    "metadata.authors": {
+      "readability": "Readable",
+      "correction": "A. F., Holleman"
+    },
+    "metadata.publisher": {
+      "readability": "Readable",
+      "correction": "VEIT & COMP."
+    },
+    "metadata.publication_place": {
+      "readability": "Readable",
+      "correction": "Leipzig"
+    },
+    "metadata.date": {
+      "readability": "Readable",
+      "correction": "1900"
+    },
+    "language": {
+      "readability": "Readable"
+    },
+    "metadata.identifier": {
+      "readability": "Readable"
+    },
+    "metadata.iiif_manifest": {
+      "readability": "Readable"
+    },
+    "ark": {
+      "readability": "Readable"
+    }
+  },
+  "language": "de (German)"
+}

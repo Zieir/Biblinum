@@ -1,0 +1,58 @@
+{
+  "metadata": {
+    "title": "PRÉCIS D'ANALYSE CHIMIQUE QUALITATIVE",
+    "title_complement": "Ouvrage contenant la préparation et l'usage des réactifs, les caractères des acides et des bases, les essais au chalumeau, la marche de l'analyse qualitative, la détermination des sels, l'analyse des mélanges gazeux, l'analyse immédiate des matières végétales et animales, la recherche des poisons",
+    "volume_number": "",
+    "authors": "Ch. Gerhardt ; G. CHANCEL",
+    "publisher": "LIBRAIRIE DE VICTOR MASSON",
+    "publication_place": "PARIS",
+    "date": "1855",
+    "identifier": "http://gallica.bnf.fr/ark:/12148/bpt6k902727",
+    "iiif_manifest": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k902727/manifest.json"
+  },
+  "ark": "bpt6k902727",
+  "typographie": {
+    "category": "Serif/Roman",
+    "subtype": "Didone (Modern)"
+  },
+  "_annotations": {
+    "metadata.title": {
+      "readability": "Readable",
+      "correction": "PRÉCIS D'ANALYSE CHIMIQUE QUALITATIVE"
+    },
+    "metadata.title_complement": {
+      "readability": "Readable",
+      "correction": "Ouvrage contenant la préparation et l'usage des réactifs, les caractères des acides et des bases, les essais au chalumeau, la marche de l'analyse qualitative, la détermination des sels, l'analyse des mélanges gazeux, l'analyse immédiate des matières végétales et animales, la recherche des poisons"
+    },
+    "metadata.volume_number": {
+      "readability": "Not readable",
+      "cause": "absent"
+    },
+    "metadata.authors": {
+      "readability": "Readable",
+      "correction": "Ch. Gerhardt ; G. CHANCEL"
+    },
+    "metadata.publisher": {
+      "readability": "Readable"
+    },
+    "metadata.publication_place": {
+      "readability": "Readable"
+    },
+    "metadata.date": {
+      "readability": "Readable"
+    },
+    "language": {
+      "readability": "Readable"
+    },
+    "metadata.identifier": {
+      "readability": "Readable"
+    },
+    "metadata.iiif_manifest": {
+      "readability": "Readable"
+    },
+    "ark": {
+      "readability": "Readable"
+    }
+  },
+  "language": "fr (French)"
+}

@@ -1,0 +1,57 @@
+{
+  "metadata": {
+    "title": "EXPOSITION UNIVERSELLE INTERNATIONALE DE 1878, À PARIS",
+    "title_complement": "CATALOGUE OFFICIEL publié par le commissariat général",
+    "volume_number": "TOME IV",
+    "authors": "",
+    "publisher": "IMPRIMERIE NATIONALE",
+    "publication_place": "PARIS",
+    "date": "1878",
+    "identifier": "http://gallica.bnf.fr/ark:/12148/bpt6k90426m",
+    "iiif_manifest": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k90426m/manifest.json"
+  },
+  "ark": "bpt6k90426m",
+  "typographie": {
+    "category": "Serif/Roman",
+    "subtype": "Didone (Modern)"
+  },
+  "_annotations": {
+    "metadata.title": {
+      "readability": "Readable",
+      "correction": "EXPOSITION UNIVERSELLE INTERNATIONALE DE 1878, À PARIS"
+    },
+    "metadata.title_complement": {
+      "readability": "Readable",
+      "correction": "CATALOGUE OFFICIEL publié par le commissariat général"
+    },
+    "metadata.volume_number": {
+      "readability": "Readable"
+    },
+    "metadata.authors": {
+      "readability": "Not readable",
+      "cause": "absent"
+    },
+    "metadata.publisher": {
+      "readability": "Readable"
+    },
+    "metadata.publication_place": {
+      "readability": "Readable"
+    },
+    "metadata.date": {
+      "readability": "Readable"
+    },
+    "language": {
+      "readability": "Readable"
+    },
+    "metadata.identifier": {
+      "readability": "Readable"
+    },
+    "metadata.iiif_manifest": {
+      "readability": "Readable"
+    },
+    "ark": {
+      "readability": "Readable"
+    }
+  },
+  "language": "fr (French)"
+}

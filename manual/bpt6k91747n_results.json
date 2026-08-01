@@ -1,0 +1,61 @@
+{
+  "metadata": {
+    "title": "TRAVAUX DE CHIMIE ORGANIQUE de Victor Dessaignes",
+    "title_complement": "précédés d'une notice biographique",
+    "volume_number": "",
+    "authors": "Victor DESSAIGNES",
+    "publisher": "LEMERCIER",
+    "publication_place": "VENDÔME",
+    "date": "1886",
+    "identifier": "http://gallica.bnf.fr/ark:/12148/bpt6k91747n",
+    "iiif_manifest": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k91747n/manifest.json"
+  },
+  "ark": "bpt6k91747n",
+  "typographie": {
+    "category": "Serif/Roman",
+    "subtype": "Modern (Didone)"
+  },
+  "_annotations": {
+    "metadata.title": {
+      "readability": "Readable",
+      "correction": "TRAVAUX DE CHIMIE ORGANIQUE de Victor Dessaignes"
+    },
+    "metadata.title_complement": {
+      "readability": "Readable",
+      "correction": "précédés d'une notice biographique"
+    },
+    "metadata.volume_number": {
+      "readability": "Not readable",
+      "cause": "absent"
+    },
+    "metadata.authors": {
+      "readability": "Readable",
+      "correction": "Victor DESSAIGNES"
+    },
+    "metadata.publisher": {
+      "readability": "Readable",
+      "correction": "LEMERCIER"
+    },
+    "metadata.publication_place": {
+      "readability": "Readable",
+      "correction": "VENDÔME"
+    },
+    "metadata.date": {
+      "readability": "Readable",
+      "correction": "1886"
+    },
+    "language": {
+      "readability": "Readable"
+    },
+    "metadata.identifier": {
+      "readability": "Readable"
+    },
+    "metadata.iiif_manifest": {
+      "readability": "Readable"
+    },
+    "ark": {
+      "readability": "Readable"
+    }
+  },
+  "language": "fr (French)"
+}

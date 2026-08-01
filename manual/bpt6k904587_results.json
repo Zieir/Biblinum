@@ -1,0 +1,59 @@
+{
+  "metadata": {
+    "title": "THE RADICAL THEORY IN CHEMISTRY",
+    "title_complement": "",
+    "volume_number": "",
+    "authors": "John Joseph GRIFFIN",
+    "publisher": "JOHN JOSEPH GRIFFIN",
+    "publication_place": "LONDON",
+    "date": "1858",
+    "identifier": "http://gallica.bnf.fr/ark:/12148/bpt6k904587",
+    "iiif_manifest": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k904587/manifest.json"
+  },
+  "ark": "bpt6k904587",
+  "typographie": {
+    "category": "Serif/Roman",
+    "subtype": "Modern / Didone"
+  },
+  "_annotations": {
+    "metadata.title": {
+      "readability": "Readable",
+      "correction": "THE RADICAL THEORY IN CHEMISTRY"
+    },
+    "metadata.title_complement": {
+      "readability": "Not readable",
+      "cause": "absent",
+      "correction": ""
+    },
+    "metadata.volume_number": {
+      "readability": "Not readable",
+      "cause": "handwritten"
+    },
+    "metadata.authors": {
+      "readability": "Readable",
+      "correction": "John Joseph GRIFFIN"
+    },
+    "metadata.publisher": {
+      "readability": "Readable"
+    },
+    "metadata.publication_place": {
+      "readability": "Readable"
+    },
+    "metadata.date": {
+      "readability": "Readable"
+    },
+    "language": {
+      "readability": "Readable"
+    },
+    "metadata.identifier": {
+      "readability": "Readable"
+    },
+    "metadata.iiif_manifest": {
+      "readability": "Readable"
+    },
+    "ark": {
+      "readability": "Readable"
+    }
+  },
+  "language": "en (English)"
+}

@@ -1,0 +1,57 @@
+{
+  "metadata": {
+    "title": "PRÉCIS DE CHIMIE INDUSTRIELLE",
+    "title_complement": "à l'usage des écoles préparatoires aux professions industrielles, des fabricants et des agriculteurs",
+    "volume_number": "",
+    "authors": "A. PAYEN",
+    "publisher": "LIBRAIRIE HACHETTE ET Cª",
+    "publication_place": "PARIS",
+    "date": "1878",
+    "identifier": "http://gallica.bnf.fr/ark:/12148/bpt6k918933",
+    "iiif_manifest": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k918933/manifest.json"
+  },
+  "ark": "bpt6k918933",
+  "typographie": {
+    "category": "Serif/Roman",
+    "subtype": "Didone (Modern)"
+  },
+  "_annotations": {
+    "metadata.title": {
+      "readability": "Readable"
+    },
+    "metadata.title_complement": {
+      "readability": "Readable",
+      "correction": "à l'usage des écoles préparatoires aux professions industrielles, des fabricants et des agriculteurs"
+    },
+    "metadata.volume_number": {
+      "readability": "Not readable",
+      "cause": "absent"
+    },
+    "metadata.authors": {
+      "readability": "Readable",
+      "correction": "A. PAYEN"
+    },
+    "metadata.publisher": {
+      "readability": "Readable"
+    },
+    "metadata.publication_place": {
+      "readability": "Readable"
+    },
+    "metadata.date": {
+      "readability": "Readable"
+    },
+    "language": {
+      "readability": "Readable"
+    },
+    "metadata.identifier": {
+      "readability": "Readable"
+    },
+    "metadata.iiif_manifest": {
+      "readability": "Readable"
+    },
+    "ark": {
+      "readability": "Readable"
+    }
+  },
+  "language": "fr (French)"
+}

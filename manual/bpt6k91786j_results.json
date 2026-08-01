@@ -1,0 +1,61 @@
+{
+  "metadata": {
+    "title": "TRAITÉ D'ANALYSE CHIMIQUE QUALITATIVE",
+    "title_complement": "Des manipulations et opérations chimiques, des réactifs et de leur action sur les corps les plus répandus. Essais au chalumeau, analyse des eaux potables, des eaux minérales, des terres, des engrais, etc. Recherches chimico-légales, analyse spectrale. Analyse microchimique.",
+    "volume_number": "",
+    "authors": "R. Fresenius",
+    "publisher": "MASSON ET CIE",
+    "publication_place": "PARIS",
+    "date": "1905",
+    "identifier": "http://gallica.bnf.fr/ark:/12148/bpt6k91786j",
+    "iiif_manifest": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k91786j/manifest.json"
+  },
+  "ark": "bpt6k91786j",
+  "typographie": {
+    "category": "Serif/Roman",
+    "subtype": "Didone (Modern)"
+  },
+  "_annotations": {
+    "metadata.title": {
+      "readability": "Readable",
+      "correction": "TRAITÉ D'ANALYSE CHIMIQUE QUALITATIVE"
+    },
+    "metadata.title_complement": {
+      "readability": "Readable",
+      "correction": "Des manipulations et opérations chimiques, des réactifs et de leur action sur les corps les plus répandus. Essais au chalumeau, analyse des eaux potables, des eaux minérales, des terres, des engrais, etc. Recherches chimico-légales, analyse spectrale. Analyse microchimique."
+    },
+    "metadata.volume_number": {
+      "readability": "Not readable",
+      "cause": "absent"
+    },
+    "metadata.authors": {
+      "readability": "Readable",
+      "correction": "R. Fresenius"
+    },
+    "metadata.publisher": {
+      "readability": "Readable",
+      "correction": "Masson et Cie"
+    },
+    "metadata.publication_place": {
+      "readability": "Readable",
+      "correction": "PARIS"
+    },
+    "metadata.date": {
+      "readability": "Readable",
+      "correction": "1905"
+    },
+    "language": {
+      "readability": "Readable"
+    },
+    "metadata.identifier": {
+      "readability": "Readable"
+    },
+    "metadata.iiif_manifest": {
+      "readability": "Readable"
+    },
+    "ark": {
+      "readability": "Readable"
+    }
+  },
+  "language": "fr (French)"
+}

@@ -1,0 +1,57 @@
+{
+  "metadata": {
+    "title": "RECHERCHES SUR LES GAS IONISÉS",
+    "title_complement": "Thèses présentées à la faculté des sciences de l'université de Paris pour obtenir le grade de docteur ès  sciences physiques ",
+    "volume_number": "",
+    "authors": "P. LANGEVIN",
+    "publisher": "GAUTHIER-VILLARS, IMPRIMEUR-LIBRAIRE",
+    "publication_place": "PARIS",
+    "date": "1902",
+    "identifier": "http://gallica.bnf.fr/ark:/12148/bpt6k91787w",
+    "iiif_manifest": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k91787w/manifest.json"
+  },
+  "ark": "bpt6k91787w",
+  "typographie": {
+    "category": "Serif/Roman",
+    "subtype": "Didone (Modern)"
+  },
+  "_annotations": {
+    "metadata.title": {
+      "readability": "Readable"
+    },
+    "metadata.title_complement": {
+      "readability": "Readable",
+      "correction": "Thèses présentées à la faculté des sciences de l'université de Paris pour obtenir le grade de docteur ès  sciences physiques "
+    },
+    "metadata.volume_number": {
+      "readability": "Not readable",
+      "cause": "absent"
+    },
+    "metadata.authors": {
+      "readability": "Readable",
+      "correction": "P. LANGEVIN"
+    },
+    "metadata.publisher": {
+      "readability": "Readable"
+    },
+    "metadata.publication_place": {
+      "readability": "Readable"
+    },
+    "metadata.date": {
+      "readability": "Readable"
+    },
+    "language": {
+      "readability": "Readable"
+    },
+    "metadata.identifier": {
+      "readability": "Readable"
+    },
+    "metadata.iiif_manifest": {
+      "readability": "Readable"
+    },
+    "ark": {
+      "readability": "Readable"
+    }
+  },
+  "language": "fr (French)"
+}

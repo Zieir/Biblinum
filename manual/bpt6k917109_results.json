@@ -1,0 +1,61 @@
+{
+  "metadata": {
+    "title": "MANUEL D'UN COURS DE CHIMIE",
+    "title_complement": "ou Principes élémentaires, théoriques et pratiques de cette science",
+    "volume_number": "TOME SECOND",
+    "authors": "E.-J.-B. BOUILLON LAGRANGE",
+    "publisher": "BERNARD",
+    "publication_place": "PARIS",
+    "date": "1802",
+    "identifier": "http://gallica.bnf.fr/ark:/12148/bpt6k917109",
+    "iiif_manifest": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k917109/manifest.json"
+  },
+  "ark": "bpt6k917109",
+  "typographie": {
+    "category": "Serif/Roman",
+    "subtype": "Didone (Modern)"
+  },
+  "_annotations": {
+    "metadata.title": {
+      "readability": "Readable",
+      "correction": "MANUEL D'UN COURS DE CHIMIE"
+    },
+    "metadata.title_complement": {
+      "readability": "Readable",
+      "correction": "ou Principes élémentaires, théoriques et pratiques de cette science"
+    },
+    "metadata.volume_number": {
+      "readability": "Readable",
+      "correction": "TOME SECOND"
+    },
+    "metadata.authors": {
+      "readability": "Readable",
+      "correction": "E.-J.-B. BOUILLON LAGRANGE"
+    },
+    "metadata.publisher": {
+      "readability": "Readable",
+      "correction": "BERNARD"
+    },
+    "metadata.publication_place": {
+      "readability": "Readable",
+      "correction": "PARIS"
+    },
+    "metadata.date": {
+      "readability": "Readable",
+      "correction": "1802"
+    },
+    "language": {
+      "readability": "Readable"
+    },
+    "metadata.identifier": {
+      "readability": "Readable"
+    },
+    "metadata.iiif_manifest": {
+      "readability": "Readable"
+    },
+    "ark": {
+      "readability": "Readable"
+    }
+  },
+  "language": "fr (French)"
+}

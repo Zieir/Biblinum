@@ -1,0 +1,15 @@
+{
+    "processing_time_seconds": 3.03,
+    "metadata": {
+        "title": "ŒUVRES",
+        "title_complement": "",
+        "volume_number": "TOME I",
+        "authors": "HERMITE, Charles",
+        "publisher": "GAUTHIER-VILLARS",
+        "publication_place": "PARIS",
+        "date": "1905",
+        "identifier": "http://gallica.bnf.fr/ark:/12148/bpt6k902084",
+        "iiif_manifest": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k902084/manifest.json"
+    },
+    "ark": "bpt6k902084"
+}

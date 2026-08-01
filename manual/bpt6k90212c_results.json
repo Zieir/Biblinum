@@ -1,0 +1,61 @@
+{
+  "metadata": {
+    "title": "ŒUVRES de LAGUERRE",
+    "title_complement": "GÉOMÉTRIE",
+    "volume_number": "TOME II",
+    "authors": "LAGUERRE",
+    "publisher": "CHELSEA PUBLISHING COMPANY",
+    "publication_place": "BRONX, NEW YORK",
+    "date": "",
+    "identifier": "http://gallica.bnf.fr/ark:/12148/bpt6k90212c",
+    "iiif_manifest": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k90212c/manifest.json"
+  },
+  "ark": "bpt6k90212c",
+  "typographie": {
+    "category": "Serif/Roman",
+    "subtype": "Didone (Modern)"
+  },
+  "_annotations": {
+    "metadata.title": {
+      "readability": "Readable",
+      "correction": "ŒUVRES de LAGUERRE"
+    },
+    "metadata.title_complement": {
+      "readability": "Not readable",
+      "cause": "absent",
+      "correction": "GÉOMÉTRIE"
+    },
+    "metadata.volume_number": {
+      "readability": "Readable",
+      "correction": "TOME II"
+    },
+    "metadata.authors": {
+      "readability": "Readable"
+    },
+    "metadata.publisher": {
+      "readability": "Readable",
+      "correction": "CHELSEA PUBLISHING COMPANY"
+    },
+    "metadata.publication_place": {
+      "readability": "Readable",
+      "correction": "BRONX, NEW YORK"
+    },
+    "metadata.date": {
+      "readability": "Not readable",
+      "cause": "absent"
+    },
+    "language": {
+      "readability": "Readable"
+    },
+    "metadata.identifier": {
+      "readability": "Readable"
+    },
+    "metadata.iiif_manifest": {
+      "readability": "Readable"
+    },
+    "ark": {
+      "readability": "Readable"
+    }
+  },
+  "language": "fr (French)"
+}

@@ -1,0 +1,60 @@
+{
+  "metadata": {
+    "title": "MANUEL DES MANIPULATIONS CHIMIQUES",
+    "title_complement": "",
+    "volume_number": "",
+    "authors": "FR. DE WALQUE",
+    "publisher": "IMPRIMERIE DE D. AUG. PEETERS-RUELENS",
+    "publication_place": "LOUVAIN",
+    "date": "1884",
+    "identifier": "http://gallica.bnf.fr/ark:/12148/bpt6k90150n",
+    "iiif_manifest": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k90150n/manifest.json"
+  },
+  "ark": "bpt6k90150n",
+  "typographie": {
+    "category": "Serif/Roman",
+    "subtype": "Didone (Modern)"
+  },
+  "_annotations": {
+    "metadata.title": {
+      "readability": "Readable"
+    },
+    "metadata.title_complement": {
+      "readability": "Not readable",
+      "cause": "absent"
+    },
+    "metadata.volume_number": {
+      "readability": "Not readable",
+      "cause": "absent"
+    },
+    "metadata.authors": {
+      "readability": "Readable",
+      "correction": "FR. DE WALQUE"
+    },
+    "metadata.publisher": {
+      "readability": "Readable",
+      "correction": "Imprimerie de D. AUG. PEETERS-RUELENS"
+    },
+    "metadata.publication_place": {
+      "readability": "Readable",
+      "correction": "LOUVAIN"
+    },
+    "metadata.date": {
+      "readability": "Readable",
+      "correction": "1884"
+    },
+    "language": {
+      "readability": "Readable"
+    },
+    "metadata.identifier": {
+      "readability": "Readable"
+    },
+    "metadata.iiif_manifest": {
+      "readability": "Readable"
+    },
+    "ark": {
+      "readability": "Readable"
+    }
+  },
+  "language": "fr (French)"
+}

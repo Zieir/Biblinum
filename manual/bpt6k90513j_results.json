@@ -1,0 +1,56 @@
+{
+  "metadata": {
+    "title": "BEITRÄGE ZUR GESCHICHTE DER CHEMIE",
+    "title_complement": "",
+    "volume_number": "",
+    "authors": "HERMANN KOPP",
+    "publisher": "FRIEDRICH VIEWEG UND SOHN",
+    "publication_place": "BRAUNSCHWEIG",
+    "date": "1869",
+    "identifier": "http://gallica.bnf.fr/ark:/12148/bpt6k90513j",
+    "iiif_manifest": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k90513j/manifest.json"
+  },
+  "ark": "bpt6k90513j",
+  "typographie": {
+    "category": "Serif/Roman",
+    "subtype": "Modern / Didone"
+  },
+  "_annotations": {
+    "metadata.title": {
+      "readability": "Readable"
+    },
+    "metadata.title_complement": {
+      "readability": "Not readable",
+      "cause": "absent"
+    },
+    "metadata.volume_number": {
+      "readability": "Not readable",
+      "cause": "absent"
+    },
+    "metadata.authors": {
+      "readability": "Readable"
+    },
+    "metadata.publisher": {
+      "readability": "Readable"
+    },
+    "metadata.publication_place": {
+      "readability": "Readable"
+    },
+    "metadata.date": {
+      "readability": "Readable"
+    },
+    "language": {
+      "readability": "Readable"
+    },
+    "metadata.identifier": {
+      "readability": "Readable"
+    },
+    "metadata.iiif_manifest": {
+      "readability": "Readable"
+    },
+    "ark": {
+      "readability": "Readable"
+    }
+  },
+  "language": "de (German)"
+}

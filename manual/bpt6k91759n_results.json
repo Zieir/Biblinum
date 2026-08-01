@@ -1,0 +1,57 @@
+{
+  "metadata": {
+    "title": "EXPOSÉ DE QUELQUES PROPRIÉTÉS GÉNÉRALES DES CORPS",
+    "title_complement": "",
+    "volume_number": "",
+    "authors": "Alfred DITTE",
+    "publisher": "DUNOD",
+    "publication_place": "PARIS",
+    "date": "1881",
+    "identifier": "http://gallica.bnf.fr/ark:/12148/bpt6k91759n",
+    "iiif_manifest": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k91759n/manifest.json"
+  },
+  "ark": "bpt6k91759n",
+  "typographie": {
+    "category": "Serif",
+    "subtype": "Slab Serif (Egyptian)"
+  },
+  "_annotations": {
+    "metadata.title": {
+      "readability": "Readable"
+    },
+    "metadata.title_complement": {
+      "readability": "Not readable",
+      "cause": "absent"
+    },
+    "metadata.volume_number": {
+      "readability": "Not readable",
+      "cause": "absent"
+    },
+    "metadata.authors": {
+      "readability": "Readable",
+      "correction": "Alfred DITTE"
+    },
+    "metadata.publisher": {
+      "readability": "Readable"
+    },
+    "metadata.publication_place": {
+      "readability": "Readable"
+    },
+    "metadata.date": {
+      "readability": "Readable"
+    },
+    "language": {
+      "readability": "Readable"
+    },
+    "metadata.identifier": {
+      "readability": "Readable"
+    },
+    "metadata.iiif_manifest": {
+      "readability": "Readable"
+    },
+    "ark": {
+      "readability": "Readable"
+    }
+  },
+  "language": "fr (French)"
+}

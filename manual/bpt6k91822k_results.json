@@ -1,0 +1,58 @@
+{
+  "metadata": {
+    "title": "SUR LA CONSTITUTION DES SPECTRES LUMINEUX",
+    "title_complement": "",
+    "volume_number": "",
+    "authors": "LECOQ DE BOISBAUDRAN",
+    "publisher": "TYPOGRAPHIE DE G. MARESCHAL",
+    "publication_place": "LA ROCHELLE",
+    "date": "1870",
+    "identifier": "http://gallica.bnf.fr/ark:/12148/bpt6k91822k",
+    "iiif_manifest": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k91822k/manifest.json"
+  },
+  "ark": "bpt6k91822k",
+  "typographie": {
+    "category": "Serif/Roman",
+    "subtype": "Didone (Modern)"
+  },
+  "_annotations": {
+    "metadata.title": {
+      "readability": "Readable"
+    },
+    "metadata.title_complement": {
+      "readability": "Not readable",
+      "cause": "absent"
+    },
+    "metadata.volume_number": {
+      "readability": "Not readable",
+      "cause": "absent"
+    },
+    "metadata.authors": {
+      "readability": "Readable",
+      "correction": "LECOQ DE BOISBAUDRAN"
+    },
+    "metadata.publisher": {
+      "readability": "Readable",
+      "correction": "TYPOGRAPHIE DE G. Mareschal"
+    },
+    "metadata.publication_place": {
+      "readability": "Readable"
+    },
+    "metadata.date": {
+      "readability": "Readable"
+    },
+    "language": {
+      "readability": "Readable"
+    },
+    "metadata.identifier": {
+      "readability": "Readable"
+    },
+    "metadata.iiif_manifest": {
+      "readability": "Readable"
+    },
+    "ark": {
+      "readability": "Readable"
+    }
+  },
+  "language": "fr (French)"
+}

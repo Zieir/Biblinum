@@ -1,0 +1,58 @@
+{
+  "metadata": {
+    "title": "CHIMIE INORGANIQUE",
+    "title_complement": "à l'usage des Universités",
+    "volume_number": "",
+    "authors": "A. F. HOLLEMAN",
+    "publisher": "L. GEISLER",
+    "publication_place": "PARIS",
+    "date": "1912",
+    "identifier": "http://gallica.bnf.fr/ark:/12148/bpt6k90480d",
+    "iiif_manifest": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k90480d/manifest.json"
+  },
+  "ark": "bpt6k90480d",
+  "typographie": {
+    "category": "Serif/Roman",
+    "subtype": "Didone (Modern)"
+  },
+  "_annotations": {
+    "metadata.title": {
+      "readability": "Not readable",
+      "cause": "covered"
+    },
+    "metadata.title_complement": {
+      "readability": "Readable"
+    },
+    "metadata.volume_number": {
+      "readability": "Not readable",
+      "cause": "absent"
+    },
+    "metadata.authors": {
+      "readability": "Readable",
+      "correction": "A. F. HOLLEMAN"
+    },
+    "metadata.publisher": {
+      "readability": "Readable",
+      "correction": "L. Geisler"
+    },
+    "metadata.publication_place": {
+      "readability": "Readable"
+    },
+    "metadata.date": {
+      "readability": "Readable"
+    },
+    "language": {
+      "readability": "Readable"
+    },
+    "metadata.identifier": {
+      "readability": "Readable"
+    },
+    "metadata.iiif_manifest": {
+      "readability": "Readable"
+    },
+    "ark": {
+      "readability": "Readable"
+    }
+  },
+  "language": "fr (French)"
+}

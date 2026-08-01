@@ -1,0 +1,59 @@
+{
+  "metadata": {
+    "title": "ŒUVRES COMPLÈTES d'Augustin Cauchy",
+    "title_complement": "",
+    "volume_number": "SÉRIE 2 - TOME VIII",
+    "authors": "Augustin Cauchy",
+    "publisher": "GAUTHIER-VILLARS ET FILS",
+    "publication_place": "PARIS",
+    "date": "1890",
+    "identifier": "http://gallica.bnf.fr/ark:/12148/bpt6k90200c",
+    "iiif_manifest": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k90200c/manifest.json"
+  },
+  "ark": "bpt6k90200c",
+  "typographie": {
+    "category": "Serif/Roman",
+    "subtype": "Didone (Modern)"
+  },
+  "_annotations": {
+    "metadata.title": {
+      "readability": "Readable",
+      "correction": "ŒUVRES COMPLÈTES d'Augustin Cauchy"
+    },
+    "metadata.title_complement": {
+      "readability": "Not readable",
+      "cause": "absent",
+      "correction": ""
+    },
+    "metadata.volume_number": {
+      "readability": "Readable",
+      "correction": "SÉRIE 2 - TOME VIII"
+    },
+    "metadata.authors": {
+      "readability": "Readable",
+      "correction": "Augustin Cauchy"
+    },
+    "metadata.publisher": {
+      "readability": "Readable"
+    },
+    "metadata.publication_place": {
+      "readability": "Readable"
+    },
+    "metadata.date": {
+      "readability": "Readable"
+    },
+    "language": {
+      "readability": "Readable"
+    },
+    "metadata.identifier": {
+      "readability": "Readable"
+    },
+    "metadata.iiif_manifest": {
+      "readability": "Readable"
+    },
+    "ark": {
+      "readability": "Readable"
+    }
+  },
+  "language": "fr (French)"
+}

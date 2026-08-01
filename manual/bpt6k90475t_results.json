@@ -1,0 +1,60 @@
+{
+  "metadata": {
+    "title": "THÉORIE MÉCANIQUE DE LA CHALEUR",
+    "title_complement": "EXPOSITION ANALYTIQUE ET EXPÉRIMENTALE",
+    "volume_number": "PREMIÈRE PARTIE",
+    "authors": "G. -A. HIRN",
+    "publisher": "GAUTHIER-VILLARS",
+    "publication_place": "PARIS",
+    "date": "1865",
+    "identifier": "http://gallica.bnf.fr/ark:/12148/bpt6k90475t",
+    "iiif_manifest": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k90475t/manifest.json"
+  },
+  "ark": "bpt6k90475t",
+  "typographie": {
+    "category": "Serif/Roman",
+    "subtype": "Didone (Modern)"
+  },
+  "_annotations": {
+    "metadata.title": {
+      "readability": "Readable"
+    },
+    "metadata.title_complement": {
+      "readability": "Readable"
+    },
+    "metadata.volume_number": {
+      "readability": "Readable",
+      "correction": "PREMIÈRE PARTIE"
+    },
+    "metadata.authors": {
+      "readability": "Readable",
+      "correction": "G. -A. HIRN"
+    },
+    "metadata.publisher": {
+      "readability": "Readable",
+      "correction": "Gauthier-Villars"
+    },
+    "metadata.publication_place": {
+      "readability": "Readable",
+      "correction": "PARIS"
+    },
+    "metadata.date": {
+      "readability": "Not readable",
+      "cause": "quality",
+      "correction": "1865"
+    },
+    "language": {
+      "readability": "Readable"
+    },
+    "metadata.identifier": {
+      "readability": "Readable"
+    },
+    "metadata.iiif_manifest": {
+      "readability": "Readable"
+    },
+    "ark": {
+      "readability": "Readable"
+    }
+  },
+  "language": "fr (French)"
+}

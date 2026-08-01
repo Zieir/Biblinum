@@ -1,0 +1,61 @@
+{
+  "metadata": {
+    "title": "TRAITÉ ÉLÉMENTAIRE DE MÉCANIQUE CHIMIQUE",
+    "title_complement": "fondée sur la thermodynamique",
+    "volume_number": "TOME III",
+    "authors": "P. DUHEM",
+    "publisher": "A. HERMANN",
+    "publication_place": "PARIS",
+    "date": "1898",
+    "identifier": "http://gallica.bnf.fr/ark:/12148/bpt6k917705",
+    "iiif_manifest": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k917705/manifest.json"
+  },
+  "ark": "bpt6k917705",
+  "typographie": {
+    "category": "Serif/Roman",
+    "subtype": "Slab Serif (Egyptian)"
+  },
+  "_annotations": {
+    "metadata.title": {
+      "readability": "Readable"
+    },
+    "metadata.title_complement": {
+      "readability": "Readable",
+      "correction": "fondée sur la thermodynamique"
+    },
+    "metadata.volume_number": {
+      "readability": "Readable",
+      "correction": "TOME III"
+    },
+    "metadata.authors": {
+      "readability": "Readable",
+      "correction": "P. DUHEM"
+    },
+    "metadata.publisher": {
+      "readability": "Readable",
+      "correction": "A. HERMANN"
+    },
+    "metadata.publication_place": {
+      "readability": "Readable",
+      "correction": "PARIS"
+    },
+    "metadata.date": {
+      "readability": "Not readable",
+      "cause": "quality",
+      "correction": "1898"
+    },
+    "language": {
+      "readability": "Readable"
+    },
+    "metadata.identifier": {
+      "readability": "Readable"
+    },
+    "metadata.iiif_manifest": {
+      "readability": "Readable"
+    },
+    "ark": {
+      "readability": "Readable"
+    }
+  },
+  "language": "fr (French)"
+}

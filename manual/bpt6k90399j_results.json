@@ -1,0 +1,61 @@
+{
+  "metadata": {
+    "title": "INFLUENCE EXERCÉE SUR LES RÉACTIONS CHIMIQUES PAR LES AGENTS PHYSIQUES AUTRES QUE LA CHALEUR",
+    "title_complement": "",
+    "volume_number": "",
+    "authors": "P. CARLES",
+    "publisher": "LIBRAIRIE J.-B. BAILLIÈRE ET FILS; BAILLIÈRE , F. TINDALL, AND COI; CARLOS BAILLY BAILLIÈRE",
+    "publication_place": "PARIS; LONDRES; MADRID",
+    "date": "1880",
+    "identifier": "http://gallica.bnf.fr/ark:/12148/bpt6k90399j",
+    "iiif_manifest": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k90399j/manifest.json"
+  },
+  "ark": "bpt6k90399j",
+  "typographie": {
+    "category": "Serif/Roman",
+    "subtype": "Didone (Modern)"
+  },
+  "_annotations": {
+    "metadata.title": {
+      "readability": "Readable",
+      "correction": "INFLUENCE EXERCÉE SUR LES RÉACTIONS CHIMIQUES PAR LES AGENTS PHYSIQUES AUTRES QUE LA CHALEUR"
+    },
+    "metadata.title_complement": {
+      "readability": "Not readable",
+      "cause": "absent",
+      "correction": ""
+    },
+    "metadata.volume_number": {
+      "readability": "Not readable",
+      "cause": "absent"
+    },
+    "metadata.authors": {
+      "readability": "Readable",
+      "correction": "P. CARLES"
+    },
+    "metadata.publisher": {
+      "readability": "Readable",
+      "correction": "LIBRAIRIE J.-B. BAILLIÈRE ET FILS; BAILLIÈRE , F. TINDALL, AND COI; CARLOS BAILLY BAILLIÈRE "
+    },
+    "metadata.publication_place": {
+      "readability": "Readable",
+      "correction": "PARIS; Londres; Madrid"
+    },
+    "metadata.date": {
+      "readability": "Readable"
+    },
+    "language": {
+      "readability": "Readable"
+    },
+    "metadata.identifier": {
+      "readability": "Readable"
+    },
+    "metadata.iiif_manifest": {
+      "readability": "Readable"
+    },
+    "ark": {
+      "readability": "Readable"
+    }
+  },
+  "language": "fr (French)"
+}

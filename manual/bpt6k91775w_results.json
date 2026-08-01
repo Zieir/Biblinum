@@ -1,0 +1,57 @@
+{
+  "metadata": {
+    "title": "A SUPOSTA SALICILAGEM",
+    "title_complement": "DOS VINHOS PORTUGUESES NO BRASIL (1900-1902) MEMÓRIAS, NOTAS E DOCUMENTOS",
+    "volume_number": "",
+    "authors": "A. J. FERREIRA DA SILVA",
+    "publisher": "IMPRESSA DA UNIVERSIDADE",
+    "publication_place": "COIMBRA",
+    "date": "1919",
+    "identifier": "http://gallica.bnf.fr/ark:/12148/bpt6k91775w",
+    "iiif_manifest": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k91775w/manifest.json"
+  },
+  "ark": "bpt6k91775w",
+  "typographie": {
+    "category": "Serif/Roman",
+    "subtype": "Transitional / Modern (Didone influence)"
+  },
+  "_annotations": {
+    "metadata.title": {
+      "readability": "Readable",
+      "correction": "A SUPOSTA SALICILAGEM"
+    },
+    "metadata.title_complement": {
+      "readability": "Readable"
+    },
+    "metadata.volume_number": {
+      "readability": "Not readable",
+      "cause": "absent"
+    },
+    "metadata.authors": {
+      "readability": "Readable",
+      "correction": "A. J. FERREIRA DA SILVA"
+    },
+    "metadata.publisher": {
+      "readability": "Readable"
+    },
+    "metadata.publication_place": {
+      "readability": "Readable"
+    },
+    "metadata.date": {
+      "readability": "Readable"
+    },
+    "language": {
+      "readability": "Readable"
+    },
+    "metadata.identifier": {
+      "readability": "Readable"
+    },
+    "metadata.iiif_manifest": {
+      "readability": "Readable"
+    },
+    "ark": {
+      "readability": "Readable"
+    }
+  },
+  "language": "pt (Portuguese)"
+}

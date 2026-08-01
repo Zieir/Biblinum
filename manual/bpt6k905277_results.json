@@ -1,0 +1,59 @@
+{
+  "metadata": {
+    "title": "DISCOURS PRONONCÉS A LA SÉANCE SOLENNELLE DU 24 AVRIL 1937",
+    "title_complement": "",
+    "volume_number": "",
+    "authors": "Henry LE CHATELIER ",
+    "publisher": "GAUTHIER-VILLARS",
+    "publication_place": "PARIS",
+    "date": "1937",
+    "identifier": "http://gallica.bnf.fr/ark:/12148/bpt6k905277",
+    "iiif_manifest": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k905277/manifest.json"
+  },
+  "ark": "bpt6k905277",
+  "typographie": {
+    "category": "Serif/Roman",
+    "subtype": "Old Style / Transitional"
+  },
+  "_annotations": {
+    "metadata.title": {
+      "readability": "Readable",
+      "correction": "DISCOURS PRONONCÉS A LA SÉANCE SOLENNELLE DU 24 AVRIL 1937"
+    },
+    "metadata.title_complement": {
+      "readability": "Not readable",
+      "cause": "absent",
+      "correction": ""
+    },
+    "metadata.volume_number": {
+      "readability": "Not readable",
+      "cause": "absent"
+    },
+    "metadata.authors": {
+      "readability": "Readable",
+      "correction": "Henry LE CHATELIER "
+    },
+    "metadata.publisher": {
+      "readability": "Readable"
+    },
+    "metadata.publication_place": {
+      "readability": "Readable"
+    },
+    "metadata.date": {
+      "readability": "Readable"
+    },
+    "language": {
+      "readability": "Readable"
+    },
+    "metadata.identifier": {
+      "readability": "Readable"
+    },
+    "metadata.iiif_manifest": {
+      "readability": "Readable"
+    },
+    "ark": {
+      "readability": "Readable"
+    }
+  },
+  "language": "fr (French)"
+}

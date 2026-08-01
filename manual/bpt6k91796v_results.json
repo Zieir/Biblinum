@@ -1,0 +1,59 @@
+{
+  "metadata": {
+    "title": "L'ALIMENTATION ET LES RÉGIMES CHEZ L'HOMME SAIN OU MALADE",
+    "title_complement": "",
+    "volume_number": "",
+    "authors": "ARMAND GAUTIER",
+    "publisher": "MASSON ET C^IE",
+    "publication_place": "PARIS",
+    "date": "1908",
+    "identifier": "http://gallica.bnf.fr/ark:/12148/bpt6k91796v",
+    "iiif_manifest": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k91796v/manifest.json"
+  },
+  "ark": "bpt6k91796v",
+  "typographie": {
+    "category": "Serif/Roman",
+    "subtype": "Didone (Modern)"
+  },
+  "_annotations": {
+    "metadata.title": {
+      "readability": "Readable",
+      "correction": "L'ALIMENTATION ET LES RÉGIMES CHEZ L'HOMME SAIN OU MALADE"
+    },
+    "metadata.title_complement": {
+      "readability": "Not readable",
+      "cause": "absent",
+      "correction": ""
+    },
+    "metadata.volume_number": {
+      "readability": "Not readable",
+      "cause": "absent"
+    },
+    "metadata.authors": {
+      "readability": "Readable",
+      "correction": "ARMAND GAUTIER"
+    },
+    "metadata.publisher": {
+      "readability": "Readable"
+    },
+    "metadata.publication_place": {
+      "readability": "Readable"
+    },
+    "metadata.date": {
+      "readability": "Readable"
+    },
+    "language": {
+      "readability": "Readable"
+    },
+    "metadata.identifier": {
+      "readability": "Readable"
+    },
+    "metadata.iiif_manifest": {
+      "readability": "Readable"
+    },
+    "ark": {
+      "readability": "Readable"
+    }
+  },
+  "language": "fr (French)"
+}

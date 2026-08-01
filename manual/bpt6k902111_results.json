@@ -1,0 +1,62 @@
+{
+  "metadata": {
+    "title": "C. G. J. JACOBI'S VORLESUNGEN UBER DYNAMIK",
+    "title_complement": "GEHALTEN AN DER UNIVERSITÄT ZU KÖNIGSBERG IN WINTERSEMESTER 1842-1843 UND NACH EINEM VON C. W. BORCHARDT AUSGEARBEITETEN HEFTE HERAUSGEGEBEN VON A. CLEBSCH",
+    "volume_number": "",
+    "authors": "C. G. J. JACOBI",
+    "publisher": "G. REIMER",
+    "publication_place": "BERLIN",
+    "date": "1884",
+    "identifier": "http://gallica.bnf.fr/ark:/12148/bpt6k902111",
+    "iiif_manifest": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k902111/manifest.json"
+  },
+  "ark": "bpt6k902111",
+  "typographie": {
+    "category": "Serif/Roman",
+    "subtype": "Slab Serif"
+  },
+  "_annotations": {
+    "metadata.title": {
+      "readability": "Readable",
+      "correction": "C. G. J. JACOBI'S VORLESUNGEN UBER DYNAMIK"
+    },
+    "metadata.title_complement": {
+      "readability": "Readable",
+      "correction": "GEHALTEN AN DER UNIVERSITÄT ZU KÖNIGSBERG IN WINTERSEMESTER 1842-1843 UND NACH EINEM VON C. W. BORCHARDT AUSGEARBEITETEN HEFTE HERAUSGEGEBEN VON A. CLEBSCH"
+    },
+    "metadata.volume_number": {
+      "readability": "Not readable",
+      "cause": "absent"
+    },
+    "metadata.authors": {
+      "readability": "Readable",
+      "correction": "C. G. J. JACOBI"
+    },
+    "metadata.publisher": {
+      "readability": "Readable",
+      "correction": "G. REIMER"
+    },
+    "metadata.publication_place": {
+      "readability": "Readable",
+      "correction": "BERLIN"
+    },
+    "metadata.date": {
+      "readability": "Readable",
+      "correction": "1884"
+    },
+    "language": {
+      "readability": "Readable",
+      "correction": "de (German)"
+    },
+    "metadata.identifier": {
+      "readability": "Readable"
+    },
+    "metadata.iiif_manifest": {
+      "readability": "Readable"
+    },
+    "ark": {
+      "readability": "Readable"
+    }
+  },
+  "language": "de (German)"
+}

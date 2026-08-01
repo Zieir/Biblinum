@@ -1,0 +1,60 @@
+{
+  "metadata": {
+    "title": "Lehrbuch der Organischen Chemie",
+    "title_complement": "oder der Chemie der Kohlenstoffverbindungen",
+    "volume_number": "Dritter Band",
+    "authors": "Aug. Kekulé; E. Anschutz; G.Sch",
+    "publisher": "FERDINAND ENKE",
+    "publication_place": "STUTTGART",
+    "date": "1880",
+    "identifier": "http://gallica.bnf.fr/ark:/12148/bpt6k905068/f2.item",
+    "iiif_manifest": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k905068/manifest.json"
+  },
+  "ark": "bpt6k905068",
+  "typographie": {
+    "category": "Blackletter",
+    "subtype": "Fraktur"
+  },
+  "_annotations": {
+    "metadata.title": {
+      "readability": "Not readable",
+      "cause": "quality",
+      "correction": "Lehrbuch der Organischen Chemie"
+    },
+    "metadata.title_complement": {
+      "readability": "Readable"
+    },
+    "metadata.volume_number": {
+      "readability": "Not readable",
+      "cause": "quality"
+    },
+    "metadata.authors": {
+      "readability": "Not readable",
+      "cause": "quality",
+      "correction": "Aug. Kekulé; E. Anschutz; G.Sch"
+    },
+    "metadata.publisher": {
+      "readability": "Not readable",
+      "cause": "quality"
+    },
+    "metadata.publication_place": {
+      "readability": "Readable"
+    },
+    "metadata.date": {
+      "readability": "Readable"
+    },
+    "language": {
+      "readability": "Readable"
+    },
+    "metadata.identifier": {
+      "readability": "Readable"
+    },
+    "metadata.iiif_manifest": {
+      "readability": "Readable"
+    },
+    "ark": {
+      "readability": "Readable"
+    }
+  },
+  "language": "de (German)"
+}

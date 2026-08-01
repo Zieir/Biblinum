@@ -1,0 +1,61 @@
+{
+  "metadata": {
+    "title": "Tafeln zur qualitativen chemischen Analyse",
+    "title_complement": "",
+    "volume_number": "",
+    "authors": "W. Hampe",
+    "publisher": "GROSSE'SCHEN BUCHHANDLUNG",
+    "publication_place": "CLAUSTHAL",
+    "date": "1868",
+    "identifier": "http://gallica.bnf.fr/ark:/12148/bpt6k90661p",
+    "iiif_manifest": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k90661p/manifest.json"
+  },
+  "ark": "bpt6k90661p",
+  "typographie": {
+    "category": "Serif/Roman",
+    "subtype": "Modern / Didone"
+  },
+  "_annotations": {
+    "metadata.title": {
+      "readability": "Readable",
+      "correction": "Tafeln zur qualitativen chemischen Analyse"
+    },
+    "metadata.title_complement": {
+      "readability": "Not readable",
+      "cause": "absent"
+    },
+    "metadata.volume_number": {
+      "readability": "Not readable",
+      "cause": "absent"
+    },
+    "metadata.authors": {
+      "readability": "Readable",
+      "correction": "W. Hampe"
+    },
+    "metadata.publisher": {
+      "readability": "Readable",
+      "correction": "Grosse'schen Buchhandlung"
+    },
+    "metadata.publication_place": {
+      "readability": "Readable",
+      "correction": "Clausthal"
+    },
+    "metadata.date": {
+      "readability": "Readable",
+      "correction": "1868"
+    },
+    "language": {
+      "readability": "Readable"
+    },
+    "metadata.identifier": {
+      "readability": "Readable"
+    },
+    "metadata.iiif_manifest": {
+      "readability": "Readable"
+    },
+    "ark": {
+      "readability": "Readable"
+    }
+  },
+  "language": "de (German)"
+}

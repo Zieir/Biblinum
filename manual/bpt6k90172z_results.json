@@ -1,0 +1,59 @@
+{
+  "metadata": {
+    "title": "Halogènes et composés oxygénés du chlore ",
+    "title_complement": "",
+    "volume_number": "",
+    "authors": "Scheele, Berthollet, Gay-Lussac et Thénard, H. Davy, Balard, Courtois, H. Moissan, Millon ",
+    "publisher": "GAUTHIER-VILLARS",
+    "publication_place": "PARIS",
+    "date": "1938",
+    "identifier": "http://gallica.bnf.fr/ark:/12148/bpt6k90172z",
+    "iiif_manifest": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k90172z/manifest.json"
+  },
+  "ark": "bpt6k90172z",
+  "typographie": {
+    "category": "Serif/Roman",
+    "subtype": "Didone (Modern)"
+  },
+  "_annotations": {
+    "metadata.title": {
+      "readability": "Readable",
+      "correction": "Halogènes et composés oxygénés du chlore "
+    },
+    "metadata.title_complement": {
+      "readability": "Not readable",
+      "cause": "absent",
+      "correction": ""
+    },
+    "metadata.volume_number": {
+      "readability": "Not readable",
+      "cause": "absent"
+    },
+    "metadata.authors": {
+      "readability": "Readable",
+      "correction": "Scheele, Berthollet, Gay-Lussac et Thénard, H. Davy, Balard, Courtois, H. Moissan, Millon "
+    },
+    "metadata.publisher": {
+      "readability": "Readable"
+    },
+    "metadata.publication_place": {
+      "readability": "Readable"
+    },
+    "metadata.date": {
+      "readability": "Readable"
+    },
+    "language": {
+      "readability": "Readable"
+    },
+    "metadata.identifier": {
+      "readability": "Readable"
+    },
+    "metadata.iiif_manifest": {
+      "readability": "Readable"
+    },
+    "ark": {
+      "readability": "Readable"
+    }
+  },
+  "language": "fr (French)"
+}

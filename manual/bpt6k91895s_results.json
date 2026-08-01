@@ -1,0 +1,62 @@
+{
+  "metadata": {
+    "title": "Précis théorique et pratique des substances alimentaires et des moyens de les améliorer, de les conserver et d'en reconnaître les altérations",
+    "title_complement": "",
+    "volume_number": "",
+    "authors": "A. PAYEN",
+    "publisher": "L. HACHETTE",
+    "publication_place": "PARIS",
+    "date": "1865",
+    "identifier": "http://gallica.bnf.fr/ark:/12148/bpt6k91895s",
+    "iiif_manifest": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k91895s/manifest.json"
+  },
+  "ark": "bpt6k91895s",
+  "typographie": {
+    "category": "Serif/Roman",
+    "subtype": "Slab Serif (Egyptian)"
+  },
+  "_annotations": {
+    "metadata.title": {
+      "readability": "Readable",
+      "correction": "Précis théorique et pratique des substances alimentaires et des moyens de les améliorer, de les conserver et d'en reconnaître les altérations"
+    },
+    "metadata.title_complement": {
+      "readability": "Not readable",
+      "cause": "absent",
+      "correction": ""
+    },
+    "metadata.volume_number": {
+      "readability": "Not readable",
+      "cause": "absent"
+    },
+    "metadata.authors": {
+      "readability": "Readable",
+      "correction": "A. PAYEN"
+    },
+    "metadata.publisher": {
+      "readability": "Readable",
+      "correction": "L. HACHETTE"
+    },
+    "metadata.publication_place": {
+      "readability": "Readable",
+      "correction": "PARIS"
+    },
+    "metadata.date": {
+      "readability": "Readable",
+      "correction": "1865"
+    },
+    "language": {
+      "readability": "Readable"
+    },
+    "metadata.identifier": {
+      "readability": "Readable"
+    },
+    "metadata.iiif_manifest": {
+      "readability": "Readable"
+    },
+    "ark": {
+      "readability": "Readable"
+    }
+  },
+  "language": "fr (French)"
+}

@@ -1,0 +1,63 @@
+{
+  "metadata": {
+    "title": "ATOMIC FORM",
+    "title_complement": "With special reference to the Configuration of the CARBON ATOM",
+    "volume_number": "",
+    "authors": "Edward E. PRICE",
+    "publisher": "LONGMANS, GREEN & COMPANY",
+    "publication_place": "LONDON; NEW-YORK; TORONTO; BOMBAY; GALOUTTA; MADRAS",
+    "date": "1922",
+    "identifier": "http://gallica.bnf.fr/ark:/12148/bpt6k917469",
+    "iiif_manifest": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k917469/manifest.json"
+  },
+  "ark": "bpt6k917469",
+  "typographie": {
+    "category": "Serif/Roman",
+    "subtype": "Old Style / Transitional"
+  },
+  "_annotations": {
+    "metadata.title": {
+      "readability": "Not readable",
+      "cause": "absent"
+    },
+    "metadata.title_complement": {
+      "readability": "Not readable",
+      "cause": "quality",
+      "correction": "With special reference to the Configuration of the CARBON ATOM"
+    },
+    "metadata.volume_number": {
+      "readability": "Not readable",
+      "cause": "absent"
+    },
+    "metadata.authors": {
+      "readability": "Not readable",
+      "cause": "quality",
+      "correction": "Edward E. PRICE"
+    },
+    "metadata.publisher": {
+      "readability": "Readable",
+      "correction": "Longmans, Green & Company"
+    },
+    "metadata.publication_place": {
+      "readability": "Readable",
+      "correction": "LONDON; NEW-YORK; TORONTO; BOMBAY; GALOUTTA; MADRAS"
+    },
+    "metadata.date": {
+      "readability": "Readable",
+      "correction": "1922"
+    },
+    "language": {
+      "readability": "Readable"
+    },
+    "metadata.identifier": {
+      "readability": "Readable"
+    },
+    "metadata.iiif_manifest": {
+      "readability": "Readable"
+    },
+    "ark": {
+      "readability": "Readable"
+    }
+  },
+  "language": "en (English)"
+}

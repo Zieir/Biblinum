@@ -1,0 +1,60 @@
+{
+  "metadata": {
+    "title": "DE L'ACTION DE LA CHALEUR SUR LES COMPOSÉS ORGANIQUES",
+    "title_complement": "thèse présentée au concours pour l'agrégation et soutenue à la Faculté de médecine de Paris le mardi 27 juillet 1869 ",
+    "volume_number": "",
+    "authors": "L. HÉBERT",
+    "publisher": "J.-B. BAILLIÈRE ET FILS; HIPP. BAILLIÈRE ; C. BAILLY-BAILLIÈRE",
+    "publication_place": "PARIS; LONDRES; MADRID",
+    "date": "1869",
+    "identifier": "http://gallica.bnf.fr/ark:/12148/bpt6k91814z",
+    "iiif_manifest": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k91814z/manifest.json"
+  },
+  "ark": "bpt6k91814z",
+  "typographie": {
+    "category": "Serif/Roman",
+    "subtype": "Didone (Modern)"
+  },
+  "_annotations": {
+    "metadata.title": {
+      "readability": "Readable",
+      "correction": "DE L'ACTION DE LA CHALEUR SUR LES COMPOSÉS ORGANIQUES"
+    },
+    "metadata.title_complement": {
+      "readability": "Readable",
+      "correction": "thèse présentée au concours pour l'agrégation et soutenue à la Faculté de médecine de Paris le mardi 27 juillet 1869 "
+    },
+    "metadata.volume_number": {
+      "readability": "Not readable",
+      "cause": "absent"
+    },
+    "metadata.authors": {
+      "readability": "Readable",
+      "correction": "L. HÉBERT"
+    },
+    "metadata.publisher": {
+      "readability": "Readable",
+      "correction": "J.-B. BAILLIÈRE ET FILS; HIPP. BAILLIÈRE ; C. BAILLY-BAILLIÈRE "
+    },
+    "metadata.publication_place": {
+      "readability": "Readable",
+      "correction": "PARIS; LONDRES; MADRID"
+    },
+    "metadata.date": {
+      "readability": "Readable"
+    },
+    "language": {
+      "readability": "Readable"
+    },
+    "metadata.identifier": {
+      "readability": "Readable"
+    },
+    "metadata.iiif_manifest": {
+      "readability": "Readable"
+    },
+    "ark": {
+      "readability": "Readable"
+    }
+  },
+  "language": "fr (French)"
+}

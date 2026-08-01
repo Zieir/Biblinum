@@ -1,0 +1,60 @@
+{
+  "metadata": {
+    "title": "TRAITÉ DE MINÉRALOGIE",
+    "title_complement": "appliquée aux arts, à l'industrie, au commerce et à l'agriculture",
+    "volume_number": "",
+    "authors": "Raoul Jagnaux",
+    "publisher": "OCTAVE DOIN",
+    "publication_place": "PARIS",
+    "date": "1885",
+    "identifier": "http://gallica.bnf.fr/ark:/12148/bpt6k91838z",
+    "iiif_manifest": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k91838z/manifest.json"
+  },
+  "ark": "bpt6k91838z",
+  "typographie": {
+    "category": "Serif/Roman",
+    "subtype": "Didone (Modern)"
+  },
+  "_annotations": {
+    "metadata.title": {
+      "readability": "Readable"
+    },
+    "metadata.title_complement": {
+      "readability": "Readable",
+      "correction": "appliquée aux arts, à l'industrie, au commerce et à l'agriculture"
+    },
+    "metadata.volume_number": {
+      "readability": "Not readable",
+      "cause": "absent"
+    },
+    "metadata.authors": {
+      "readability": "Readable",
+      "correction": "Raoul Jagnaux"
+    },
+    "metadata.publisher": {
+      "readability": "Readable",
+      "correction": "OCTAVE DOIN"
+    },
+    "metadata.publication_place": {
+      "readability": "Readable",
+      "correction": "PARIS"
+    },
+    "metadata.date": {
+      "readability": "Readable",
+      "correction": "1885"
+    },
+    "language": {
+      "readability": "Readable"
+    },
+    "metadata.identifier": {
+      "readability": "Readable"
+    },
+    "metadata.iiif_manifest": {
+      "readability": "Readable"
+    },
+    "ark": {
+      "readability": "Readable"
+    }
+  },
+  "language": "fr (French)"
+}

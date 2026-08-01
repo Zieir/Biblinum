@@ -1,0 +1,55 @@
+{
+  "metadata": {
+    "title": "TRAITÉ DE CHIMIE GÉNÉRALE ÉLÉMENTAIRE",
+    "title_complement": "CHIMIE ORGANIQUE. LEÇONS PROFESSÉES À L'ÉCOLE POLYTECHNIQUE",
+    "volume_number": "TOME DEUXIÈME",
+    "authors": "Auguste CAHOURS",
+    "publisher": "GAUTHIER-VILLARS, IMPRIMEUR-LIBRAIRE",
+    "publication_place": "PARIS",
+    "date": "1874",
+    "identifier": "http://gallica.bnf.fr/ark:/12148/bpt6k90600g",
+    "iiif_manifest": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k90600g/manifest.json"
+  },
+  "ark": "bpt6k90600g",
+  "typographie": {
+    "category": "Serif/Roman",
+    "subtype": "Didone (Modern)"
+  },
+  "_annotations": {
+    "metadata.title": {
+      "readability": "Readable"
+    },
+    "metadata.title_complement": {
+      "readability": "Readable"
+    },
+    "metadata.volume_number": {
+      "readability": "Readable"
+    },
+    "metadata.authors": {
+      "readability": "Readable",
+      "correction": "Auguste CAHOURS"
+    },
+    "metadata.publisher": {
+      "readability": "Readable"
+    },
+    "metadata.publication_place": {
+      "readability": "Readable"
+    },
+    "metadata.date": {
+      "readability": "Readable"
+    },
+    "language": {
+      "readability": "Readable"
+    },
+    "metadata.identifier": {
+      "readability": "Readable"
+    },
+    "metadata.iiif_manifest": {
+      "readability": "Readable"
+    },
+    "ark": {
+      "readability": "Readable"
+    }
+  },
+  "language": "fr (French)"
+}

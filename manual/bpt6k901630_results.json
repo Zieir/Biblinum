@@ -1,0 +1,57 @@
+{
+  "metadata": {
+    "title": "APUNTES DE QUÍMICA",
+    "title_complement": "",
+    "volume_number": "",
+    "authors": "PEDRO N",
+    "publisher": "TALLERES DE PUBLICACIONES DEL MUSEO",
+    "publication_place": "LA PLATA",
+    "date": "1893",
+    "identifier": "http://gallica.bnf.fr/ark:/12148/bpt6k901630",
+    "iiif_manifest": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k901630/manifest.json"
+  },
+  "ark": "bpt6k901630",
+  "typographie": {
+    "category": "Serif/Roman",
+    "subtype": "Didone (Modern)"
+  },
+  "_annotations": {
+    "metadata.title": {
+      "readability": "Readable"
+    },
+    "metadata.title_complement": {
+      "readability": "Not readable",
+      "cause": "absent"
+    },
+    "metadata.volume_number": {
+      "readability": "Not readable",
+      "cause": "absent"
+    },
+    "metadata.authors": {
+      "readability": "Readable",
+      "correction": "PEDRO N"
+    },
+    "metadata.publisher": {
+      "readability": "Readable"
+    },
+    "metadata.publication_place": {
+      "readability": "Readable"
+    },
+    "metadata.date": {
+      "readability": "Readable"
+    },
+    "language": {
+      "readability": "Readable"
+    },
+    "metadata.identifier": {
+      "readability": "Readable"
+    },
+    "metadata.iiif_manifest": {
+      "readability": "Readable"
+    },
+    "ark": {
+      "readability": "Readable"
+    }
+  },
+  "language": "es (Spanish)"
+}

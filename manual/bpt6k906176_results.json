@@ -1,0 +1,62 @@
+{
+  "metadata": {
+    "title": "TRAITÉ ÉLÉMENTAIRE D'ANALYSE QUALITATIVE DES MATIÈRES MINÉRALES",
+    "title_complement": "",
+    "volume_number": "",
+    "authors": "ALFRED DITTE",
+    "publisher": "DUNOD",
+    "publication_place": "PARIS",
+    "date": "1879",
+    "identifier": "http://gallica.bnf.fr/ark:/12148/bpt6k906176",
+    "iiif_manifest": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k906176/manifest.json"
+  },
+  "ark": "bpt6k906176",
+  "typographie": {
+    "category": "Serif/Roman",
+    "subtype": "Didone (Modern)"
+  },
+  "_annotations": {
+    "metadata.title": {
+      "readability": "Readable",
+      "correction": "TRAITÉ ÉLÉMENTAIRE D'ANALYSE QUALITATIVE DES MATIÈRES MINÉRALES"
+    },
+    "metadata.title_complement": {
+      "readability": "Not readable",
+      "cause": "absent",
+      "correction": ""
+    },
+    "metadata.volume_number": {
+      "readability": "Not readable",
+      "cause": "absent"
+    },
+    "metadata.authors": {
+      "readability": "Readable",
+      "correction": "ALFRED DITTE"
+    },
+    "metadata.publisher": {
+      "readability": "Readable",
+      "correction": "DUNOD"
+    },
+    "metadata.publication_place": {
+      "readability": "Readable",
+      "correction": "PARIS"
+    },
+    "metadata.date": {
+      "readability": "Readable",
+      "correction": "1879"
+    },
+    "language": {
+      "readability": "Readable"
+    },
+    "metadata.identifier": {
+      "readability": "Readable"
+    },
+    "metadata.iiif_manifest": {
+      "readability": "Readable"
+    },
+    "ark": {
+      "readability": "Readable"
+    }
+  },
+  "language": "fr (French)"
+}

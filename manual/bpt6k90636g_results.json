@@ -1,0 +1,57 @@
+{
+    "metadata": {
+        "title": "WÖHLER'S GRUNDRISS DER ORGANISCHEN CHEMIE",
+        "title_complement": "Organische chemie",
+        "volume_number": "",
+        "authors": "RUDOLPH FITTIG",
+        "publisher": "DUNCKER & HUMBLOT",
+        "publication_place": "LEIPZIG",
+        "date": "1872",
+        "identifier": "http://gallica.bnf.fr/ark:/12148/bpt6k90636g",
+        "iiif_manifest": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k90636g/manifest.json"
+    },
+    "ark": "bpt6k90636g",
+    "typographie": {
+        "category": "Serif/Roman",
+        "subtype": "Didone (Modern)"
+    },
+    "_annotations": {
+        "metadata.title": {
+            "readability": "Readable",
+            "correction": "WÖHLER'S GRUNDRISS DER ORGANISCHEN CHEMIE"
+        },
+        "metadata.title_complement": {
+            "readability": "Readable"
+        },
+        "metadata.volume_number": {
+            "readability": "Not readable",
+            "cause": "absent",
+            "correction": ""
+        },
+        "metadata.authors": {
+            "readability": "Readable"
+        },
+        "metadata.publisher": {
+            "readability": "Readable"
+        },
+        "metadata.publication_place": {
+            "readability": "Readable"
+        },
+        "metadata.date": {
+            "readability": "Readable"
+        },
+        "language": {
+            "readability": "Readable"
+        },
+        "metadata.identifier": {
+            "readability": "Readable"
+        },
+        "metadata.iiif_manifest": {
+            "readability": "Readable"
+        },
+        "ark": {
+            "readability": "Readable"
+        }
+    },
+    "language": "de (German)"
+}

@@ -1,0 +1,60 @@
+{
+  "metadata": {
+    "title": "CONFÉRENCES Faites au laboratoire de M. FRIEDEL",
+    "title_complement": "1888 - 1889",
+    "volume_number": "",
+    "authors": "L. BOUVEAULT; MAQUENNE; ARNAUD; A. BÉHAL; O. SAINT-PIERRE; AD. FAUCONNIER; A. ÉTARD",
+    "publisher": "GEORGES CARRÉ",
+    "publication_place": "PARIS",
+    "date": "1889",
+    "identifier": "http://gallica.bnf.fr/ark:/12148/bpt6k904405",
+    "iiif_manifest": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k904405/manifest.json"
+  },
+  "ark": "bpt6k904405",
+  "typographie": {
+    "category": "Serif/Roman",
+    "subtype": "Didone (Modern)"
+  },
+  "_annotations": {
+    "metadata.title": {
+      "readability": "Readable",
+      "correction": "CONFÉRENCES Faites au laboratoire de M. FRIEDEL"
+    },
+    "metadata.title_complement": {
+      "readability": "Readable",
+      "correction": "1888 - 1889"
+    },
+    "metadata.volume_number": {
+      "readability": "Not readable",
+      "cause": "absent"
+    },
+    "metadata.authors": {
+      "readability": "Readable",
+      "correction": "L. BOUVEAULT; MAQUENNE; ARNAUD; A. BÉHAL; O. SAINT-PIERRE; AD. FAUCONNIER; A. ÉTARD"
+    },
+    "metadata.publisher": {
+      "readability": "Readable",
+      "correction": "GEORGES CARRÉ"
+    },
+    "metadata.publication_place": {
+      "readability": "Readable"
+    },
+    "metadata.date": {
+      "readability": "Readable",
+      "correction": "1889"
+    },
+    "language": {
+      "readability": "Readable"
+    },
+    "metadata.identifier": {
+      "readability": "Readable"
+    },
+    "metadata.iiif_manifest": {
+      "readability": "Readable"
+    },
+    "ark": {
+      "readability": "Readable"
+    }
+  },
+  "language": "fr (French)"
+}

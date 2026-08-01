@@ -1,0 +1,15 @@
+{
+    "processing_time_seconds": 3.95,
+    "metadata": {
+        "title": "COURS DE CHIMIE ORGANIQUE",
+        "title_complement": "SÉRIE GRASSE",
+        "volume_number": "PREMIÈRE PARTIE",
+        "authors": "FRIEDEL",
+        "publisher": "L'ASSOCIATION AMICALE DES ÉLÈVES ET ANCIENS ÉLÈVES DE LA FACULTÉ DES SCIENCES DE PARIS",
+        "publication_place": "PARIS",
+        "date": "1886",
+        "identifier": "http://gallica.bnf.fr/ark:/12148/bpt6k90642d",
+        "iiif_manifest": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k90642d/manifest.json"
+    },
+    "ark": "bpt6k90642d"
+}

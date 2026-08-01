@@ -1,0 +1,15 @@
+{
+    "processing_time_seconds": 4.27,
+    "metadata": {
+        "title": "Bibliotheca Chemica",
+        "title_complement": "A CATALOGUE OF THE ALCHEMICAL, CHEMICAL AND PHARMACEUTICAL BOOKS IN THE COLLECTION OF THE LATE JAMES YOUNG OF KELLY AND DURRIS, ESQ., LL.D., F.R.S., F.R.S.E.",
+        "volume_number": "VOLUME II",
+        "authors": "Ferguson, John",
+        "publisher": "JAMES MACLEHOSE AND SONS",
+        "publication_place": "Glasgow",
+        "date": "1906",
+        "identifier": "http://gallica.bnf.fr/ark:/12148/bpt6k904347",
+        "iiif_manifest": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k904347/manifest.json"
+    },
+    "ark": "bpt6k904347"
+}

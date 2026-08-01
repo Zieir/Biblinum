@@ -1,0 +1,63 @@
+{
+  "metadata": {
+    "title": "DICTIONNAIRE RAISONNÉ DE PHARMACIE-CHIMIQUE, THÉORIQUE ET PRATIQUE",
+    "title_complement": "",
+    "volume_number": "TOME PREMIER",
+    "authors": "J.B.te RIVET",
+    "publisher": "REYMANN ET CIE; BRUNOT",
+    "publication_place": "LYON; PARIS",
+    "date": "1803",
+    "identifier": "http://gallica.bnf.fr/ark:/12148/bpt6k91910v",
+    "iiif_manifest": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k91910v/manifest.json"
+  },
+  "ark": "bpt6k91910v",
+  "typographie": {
+    "category": "Serif/Roman",
+    "subtype": "Didone (Modern)"
+  },
+  "_annotations": {
+    "metadata.title": {
+      "readability": "Readable",
+      "correction": "DICTIONNAIRE RAISONNÉ DE PHARMACIE-CHIMIQUE, THÉORIQUE ET PRATIQUE"
+    },
+    "metadata.title_complement": {
+      "readability": "Not readable",
+      "cause": "absent",
+      "correction": ""
+    },
+    "metadata.volume_number": {
+      "readability": "Readable",
+      "correction": "TOME PREMIER"
+    },
+    "metadata.authors": {
+      "readability": "Readable",
+      "correction": "J.B.te RIVET"
+    },
+    "metadata.publisher": {
+      "readability": "Not readable",
+      "cause": "quality",
+      "correction": "REYMANN ET Cie; BRUNOT"
+    },
+    "metadata.publication_place": {
+      "readability": "Readable",
+      "correction": "LYON; PARIS"
+    },
+    "metadata.date": {
+      "readability": "Readable",
+      "correction": "1803"
+    },
+    "language": {
+      "readability": "Readable"
+    },
+    "metadata.identifier": {
+      "readability": "Readable"
+    },
+    "metadata.iiif_manifest": {
+      "readability": "Readable"
+    },
+    "ark": {
+      "readability": "Readable"
+    }
+  },
+  "language": "fr (French)"
+}

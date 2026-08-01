@@ -1,0 +1,60 @@
+{
+  "metadata": {
+    "title": "TRAITÉ DE MINÉRALOGIE",
+    "title_complement": "",
+    "volume_number": "TOME QUATRIÈME",
+    "authors": "A. DUFRÈNOY",
+    "publisher": "DALMONT ET DUNOD",
+    "publication_place": "PARIS",
+    "date": "1856",
+    "identifier": "http://gallica.bnf.fr/ark:/12148/bpt6k91766x",
+    "iiif_manifest": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k91766x/manifest.json"
+  },
+  "ark": "bpt6k91766x",
+  "typographie": {
+    "category": "Serif/Roman",
+    "subtype": "Modern (Didone)"
+  },
+  "_annotations": {
+    "metadata.title": {
+      "readability": "Readable"
+    },
+    "metadata.title_complement": {
+      "readability": "Not readable",
+      "cause": "absent"
+    },
+    "metadata.volume_number": {
+      "readability": "Readable",
+      "correction": "TOME QUATRIÈME"
+    },
+    "metadata.authors": {
+      "readability": "Readable",
+      "correction": "A. DUFRÈNOY"
+    },
+    "metadata.publisher": {
+      "readability": "Readable",
+      "correction": "DALMONT ET DUNOD"
+    },
+    "metadata.publication_place": {
+      "readability": "Readable",
+      "correction": "PARIS"
+    },
+    "metadata.date": {
+      "readability": "Readable",
+      "correction": "1856"
+    },
+    "language": {
+      "readability": "Readable"
+    },
+    "metadata.identifier": {
+      "readability": "Readable"
+    },
+    "metadata.iiif_manifest": {
+      "readability": "Readable"
+    },
+    "ark": {
+      "readability": "Readable"
+    }
+  },
+  "language": "fr (French)"
+}

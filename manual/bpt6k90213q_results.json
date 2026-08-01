@@ -1,0 +1,61 @@
+{
+  "metadata": {
+    "title": "APPLICATIONS D'ANALYSE ET DE GÉOMÉTRIE",
+    "title_complement": "qui ont servi de principal fondement au Traité des propriétés projectives des figures",
+    "volume_number": "",
+    "authors": "J.-V. Poncelet",
+    "publisher": "MALLET-BACHELIER",
+    "publication_place": "PARIS",
+    "date": "1862",
+    "identifier": "http://gallica.bnf.fr/ark:/12148/bpt6k90213q",
+    "iiif_manifest": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k90213q/manifest.json"
+  },
+  "ark": "bpt6k90213q",
+  "typographie": {
+    "category": "Serif/Roman",
+    "subtype": "Modern (Didone)"
+  },
+  "_annotations": {
+    "metadata.title": {
+      "readability": "Readable",
+      "correction": "APPLICATIONS D'ANALYSE ET DE GÉOMÉTRIE"
+    },
+    "metadata.title_complement": {
+      "readability": "Readable",
+      "correction": "qui ont servi de principal fondement au Traité des propriétés projectives des figures"
+    },
+    "metadata.volume_number": {
+      "readability": "Not readable",
+      "cause": "absent"
+    },
+    "metadata.authors": {
+      "readability": "Readable",
+      "correction": "J.-V. Poncelet"
+    },
+    "metadata.publisher": {
+      "readability": "Readable",
+      "correction": "MALLET-BACHELIER"
+    },
+    "metadata.publication_place": {
+      "readability": "Readable",
+      "correction": "PARIS"
+    },
+    "metadata.date": {
+      "readability": "Readable",
+      "correction": "1862"
+    },
+    "language": {
+      "readability": "Readable"
+    },
+    "metadata.identifier": {
+      "readability": "Readable"
+    },
+    "metadata.iiif_manifest": {
+      "readability": "Readable"
+    },
+    "ark": {
+      "readability": "Readable"
+    }
+  },
+  "language": "fr (French)"
+}

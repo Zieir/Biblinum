@@ -1,0 +1,61 @@
+{
+  "metadata": {
+    "title": "PHARMACOPÉE UNIVERSELLE",
+    "title_complement": "Contenant toutes les compositions de pharmacie qui sont en usage dans la médecine, tant en France que par toute l'Europe ; leurs vertus, leurs doses, les manières d'opérer les plus simples & les meilleures : avec un lexicon pharmaceutique, plusieurs remarques, et des raisonnemens sur chaque opération",
+    "volume_number": "",
+    "authors": "Nicolas Lemery",
+    "publisher": "DE SAINT & SAILLANT; JEAN-THOMAS HERISSANT; NYON; SAVOYE; D'HOURY; DIDOT LE JEUNE",
+    "publication_place": "PARIS",
+    "date": "1764",
+    "identifier": "http://gallica.bnf.fr/ark:/12148/bpt6k91861g",
+    "iiif_manifest": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k91861g/manifest.json"
+  },
+  "ark": "bpt6k91861g",
+  "typographie": {
+    "category": "Serif/Roman",
+    "subtype": "Transitional / Old Style"
+  },
+  "_annotations": {
+    "metadata.title": {
+      "readability": "Readable",
+      "correction": "PHARMACOPÉE UNIVERSELLE"
+    },
+    "metadata.title_complement": {
+      "readability": "Readable",
+      "correction": "Contenant toutes les compositions de pharmacie qui sont en usage dans la médecine, tant en France que par toute l'Europe ; leurs vertus, leurs doses, les manières d'opérer les plus simples & les meilleures : avec un lexicon pharmaceutique, plusieurs remarques, et des raisonnemens sur chaque opération"
+    },
+    "metadata.volume_number": {
+      "readability": "Not readable",
+      "cause": "absent"
+    },
+    "metadata.authors": {
+      "readability": "Readable",
+      "correction": "Nicolas Lemery"
+    },
+    "metadata.publisher": {
+      "readability": "Readable",
+      "correction": "De Saint & Saillant; Jean-Thomas Herissant; Nyon; Savoye; D'Houry; Didot le jeune"
+    },
+    "metadata.publication_place": {
+      "readability": "Readable",
+      "correction": "PARIS"
+    },
+    "metadata.date": {
+      "readability": "Readable",
+      "correction": "1764"
+    },
+    "language": {
+      "readability": "Readable"
+    },
+    "metadata.identifier": {
+      "readability": "Readable"
+    },
+    "metadata.iiif_manifest": {
+      "readability": "Readable"
+    },
+    "ark": {
+      "readability": "Readable"
+    }
+  },
+  "language": "fr (French)"
+}

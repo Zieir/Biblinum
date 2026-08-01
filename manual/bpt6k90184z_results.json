@@ -1,0 +1,61 @@
+{
+  "metadata": {
+    "title": "ŒUVRES COMPLÈTES d'AUGUSTIN CAUCHY",
+    "title_complement": "",
+    "volume_number": "SÉRIE I TOME IV",
+    "authors": "Augustin CAUCHY",
+    "publisher": "GAUTHIER-VILLARS, IMPRIMEUR-LIBRAIRE",
+    "publication_place": "PARIS",
+    "date": "1884",
+    "identifier": "http://gallica.bnf.fr/ark:/12148/bpt6k90184z",
+    "iiif_manifest": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k90184z/manifest.json"
+  },
+  "ark": "bpt6k90184z",
+  "typographie": {
+    "category": "Serif/Roman",
+    "subtype": "Didone (Modern)"
+  },
+  "_annotations": {
+    "metadata.title": {
+      "readability": "Readable",
+      "correction": "ŒUVRES COMPLÈTES d'AUGUSTIN CAUCHY"
+    },
+    "metadata.title_complement": {
+      "readability": "Not readable",
+      "cause": "absent",
+      "correction": ""
+    },
+    "metadata.volume_number": {
+      "readability": "Readable",
+      "correction": "SÉRIE I TOME IV"
+    },
+    "metadata.authors": {
+      "readability": "Readable",
+      "correction": "Augustin CAUCHY"
+    },
+    "metadata.publisher": {
+      "readability": "Readable"
+    },
+    "metadata.publication_place": {
+      "readability": "Readable"
+    },
+    "metadata.date": {
+      "readability": "Readable",
+      "correction": "1884"
+    },
+    "language": {
+      "readability": "Readable"
+    },
+    "_note": "Date in roman numerals",
+    "metadata.identifier": {
+      "readability": "Readable"
+    },
+    "metadata.iiif_manifest": {
+      "readability": "Readable"
+    },
+    "ark": {
+      "readability": "Readable"
+    }
+  },
+  "language": "fr (French)"
+}

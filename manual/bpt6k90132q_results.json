@@ -1,0 +1,62 @@
+{
+  "metadata": {
+    "title": "NOUVELLES RECHERCHES SUR LES LOIS DES PROPORTIONS CHIMIQUES, SUR LES POIDS ATOMIQUES ET LEURS RAPPORTS MUTUELS",
+    "title_complement": "",
+    "volume_number": "",
+    "authors": "J. S. STAS",
+    "publisher": "M. HAYEZ",
+    "publication_place": "BRUXELLES",
+    "date": "1865",
+    "identifier": "http://gallica.bnf.fr/ark:/12148/bpt6k90132q",
+    "iiif_manifest": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k90132q/manifest.json"
+  },
+  "ark": "bpt6k90132q",
+  "typographie": {
+    "category": "Serif/Roman",
+    "subtype": "Didone (Modern)"
+  },
+  "_annotations": {
+    "metadata.title": {
+      "readability": "Readable",
+      "correction": "NOUVELLES RECHERCHES SUR LES LOIS DES PROPORTIONS CHIMIQUES, SUR LES POIDS ATOMIQUES ET LEURS RAPPORTS MUTUELS"
+    },
+    "metadata.title_complement": {
+      "readability": "Not readable",
+      "cause": "absent",
+      "correction": ""
+    },
+    "metadata.volume_number": {
+      "readability": "Not readable",
+      "cause": "absent"
+    },
+    "metadata.authors": {
+      "readability": "Readable",
+      "correction": "J. S. STAS"
+    },
+    "metadata.publisher": {
+      "readability": "Readable",
+      "correction": "M. HAYEZ"
+    },
+    "metadata.publication_place": {
+      "readability": "Readable",
+      "correction": "BRUXELLES"
+    },
+    "metadata.date": {
+      "readability": "Readable",
+      "correction": "1865"
+    },
+    "language": {
+      "readability": "Readable"
+    },
+    "metadata.identifier": {
+      "readability": "Readable"
+    },
+    "metadata.iiif_manifest": {
+      "readability": "Readable"
+    },
+    "ark": {
+      "readability": "Readable"
+    }
+  },
+  "language": "fr (French)"
+}

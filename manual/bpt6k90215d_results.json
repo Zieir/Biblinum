@@ -1,0 +1,62 @@
+{
+  "metadata": {
+    "title": "C. G. J. JACOBI'S GESAMMELTE WERKE",
+    "title_complement": "HERAUSGEGEBEN AUS DER VERANLASSUNG DER KÖNIGLICH PREUSSISCHEN AKADEMIE DER WISSENSCHAFTEN",
+    "volume_number": "ZWEITER BAND",
+    "authors": "C. G. J. JACOBI; K. WEIERSTRASS",
+    "publisher": "G. REIMER",
+    "publication_place": "BERLIN",
+    "date": "1882",
+    "identifier": "http://gallica.bnf.fr/ark:/12148/bpt6k90215d",
+    "iiif_manifest": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k90215d/manifest.json"
+  },
+  "ark": "bpt6k90215d",
+  "typographie": {
+    "category": "Serif/Roman",
+    "subtype": "Didone (Modern)"
+  },
+  "_annotations": {
+    "metadata.title": {
+      "readability": "Readable",
+      "correction": "C. G. J. JACOBI'S GESAMMELTE WERKE"
+    },
+    "metadata.title_complement": {
+      "readability": "Readable",
+      "correction": "HERAUSGEGEBEN AUS DER VERANLASSUNG DER KÖNIGLICH PREUSSISCHEN AKADEMIE DER WISSENSCHAFTEN"
+    },
+    "metadata.volume_number": {
+      "readability": "Readable",
+      "correction": "ZWEITER BAND"
+    },
+    "metadata.authors": {
+      "readability": "Readable",
+      "correction": "C. G. J. JACOBI; K. WEIERSTRASS"
+    },
+    "metadata.publisher": {
+      "readability": "Readable",
+      "correction": "G. REIMER"
+    },
+    "metadata.publication_place": {
+      "readability": "Readable",
+      "correction": "BERLIN"
+    },
+    "metadata.date": {
+      "readability": "Readable",
+      "correction": "1882"
+    },
+    "language": {
+      "readability": "Readable",
+      "correction": "de (German)"
+    },
+    "metadata.identifier": {
+      "readability": "Readable"
+    },
+    "metadata.iiif_manifest": {
+      "readability": "Readable"
+    },
+    "ark": {
+      "readability": "Readable"
+    }
+  },
+  "language": "de (German)"
+}

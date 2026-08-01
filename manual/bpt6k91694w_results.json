@@ -1,0 +1,60 @@
+{
+  "metadata": {
+    "title": "CHYMIE EXPERIMENTALE",
+    "title_complement": "ET RAISONNEE",
+    "volume_number": "TOME TROISIÈME",
+    "authors": "BAUMÉ",
+    "publisher": "P. FRANÇ. DIDOT LE JEUNE",
+    "publication_place": "PARIS",
+    "date": "1773",
+    "identifier": "http://gallica.bnf.fr/ark:/12148/bpt6k91694w",
+    "iiif_manifest": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k91694w/manifest.json"
+  },
+  "ark": "bpt6k91694w",
+  "typographie": {
+    "category": "Serif/Roman",
+    "subtype": "Didone (Modern)"
+  },
+  "_annotations": {
+    "metadata.title": {
+      "readability": "Readable",
+      "correction": "CHYMIE EXPERIMENTALE"
+    },
+    "metadata.title_complement": {
+      "readability": "Readable",
+      "correction": "ET RAISONNEE"
+    },
+    "metadata.volume_number": {
+      "readability": "Readable",
+      "correction": "TOME TROISIÈME"
+    },
+    "metadata.authors": {
+      "readability": "Readable",
+      "correction": "BAUMÉ"
+    },
+    "metadata.publisher": {
+      "readability": "Readable",
+      "correction": "P. Franç. DIDOT LE JEUNE"
+    },
+    "metadata.publication_place": {
+      "readability": "Readable"
+    },
+    "metadata.date": {
+      "readability": "Readable",
+      "correction": "1773"
+    },
+    "language": {
+      "readability": "Readable"
+    },
+    "metadata.identifier": {
+      "readability": "Readable"
+    },
+    "metadata.iiif_manifest": {
+      "readability": "Readable"
+    },
+    "ark": {
+      "readability": "Readable"
+    }
+  },
+  "language": "fr (French)"
+}

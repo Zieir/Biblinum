@@ -1,0 +1,62 @@
+{
+  "metadata": {
+    "title": "MÉMOIRE SUR LA LIQUÉFACTION DE L'OXYGÈNE",
+    "title_complement": "LA LIQUÉFACTION ET LA SOLIDIFICATION DE L'HYDROGÈNE ET SUR LES THÉORIES DES CHANGEMENTS DES CORPS",
+    "volume_number": "",
+    "authors": "Raoul PICTET",
+    "publisher": "J. SANDOZ; SANDOZ & FISCHBACHER; J. SANDOZ",
+    "publication_place": "GENÈVE; PARIS; NEUCHATEL",
+    "date": "1878",
+    "identifier": "http://gallica.bnf.fr/ark:/12148/bpt6k90047g",
+    "iiif_manifest": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k90047g/manifest.json"
+  },
+  "ark": "bpt6k90047g",
+  "typographie": {
+    "category": "Serif/Roman",
+    "subtype": "Didone (Modern)"
+  },
+  "_annotations": {
+    "metadata.title": {
+      "readability": "Readable",
+      "correction": "MÉMOIRE SUR LA LIQUÉFACTION DE L'OXYGÈNE"
+    },
+    "metadata.title_complement": {
+      "readability": "Readable"
+    },
+    "metadata.volume_number": {
+      "readability": "Not readable",
+      "cause": "absent"
+    },
+    "metadata.authors": {
+      "readability": "Not readable",
+      "cause": "covered",
+      "correction": "Raoul PICTET"
+    },
+    "metadata.publisher": {
+      "readability": "Not readable",
+      "cause": "covered",
+      "correction": "J. SANDOZ; Sandoz & Fischbacher; J. SANDOZ"
+    },
+    "metadata.publication_place": {
+      "readability": "Not readable",
+      "cause": "covered",
+      "correction": "GENÈVE; PARIS; NEUCHATEL"
+    },
+    "metadata.date": {
+      "readability": "Readable"
+    },
+    "language": {
+      "readability": "Readable"
+    },
+    "metadata.identifier": {
+      "readability": "Readable"
+    },
+    "metadata.iiif_manifest": {
+      "readability": "Readable"
+    },
+    "ark": {
+      "readability": "Readable"
+    }
+  },
+  "language": "fr (French)"
+}

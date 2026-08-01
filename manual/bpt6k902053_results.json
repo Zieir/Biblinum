@@ -1,0 +1,62 @@
+{
+  "metadata": {
+    "title": "ŒUVRES COMPLÈTES d'Augustin Cauchy",
+    "title_complement": "",
+    "volume_number": "SÉRIE 2 - TOME XIII",
+    "authors": "Augustin CAUCHY",
+    "publisher": "GAUTHIER-VILLARS",
+    "publication_place": "PARIS",
+    "date": "1932",
+    "identifier": "http://gallica.bnf.fr/ark:/12148/bpt6k902053",
+    "iiif_manifest": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k902053/manifest.json"
+  },
+  "ark": "bpt6k902053",
+  "typographie": {
+    "category": "Serif/Roman",
+    "subtype": "Didone (Modern)"
+  },
+  "_annotations": {
+    "metadata.title": {
+      "readability": "Readable",
+      "correction": "ŒUVRES COMPLÈTES d'Augustin Cauchy"
+    },
+    "metadata.title_complement": {
+      "readability": "Not readable",
+      "cause": "absent",
+      "correction": ""
+    },
+    "metadata.volume_number": {
+      "readability": "Readable",
+      "correction": "SÉRIE 2 - TOME XIII"
+    },
+    "metadata.authors": {
+      "readability": "Readable",
+      "correction": "Augustin CAUCHY"
+    },
+    "metadata.publisher": {
+      "readability": "Readable",
+      "correction": "Gauthier-Villars"
+    },
+    "metadata.publication_place": {
+      "readability": "Readable",
+      "correction": "PARIS"
+    },
+    "metadata.date": {
+      "readability": "Readable",
+      "correction": "1932"
+    },
+    "language": {
+      "readability": "Readable"
+    },
+    "metadata.identifier": {
+      "readability": "Readable"
+    },
+    "metadata.iiif_manifest": {
+      "readability": "Readable"
+    },
+    "ark": {
+      "readability": "Readable"
+    }
+  },
+  "language": "fr (French)"
+}

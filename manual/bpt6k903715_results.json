@@ -1,0 +1,60 @@
+{
+  "metadata": {
+    "title": "NOTICE SUR LES TRAVAUX SCIENTIFIQUES",
+    "title_complement": "",
+    "volume_number": "",
+    "authors": "A. BÉHAL",
+    "publisher": "MASSON ET CIE, ÉDITEURS",
+    "publication_place": "PARIS",
+    "date": "",
+    "identifier": "http://gallica.bnf.fr/ark:/12148/bpt6k903715",
+    "iiif_manifest": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k903715/manifest.json"
+  },
+  "ark": "bpt6k903715",
+  "typographie": {
+    "category": "Serif/Roman",
+    "subtype": "Didone (Modern)"
+  },
+  "_annotations": {
+    "metadata.title": {
+      "readability": "Readable",
+      "correction": "NOTICE SUR LES TRAVAUX SCIENTIFIQUES"
+    },
+    "metadata.title_complement": {
+      "readability": "Not readable",
+      "cause": "absent",
+      "correction": ""
+    },
+    "metadata.volume_number": {
+      "readability": "Not readable",
+      "cause": "absent"
+    },
+    "metadata.authors": {
+      "readability": "Readable",
+      "correction": "A. BÉHAL"
+    },
+    "metadata.publisher": {
+      "readability": "Readable"
+    },
+    "metadata.publication_place": {
+      "readability": "Readable"
+    },
+    "metadata.date": {
+      "readability": "Not readable",
+      "cause": "absent"
+    },
+    "language": {
+      "readability": "Readable"
+    },
+    "metadata.identifier": {
+      "readability": "Readable"
+    },
+    "metadata.iiif_manifest": {
+      "readability": "Readable"
+    },
+    "ark": {
+      "readability": "Readable"
+    }
+  },
+  "language": "fr (French)"
+}

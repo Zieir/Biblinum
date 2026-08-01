@@ -1,0 +1,63 @@
+{
+  "metadata": {
+    "title": "LE DIAMANT",
+    "title_complement": "CONFÉRENCE faite à la Société des amis de la science le 17 mai 1893",
+    "volume_number": "",
+    "authors": "Henri MOISSAN",
+    "publisher": "",
+    "publication_place": "",
+    "date": "1893",
+    "identifier": "http://gallica.bnf.fr/ark:/12148/bpt6k91874t",
+    "iiif_manifest": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k91874t/manifest.json"
+  },
+  "ark": "bpt6k91874t",
+  "typographie": {
+    "category": "Serif/Roman",
+    "subtype": "Didone (Modern)"
+  },
+  "_annotations": {
+    "metadata.title": {
+      "readability": "Readable"
+    },
+    "metadata.title_complement": {
+      "readability": "Not readable",
+      "cause": "quality",
+      "correction": "CONFÉRENCE faite à la Société des amis de la science le 17 mai 1893"
+    },
+    "metadata.volume_number": {
+      "readability": "Not readable",
+      "cause": "absent"
+    },
+    "metadata.authors": {
+      "readability": "Readable",
+      "correction": "Henri MOISSAN"
+    },
+    "metadata.publisher": {
+      "readability": "Not readable",
+      "cause": "absent",
+      "correction": ""
+    },
+    "metadata.publication_place": {
+      "readability": "Not readable",
+      "cause": "absent"
+    },
+    "metadata.date": {
+      "readability": "Not readable",
+      "cause": "quality",
+      "correction": "1893"
+    },
+    "language": {
+      "readability": "Readable"
+    },
+    "metadata.identifier": {
+      "readability": "Readable"
+    },
+    "metadata.iiif_manifest": {
+      "readability": "Readable"
+    },
+    "ark": {
+      "readability": "Readable"
+    }
+  },
+  "language": "fr (French)"
+}

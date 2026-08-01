@@ -1,0 +1,58 @@
+{
+  "metadata": {
+    "title": "ŒUVRES de Charles Hermite",
+    "title_complement": "",
+    "volume_number": "TOME III",
+    "authors": "Charles Hermite",
+    "publisher": "GAUTHIER-VILLARS",
+    "publication_place": "PARIS",
+    "date": "1912",
+    "identifier": "http://gallica.bnf.fr/ark:/12148/bpt6k902200",
+    "iiif_manifest": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k902200/manifest.json"
+  },
+  "ark": "bpt6k902200",
+  "typographie": {
+    "category": "Serif/Roman",
+    "subtype": "Slab Serif (Egyptian)"
+  },
+  "_annotations": {
+    "metadata.title": {
+      "readability": "Readable",
+      "correction": "ŒUVRES de Charles Hermite"
+    },
+    "metadata.title_complement": {
+      "readability": "Not readable",
+      "cause": "absent",
+      "correction": ""
+    },
+    "metadata.volume_number": {
+      "readability": "Readable"
+    },
+    "metadata.authors": {
+      "readability": "Readable",
+      "correction": "Charles Hermite"
+    },
+    "metadata.publisher": {
+      "readability": "Readable"
+    },
+    "metadata.publication_place": {
+      "readability": "Readable"
+    },
+    "metadata.date": {
+      "readability": "Readable"
+    },
+    "language": {
+      "readability": "Readable"
+    },
+    "metadata.identifier": {
+      "readability": "Readable"
+    },
+    "metadata.iiif_manifest": {
+      "readability": "Readable"
+    },
+    "ark": {
+      "readability": "Readable"
+    }
+  },
+  "language": "fr (French)"
+}

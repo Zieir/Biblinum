@@ -1,0 +1,59 @@
+{
+  "metadata": {
+    "title": "MANUEL DE GÉOLOGIE ÉLÉMENTAIRE",
+    "title_complement": "",
+    "volume_number": "TOME I",
+    "authors": "",
+    "publisher": "",
+    "publication_place": "",
+    "date": "",
+    "identifier": "http://gallica.bnf.fr/ark:/12148/bpt6k903417",
+    "iiif_manifest": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k903417/manifest.json"
+  },
+  "ark": "bpt6k903417",
+  "typographie": {
+    "category": "Serif/Roman",
+    "subtype": "Didone (Modern)"
+  },
+  "_annotations": {
+    "metadata.title": {
+      "readability": "Readable"
+    },
+    "metadata.title_complement": {
+      "readability": "Not readable",
+      "cause": "absent"
+    },
+    "metadata.volume_number": {
+      "readability": "Readable"
+    },
+    "metadata.authors": {
+      "readability": "Not readable",
+      "cause": "absent"
+    },
+    "metadata.publisher": {
+      "readability": "Not readable",
+      "cause": "absent"
+    },
+    "metadata.publication_place": {
+      "readability": "Not readable",
+      "cause": "absent"
+    },
+    "metadata.date": {
+      "readability": "Not readable",
+      "cause": "absent"
+    },
+    "language": {
+      "readability": "Readable"
+    },
+    "metadata.identifier": {
+      "readability": "Readable"
+    },
+    "metadata.iiif_manifest": {
+      "readability": "Readable"
+    },
+    "ark": {
+      "readability": "Readable"
+    }
+  },
+  "language": "fr (French)"
+}

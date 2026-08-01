@@ -1,0 +1,62 @@
+{
+  "metadata": {
+    "title": "QUÍMICA",
+    "title_complement": "",
+    "volume_number": "PARTE I",
+    "authors": "Pedro N. ARATA",
+    "publisher": "LIBRERIA DAXTER ALIONKRAI",
+    "publication_place": "BUENOS AIRES",
+    "date": "",
+    "identifier": "http://gallica.bnf.fr/ark:/12148/bpt6k90162n",
+    "iiif_manifest": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k90162n/manifest.json"
+  },
+  "ark": "bpt6k90162n",
+  "typographie": {
+    "category": "Serif/Roman",
+    "subtype": "Didone (Modern)"
+  },
+  "_annotations": {
+    "metadata.title": {
+      "readability": "Readable"
+    },
+    "metadata.title_complement": {
+      "readability": "Not readable",
+      "cause": "absent"
+    },
+    "metadata.volume_number": {
+      "readability": "Not readable",
+      "cause": "quality"
+    },
+    "metadata.authors": {
+      "readability": "Not readable",
+      "cause": "quality",
+      "correction": "Pedro N. ARATA"
+    },
+    "metadata.publisher": {
+      "readability": "Not readable",
+      "cause": "quality"
+    },
+    "metadata.publication_place": {
+      "readability": "Not readable",
+      "cause": "quality"
+    },
+    "metadata.date": {
+      "readability": "Not readable",
+      "cause": "absent"
+    },
+    "language": {
+      "readability": "Readable"
+    },
+    "_note": "A revoir - publisher",
+    "metadata.identifier": {
+      "readability": "Readable"
+    },
+    "metadata.iiif_manifest": {
+      "readability": "Readable"
+    },
+    "ark": {
+      "readability": "Readable"
+    }
+  },
+  "language": "es (Spanish)"
+}

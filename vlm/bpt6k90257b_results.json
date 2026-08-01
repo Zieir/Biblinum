@@ -1,0 +1,15 @@
+{
+    "processing_time_seconds": 3.63,
+    "metadata": {
+        "title": "TRAITÉ ÉLÉMENTAIRE DE CHIMIE",
+        "title_complement": "FONDÉ SUR LES PRINCIPES DE LA THERMOCHIMIE AVEC EMPLOI DES DONNÉES CALORIMÉTRIQUES",
+        "volume_number": "",
+        "authors": "D l'OITTE, Alfred",
+        "publisher": "DUNOD",
+        "publication_place": "PARIS",
+        "date": "1884",
+        "identifier": "http://gallica.bnf.fr/ark:/12148/bpt6k90257b",
+        "iiif_manifest": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k90257b/manifest.json"
+    },
+    "ark": "bpt6k90257b"
+}

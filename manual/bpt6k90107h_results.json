@@ -1,0 +1,58 @@
+{
+  "metadata": {
+    "title": "BREF",
+    "title_complement": "STRÖDDA BREF (1809-1847)",
+    "volume_number": "VII",
+    "authors": "Jac. Berzelius",
+    "publisher": "KUNGL. SVENSKA VETENSKAPSAKADEMIEN",
+    "publication_place": "",
+    "date": "",
+    "identifier": "http://gallica.bnf.fr/ark:/12148/bpt6k90107h",
+    "iiif_manifest": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k90107h/manifest.json"
+  },
+  "ark": "bpt6k90107h",
+  "typographie": {
+    "category": "Serif/Roman",
+    "subtype": "Transitional / Modern (Didone influence)"
+  },
+  "_annotations": {
+    "metadata.title": {
+      "readability": "Readable",
+      "correction": "BREF"
+    },
+    "metadata.title_complement": {
+      "readability": "Readable"
+    },
+    "metadata.volume_number": {
+      "readability": "Readable"
+    },
+    "metadata.authors": {
+      "readability": "Readable",
+      "correction": "Jac. Berzelius"
+    },
+    "metadata.publisher": {
+      "readability": "Readable"
+    },
+    "metadata.publication_place": {
+      "readability": "Not readable",
+      "cause": "absent"
+    },
+    "metadata.date": {
+      "readability": "Not readable",
+      "cause": "absent"
+    },
+    "language": {
+      "readability": "Readable"
+    },
+    "metadata.identifier": {
+      "readability": "Readable"
+    },
+    "metadata.iiif_manifest": {
+      "readability": "Readable"
+    },
+    "ark": {
+      "readability": "Readable"
+    }
+  },
+  "language": "sv (Swedish)"
+}

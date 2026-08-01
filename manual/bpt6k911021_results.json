@@ -1,0 +1,58 @@
+{
+  "metadata": {
+    "title": "SUR LES RELATIONS D'ISOMORPHISME",
+    "title_complement": "QUI EXISTENT ENTRE LES MÉTAUX DU GROUPE DE L'AZOTE",
+    "volume_number": "",
+    "authors": "J. NICKLÈS",
+    "publisher": "VVE RAYBOIS, IMPRIMEUR DE L'ACADÉMIE DE STANISLAS",
+    "publication_place": "NANCY",
+    "date": "1862",
+    "identifier": "http://gallica.bnf.fr/ark:/12148/bpt6k911021",
+    "iiif_manifest": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k911021/manifest.json"
+  },
+  "ark": "bpt6k911021",
+  "typographie": {
+    "category": "Serif/Roman",
+    "subtype": "Didone (Modern)"
+  },
+  "_annotations": {
+    "metadata.title": {
+      "readability": "Readable",
+      "correction": "SUR LES RELATIONS D'ISOMORPHISME"
+    },
+    "metadata.title_complement": {
+      "readability": "Readable"
+    },
+    "metadata.volume_number": {
+      "readability": "Not readable",
+      "cause": "absent"
+    },
+    "metadata.authors": {
+      "readability": "Readable",
+      "correction": "J. NICKLÈS"
+    },
+    "metadata.publisher": {
+      "readability": "Readable",
+      "correction": "Vve RAYBOIS, IMPRIMEUR DE L'ACADÉMIE DE STANISLAS"
+    },
+    "metadata.publication_place": {
+      "readability": "Readable"
+    },
+    "metadata.date": {
+      "readability": "Readable"
+    },
+    "language": {
+      "readability": "Readable"
+    },
+    "metadata.identifier": {
+      "readability": "Readable"
+    },
+    "metadata.iiif_manifest": {
+      "readability": "Readable"
+    },
+    "ark": {
+      "readability": "Readable"
+    }
+  },
+  "language": "fr (French)"
+}

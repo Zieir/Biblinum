@@ -1,0 +1,59 @@
+{
+  "metadata": {
+    "title": "RECHERCHES SUR LES RAPPORTS RÉCIPROQUES DES POIDS ATOMIQUES",
+    "title_complement": "",
+    "volume_number": "",
+    "authors": "J.-S. STAS",
+    "publisher": "M. HAYEZ, IMPRIMEUR DE L'ACADÉMIE ROYALE DE BELGIQUE",
+    "publication_place": "BRUXELLES",
+    "date": "1860",
+    "identifier": "http://gallica.bnf.fr/ark:/12148/bpt6k90134d",
+    "iiif_manifest": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k90134d/manifest.json"
+  },
+  "ark": "bpt6k90134d",
+  "typographie": {
+    "category": "Serif/Roman",
+    "subtype": "Modern (Didone)"
+  },
+  "_annotations": {
+    "metadata.title": {
+      "readability": "Readable",
+      "correction": "RECHERCHES SUR LES RAPPORTS RÉCIPROQUES DES POIDS ATOMIQUES"
+    },
+    "metadata.title_complement": {
+      "readability": "Not readable",
+      "cause": "absent",
+      "correction": ""
+    },
+    "metadata.volume_number": {
+      "readability": "Not readable",
+      "cause": "absent"
+    },
+    "metadata.authors": {
+      "readability": "Readable",
+      "correction": "J.-S. STAS"
+    },
+    "metadata.publisher": {
+      "readability": "Readable"
+    },
+    "metadata.publication_place": {
+      "readability": "Readable"
+    },
+    "metadata.date": {
+      "readability": "Readable"
+    },
+    "language": {
+      "readability": "Readable"
+    },
+    "metadata.identifier": {
+      "readability": "Readable"
+    },
+    "metadata.iiif_manifest": {
+      "readability": "Readable"
+    },
+    "ark": {
+      "readability": "Readable"
+    }
+  },
+  "language": "fr (French)"
+}

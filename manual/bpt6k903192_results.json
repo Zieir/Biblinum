@@ -1,0 +1,60 @@
+{
+  "metadata": {
+    "title": "ANLEITUNG ZUR QUANTITATIVEN CHEMISCHEN ANALYSE",
+    "title_complement": "FÜR ANFÄNGER UND GEÜBTERE",
+    "volume_number": "ZWEITER BAND",
+    "authors": "C. REMIGIUS FRESENIUS",
+    "publisher": "FRIEDRICH VIEWEG UND SOHN",
+    "publication_place": "BRAUNSCHWEIG",
+    "date": "1877-1887",
+    "identifier": "http://gallica.bnf.fr/ark:/12148/bpt6k903192",
+    "iiif_manifest": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k903192/manifest.json"
+  },
+  "ark": "bpt6k903192",
+  "typographie": {
+    "category": "Serif/Roman",
+    "subtype": "Didone (Modern)"
+  },
+  "_annotations": {
+    "metadata.title": {
+      "readability": "Readable"
+    },
+    "metadata.title_complement": {
+      "readability": "Readable",
+      "correction": "FÜR ANFÄNGER UND GEÜBTERE"
+    },
+    "metadata.volume_number": {
+      "readability": "Readable",
+      "correction": "ZWEITER BAND"
+    },
+    "metadata.authors": {
+      "readability": "Readable",
+      "correction": "C. REMIGIUS FRESENIUS"
+    },
+    "metadata.publisher": {
+      "readability": "Readable",
+      "correction": "Friedrich Vieweg und Sohn"
+    },
+    "metadata.publication_place": {
+      "readability": "Readable",
+      "correction": "Braunschweig"
+    },
+    "metadata.date": {
+      "readability": "Readable",
+      "correction": "1877-1887"
+    },
+    "language": {
+      "readability": "Readable"
+    },
+    "metadata.identifier": {
+      "readability": "Readable"
+    },
+    "metadata.iiif_manifest": {
+      "readability": "Readable"
+    },
+    "ark": {
+      "readability": "Readable"
+    }
+  },
+  "language": "de (German)"
+}

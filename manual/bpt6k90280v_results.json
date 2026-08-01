@@ -1,0 +1,57 @@
+{
+  "metadata": {
+    "title": "Introduction to the study of the compounds of carbon",
+    "title_complement": "ORGANIC CHEMISTRY",
+    "volume_number": "",
+    "authors": "IRA REMSEN",
+    "publisher": "GINN, HEATH, & CO.",
+    "publication_place": "BOSTON",
+    "date": "1885",
+    "identifier": "http://gallica.bnf.fr/ark:/12148/bpt6k90280v",
+    "iiif_manifest": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k90280v/manifest.json"
+  },
+  "ark": "bpt6k90280v",
+  "typographie": {
+    "category": "Serif/Roman",
+    "subtype": "Modern / Didone"
+  },
+  "_annotations": {
+    "metadata.title": {
+      "readability": "Readable",
+      "correction": "Introduction to the study of the compounds of carbon"
+    },
+    "metadata.title_complement": {
+      "readability": "Readable"
+    },
+    "metadata.volume_number": {
+      "readability": "Not readable",
+      "cause": "absent"
+    },
+    "metadata.authors": {
+      "readability": "Readable",
+      "correction": "IRA REMSEN"
+    },
+    "metadata.publisher": {
+      "readability": "Readable"
+    },
+    "metadata.publication_place": {
+      "readability": "Readable"
+    },
+    "metadata.date": {
+      "readability": "Readable"
+    },
+    "language": {
+      "readability": "Readable"
+    },
+    "metadata.identifier": {
+      "readability": "Readable"
+    },
+    "metadata.iiif_manifest": {
+      "readability": "Readable"
+    },
+    "ark": {
+      "readability": "Readable"
+    }
+  },
+  "language": "en (English)"
+}

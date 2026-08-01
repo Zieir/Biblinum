@@ -1,0 +1,61 @@
+{
+  "metadata": {
+    "title": "INDICATIONS THÉORIQUES ET PRATIQUES SUR LE TRAVAIL DES VINS",
+    "title_complement": "et en particulier sur celui des vins mousseux",
+    "volume_number": "",
+    "authors": "E. J. MAUMENÉ",
+    "publisher": "VICTOR MASSON",
+    "publication_place": "PARIS",
+    "date": "1858",
+    "identifier": "http://gallica.bnf.fr/ark:/12148/bpt6k918635",
+    "iiif_manifest": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k918635/manifest.json"
+  },
+  "ark": "bpt6k918635",
+  "typographie": {
+    "category": "Serif/Roman",
+    "subtype": "Didone (Modern)"
+  },
+  "_annotations": {
+    "metadata.title": {
+      "readability": "Readable",
+      "correction": "INDICATIONS THÉORIQUES ET PRATIQUES SUR LE TRAVAIL DES VINS"
+    },
+    "metadata.title_complement": {
+      "readability": "Readable",
+      "correction": "et en particulier sur celui des vins mousseux"
+    },
+    "metadata.volume_number": {
+      "readability": "Not readable",
+      "cause": "absent"
+    },
+    "metadata.authors": {
+      "readability": "Readable",
+      "correction": "E. J. MAUMENÉ"
+    },
+    "metadata.publisher": {
+      "readability": "Readable",
+      "correction": "VICTOR MASSON"
+    },
+    "metadata.publication_place": {
+      "readability": "Readable",
+      "correction": "PARIS"
+    },
+    "metadata.date": {
+      "readability": "Readable",
+      "correction": "1858"
+    },
+    "language": {
+      "readability": "Readable"
+    },
+    "metadata.identifier": {
+      "readability": "Readable"
+    },
+    "metadata.iiif_manifest": {
+      "readability": "Readable"
+    },
+    "ark": {
+      "readability": "Readable"
+    }
+  },
+  "language": "fr (French)"
+}

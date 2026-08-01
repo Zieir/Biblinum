@@ -1,0 +1,60 @@
+{
+  "metadata": {
+    "title": "MANUEL DE GÉOLOGIE ÉLÉMENTAIRE",
+    "title_complement": "ou Changements anciens de la terre et de ses habitants tels qu'ils sont représentés par les monuments géologiques. ",
+    "volume_number": "TOME II",
+    "authors": "CHARLES LYELL",
+    "publisher": "LANGLOIS ET LECLERCQ",
+    "publication_place": "PARIS",
+    "date": "1857",
+    "identifier": "http://gallica.bnf.fr/ark:/12148/bpt6k90342k",
+    "iiif_manifest": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k90342k/manifest.json"
+  },
+  "ark": "bpt6k90342k",
+  "typographie": {
+    "category": "Serif/Roman",
+    "subtype": "Didone (Modern)"
+  },
+  "_annotations": {
+    "metadata.title": {
+      "readability": "Readable",
+      "correction": "MANUEL DE GÉOLOGIE ÉLÉMENTAIRE"
+    },
+    "metadata.title_complement": {
+      "readability": "Readable",
+      "correction": "ou Changements anciens de la terre et de ses habitants tels qu'ils sont représentés par les monuments géologiques. "
+    },
+    "metadata.volume_number": {
+      "readability": "Readable"
+    },
+    "metadata.authors": {
+      "readability": "Readable",
+      "correction": "CHARLES LYELL"
+    },
+    "metadata.publisher": {
+      "readability": "Readable",
+      "correction": "LANGLOIS ET LECLERCQ"
+    },
+    "metadata.publication_place": {
+      "readability": "Readable",
+      "correction": "PARIS"
+    },
+    "metadata.date": {
+      "readability": "Readable",
+      "correction": "1857"
+    },
+    "language": {
+      "readability": "Readable"
+    },
+    "metadata.identifier": {
+      "readability": "Readable"
+    },
+    "metadata.iiif_manifest": {
+      "readability": "Readable"
+    },
+    "ark": {
+      "readability": "Readable"
+    }
+  },
+  "language": "fr (French)"
+}

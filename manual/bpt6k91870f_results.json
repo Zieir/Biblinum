@@ -1,0 +1,57 @@
+{
+  "metadata": {
+    "title": "ETUDE DES DISSOLUTIONS AQUEUSES",
+    "title_complement": "FONDÉE SUR LES CHANGEMENTS DE LEURS POIDS SPÉCIFIQUES",
+    "volume_number": "",
+    "authors": "D. MENDELEEFF",
+    "publisher": "",
+    "publication_place": "ST. PETERSBOURG",
+    "date": "1887",
+    "identifier": "http://gallica.bnf.fr/ark:/12148/bpt6k91870f",
+    "iiif_manifest": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k91870f/manifest.json"
+  },
+  "ark": "bpt6k91870f",
+  "typographie": {
+    "category": "Serif/Roman",
+    "subtype": "Modern (Didone)"
+  },
+  "_annotations": {
+    "metadata.title": {
+      "readability": "Readable"
+    },
+    "metadata.title_complement": {
+      "readability": "Readable"
+    },
+    "metadata.volume_number": {
+      "readability": "Not readable",
+      "cause": "absent"
+    },
+    "metadata.authors": {
+      "readability": "Readable",
+      "correction": "D. MENDELEEFF"
+    },
+    "metadata.publisher": {
+      "readability": "Not readable",
+      "cause": "absent"
+    },
+    "metadata.publication_place": {
+      "readability": "Readable"
+    },
+    "metadata.date": {
+      "readability": "Readable"
+    },
+    "language": {
+      "readability": "Readable"
+    },
+    "metadata.identifier": {
+      "readability": "Readable"
+    },
+    "metadata.iiif_manifest": {
+      "readability": "Readable"
+    },
+    "ark": {
+      "readability": "Readable"
+    }
+  },
+  "language": "ru (Russian)"
+}

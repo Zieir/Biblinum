@@ -1,0 +1,56 @@
+{
+  "metadata": {
+    "title": "SUR LA STRUCTURE NODALE DE CHLORHYDRATE D'AMMONIAQUE",
+    "title_complement": "ET DE 250 AUTRES CORPS",
+    "volume_number": "",
+    "authors": "M. N. Teploff",
+    "publisher": "IMPRIMERIE E. ARNOLDS",
+    "publication_place": "ST. PÉTERSBOURG",
+    "date": "1896",
+    "identifier": "http://gallica.bnf.fr/ark:/12148/bpt6k917914",
+    "iiif_manifest": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k917914/manifest.json"
+  },
+  "ark": "bpt6k917914",
+  "typographie": {
+    "category": "Display",
+    "subtype": "Condensed / Inline-style"
+  },
+  "_annotations": {
+    "metadata.title": {
+      "readability": "Readable"
+    },
+    "metadata.title_complement": {
+      "readability": "Readable"
+    },
+    "metadata.volume_number": {
+      "readability": "Not readable",
+      "cause": "absent"
+    },
+    "metadata.authors": {
+      "readability": "Readable",
+      "correction": "M. N. Teploff"
+    },
+    "metadata.publisher": {
+      "readability": "Readable"
+    },
+    "metadata.publication_place": {
+      "readability": "Readable"
+    },
+    "metadata.date": {
+      "readability": "Readable"
+    },
+    "language": {
+      "readability": "Readable"
+    },
+    "metadata.identifier": {
+      "readability": "Readable"
+    },
+    "metadata.iiif_manifest": {
+      "readability": "Readable"
+    },
+    "ark": {
+      "readability": "Readable"
+    }
+  },
+  "language": "fr (French)"
+}

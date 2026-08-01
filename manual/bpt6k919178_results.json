@@ -1,0 +1,55 @@
+{
+  "metadata": {
+    "title": "TRAITÉ DES MATIÈRES COLORANTES",
+    "title_complement": "COMPRENANT LEURS APPLICATIONS A LA TEINTURE ET A L'IMPRESSION ET DES NOTICES SUR LES FIBRES TEXTILES LES ÉPAISSISSANTS ET LES MORDANTS",
+    "volume_number": "TOME SECOND",
+    "authors": "P. Schützenberger",
+    "publisher": "VICTOR MASSON ET FILS",
+    "publication_place": "PARIS",
+    "date": "1867",
+    "identifier": "http://gallica.bnf.fr/ark:/12148/bpt6k919178",
+    "iiif_manifest": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k919178/manifest.json"
+  },
+  "ark": "bpt6k919178",
+  "typographie": {
+    "category": "Serif/Roman",
+    "subtype": "Didone (Modern)"
+  },
+  "_annotations": {
+    "metadata.title": {
+      "readability": "Readable"
+    },
+    "metadata.title_complement": {
+      "readability": "Readable"
+    },
+    "metadata.volume_number": {
+      "readability": "Readable"
+    },
+    "metadata.authors": {
+      "readability": "Readable",
+      "correction": "P. Schützenberger"
+    },
+    "metadata.publisher": {
+      "readability": "Readable"
+    },
+    "metadata.publication_place": {
+      "readability": "Readable"
+    },
+    "metadata.date": {
+      "readability": "Readable"
+    },
+    "language": {
+      "readability": "Readable"
+    },
+    "metadata.identifier": {
+      "readability": "Readable"
+    },
+    "metadata.iiif_manifest": {
+      "readability": "Readable"
+    },
+    "ark": {
+      "readability": "Readable"
+    }
+  },
+  "language": "fr (French)"
+}

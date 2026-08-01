@@ -1,0 +1,60 @@
+{
+  "metadata": {
+    "title": "PETIT TRAITÉ DE PHYSIQUE",
+    "title_complement": "à l'usage des établissements d'instruction, des aspirants aux baccalauréats et des candidats aux écoles du gouvernement ",
+    "volume_number": "",
+    "authors": "J. Jamin",
+    "publisher": "GAUTHIER-VILLARS",
+    "publication_place": "PARIS",
+    "date": "1870",
+    "identifier": "http://gallica.bnf.fr/ark:/12148/bpt6k90324n",
+    "iiif_manifest": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k90324n/manifest.json"
+  },
+  "ark": "bpt6k90324n",
+  "typographie": {
+    "category": "Serif/Roman",
+    "subtype": "Didone (Modern)"
+  },
+  "_annotations": {
+    "metadata.title": {
+      "readability": "Readable"
+    },
+    "metadata.title_complement": {
+      "readability": "Readable",
+      "correction": "à l'usage des établissements d'instruction, des aspirants aux baccalauréats et des candidats aux écoles du gouvernement "
+    },
+    "metadata.volume_number": {
+      "readability": "Not readable",
+      "cause": "absent"
+    },
+    "metadata.authors": {
+      "readability": "Readable",
+      "correction": "J. Jamin"
+    },
+    "metadata.publisher": {
+      "readability": "Readable",
+      "correction": "Gauthier-Villars"
+    },
+    "metadata.publication_place": {
+      "readability": "Readable",
+      "correction": "PARIS"
+    },
+    "metadata.date": {
+      "readability": "Readable",
+      "correction": "1870"
+    },
+    "language": {
+      "readability": "Readable"
+    },
+    "metadata.identifier": {
+      "readability": "Readable"
+    },
+    "metadata.iiif_manifest": {
+      "readability": "Readable"
+    },
+    "ark": {
+      "readability": "Readable"
+    }
+  },
+  "language": "fr (French)"
+}

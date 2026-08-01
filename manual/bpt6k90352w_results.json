@@ -1,0 +1,61 @@
+{
+  "metadata": {
+    "title": "Onoranze al senatore professore Emanuele Paternò pel suo settantacinquesimo anno",
+    "title_complement": "",
+    "volume_number": "",
+    "authors": "Associazione Italiana di Chimica Generale ed Applicata",
+    "publisher": "STAB. DANESI",
+    "publication_place": "ROMA",
+    "date": "1923",
+    "identifier": "http://gallica.bnf.fr/ark:/12148/bpt6k90352w",
+    "iiif_manifest": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k90352w/manifest.json"
+  },
+  "ark": "bpt6k90352w",
+  "typographie": {
+    "category": "Serif/Roman",
+    "subtype": "Old Style / Transitional"
+  },
+  "_annotations": {
+    "metadata.title": {
+      "readability": "Readable",
+      "correction": "Onoranze al senatore professore Emanuele Paternò pel suo settantacinquesimo anno"
+    },
+    "metadata.title_complement": {
+      "readability": "Not readable",
+      "cause": "absent",
+      "correction": ""
+    },
+    "metadata.volume_number": {
+      "readability": "Not readable",
+      "cause": "absent"
+    },
+    "metadata.authors": {
+      "readability": "Readable",
+      "correction": "Associazione Italiana di Chimica Generale ed Applicata"
+    },
+    "metadata.publisher": {
+      "readability": "Readable",
+      "correction": "Stab. Danesi"
+    },
+    "metadata.publication_place": {
+      "readability": "Readable"
+    },
+    "metadata.date": {
+      "readability": "Readable"
+    },
+    "language": {
+      "readability": "Readable",
+      "correction": "it (Italian)"
+    },
+    "metadata.identifier": {
+      "readability": "Readable"
+    },
+    "metadata.iiif_manifest": {
+      "readability": "Readable"
+    },
+    "ark": {
+      "readability": "Readable"
+    }
+  },
+  "language": "it (Italian)"
+}

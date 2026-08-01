@@ -1,0 +1,58 @@
+{
+    "metadata": {
+        "title": "Combinaison de chlorure d'aluminium anhydre, avec un certain nombre de composés analogues.",
+        "title_complement": "Thèses présentées à la faculté des sciences de l'université de Paris pour obtenir le grade de docteur ès  sciences physiques ",
+        "volume_number": "",
+        "authors": "G. PERRIER",
+        "publisher": "IMPRIMERIE E. LANIER",
+        "publication_place": "CAEN",
+        "date": "1896",
+        "identifier": "http://gallica.bnf.fr/ark:/12148/bpt6k91789k",
+        "iiif_manifest": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k91789k/manifest.json"
+    },
+    "ark": "bpt6k91789k",
+    "typographie": {
+        "category": "Serif/Roman",
+        "subtype": "Modern / Didone"
+    },
+    "_annotations": {
+        "metadata.title": {
+            "readability": "Readable",
+            "correction": "Combinaison de chlorure d'aluminium anhydre, avec un certain nombre de composés analogues."
+        },
+        "metadata.title_complement": {
+            "readability": "Readable",
+            "correction": "Thèses présentées à la faculté des sciences de l'université de Paris pour obtenir le grade de docteur ès  sciences physiques "
+        },
+        "metadata.volume_number": {
+            "readability": "Not readable",
+            "cause": "absent"
+        },
+        "metadata.authors": {
+            "readability": "Readable",
+            "correction": "G. PERRIER"
+        },
+        "metadata.publisher": {
+            "readability": "Readable"
+        },
+        "metadata.publication_place": {
+            "readability": "Readable"
+        },
+        "metadata.date": {
+            "readability": "Readable"
+        },
+        "language": {
+            "readability": "Readable"
+        },
+        "metadata.identifier": {
+            "readability": "Readable"
+        },
+        "metadata.iiif_manifest": {
+            "readability": "Readable"
+        },
+        "ark": {
+            "readability": "Readable"
+        }
+    },
+    "language": "fr (French)"
+}

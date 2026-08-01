@@ -1,0 +1,60 @@
+{
+  "metadata": {
+    "title": "ÉTUDE SUR LA SYNTHÈSE DES PHÉNOMÈNES DE LA NATURE",
+    "title_complement": "discours de réception à l'Académie d'Amiens ",
+    "volume_number": "",
+    "authors": "J. KOLB",
+    "publisher": "IMPRIMERIE YVERT",
+    "publication_place": "AMIENS",
+    "date": "1871",
+    "identifier": "http://gallica.bnf.fr/ark:/12148/bpt6k91777k",
+    "iiif_manifest": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k91777k/manifest.json"
+  },
+  "ark": "bpt6k91777k",
+  "typographie": {
+    "category": "Serif/Roman",
+    "subtype": "Didone (Modern)"
+  },
+  "_annotations": {
+    "metadata.title": {
+      "readability": "Readable",
+      "correction": "ÉTUDE SUR LA SYNTHÈSE DES PHÉNOMÈNES DE LA NATURE"
+    },
+    "metadata.title_complement": {
+      "readability": "Readable",
+      "correction": "discours de réception à l'Académie d'Amiens "
+    },
+    "metadata.volume_number": {
+      "readability": "Not readable",
+      "cause": "absent"
+    },
+    "metadata.authors": {
+      "readability": "Readable",
+      "correction": "J. KOLB"
+    },
+    "metadata.publisher": {
+      "readability": "Not readable",
+      "cause": "covered",
+      "correction": "Imprimerie YVERT"
+    },
+    "metadata.publication_place": {
+      "readability": "Readable"
+    },
+    "metadata.date": {
+      "readability": "Readable"
+    },
+    "language": {
+      "readability": "Readable"
+    },
+    "metadata.identifier": {
+      "readability": "Readable"
+    },
+    "metadata.iiif_manifest": {
+      "readability": "Readable"
+    },
+    "ark": {
+      "readability": "Readable"
+    }
+  },
+  "language": "fr (French)"
+}

@@ -1,0 +1,15 @@
+{
+    "processing_time_seconds": 3.68,
+    "metadata": {
+        "title": "Théorie des proportions chimiques",
+        "title_complement": "Table synoptique des poids atomiques des corps simples, et de leurs combinaisons les plus importantes",
+        "volume_number": "",
+        "authors": "Berzelius, J.-J.",
+        "publisher": "Firmin Didot Frères ; J.-B. Baillière",
+        "publication_place": "Paris",
+        "date": "1825",
+        "identifier": "http://gallica.bnf.fr/ark:/12148/bpt6k90589s",
+        "iiif_manifest": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k90589s/manifest.json"
+    },
+    "ark": "bpt6k90589s"
+}

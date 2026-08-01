@@ -1,0 +1,61 @@
+{
+  "metadata": {
+    "title": "CHYMIE EXPERIMENTALE",
+    "title_complement": "ET RAISONNÉE",
+    "volume_number": "TOME SECOND",
+    "authors": "BAUMÉ",
+    "publisher": "P. FRANÇ. DIDOT LE JEUNE",
+    "publication_place": "PARIS",
+    "date": "1773",
+    "identifier": "http://gallica.bnf.fr/ark:/12148/bpt6k91693j",
+    "iiif_manifest": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k91693j/manifest.json"
+  },
+  "ark": "bpt6k91693j",
+  "typographie": {
+    "category": "Serif/Roman",
+    "subtype": "Transitional"
+  },
+  "_annotations": {
+    "metadata.title": {
+      "readability": "Readable",
+      "correction": "CHYMIE EXPERIMENTALE"
+    },
+    "metadata.title_complement": {
+      "readability": "Readable",
+      "correction": "ET RAISONNÉE"
+    },
+    "metadata.volume_number": {
+      "readability": "Readable",
+      "correction": "TOME SECOND"
+    },
+    "metadata.authors": {
+      "readability": "Readable",
+      "correction": "BAUMÉ"
+    },
+    "metadata.publisher": {
+      "readability": "Readable",
+      "correction": "P. Franç. DIDOT LE JEUNE"
+    },
+    "metadata.publication_place": {
+      "readability": "Readable",
+      "correction": "PARIS"
+    },
+    "metadata.date": {
+      "readability": "Readable",
+      "correction": "1773"
+    },
+    "language": {
+      "readability": "Readable"
+    },
+    "metadata.identifier": {
+      "readability": "Readable"
+    },
+    "metadata.iiif_manifest": {
+      "readability": "Readable"
+    },
+    "ark": {
+      "readability": "Readable"
+    }
+  },
+  "language": "fr (French)"
+}

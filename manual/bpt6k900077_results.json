@@ -1,0 +1,61 @@
+{
+  "metadata": {
+    "title": "MANUEL DE CHIMIE THÉORIQUE ET PRATIQUE",
+    "title_complement": "MÉTALLOÏDES",
+    "volume_number": "PREMIÈRE PARTIE",
+    "authors": "William ODLING",
+    "publisher": "VICTOR MASSON ET FILS",
+    "publication_place": "PARIS",
+    "date": "1868",
+    "identifier": "http://gallica.bnf.fr/ark:/12148/bpt6k900077",
+    "iiif_manifest": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k900077/manifest.json"
+  },
+  "ark": "bpt6k900077",
+  "typographie": {
+    "category": "Serif/Roman",
+    "subtype": "Didone (Modern)"
+  },
+  "_annotations": {
+    "metadata.title": {
+      "readability": "Readable",
+      "correction": "MANUEL DE CHIMIE THÉORIQUE ET PRATIQUE"
+    },
+    "metadata.title_complement": {
+      "readability": "Readable",
+      "correction": "MÉTALLOÏDES"
+    },
+    "metadata.volume_number": {
+      "readability": "Readable",
+      "correction": "PREMIÈRE PARTIE"
+    },
+    "metadata.authors": {
+      "readability": "Readable",
+      "correction": "William ODLING"
+    },
+    "metadata.publisher": {
+      "readability": "Readable"
+    },
+    "metadata.publication_place": {
+      "readability": "Not readable",
+      "cause": "covered"
+    },
+    "metadata.date": {
+      "readability": "Not readable",
+      "cause": "quality",
+      "correction": "1868"
+    },
+    "language": {
+      "readability": "Readable"
+    },
+    "metadata.identifier": {
+      "readability": "Readable"
+    },
+    "metadata.iiif_manifest": {
+      "readability": "Readable"
+    },
+    "ark": {
+      "readability": "Readable"
+    }
+  },
+  "language": "fr (French)"
+}

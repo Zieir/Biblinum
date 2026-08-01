@@ -1,0 +1,62 @@
+{
+  "metadata": {
+    "title": "TRAITÉ ÉLÉMENTAIRE DE CHIMIE ORGANIQUE",
+    "title_complement": "",
+    "volume_number": "",
+    "authors": "M. BERTHELOT",
+    "publisher": "DUNOD",
+    "publication_place": "PARIS",
+    "date": "1872",
+    "identifier": "http://gallica.bnf.fr/ark:/12148/bpt6k903777",
+    "iiif_manifest": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k903777/manifest.json"
+  },
+  "ark": "bpt6k903777",
+  "typographie": {
+    "category": "Serif/Roman",
+    "subtype": "Modern (Didone)"
+  },
+  "_annotations": {
+    "metadata.title": {
+      "readability": "Readable",
+      "correction": "TRAITÉ ÉLÉMENTAIRE DE CHIMIE ORGANIQUE"
+    },
+    "metadata.title_complement": {
+      "readability": "Not readable",
+      "cause": "absent",
+      "correction": ""
+    },
+    "metadata.volume_number": {
+      "readability": "Not readable",
+      "cause": "absent"
+    },
+    "metadata.authors": {
+      "readability": "Readable",
+      "correction": "M. BERTHELOT"
+    },
+    "metadata.publisher": {
+      "readability": "Readable",
+      "correction": "DUNOD"
+    },
+    "metadata.publication_place": {
+      "readability": "Readable",
+      "correction": "PARIS"
+    },
+    "metadata.date": {
+      "readability": "Readable",
+      "correction": "1872"
+    },
+    "language": {
+      "readability": "Readable"
+    },
+    "metadata.identifier": {
+      "readability": "Readable"
+    },
+    "metadata.iiif_manifest": {
+      "readability": "Readable"
+    },
+    "ark": {
+      "readability": "Readable"
+    }
+  },
+  "language": "fr (French)"
+}

@@ -1,0 +1,59 @@
+{
+  "metadata": {
+    "title": "QUÍMICA",
+    "title_complement": "",
+    "volume_number": "PARTE III",
+    "authors": "Pedro N. ARATA",
+    "publisher": "",
+    "publication_place": "BUENOS AIRES",
+    "date": "",
+    "identifier": "http://gallica.bnf.fr/ark:/12148/bpt6k90164b",
+    "iiif_manifest": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k90164b/manifest.json"
+  },
+  "ark": "bpt6k90164b",
+  "typographie": {
+    "category": "Serif/Roman",
+    "subtype": "Didone (Modern)"
+  },
+  "_annotations": {
+    "metadata.title": {
+      "readability": "Readable"
+    },
+    "metadata.title_complement": {
+      "readability": "Not readable",
+      "cause": "absent"
+    },
+    "metadata.volume_number": {
+      "readability": "Readable"
+    },
+    "metadata.authors": {
+      "readability": "Not readable",
+      "cause": "quality",
+      "correction": "Pedro N. ARATA"
+    },
+    "metadata.publisher": {
+      "readability": "Not readable",
+      "cause": "absent"
+    },
+    "metadata.publication_place": {
+      "readability": "Readable"
+    },
+    "metadata.date": {
+      "readability": "Not readable",
+      "cause": "absent"
+    },
+    "language": {
+      "readability": "Readable"
+    },
+    "metadata.identifier": {
+      "readability": "Readable"
+    },
+    "metadata.iiif_manifest": {
+      "readability": "Readable"
+    },
+    "ark": {
+      "readability": "Readable"
+    }
+  },
+  "language": "es (Spanish)"
+}

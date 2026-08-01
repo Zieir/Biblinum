@@ -1,0 +1,58 @@
+{
+  "metadata": {
+    "title": "Systematische uebersicht der Silicate",
+    "title_complement": "",
+    "volume_number": "",
+    "authors": "C. Weltzien",
+    "publisher": "J. RICKER'SCHE BUCHHANDLUNG",
+    "publication_place": "GIESSEN",
+    "date": "1864",
+    "identifier": "http://gallica.bnf.fr/ark:/12148/bpt6k91756m",
+    "iiif_manifest": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k91756m/manifest.json"
+  },
+  "ark": "bpt6k91756m",
+  "typographie": {
+    "category": "Script",
+    "subtype": "Cursive"
+  },
+  "_annotations": {
+    "metadata.title": {
+      "readability": "Readable",
+      "correction": "Systematische uebersicht der Silicate"
+    },
+    "metadata.title_complement": {
+      "readability": "Not readable",
+      "cause": "absent",
+      "correction": ""
+    },
+    "metadata.volume_number": {
+      "readability": "Not readable",
+      "cause": "absent"
+    },
+    "metadata.authors": {
+      "readability": "Readable"
+    },
+    "metadata.publisher": {
+      "readability": "Readable"
+    },
+    "metadata.publication_place": {
+      "readability": "Readable"
+    },
+    "metadata.date": {
+      "readability": "Readable"
+    },
+    "language": {
+      "readability": "Readable"
+    },
+    "metadata.identifier": {
+      "readability": "Readable"
+    },
+    "metadata.iiif_manifest": {
+      "readability": "Readable"
+    },
+    "ark": {
+      "readability": "Readable"
+    }
+  },
+  "language": "de (German)"
+}

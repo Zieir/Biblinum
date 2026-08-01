@@ -1,0 +1,58 @@
+{
+  "metadata": {
+    "title": "ÉTUDES DE CHIMIE ORGANIQUE",
+    "title_complement": "faites en vue des applications physiologiques et médicales",
+    "volume_number": "PREMIÈRE PARTIE",
+    "authors": "E. Millon",
+    "publisher": "L. DANEL",
+    "publication_place": "LILLE",
+    "date": "1819",
+    "identifier": "http://gallica.bnf.fr/ark:/12148/bpt6k83734k",
+    "iiif_manifest": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k83734k/manifest.json"
+  },
+  "ark": "bpt6k83734k",
+  "typographie": {
+    "category": "Serif/Roman",
+    "subtype": "Modern (Didone)"
+  },
+  "_annotations": {
+    "metadata.title": {
+      "readability": "Readable"
+    },
+    "metadata.title_complement": {
+      "readability": "Readable"
+    },
+    "metadata.volume_number": {
+      "readability": "Readable"
+    },
+    "metadata.authors": {
+      "readability": "Readable",
+      "correction": "E. Millon"
+    },
+    "metadata.publisher": {
+      "readability": "Readable",
+      "correction": "L. Danel"
+    },
+    "metadata.publication_place": {
+      "readability": "Readable",
+      "correction": "Lille"
+    },
+    "metadata.date": {
+      "readability": "Readable",
+      "correction": "1819"
+    },
+    "language": {
+      "readability": "Readable"
+    },
+    "metadata.identifier": {
+      "readability": "Readable"
+    },
+    "metadata.iiif_manifest": {
+      "readability": "Readable"
+    },
+    "ark": {
+      "readability": "Readable"
+    }
+  },
+  "language": "fr (French)"
+}

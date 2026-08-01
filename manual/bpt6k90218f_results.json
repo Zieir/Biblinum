@@ -1,0 +1,61 @@
+{
+  "metadata": {
+    "title": "C. G. J. Jacobi's gesammelte Werke",
+    "title_complement": "HERAUSGEGEBEN AUS DER VERANLASSUNG DER KÖNIGLICH PREUSSISCHEN AKADEMIE DER WISSENSCHAFTEN",
+    "volume_number": "FÜNFTER BAND",
+    "authors": "C. G. J. JACOBI; K. WEIERSTRASS",
+    "publisher": "GEORG REIMER",
+    "publication_place": "BERLIN",
+    "date": "1890",
+    "identifier": "http://gallica.bnf.fr/ark:/12148/bpt6k90218f",
+    "iiif_manifest": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k90218f/manifest.json"
+  },
+  "ark": "bpt6k90218f",
+  "typographie": {
+    "category": "Serif/Roman",
+    "subtype": "Didone (Modern)"
+  },
+  "_annotations": {
+    "metadata.title": {
+      "readability": "Readable",
+      "correction": "C. G. J. Jacobi's gesammelte Werke"
+    },
+    "metadata.title_complement": {
+      "readability": "Not readable",
+      "cause": "absent"
+    },
+    "metadata.volume_number": {
+      "readability": "Readable"
+    },
+    "metadata.authors": {
+      "readability": "Readable",
+      "correction": "C. G. J. JACOBI; K. WEIERSTRASS"
+    },
+    "metadata.publisher": {
+      "readability": "Not readable",
+      "cause": "absent"
+    },
+    "metadata.publication_place": {
+      "readability": "Readable",
+      "correction": "BERLIN"
+    },
+    "metadata.date": {
+      "readability": "Readable",
+      "correction": "1890"
+    },
+    "language": {
+      "readability": "Readable",
+      "correction": "de (German)"
+    },
+    "metadata.identifier": {
+      "readability": "Readable"
+    },
+    "metadata.iiif_manifest": {
+      "readability": "Readable"
+    },
+    "ark": {
+      "readability": "Readable"
+    }
+  },
+  "language": "de (German)"
+}

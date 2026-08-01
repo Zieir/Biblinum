@@ -1,0 +1,58 @@
+{
+  "metadata": {
+    "title": "Einführung in das Studium der Chemie",
+    "title_complement": "nach Vorlesungen gehalten am naturwissenschaftlichen Institut in Florenz von Prof. Hugo Schiff",
+    "volume_number": "",
+    "authors": "Hugo Schiff",
+    "publisher": "THEOBALD GRIEBEN",
+    "publication_place": "BERLIN",
+    "date": "1876",
+    "identifier": "http://gallica.bnf.fr/ark:/12148/bpt6k90102s",
+    "iiif_manifest": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k90102s/manifest.json"
+  },
+  "ark": "bpt6k90102s",
+  "typographie": {
+    "category": "Blackletter",
+    "subtype": "Fraktur"
+  },
+  "_annotations": {
+    "metadata.title": {
+      "readability": "Readable"
+    },
+    "metadata.title_complement": {
+      "readability": "Readable",
+      "correction": "nach Vorlesungen gehalten am naturwissenschaftlichen Institut in Florenz von Prof. Hugo Schiff"
+    },
+    "metadata.volume_number": {
+      "readability": "Not readable",
+      "cause": "absent"
+    },
+    "metadata.authors": {
+      "readability": "Readable",
+      "correction": "Hugo Schiff"
+    },
+    "metadata.publisher": {
+      "readability": "Readable"
+    },
+    "metadata.publication_place": {
+      "readability": "Readable"
+    },
+    "metadata.date": {
+      "readability": "Readable"
+    },
+    "language": {
+      "readability": "Readable"
+    },
+    "_note": "C'est aussi le 10 eme volume de Wssenchaftund Literatur",
+    "metadata.identifier": {
+      "readability": "Readable"
+    },
+    "metadata.iiif_manifest": {
+      "readability": "Readable"
+    },
+    "ark": {
+      "readability": "Readable"
+    }
+  },
+  "language": "de (German)"
+}

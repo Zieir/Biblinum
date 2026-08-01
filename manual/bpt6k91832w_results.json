@@ -1,0 +1,58 @@
+{
+  "metadata": {
+    "title": "VÉRIFICATION EXPÉRIMENTALE DE LA RÉCIPROQUE DE LA LOI DE FARADAY SUR LA DÉCOMPOSITION DES ÉLECTROLYTES.PROPOSITIONS DE CHIMIE DONNÉES PAR LA FACULTÉ",
+    "title_complement": "thèses présentées à la Faculté des sciences de Paris pour obtenir le grade de docteur ès sciences soutenu en mai 1867 devant la commission d'examen",
+    "volume_number": "",
+    "authors": "Bernard RENAULT",
+    "publisher": "GAUTHIER-VILLARS, IMPRIMEUR-LIBRAIRE",
+    "publication_place": "PARIS",
+    "date": "1867",
+    "identifier": "http://gallica.bnf.fr/ark:/12148/bpt6k91832w",
+    "iiif_manifest": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k91832w/manifest.json"
+  },
+  "ark": "bpt6k91832w",
+  "typographie": {
+    "category": "Script",
+    "subtype": "Cursive"
+  },
+  "_annotations": {
+    "metadata.title": {
+      "readability": "Readable",
+      "correction": "VÉRIFICATION EXPÉRIMENTALE DE LA RÉCIPROQUE DE LA LOI DE FARADAY SUR LA DÉCOMPOSITION DES ÉLECTROLYTES.PROPOSITIONS DE CHIMIE DONNÉES PAR LA FACULTÉ"
+    },
+    "metadata.title_complement": {
+      "readability": "Readable",
+      "correction": "thèses présentées à la Faculté des sciences de Paris pour obtenir le grade de docteur ès sciences soutenu en mai 1867 devant la commission d'examen"
+    },
+    "metadata.volume_number": {
+      "readability": "Not readable",
+      "cause": "absent"
+    },
+    "metadata.authors": {
+      "readability": "Readable",
+      "correction": "Bernard RENAULT"
+    },
+    "metadata.publisher": {
+      "readability": "Readable"
+    },
+    "metadata.publication_place": {
+      "readability": "Readable"
+    },
+    "metadata.date": {
+      "readability": "Readable"
+    },
+    "language": {
+      "readability": "Readable"
+    },
+    "metadata.identifier": {
+      "readability": "Readable"
+    },
+    "metadata.iiif_manifest": {
+      "readability": "Readable"
+    },
+    "ark": {
+      "readability": "Readable"
+    }
+  },
+  "language": "fr (French)"
+}

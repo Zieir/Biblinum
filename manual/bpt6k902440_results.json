@@ -1,0 +1,59 @@
+{
+  "metadata": {
+    "title": "LEÇONS ÉLÉMENTAIRES DE CHIMIE",
+    "title_complement": "",
+    "volume_number": "DEUXIÈME PARTIE",
+    "authors": "F. MALAGUTI",
+    "publisher": "DEZOBRY, E. MAGDELEINE ET Cº, LIB.-ÉDITEURS",
+    "publication_place": "PARIS",
+    "date": "",
+    "identifier": "http://gallica.bnf.fr/ark:/12148/bpt6k902440",
+    "iiif_manifest": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k902440/manifest.json"
+  },
+  "ark": "bpt6k902440",
+  "typographie": {
+    "category": "Serif/Roman",
+    "subtype": "Didone (Modern)"
+  },
+  "_annotations": {
+    "metadata.title": {
+      "readability": "Readable",
+      "correction": "LEÇONS ÉLÉMENTAIRES DE CHIMIE"
+    },
+    "metadata.title_complement": {
+      "readability": "Not readable",
+      "cause": "absent",
+      "correction": ""
+    },
+    "metadata.volume_number": {
+      "readability": "Readable"
+    },
+    "metadata.authors": {
+      "readability": "Readable",
+      "correction": "F. MALAGUTI"
+    },
+    "metadata.publisher": {
+      "readability": "Readable"
+    },
+    "metadata.publication_place": {
+      "readability": "Readable"
+    },
+    "metadata.date": {
+      "readability": "Not readable",
+      "cause": "absent"
+    },
+    "language": {
+      "readability": "Readable"
+    },
+    "metadata.identifier": {
+      "readability": "Readable"
+    },
+    "metadata.iiif_manifest": {
+      "readability": "Readable"
+    },
+    "ark": {
+      "readability": "Readable"
+    }
+  },
+  "language": "fr (French)"
+}

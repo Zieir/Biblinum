@@ -1,0 +1,55 @@
+{
+  "metadata": {
+    "title": "ÉTUDE GÉNÉRALE DES SELS",
+    "title_complement": "SELS TERNAIRES OXYGÉNÉS",
+    "volume_number": "DEUXIÈME PARTIE",
+    "authors": "ALFRED DITTE",
+    "publisher": "H. DUNOD ET E. PINAT",
+    "publication_place": "PARIS",
+    "date": "1906",
+    "identifier": "http://gallica.bnf.fr/ark:/12148/bpt6k90616v",
+    "iiif_manifest": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k90616v/manifest.json"
+  },
+  "ark": "bpt6k90616v",
+  "typographie": {
+    "category": "Serif/Roman",
+    "subtype": "Slab Serif (Egyptian)"
+  },
+  "_annotations": {
+    "metadata.title": {
+      "readability": "Readable"
+    },
+    "metadata.title_complement": {
+      "readability": "Readable"
+    },
+    "metadata.volume_number": {
+      "readability": "Readable"
+    },
+    "metadata.authors": {
+      "readability": "Readable",
+      "correction": "ALFRED DITTE"
+    },
+    "metadata.publisher": {
+      "readability": "Readable"
+    },
+    "metadata.publication_place": {
+      "readability": "Readable"
+    },
+    "metadata.date": {
+      "readability": "Readable"
+    },
+    "language": {
+      "readability": "Readable"
+    },
+    "metadata.identifier": {
+      "readability": "Readable"
+    },
+    "metadata.iiif_manifest": {
+      "readability": "Readable"
+    },
+    "ark": {
+      "readability": "Readable"
+    }
+  },
+  "language": "fr (French)"
+}

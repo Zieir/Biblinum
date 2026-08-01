@@ -1,0 +1,60 @@
+{
+  "metadata": {
+    "title": "ÉTUDE SUR LES QUINQUINAS",
+    "title_complement": "",
+    "volume_number": "",
+    "authors": "PIERRE-PAULIN CARLES",
+    "publisher": "CH. MARÈCHAL",
+    "publication_place": "PARIS",
+    "date": "1871",
+    "identifier": "http://gallica.bnf.fr/ark:/12148/bpt6k917229",
+    "iiif_manifest": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k917229/manifest.json"
+  },
+  "ark": "bpt6k917229",
+  "typographie": {
+    "category": "Serif/Roman",
+    "subtype": "Didone (Modern)"
+  },
+  "_annotations": {
+    "metadata.title": {
+      "readability": "Readable"
+    },
+    "metadata.title_complement": {
+      "readability": "Not readable",
+      "cause": "absent"
+    },
+    "metadata.volume_number": {
+      "readability": "Not readable",
+      "cause": "absent"
+    },
+    "metadata.authors": {
+      "readability": "Readable",
+      "correction": "PIERRE-PAULIN CARLES"
+    },
+    "metadata.publisher": {
+      "readability": "Readable",
+      "correction": "CH. MARÈCHAL"
+    },
+    "metadata.publication_place": {
+      "readability": "Readable",
+      "correction": "PARIS"
+    },
+    "metadata.date": {
+      "readability": "Readable",
+      "correction": "1871"
+    },
+    "language": {
+      "readability": "Readable"
+    },
+    "metadata.identifier": {
+      "readability": "Readable"
+    },
+    "metadata.iiif_manifest": {
+      "readability": "Readable"
+    },
+    "ark": {
+      "readability": "Readable"
+    }
+  },
+  "language": "fr (French)"
+}

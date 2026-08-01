@@ -1,0 +1,55 @@
+{
+  "metadata": {
+    "title": "APUNTES DE QUÍMICA",
+    "title_complement": "QUÍMICA ORGÁNICA : INTRODUCCION Y SÉRIE GRASA",
+    "volume_number": "SEGUNDA PARTE",
+    "authors": "Pedro N. ARATA",
+    "publisher": "TALLERES DE PUBLICACIONES DEL MUSEO",
+    "publication_place": "LA PLATA",
+    "date": "1893",
+    "identifier": "http://gallica.bnf.fr/ark:/12148/bpt6k90165p",
+    "iiif_manifest": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k90165p/manifest.json"
+  },
+  "ark": "bpt6k90165p",
+  "typographie": {
+    "category": "Serif/Roman",
+    "subtype": "Didone (Modern)"
+  },
+  "_annotations": {
+    "metadata.title": {
+      "readability": "Readable"
+    },
+    "metadata.title_complement": {
+      "readability": "Readable"
+    },
+    "metadata.volume_number": {
+      "readability": "Readable"
+    },
+    "metadata.authors": {
+      "readability": "Readable",
+      "correction": "Pedro N. ARATA"
+    },
+    "metadata.publisher": {
+      "readability": "Readable"
+    },
+    "metadata.publication_place": {
+      "readability": "Readable"
+    },
+    "metadata.date": {
+      "readability": "Readable"
+    },
+    "language": {
+      "readability": "Readable"
+    },
+    "metadata.identifier": {
+      "readability": "Readable"
+    },
+    "metadata.iiif_manifest": {
+      "readability": "Readable"
+    },
+    "ark": {
+      "readability": "Readable"
+    }
+  },
+  "language": "es (Spanish)"
+}

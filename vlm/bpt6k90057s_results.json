@@ -1,0 +1,15 @@
+{
+    "processing_time_seconds": 3.56,
+    "metadata": {
+        "title": "LEÇON DE CHIMIE",
+        "title_complement": "PROFÉRÉES A L'ÉCOLE SUPÉRIEURE DE PHARMACIE DE PARIS ET A SAINTE-BARBE",
+        "volume_number": "TOME SECOND",
+        "authors": "RICHE, Alfred",
+        "publisher": "LIBRAIRIE DE FIRMIN DIDOT FRÈRES, FILS ET Cie",
+        "publication_place": "PARIS",
+        "date": "1865",
+        "identifier": "http://gallica.bnf.fr/ark:/12148/bpt6k90057s",
+        "iiif_manifest": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k90057s/manifest.json"
+    },
+    "ark": "bpt6k90057s"
+}

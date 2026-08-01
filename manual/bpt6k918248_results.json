@@ -1,0 +1,58 @@
+{
+  "metadata": {
+    "title": "CONTRIBUTION A L'ÉTUDE DU PHÉNOMÈNE DE LA COAGULATION DU SANG. PROPOSITION DONNÉES PAR LA FACULTÉ",
+    "title_complement": "thèses présentées à la Faculté des sciences de l'Université de Lyon pour obtenir le grade de docteur ès sciences de l'université",
+    "volume_number": "",
+    "authors": "J.-Marius MARCHAND",
+    "publisher": "M. COHENDET",
+    "publication_place": "LYON",
+    "date": "1909",
+    "identifier": "http://gallica.bnf.fr/ark:/12148/bpt6k918248",
+    "iiif_manifest": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k918248/manifest.json"
+  },
+  "ark": "bpt6k918248",
+  "typographie": {
+    "category": "Serif/Roman",
+    "subtype": "Didone (Modern)"
+  },
+  "_annotations": {
+    "metadata.title": {
+      "readability": "Readable",
+      "correction": "CONTRIBUTION A L'ÉTUDE DU PHÉNOMÈNE DE LA COAGULATION DU SANG. PROPOSITION DONNÉES PAR LA FACULTÉ"
+    },
+    "metadata.title_complement": {
+      "readability": "Readable",
+      "correction": "thèses présentées à la Faculté des sciences de l'Université de Lyon pour obtenir le grade de docteur ès sciences de l'université"
+    },
+    "metadata.volume_number": {
+      "readability": "Not readable",
+      "cause": "absent"
+    },
+    "metadata.authors": {
+      "readability": "Readable",
+      "correction": "J.-Marius MARCHAND"
+    },
+    "metadata.publisher": {
+      "readability": "Readable"
+    },
+    "metadata.publication_place": {
+      "readability": "Readable"
+    },
+    "metadata.date": {
+      "readability": "Readable"
+    },
+    "language": {
+      "readability": "Readable"
+    },
+    "metadata.identifier": {
+      "readability": "Readable"
+    },
+    "metadata.iiif_manifest": {
+      "readability": "Readable"
+    },
+    "ark": {
+      "readability": "Readable"
+    }
+  },
+  "language": "fr (French)"
+}

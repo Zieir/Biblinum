@@ -1,0 +1,60 @@
+{
+  "metadata": {
+    "title": "TRAITÉ DE CHIMIE MINÉRALE",
+    "title_complement": "",
+    "volume_number": "TOME PREMIER",
+    "authors": "H. ERDMANN",
+    "publisher": "A. HERMANN ET FILS",
+    "publication_place": "PARIS",
+    "date": "1912",
+    "identifier": "http://gallica.bnf.fr/ark:/12148/bpt6k90421w",
+    "iiif_manifest": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k90421w/manifest.json"
+  },
+  "ark": "bpt6k90421w",
+  "typographie": {
+    "category": "Serif/Roman",
+    "subtype": "Slab Serif (Egyptian)"
+  },
+  "_annotations": {
+    "metadata.title": {
+      "readability": "Readable"
+    },
+    "metadata.title_complement": {
+      "readability": "Not readable",
+      "cause": "absent"
+    },
+    "metadata.volume_number": {
+      "readability": "Readable",
+      "correction": "TOME PREMIER"
+    },
+    "metadata.authors": {
+      "readability": "Readable",
+      "correction": "H. ERDMANN"
+    },
+    "metadata.publisher": {
+      "readability": "Readable",
+      "correction": "A. Hermann et fils"
+    },
+    "metadata.publication_place": {
+      "readability": "Readable",
+      "correction": "PARIS"
+    },
+    "metadata.date": {
+      "readability": "Readable",
+      "correction": "1912"
+    },
+    "language": {
+      "readability": "Readable"
+    },
+    "metadata.identifier": {
+      "readability": "Readable"
+    },
+    "metadata.iiif_manifest": {
+      "readability": "Readable"
+    },
+    "ark": {
+      "readability": "Readable"
+    }
+  },
+  "language": "fr (French)"
+}

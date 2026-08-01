@@ -1,0 +1,61 @@
+{
+  "metadata": {
+    "title": "ABRÉGÉ ÉLÉMENTAIRE DE CHIMIE",
+    "title_complement": "considérée comme science accessoire à l'étude de la médecine, de la pharmacie et de l'histoire naturelle",
+    "volume_number": "PREMIÈRE PARTIE",
+    "authors": "J.-L. Lassaigne",
+    "publisher": "BÉCHET JEUNE",
+    "publication_place": "PARIS; BRUXELLES",
+    "date": "1829",
+    "identifier": "http://gallica.bnf.fr/ark:/12148/bpt6k90525j",
+    "iiif_manifest": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k90525j/manifest.json"
+  },
+  "ark": "bpt6k90525j",
+  "typographie": {
+    "category": "Serif/Roman",
+    "subtype": "Didone (Modern)"
+  },
+  "_annotations": {
+    "metadata.title": {
+      "readability": "Readable",
+      "correction": "ABRÉGÉ ÉLÉMENTAIRE DE CHIMIE"
+    },
+    "metadata.title_complement": {
+      "readability": "Readable",
+      "correction": "considérée comme science accessoire à l'étude de la médecine, de la pharmacie et de l'histoire naturelle"
+    },
+    "metadata.volume_number": {
+      "readability": "Readable",
+      "correction": "PREMIÈRE PARTIE"
+    },
+    "metadata.authors": {
+      "readability": "Readable",
+      "correction": "J.-L. Lassaigne"
+    },
+    "metadata.publisher": {
+      "readability": "Readable",
+      "correction": "Béchet jeune"
+    },
+    "metadata.publication_place": {
+      "readability": "Readable",
+      "correction": "PARIS; BRUXELLES"
+    },
+    "metadata.date": {
+      "readability": "Readable",
+      "correction": "1829"
+    },
+    "language": {
+      "readability": "Readable"
+    },
+    "metadata.identifier": {
+      "readability": "Readable"
+    },
+    "metadata.iiif_manifest": {
+      "readability": "Readable"
+    },
+    "ark": {
+      "readability": "Readable"
+    }
+  },
+  "language": "fr (French)"
+}

@@ -1,0 +1,57 @@
+{
+  "metadata": {
+    "title": "DIE CHEMIE DER JETZTZEIT VOM STANDPUNKTE DER ELECTROCHEMISCHEN AUFFASSUNG",
+    "title_complement": "AUS BERZELIUS LEHRE ENTWICKELT",
+    "volume_number": "",
+    "authors": "C. W. Blomstrand",
+    "publisher": "CARL WINTER'S UNIVERSITÄTSBUCHHANDLUNG",
+    "publication_place": "HEIDELBERG",
+    "date": "1869",
+    "identifier": "http://gallica.bnf.fr/ark:/12148/bpt6k90591b",
+    "iiif_manifest": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k90591b/manifest.json"
+  },
+  "ark": "bpt6k90591b",
+  "typographie": {
+    "category": "Serif/Roman",
+    "subtype": "Slab Serif (Egyptian)"
+  },
+  "_annotations": {
+    "metadata.title": {
+      "readability": "Readable",
+      "correction": "DIE CHEMIE DER JETZTZEIT VOM STANDPUNKTE DER ELECTROCHEMISCHEN AUFFASSUNG"
+    },
+    "metadata.title_complement": {
+      "readability": "Readable",
+      "correction": "AUS BERZELIUS LEHRE ENTWICKELT"
+    },
+    "metadata.volume_number": {
+      "readability": "Not readable",
+      "cause": "absent"
+    },
+    "metadata.authors": {
+      "readability": "Readable"
+    },
+    "metadata.publisher": {
+      "readability": "Readable"
+    },
+    "metadata.publication_place": {
+      "readability": "Readable"
+    },
+    "metadata.date": {
+      "readability": "Readable"
+    },
+    "language": {
+      "readability": "Readable"
+    },
+    "metadata.identifier": {
+      "readability": "Readable"
+    },
+    "metadata.iiif_manifest": {
+      "readability": "Readable"
+    },
+    "ark": {
+      "readability": "Readable"
+    }
+  },
+  "language": "de (German)"
+}

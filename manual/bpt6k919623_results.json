@@ -1,0 +1,60 @@
+{
+  "metadata": {
+    "title": "MANUEL DE TOXICOLOGIE",
+    "title_complement": "",
+    "volume_number": "",
+    "authors": "Dragendorff",
+    "publisher": "F. SAVY",
+    "publication_place": "PARIS",
+    "date": "1873",
+    "identifier": "http://gallica.bnf.fr/ark:/12148/bpt6k919623",
+    "iiif_manifest": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k919623/manifest.json"
+  },
+  "ark": "bpt6k919623",
+  "typographie": {
+    "category": "Serif/Roman",
+    "subtype": "Modern (Didone)"
+  },
+  "_annotations": {
+    "metadata.title": {
+      "readability": "Readable"
+    },
+    "metadata.title_complement": {
+      "readability": "Not readable",
+      "cause": "absent"
+    },
+    "metadata.volume_number": {
+      "readability": "Not readable",
+      "cause": "absent"
+    },
+    "metadata.authors": {
+      "readability": "Readable",
+      "correction": "Dragendorff"
+    },
+    "metadata.publisher": {
+      "readability": "Readable",
+      "correction": "F. SAVY"
+    },
+    "metadata.publication_place": {
+      "readability": "Readable",
+      "correction": "PARIS"
+    },
+    "metadata.date": {
+      "readability": "Readable",
+      "correction": "1873"
+    },
+    "language": {
+      "readability": "Readable"
+    },
+    "metadata.identifier": {
+      "readability": "Readable"
+    },
+    "metadata.iiif_manifest": {
+      "readability": "Readable"
+    },
+    "ark": {
+      "readability": "Readable"
+    }
+  },
+  "language": "fr (French)"
+}

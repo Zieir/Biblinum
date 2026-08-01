@@ -1,0 +1,59 @@
+{
+  "metadata": {
+    "title": "LES THÉORIES PHYSICO-CHIMIQUES",
+    "title_complement": "",
+    "volume_number": "",
+    "authors": "A. REYCHLER",
+    "publisher": "HENRI LAMERTIN, LIBRAIRE-ÉDITEUR",
+    "publication_place": "BRUXELLES",
+    "date": "1897",
+    "identifier": "http://gallica.bnf.fr/ark:/12148/bpt6k90045s",
+    "iiif_manifest": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k90045s/manifest.json"
+  },
+  "ark": "bpt6k90045s",
+  "typographie": {
+    "category": "Serif/Roman",
+    "subtype": "Didone (Modern)"
+  },
+  "_annotations": {
+    "metadata.title": {
+      "readability": "Readable",
+      "correction": "LES THÉORIES PHYSICO-CHIMIQUES"
+    },
+    "metadata.title_complement": {
+      "readability": "Not readable",
+      "cause": "absent",
+      "correction": ""
+    },
+    "metadata.volume_number": {
+      "readability": "Not readable",
+      "cause": "absent"
+    },
+    "metadata.authors": {
+      "readability": "Readable",
+      "correction": "A. REYCHLER"
+    },
+    "metadata.publisher": {
+      "readability": "Readable"
+    },
+    "metadata.publication_place": {
+      "readability": "Readable"
+    },
+    "metadata.date": {
+      "readability": "Readable"
+    },
+    "language": {
+      "readability": "Readable"
+    },
+    "metadata.identifier": {
+      "readability": "Readable"
+    },
+    "metadata.iiif_manifest": {
+      "readability": "Readable"
+    },
+    "ark": {
+      "readability": "Readable"
+    }
+  },
+  "language": "fr (French)"
+}

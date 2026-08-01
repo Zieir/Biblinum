@@ -1,0 +1,15 @@
+{
+    "processing_time_seconds": 2.94,
+    "metadata": {
+        "title": "PHARMACOPEE UNIVERSELLE",
+        "title_complement": "CONTENANT TOUTES LES COMPOSITIONS DE PHARMACIE qui'funt en usage dans la Médecine, tant en France que par toute l'Europe",
+        "volume_number": "TOME SE COND",
+        "authors": "LEMERY, Nicolas",
+        "publisher": "DE SAINT & SAILLANT ; JEAN-THOMAS HÉRISSANT ; NYON ; SAVOYE ; DHOURY ; DIDOT",
+        "publication_place": "PARIS",
+        "date": "1764",
+        "identifier": "http://gallica.bnf.fr/ark:/12148/bpt6k91862t",
+        "iiif_manifest": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k91862t/manifest.json"
+    },
+    "ark": "bpt6k91862t"
+}

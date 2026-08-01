@@ -1,0 +1,60 @@
+{
+  "metadata": {
+    "title": "PHARMACOPÉE RAISONNÉE",
+    "title_complement": "ou TRAITÉ DE PHARMACIE PRATIQUE ET THÉORIQUE",
+    "volume_number": "",
+    "authors": "N.-E. HENRY; G. GUIBOURT",
+    "publisher": "J.-S. CHAUDÉ",
+    "publication_place": "PARIS",
+    "date": "1834",
+    "identifier": "http://gallica.bnf.fr/ark:/12148/bpt6k91818b",
+    "iiif_manifest": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k91818b/manifest.json"
+  },
+  "ark": "bpt6k91818b",
+  "typographie": {
+    "category": "Serif/Roman",
+    "subtype": "Didone (Modern)"
+  },
+  "_annotations": {
+    "metadata.title": {
+      "readability": "Readable",
+      "correction": "PHARMACOPÉE RAISONNÉE"
+    },
+    "metadata.title_complement": {
+      "readability": "Readable",
+      "correction": "ou TRAITÉ DE PHARMACIE PRATIQUE ET THÉORIQUE"
+    },
+    "metadata.volume_number": {
+      "readability": "Not readable",
+      "cause": "absent"
+    },
+    "metadata.authors": {
+      "readability": "Readable",
+      "correction": "N.-E. HENRY; G. GUIBOURT"
+    },
+    "metadata.publisher": {
+      "readability": "Readable",
+      "correction": "J.-S. Chaudé"
+    },
+    "metadata.publication_place": {
+      "readability": "Readable"
+    },
+    "metadata.date": {
+      "readability": "Readable",
+      "correction": "1834"
+    },
+    "language": {
+      "readability": "Readable"
+    },
+    "metadata.identifier": {
+      "readability": "Readable"
+    },
+    "metadata.iiif_manifest": {
+      "readability": "Readable"
+    },
+    "ark": {
+      "readability": "Readable"
+    }
+  },
+  "language": "fr (French)"
+}

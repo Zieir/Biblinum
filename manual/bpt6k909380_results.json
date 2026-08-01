@@ -1,0 +1,57 @@
+{
+  "metadata": {
+    "title": "ROSCOE-SCHORLEMMER'S LEHRBUCH DER ORGANISCHEN CHEMIE",
+    "title_complement": "",
+    "volume_number": "VIERTER THEIL",
+    "authors": "JUL. WILH. BRÜHL; EDVARD HJELT; OSSIAN ASCHAN",
+    "publisher": "FRIEDRICH VIEWEG UND SOHN",
+    "publication_place": "BRAUNSCHWEIG",
+    "date": "1898",
+    "identifier": "http://gallica.bnf.fr/ark:/12148/bpt6k909380",
+    "iiif_manifest": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k909380/manifest.json"
+  },
+  "ark": "bpt6k909380",
+  "typographie": {
+    "category": "Serif/Roman",
+    "subtype": "Didone (Modern)"
+  },
+  "_annotations": {
+    "metadata.title": {
+      "readability": "Readable",
+      "correction": "ROSCOE-SCHORLEMMER'S LEHRBUCH DER ORGANISCHEN CHEMIE"
+    },
+    "metadata.title_complement": {
+      "readability": "Not readable",
+      "cause": "absent"
+    },
+    "metadata.volume_number": {
+      "readability": "Readable"
+    },
+    "metadata.authors": {
+      "readability": "Readable",
+      "correction": "JUL. WILH. BRÜHL; EDVARD HJELT; OSSIAN ASCHAN"
+    },
+    "metadata.publisher": {
+      "readability": "Readable"
+    },
+    "metadata.publication_place": {
+      "readability": "Readable"
+    },
+    "metadata.date": {
+      "readability": "Readable"
+    },
+    "language": {
+      "readability": "Readable"
+    },
+    "metadata.identifier": {
+      "readability": "Readable"
+    },
+    "metadata.iiif_manifest": {
+      "readability": "Readable"
+    },
+    "ark": {
+      "readability": "Readable"
+    }
+  },
+  "language": "de (German)"
+}

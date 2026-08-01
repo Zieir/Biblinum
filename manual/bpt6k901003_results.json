@@ -1,0 +1,65 @@
+{
+  "metadata": {
+    "title": "ÉLÉMENTS DE CHIMIE ORGANIQUE OU SYNTHÉTIQUE",
+    "title_complement": "OU SYNTHÉTIQUE",
+    "volume_number": "2e partie",
+    "authors": "Sacc",
+    "publisher": "EUGÈNE LACROIX",
+    "publication_place": "",
+    "date": "",
+    "identifier": "http://gallica.bnf.fr/ark:/12148/bpt6k901003",
+    "iiif_manifest": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k901003/manifest.json"
+  },
+  "ark": "bpt6k901003",
+  "typographie": {
+    "category": "Serif/Roman",
+    "subtype": "Didone (Modern)"
+  },
+  "_annotations": {
+    "metadata.title": {
+      "readability": "Readable",
+      "correction": "ÉLÉMENTS DE CHIMIE ORGANIQUE OU SYNTHÉTIQUE"
+    },
+    "metadata.title_complement": {
+      "readability": "Not readable",
+      "cause": "absent"
+    },
+    "metadata.volume_number": {
+      "readability": "Not readable",
+      "cause": "quality",
+      "correction": "2e partie"
+    },
+    "metadata.authors": {
+      "readability": "Not readable",
+      "cause": "quality",
+      "correction": "Sacc"
+    },
+    "metadata.publisher": {
+      "readability": "Not readable",
+      "cause": "quality",
+      "correction": "Eugène LACROIX"
+    },
+    "metadata.publication_place": {
+      "readability": "Not readable",
+      "cause": "quality"
+    },
+    "metadata.date": {
+      "readability": "Not readable",
+      "cause": "absent"
+    },
+    "language": {
+      "readability": "Readable"
+    },
+    "_note": "Adresse : 44, rue des Saints-Pères - Pas de ville mentionnée",
+    "metadata.identifier": {
+      "readability": "Readable"
+    },
+    "metadata.iiif_manifest": {
+      "readability": "Readable"
+    },
+    "ark": {
+      "readability": "Readable"
+    }
+  },
+  "language": "fr (French)"
+}

@@ -1,0 +1,60 @@
+{
+  "metadata": {
+    "title": "TRAITÉ DE CHIMIE TECHNIQUE",
+    "title_complement": "appliquée aux arts et à l'industrie, à la pharmacie et à l'agriculture",
+    "volume_number": "TOME PREMIER",
+    "authors": "G. BARRUEL",
+    "publisher": "FIRMIN DIDOT FRÈRES, FILS ET CIE",
+    "publication_place": "PARIS",
+    "date": "1856",
+    "identifier": "http://gallica.bnf.fr/ark:/12148/bpt6k90361v",
+    "iiif_manifest": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k90361v/manifest.json"
+  },
+  "ark": "bpt6k90361v",
+  "typographie": {
+    "category": "Serif/Roman",
+    "subtype": "Didone (Modern)"
+  },
+  "_annotations": {
+    "metadata.title": {
+      "readability": "Readable"
+    },
+    "metadata.title_complement": {
+      "readability": "Readable",
+      "correction": "appliquée aux arts et à l'industrie, à la pharmacie et à l'agriculture"
+    },
+    "metadata.volume_number": {
+      "readability": "Readable",
+      "correction": "TOME PREMIER"
+    },
+    "metadata.authors": {
+      "readability": "Readable",
+      "correction": "G. BARRUEL"
+    },
+    "metadata.publisher": {
+      "readability": "Readable",
+      "correction": "FIRMIN DIDOT FRÈRES, FILS ET Cie"
+    },
+    "metadata.publication_place": {
+      "readability": "Readable",
+      "correction": "PARIS"
+    },
+    "metadata.date": {
+      "readability": "Readable",
+      "correction": "1856"
+    },
+    "language": {
+      "readability": "Readable"
+    },
+    "metadata.identifier": {
+      "readability": "Readable"
+    },
+    "metadata.iiif_manifest": {
+      "readability": "Readable"
+    },
+    "ark": {
+      "readability": "Readable"
+    }
+  },
+  "language": "fr (French)"
+}

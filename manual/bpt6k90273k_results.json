@@ -1,0 +1,57 @@
+{
+  "metadata": {
+    "title": "PRÉCIS D'ANALYSE CHIMIQUE QUANTITATIVE",
+    "title_complement": "Ouvrage contenant la description des appareils et des opérations générales de l'analyse quantitative, les méthodes de dosage et de séparation des bases et des acides, l'analyse par les liqueurs titrées, l'analyse organique, l'analyse des gaz, l'analyse des eaux minérales, des cendres, des terres arables, l'exposition du calcul des analyses",
+    "volume_number": "",
+    "authors": "Ch. GERHARDT ; G. Chancel",
+    "publisher": "LIBRAIRIE DE VICTOR MASSON",
+    "publication_place": "PARIS",
+    "date": "1859",
+    "identifier": "http://gallica.bnf.fr/ark:/12148/bpt6k90273k",
+    "iiif_manifest": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k90273k/manifest.json"
+  },
+  "ark": "bpt6k90273k",
+  "typographie": {
+    "category": "Serif/Roman",
+    "subtype": "Didone (Modern)"
+  },
+  "_annotations": {
+    "metadata.title": {
+      "readability": "Readable"
+    },
+    "metadata.title_complement": {
+      "readability": "Readable",
+      "correction": "Ouvrage contenant la description des appareils et des opérations générales de l'analyse quantitative, les méthodes de dosage et de séparation des bases et des acides, l'analyse par les liqueurs titrées, l'analyse organique, l'analyse des gaz, l'analyse des eaux minérales, des cendres, des terres arables, l'exposition du calcul des analyses"
+    },
+    "metadata.volume_number": {
+      "readability": "Not readable",
+      "cause": "absent"
+    },
+    "metadata.authors": {
+      "readability": "Readable",
+      "correction": "Ch. GERHARDT ; G. Chancel"
+    },
+    "metadata.publisher": {
+      "readability": "Readable"
+    },
+    "metadata.publication_place": {
+      "readability": "Readable"
+    },
+    "metadata.date": {
+      "readability": "Readable"
+    },
+    "language": {
+      "readability": "Readable"
+    },
+    "metadata.identifier": {
+      "readability": "Readable"
+    },
+    "metadata.iiif_manifest": {
+      "readability": "Readable"
+    },
+    "ark": {
+      "readability": "Readable"
+    }
+  },
+  "language": "fr (French)"
+}

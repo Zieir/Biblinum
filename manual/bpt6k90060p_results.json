@@ -1,0 +1,61 @@
+{
+  "metadata": {
+    "title": "TRAITÉ DE CHIMIE ANATOMIQUE ET PHYSIOLOGIQUE NORMALE ET PATHOLOGIQUE",
+    "title_complement": ", ou Des principes immédiats normaux et morbides qui constituent le corps de l'homme et des mammifères",
+    "volume_number": "I",
+    "authors": "Charles ROBIN; F. Verdeil",
+    "publisher": "J.-B. BAILLIÈRE; H. BAILLIÈRE; H. BAILLIÈRE; C. BAILLY BAILLIÈRE",
+    "publication_place": "PARIS; LONDRES; NEW-YORK; MADRID",
+    "date": "1853",
+    "identifier": "http://gallica.bnf.fr/ark:/12148/bpt6k90060p",
+    "iiif_manifest": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k90060p/manifest.json"
+  },
+  "ark": "bpt6k90060p",
+  "typographie": {
+    "category": "Serif/Roman",
+    "subtype": "Didone (Modern)"
+  },
+  "_annotations": {
+    "metadata.title": {
+      "readability": "Readable",
+      "correction": "TRAITÉ DE CHIMIE ANATOMIQUE ET PHYSIOLOGIQUE NORMALE ET PATHOLOGIQUE"
+    },
+    "metadata.title_complement": {
+      "readability": "Readable",
+      "correction": ", ou Des principes immédiats normaux et morbides qui constituent le corps de l'homme et des mammifères"
+    },
+    "metadata.volume_number": {
+      "readability": "Readable"
+    },
+    "metadata.authors": {
+      "readability": "Readable",
+      "correction": "Charles ROBIN; F. Verdeil"
+    },
+    "metadata.publisher": {
+      "readability": "Not readable",
+      "cause": "absent",
+      "correction": "J.-B. Baillière; H. Baillière; H. Baillière; C. BAILLY Baillière "
+    },
+    "metadata.publication_place": {
+      "readability": "Readable",
+      "correction": "PARIS; LONDRES; NEW-YORK; MADRID"
+    },
+    "metadata.date": {
+      "readability": "Readable",
+      "correction": "1853"
+    },
+    "language": {
+      "readability": "Readable"
+    },
+    "metadata.identifier": {
+      "readability": "Readable"
+    },
+    "metadata.iiif_manifest": {
+      "readability": "Readable"
+    },
+    "ark": {
+      "readability": "Readable"
+    }
+  },
+  "language": "fr (French)"
+}

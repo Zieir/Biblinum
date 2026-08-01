@@ -1,0 +1,57 @@
+{
+  "metadata": {
+    "title": "PRÉCIS DE CHIMIE GÉNÉRALE ET DESCRIPTIVE ",
+    "title_complement": "EXPOSÉ AU POINT DE VUE DES DOCTRINES MODERNES",
+    "volume_number": "TOME TROISIÈME",
+    "authors": "TH. SWARTS",
+    "publisher": "LIBRAIRIE GÉNÉRALE DE AB. ROSTE, ÉDITEUR",
+    "publication_place": "GAND",
+    "date": "1888",
+    "identifier": "http://gallica.bnf.fr/ark:/12148/bpt6k900882",
+    "iiif_manifest": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k900882/manifest.json"
+  },
+  "ark": "bpt6k900882",
+  "typographie": {
+    "category": "Serif/Roman",
+    "subtype": "Didone (Modern)"
+  },
+  "_annotations": {
+    "metadata.title": {
+      "readability": "Readable",
+      "correction": "PRÉCIS DE CHIMIE GÉNÉRALE ET DESCRIPTIVE "
+    },
+    "metadata.title_complement": {
+      "readability": "Readable",
+      "correction": "EXPOSÉ AU POINT DE VUE DES DOCTRINES MODERNES"
+    },
+    "metadata.volume_number": {
+      "readability": "Readable"
+    },
+    "metadata.authors": {
+      "readability": "Readable",
+      "correction": "TH. SWARTS"
+    },
+    "metadata.publisher": {
+      "readability": "Readable"
+    },
+    "metadata.publication_place": {
+      "readability": "Readable"
+    },
+    "metadata.date": {
+      "readability": "Readable"
+    },
+    "language": {
+      "readability": "Readable"
+    },
+    "metadata.identifier": {
+      "readability": "Readable"
+    },
+    "metadata.iiif_manifest": {
+      "readability": "Readable"
+    },
+    "ark": {
+      "readability": "Readable"
+    }
+  },
+  "language": "fr (French)"
+}

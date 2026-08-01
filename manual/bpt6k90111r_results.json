@@ -1,0 +1,58 @@
+{
+  "metadata": {
+    "title": "BREV",
+    "title_complement": "BREVVAXLING MELLAN BERZELIUS OCH NILS NORDENSKIÖLD (1817—1847)",
+    "volume_number": "XI",
+    "authors": "Jac. Berzelius",
+    "publisher": "KUNGL. SVENSKA VETENSKAPSAKADEMIEN",
+    "publication_place": "",
+    "date": "",
+    "identifier": "http://gallica.bnf.fr/ark:/12148/bpt6k90111r",
+    "iiif_manifest": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k90111r/manifest.json"
+  },
+  "ark": "bpt6k90111r",
+  "typographie": {
+    "category": "Serif/Roman",
+    "subtype": "Didone (Modern)"
+  },
+  "_annotations": {
+    "metadata.title": {
+      "readability": "Readable",
+      "correction": "BREV"
+    },
+    "metadata.title_complement": {
+      "readability": "Readable"
+    },
+    "metadata.volume_number": {
+      "readability": "Readable"
+    },
+    "metadata.authors": {
+      "readability": "Readable",
+      "correction": "Jac. Berzelius"
+    },
+    "metadata.publisher": {
+      "readability": "Readable"
+    },
+    "metadata.publication_place": {
+      "readability": "Not readable",
+      "cause": "absent"
+    },
+    "metadata.date": {
+      "readability": "Not readable",
+      "cause": "absent"
+    },
+    "language": {
+      "readability": "Readable"
+    },
+    "metadata.identifier": {
+      "readability": "Readable"
+    },
+    "metadata.iiif_manifest": {
+      "readability": "Readable"
+    },
+    "ark": {
+      "readability": "Readable"
+    }
+  },
+  "language": "sv (Swedish)"
+}

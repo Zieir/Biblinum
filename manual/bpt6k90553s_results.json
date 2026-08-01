@@ -1,0 +1,57 @@
+{
+  "metadata": {
+    "title": "Lehrbuch der physiologischen Chemie mit Berücksichtigung der pathologischen Verhältnisse",
+    "title_complement": "Für Studierende und Aerzte",
+    "volume_number": "",
+    "authors": "Richard Neumeister",
+    "publisher": "GUSTAV FISCHER",
+    "publication_place": "JENA",
+    "date": "1897",
+    "identifier": "http://gallica.bnf.fr/ark:/12148/bpt6k90553s",
+    "iiif_manifest": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k90553s/manifest.json"
+  },
+  "ark": "bpt6k90553s",
+  "typographie": {
+    "category": "Serif/Roman",
+    "subtype": "Modern / Didone"
+  },
+  "_annotations": {
+    "metadata.title": {
+      "readability": "Readable",
+      "correction": "Lehrbuch der physiologischen Chemie mit Berücksichtigung der pathologischen Verhältnisse"
+    },
+    "metadata.title_complement": {
+      "readability": "Readable",
+      "correction": "Für Studierende und Aerzte"
+    },
+    "metadata.volume_number": {
+      "readability": "Not readable",
+      "cause": "absent"
+    },
+    "metadata.authors": {
+      "readability": "Readable"
+    },
+    "metadata.publisher": {
+      "readability": "Readable"
+    },
+    "metadata.publication_place": {
+      "readability": "Readable"
+    },
+    "metadata.date": {
+      "readability": "Readable"
+    },
+    "language": {
+      "readability": "Readable"
+    },
+    "metadata.identifier": {
+      "readability": "Readable"
+    },
+    "metadata.iiif_manifest": {
+      "readability": "Readable"
+    },
+    "ark": {
+      "readability": "Readable"
+    }
+  },
+  "language": "de (German)"
+}

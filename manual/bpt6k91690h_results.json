@@ -1,0 +1,60 @@
+{
+  "metadata": {
+    "title": "CHIMIE PHOTOGRAPHIQUE",
+    "title_complement": "Contenant les éléments de chimie expliqués par les manipulations photographiques. — Les procédés de photographie sur plaque, sur papiers sec ou humide, sur verres au collodion et à l'albumine. — La manière de préparer soi-même, d'employer tous les réactifs et d'utiliser les résidus. — Les recettes les plus nouvelles et les derniers perfectionnements. — La gravure et la lithophotographie.",
+    "volume_number": "",
+    "authors": "MM. Barreswil; Davanne",
+    "publisher": "MALLET-BACHELIER",
+    "publication_place": "PARIS",
+    "date": "",
+    "identifier": "http://gallica.bnf.fr/ark:/12148/bpt6k91690h",
+    "iiif_manifest": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k91690h/manifest.json"
+  },
+  "ark": "bpt6k91690h",
+  "typographie": {
+    "category": "Serif/Roman",
+    "subtype": "Didone (Modern)"
+  },
+  "_annotations": {
+    "metadata.title": {
+      "readability": "Readable"
+    },
+    "metadata.title_complement": {
+      "readability": "Readable",
+      "correction": "Contenant les éléments de chimie expliqués par les manipulations photographiques. — Les procédés de photographie sur plaque, sur papiers sec ou humide, sur verres au collodion et à l'albumine. — La manière de préparer soi-même, d'employer tous les réactifs et d'utiliser les résidus. — Les recettes les plus nouvelles et les derniers perfectionnements. — La gravure et la lithophotographie."
+    },
+    "metadata.volume_number": {
+      "readability": "Not readable",
+      "cause": "absent"
+    },
+    "metadata.authors": {
+      "readability": "Readable",
+      "correction": "MM. Barreswil; Davanne"
+    },
+    "metadata.publisher": {
+      "readability": "Readable",
+      "correction": "Mallet-Bachelier"
+    },
+    "metadata.publication_place": {
+      "readability": "Readable",
+      "correction": "PARIS"
+    },
+    "metadata.date": {
+      "readability": "Not readable",
+      "cause": "absent"
+    },
+    "language": {
+      "readability": "Readable"
+    },
+    "metadata.identifier": {
+      "readability": "Readable"
+    },
+    "metadata.iiif_manifest": {
+      "readability": "Readable"
+    },
+    "ark": {
+      "readability": "Readable"
+    }
+  },
+  "language": "fr (French)"
+}

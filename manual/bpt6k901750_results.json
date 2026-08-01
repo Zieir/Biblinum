@@ -1,0 +1,61 @@
+{
+  "metadata": {
+    "title": "E. MILLON SA VIE ET SES TRAVAUX DE CHIMIE",
+    "title_complement": "et ses études économiques et agricole sur l'Algérie ",
+    "volume_number": "",
+    "authors": "",
+    "publisher": "J.-B. BAILLIÈRE ET FILS; HIPP. BAILLIÈRE ; C.BAILLY-BAILLIÈRE",
+    "publication_place": "PARIS; LONDRES; MADRID",
+    "date": "1870",
+    "identifier": "http://gallica.bnf.fr/ark:/12148/bpt6k901750",
+    "iiif_manifest": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k901750/manifest.json"
+  },
+  "ark": "bpt6k901750",
+  "typographie": {
+    "category": "Serif/Roman",
+    "subtype": "Didone (Modern)"
+  },
+  "_annotations": {
+    "metadata.title": {
+      "readability": "Readable",
+      "correction": "E. MILLON SA VIE ET SES TRAVAUX DE CHIMIE"
+    },
+    "metadata.title_complement": {
+      "readability": "Readable",
+      "correction": "et ses études économiques et agricole sur l'Algérie "
+    },
+    "metadata.volume_number": {
+      "readability": "Not readable",
+      "cause": "absent"
+    },
+    "metadata.authors": {
+      "readability": "Not readable",
+      "cause": "absent"
+    },
+    "metadata.publisher": {
+      "readability": "Readable",
+      "correction": "J.-B. Baillière et fils; HIPP. Baillière ; C.BAILLY-Baillière "
+    },
+    "metadata.publication_place": {
+      "readability": "Readable",
+      "correction": "PARIS; LONDRES; MADRID"
+    },
+    "metadata.date": {
+      "readability": "Readable",
+      "correction": "1870"
+    },
+    "language": {
+      "readability": "Readable"
+    },
+    "metadata.identifier": {
+      "readability": "Readable"
+    },
+    "metadata.iiif_manifest": {
+      "readability": "Readable"
+    },
+    "ark": {
+      "readability": "Readable"
+    }
+  },
+  "language": "fr (French)"
+}

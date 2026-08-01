@@ -1,0 +1,15 @@
+{
+    "processing_time_seconds": 1.9,
+    "metadata": {
+        "title": "ESSAI DE MÉCANIQUE CHIMIQUE",
+        "title_complement": "FONDÉE SUR LA THERMOCHIMIE",
+        "volume_number": "TOME PREMIER",
+        "authors": "BERTHELOT, M.",
+        "publisher": "DUNOD",
+        "publication_place": "PARIS",
+        "date": "1879",
+        "identifier": "http://gallica.bnf.fr/ark:/12148/bpt6k903010",
+        "iiif_manifest": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k903010/manifest.json"
+    },
+    "ark": "bpt6k903010"
+}

@@ -1,0 +1,61 @@
+{
+  "metadata": {
+    "title": "TRAITÉ DE CHIMIE GÉNÉRALE",
+    "title_complement": "comprenant les principales applications de la chimie aux sciences biologiques et aux arts industriels ",
+    "volume_number": "TOME DEUXIÈME",
+    "authors": "Paul Schützenberger",
+    "publisher": "LIBRAIRIE HACHETTE ET CIE",
+    "publication_place": "PARIS",
+    "date": "1880",
+    "identifier": "http://gallica.bnf.fr/ark:/12148/bpt6k90096p",
+    "iiif_manifest": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k90096p/manifest.json"
+  },
+  "ark": "bpt6k90096p",
+  "typographie": {
+    "category": "Serif/Roman",
+    "subtype": "Modern (Didone)"
+  },
+  "_annotations": {
+    "metadata.title": {
+      "readability": "Readable"
+    },
+    "metadata.title_complement": {
+      "readability": "Readable",
+      "correction": "comprenant les principales applications de la chimie aux sciences biologiques et aux arts industriels "
+    },
+    "metadata.volume_number": {
+      "readability": "Readable",
+      "correction": "TOME DEUXIÈME"
+    },
+    "metadata.authors": {
+      "readability": "Readable",
+      "correction": "Paul Schützenberger"
+    },
+    "metadata.publisher": {
+      "readability": "Readable",
+      "correction": "Librairie Hachette et cie "
+    },
+    "metadata.publication_place": {
+      "readability": "Readable",
+      "correction": "PARIS"
+    },
+    "metadata.date": {
+      "readability": "Not readable",
+      "cause": "quality",
+      "correction": "1880"
+    },
+    "language": {
+      "readability": "Readable"
+    },
+    "metadata.identifier": {
+      "readability": "Readable"
+    },
+    "metadata.iiif_manifest": {
+      "readability": "Readable"
+    },
+    "ark": {
+      "readability": "Readable"
+    }
+  },
+  "language": "fr (French)"
+}

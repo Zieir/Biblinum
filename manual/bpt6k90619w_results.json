@@ -1,0 +1,57 @@
+{
+  "metadata": {
+    "title": "LECONS DE CHIMIE ÉLÉMENTAIRE",
+    "title_complement": "APPLIQUÉES AUX ARTS INDUSTRIELS",
+    "volume_number": "DEUXIÈME PARTIE",
+    "authors": "DORÉ FILS",
+    "publisher": "VICTOR DALMONT",
+    "publication_place": "PARIS",
+    "date": "1855",
+    "identifier": "http://gallica.bnf.fr/ark:/12148/bpt6k90619w",
+    "iiif_manifest": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k90619w/manifest.json"
+  },
+  "ark": "bpt6k90619w",
+  "typographie": {
+    "category": "Slab Serif",
+    "subtype": "Egyptian"
+  },
+  "_annotations": {
+    "metadata.title": {
+      "readability": "Readable"
+    },
+    "metadata.title_complement": {
+      "readability": "Readable"
+    },
+    "metadata.volume_number": {
+      "readability": "Readable"
+    },
+    "metadata.authors": {
+      "readability": "Readable",
+      "correction": "DORÉ FILS"
+    },
+    "metadata.publisher": {
+      "readability": "Readable"
+    },
+    "metadata.publication_place": {
+      "readability": "Readable"
+    },
+    "metadata.date": {
+      "readability": "Not readable",
+      "cause": "quality",
+      "correction": "1855"
+    },
+    "language": {
+      "readability": "Readable"
+    },
+    "metadata.identifier": {
+      "readability": "Readable"
+    },
+    "metadata.iiif_manifest": {
+      "readability": "Readable"
+    },
+    "ark": {
+      "readability": "Readable"
+    }
+  },
+  "language": "fr (French)"
+}

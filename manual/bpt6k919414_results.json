@@ -1,0 +1,57 @@
+{
+  "metadata": {
+    "title": "TRAITÉ ÉLÉMENTAIRE DE CHIMIE",
+    "title_complement": "",
+    "volume_number": "",
+    "authors": "L. Troost",
+    "publisher": "MASSON ET C^IE",
+    "publication_place": "PARIS",
+    "date": "1897",
+    "identifier": "http://gallica.bnf.fr/ark:/12148/bpt6k919414",
+    "iiif_manifest": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k919414/manifest.json"
+  },
+  "ark": "bpt6k919414",
+  "typographie": {
+    "category": "Serif/Roman",
+    "subtype": "Modern (Didone)"
+  },
+  "_annotations": {
+    "metadata.title": {
+      "readability": "Readable"
+    },
+    "metadata.title_complement": {
+      "readability": "Not readable",
+      "cause": "absent"
+    },
+    "metadata.volume_number": {
+      "readability": "Not readable",
+      "cause": "absent"
+    },
+    "metadata.authors": {
+      "readability": "Readable",
+      "correction": "L. Troost"
+    },
+    "metadata.publisher": {
+      "readability": "Readable"
+    },
+    "metadata.publication_place": {
+      "readability": "Readable"
+    },
+    "metadata.date": {
+      "readability": "Readable"
+    },
+    "language": {
+      "readability": "Readable"
+    },
+    "metadata.identifier": {
+      "readability": "Readable"
+    },
+    "metadata.iiif_manifest": {
+      "readability": "Readable"
+    },
+    "ark": {
+      "readability": "Readable"
+    }
+  },
+  "language": "fr (French)"
+}

@@ -1,0 +1,58 @@
+{
+  "metadata": {
+    "title": "SUR LES ALCALOÏDES",
+    "title_complement": "DÉRIVÉS DE LA DESTRUCTION BACTERIENNE OU PHYSIOLOGIQUE DES TISSUS ANIMAUX PTOMAÏNES ET LEUCOMAÏNES",
+    "volume_number": "",
+    "authors": "Armand GUTIER",
+    "publisher": "G. MASON, ÉDITEUR",
+    "publication_place": "PARIS",
+    "date": "1886",
+    "identifier": "http://gallica.bnf.fr/ark:/12148/bpt6k91799w",
+    "iiif_manifest": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k91799w/manifest.json"
+  },
+  "ark": "bpt6k91799w",
+  "typographie": {
+    "category": "Serif/Roman",
+    "subtype": "Didone (Modern)"
+  },
+  "_annotations": {
+    "metadata.title": {
+      "readability": "Readable",
+      "correction": "SUR LES ALCALOÏDES"
+    },
+    "metadata.title_complement": {
+      "readability": "Readable"
+    },
+    "metadata.volume_number": {
+      "readability": "Not readable",
+      "cause": "absent"
+    },
+    "metadata.authors": {
+      "readability": "Not readable",
+      "cause": "covered",
+      "correction": "Armand GUTIER"
+    },
+    "metadata.publisher": {
+      "readability": "Readable"
+    },
+    "metadata.publication_place": {
+      "readability": "Readable"
+    },
+    "metadata.date": {
+      "readability": "Readable"
+    },
+    "language": {
+      "readability": "Readable"
+    },
+    "metadata.identifier": {
+      "readability": "Readable"
+    },
+    "metadata.iiif_manifest": {
+      "readability": "Readable"
+    },
+    "ark": {
+      "readability": "Readable"
+    }
+  },
+  "language": "fr (French)"
+}

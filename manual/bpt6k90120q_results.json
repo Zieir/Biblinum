@@ -1,0 +1,57 @@
+{
+  "metadata": {
+    "title": "A DICTIONARY OF APPLIED CHEMISTRY",
+    "title_complement": "",
+    "volume_number": "VOL. VI.",
+    "authors": "Edward Thorpe",
+    "publisher": "LONGMANS, GREEN AND CO. LTD.",
+    "publication_place": "LONDON; NEW-YORK; TORONTO; BOMBAY; CALCUTTA; MADRAS",
+    "date": "1926",
+    "identifier": "http://gallica.bnf.fr/ark:/12148/bpt6k90120q",
+    "iiif_manifest": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k90120q/manifest.json"
+  },
+  "ark": "bpt6k90120q",
+  "typographie": {
+    "category": "Serif/Roman",
+    "subtype": "Transitional / Modern"
+  },
+  "_annotations": {
+    "metadata.title": {
+      "readability": "Readable"
+    },
+    "metadata.title_complement": {
+      "readability": "Not readable",
+      "cause": "absent"
+    },
+    "metadata.volume_number": {
+      "readability": "Readable"
+    },
+    "metadata.authors": {
+      "readability": "Readable",
+      "correction": "Edward Thorpe"
+    },
+    "metadata.publisher": {
+      "readability": "Readable"
+    },
+    "metadata.publication_place": {
+      "readability": "Readable",
+      "correction": "LONDON; NEW-YORK; TORONTO; BOMBAY; CALCUTTA; MADRAS"
+    },
+    "metadata.date": {
+      "readability": "Readable"
+    },
+    "language": {
+      "readability": "Readable"
+    },
+    "metadata.identifier": {
+      "readability": "Readable"
+    },
+    "metadata.iiif_manifest": {
+      "readability": "Readable"
+    },
+    "ark": {
+      "readability": "Readable"
+    }
+  },
+  "language": "en (English)"
+}

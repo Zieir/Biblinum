@@ -1,0 +1,57 @@
+{
+  "metadata": {
+    "title": "HYPOTHÈSES ACTUELLES SUR LA CONSTITUTION DE LA MATIÈRE",
+    "title_complement": "thèse présentée au concours pour l'agrégation (section des sciences accessoires) ",
+    "volume_number": "",
+    "authors": "Maurice HANRIOT",
+    "publisher": "LIBRAIRIE GERMER BAILLIÈRE ET CIE",
+    "publication_place": "PARIS",
+    "date": "1880",
+    "identifier": "http://gallica.bnf.fr/ark:/12148/bpt6k918128",
+    "iiif_manifest": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k918128/manifest.json"
+  },
+  "ark": "bpt6k918128",
+  "typographie": {
+    "category": "Serif/Roman",
+    "subtype": "Didone (Modern)"
+  },
+  "_annotations": {
+    "metadata.title": {
+      "readability": "Readable"
+    },
+    "metadata.title_complement": {
+      "readability": "Readable",
+      "correction": "thèse présentée au concours pour l'agrégation (section des sciences accessoires) "
+    },
+    "metadata.volume_number": {
+      "readability": "Not readable",
+      "cause": "absent"
+    },
+    "metadata.authors": {
+      "readability": "Readable",
+      "correction": "Maurice HANRIOT"
+    },
+    "metadata.publisher": {
+      "readability": "Readable"
+    },
+    "metadata.publication_place": {
+      "readability": "Readable"
+    },
+    "metadata.date": {
+      "readability": "Readable"
+    },
+    "language": {
+      "readability": "Readable"
+    },
+    "metadata.identifier": {
+      "readability": "Readable"
+    },
+    "metadata.iiif_manifest": {
+      "readability": "Readable"
+    },
+    "ark": {
+      "readability": "Readable"
+    }
+  },
+  "language": "fr (French)"
+}

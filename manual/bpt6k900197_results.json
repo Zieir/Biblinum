@@ -1,0 +1,63 @@
+{
+  "metadata": {
+    "title": "ЖИЗНЬ И ДѢЯТЕЛЬНОСТЬ Жизнь и Дѣятельность Николая Александровича Меншуткина",
+    "title_complement": "",
+    "volume_number": "",
+    "authors": "МЕНШУТКИНЪ, Николай Александрович",
+    "publisher": "ТИПОГРАФІЯ М. ФРОЛОВОЙ",
+    "publication_place": "С.-ПЕТЕРБУРГЪ",
+    "date": "1908",
+    "identifier": "http://gallica.bnf.fr/ark:/12148/bpt6k900197",
+    "iiif_manifest": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k900197/manifest.json"
+  },
+  "ark": "bpt6k900197",
+  "typographie": {
+    "category": "Script",
+    "subtype": "Cursive / Handwriting"
+  },
+  "_annotations": {
+    "metadata.title": {
+      "readability": "Readable",
+      "correction": "ЖИЗНЬ И ДѢЯТЕЛЬНОСТЬ Жизнь и Дѣятельность Николая Александровича Меншуткина"
+    },
+    "metadata.title_complement": {
+      "readability": "Not readable",
+      "cause": "absent"
+    },
+    "metadata.volume_number": {
+      "readability": "Not readable",
+      "cause": "absent"
+    },
+    "metadata.authors": {
+      "readability": "Readable"
+    },
+    "metadata.publisher": {
+      "readability": "Not readable",
+      "cause": "quality",
+      "correction": "Типографія М. Фроловой"
+    },
+    "metadata.publication_place": {
+      "readability": "Not readable",
+      "cause": "quality",
+      "correction": "С.-Петербургъ"
+    },
+    "metadata.date": {
+      "readability": "Not readable",
+      "cause": "quality",
+      "correction": "1908"
+    },
+    "language": {
+      "readability": "Readable"
+    },
+    "metadata.identifier": {
+      "readability": "Readable"
+    },
+    "metadata.iiif_manifest": {
+      "readability": "Readable"
+    },
+    "ark": {
+      "readability": "Readable"
+    }
+  },
+  "language": "ru (Russian)"
+}

@@ -1,0 +1,61 @@
+{
+  "metadata": {
+    "title": "MANUEL PRATIQUE DE L'ART DE L'ESSAYEUR",
+    "title_complement": "guide pour l'essai des minerais, des produits métallurgiques et des combustibles ",
+    "volume_number": "",
+    "authors": "Balling",
+    "publisher": "F. SAVY",
+    "publication_place": "PARIS",
+    "date": "1881",
+    "identifier": "http://gallica.bnf.fr/ark:/12148/bpt6k919712",
+    "iiif_manifest": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k919712/manifest.json"
+  },
+  "ark": "bpt6k919712",
+  "typographie": {
+    "category": "Serif/Roman",
+    "subtype": "Didone (Modern)"
+  },
+  "_annotations": {
+    "metadata.title": {
+      "readability": "Readable",
+      "correction": "MANUEL PRATIQUE DE L'ART DE L'ESSAYEUR"
+    },
+    "metadata.title_complement": {
+      "readability": "Readable",
+      "correction": "guide pour l'essai des minerais, des produits métallurgiques et des combustibles "
+    },
+    "metadata.volume_number": {
+      "readability": "Not readable",
+      "cause": "absent"
+    },
+    "metadata.authors": {
+      "readability": "Readable",
+      "correction": "Balling"
+    },
+    "metadata.publisher": {
+      "readability": "Readable",
+      "correction": "F. SAVY"
+    },
+    "metadata.publication_place": {
+      "readability": "Readable",
+      "correction": "PARIS"
+    },
+    "metadata.date": {
+      "readability": "Readable",
+      "correction": "1881"
+    },
+    "language": {
+      "readability": "Readable"
+    },
+    "metadata.identifier": {
+      "readability": "Readable"
+    },
+    "metadata.iiif_manifest": {
+      "readability": "Readable"
+    },
+    "ark": {
+      "readability": "Readable"
+    }
+  },
+  "language": "fr (French)"
+}

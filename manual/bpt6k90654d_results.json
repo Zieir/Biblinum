@@ -1,0 +1,59 @@
+{
+  "metadata": {
+    "title": "NOTICE sur les Titres et Travaux Scientifiques",
+    "title_complement": "",
+    "volume_number": "",
+    "authors": "V. Grignard",
+    "publisher": "IMPRIMERIE J. MARLHENS",
+    "publication_place": "LYON",
+    "date": "1926",
+    "identifier": "http://gallica.bnf.fr/ark:/12148/bpt6k90654d",
+    "iiif_manifest": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k90654d/manifest.json"
+  },
+  "ark": "bpt6k90654d",
+  "typographie": {
+    "category": "Serif/Roman",
+    "subtype": "Slab Serif (Egyptian)"
+  },
+  "_annotations": {
+    "metadata.title": {
+      "readability": "Readable",
+      "correction": "NOTICE sur les Titres et Travaux Scientifiques"
+    },
+    "metadata.title_complement": {
+      "readability": "Not readable",
+      "cause": "absent",
+      "correction": ""
+    },
+    "metadata.volume_number": {
+      "readability": "Not readable",
+      "cause": "absent"
+    },
+    "metadata.authors": {
+      "readability": "Readable",
+      "correction": "V. Grignard"
+    },
+    "metadata.publisher": {
+      "readability": "Readable"
+    },
+    "metadata.publication_place": {
+      "readability": "Readable"
+    },
+    "metadata.date": {
+      "readability": "Readable"
+    },
+    "language": {
+      "readability": "Readable"
+    },
+    "metadata.identifier": {
+      "readability": "Readable"
+    },
+    "metadata.iiif_manifest": {
+      "readability": "Readable"
+    },
+    "ark": {
+      "readability": "Readable"
+    }
+  },
+  "language": "fr (French)"
+}

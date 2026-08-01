@@ -1,0 +1,58 @@
+{
+  "metadata": {
+    "title": "URE'S DICTIONARY OF ARTS, MANUFACTURES, AND MINES",
+    "title_complement": "Containing a clear epositions of their principles and practices",
+    "volume_number": "VOL. I",
+    "authors": "URE",
+    "publisher": "LONGMANS, GREEN, AND CO.",
+    "publication_place": "LONDON",
+    "date": "1867",
+    "identifier": "http://gallica.bnf.fr/ark:/12148/bpt6k90137f",
+    "iiif_manifest": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k90137f/manifest.json"
+  },
+  "ark": "bpt6k90137f",
+  "typographie": {
+    "category": "Serif/Roman",
+    "subtype": "Didone (Modern)"
+  },
+  "_annotations": {
+    "metadata.title": {
+      "readability": "Readable"
+    },
+    "metadata.title_complement": {
+      "readability": "Not readable",
+      "cause": "covered",
+      "correction": "Containing a clear epositions of their principles and practices"
+    },
+    "metadata.volume_number": {
+      "readability": "Readable"
+    },
+    "metadata.authors": {
+      "readability": "Not readable",
+      "cause": "absent",
+      "correction": "URE"
+    },
+    "metadata.publisher": {
+      "readability": "Readable"
+    },
+    "metadata.publication_place": {
+      "readability": "Readable"
+    },
+    "metadata.date": {
+      "readability": "Readable"
+    },
+    "language": {
+      "readability": "Readable"
+    },
+    "metadata.identifier": {
+      "readability": "Readable"
+    },
+    "metadata.iiif_manifest": {
+      "readability": "Readable"
+    },
+    "ark": {
+      "readability": "Readable"
+    }
+  },
+  "language": "en (English)"
+}

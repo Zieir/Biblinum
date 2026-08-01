@@ -1,0 +1,55 @@
+{
+  "metadata": {
+    "title": "Lehrbuch der Organischen Chemie",
+    "title_complement": "oder der Chemie der Kohlenstoffverbindungen",
+    "volume_number": "Erster Band",
+    "authors": "Aug. Kekulé",
+    "publisher": "FERDINAND ENKE",
+    "publication_place": "ERLANGEN",
+    "date": "1867",
+    "identifier": "http://gallica.bnf.fr/ark:/12148/bpt6k90504k",
+    "iiif_manifest": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k90504k/manifest.json"
+  },
+  "ark": "bpt6k90504k",
+  "typographie": {
+    "category": "Serif/Roman",
+    "subtype": "Modern (Didone)"
+  },
+  "_annotations": {
+    "metadata.title": {
+      "readability": "Readable"
+    },
+    "metadata.title_complement": {
+      "readability": "Readable",
+      "correction": "oder der Chemie der Kohlenstoffverbindungen"
+    },
+    "metadata.volume_number": {
+      "readability": "Readable"
+    },
+    "metadata.authors": {
+      "readability": "Readable"
+    },
+    "metadata.publisher": {
+      "readability": "Readable"
+    },
+    "metadata.publication_place": {
+      "readability": "Readable"
+    },
+    "metadata.date": {
+      "readability": "Readable"
+    },
+    "language": {
+      "readability": "Readable"
+    },
+    "metadata.identifier": {
+      "readability": "Readable"
+    },
+    "metadata.iiif_manifest": {
+      "readability": "Readable"
+    },
+    "ark": {
+      "readability": "Readable"
+    }
+  },
+  "language": "de (German)"
+}

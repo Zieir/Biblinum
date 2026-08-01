@@ -1,0 +1,60 @@
+{
+  "metadata": {
+    "title": "C. G. J. Jacobi's gesammelte Werke",
+    "title_complement": "",
+    "volume_number": "ERSTER BAND",
+    "authors": "C. G. J. JACOBI",
+    "publisher": "G. REIMER",
+    "publication_place": "BERLIN",
+    "date": "1881",
+    "identifier": "http://gallica.bnf.fr/ark:/12148/bpt6k90209g",
+    "iiif_manifest": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k90209g/manifest.json"
+  },
+  "ark": "bpt6k90209g",
+  "typographie": {
+    "category": "Serif/Roman",
+    "subtype": "Modern (Didone)"
+  },
+  "_annotations": {
+    "metadata.title": {
+      "readability": "Readable",
+      "correction": "C. G. J. Jacobi's gesammelte Werke"
+    },
+    "metadata.title_complement": {
+      "readability": "Not readable",
+      "cause": "absent"
+    },
+    "metadata.volume_number": {
+      "readability": "Readable"
+    },
+    "metadata.authors": {
+      "readability": "Readable",
+      "correction": "C. G. J. JACOBI"
+    },
+    "metadata.publisher": {
+      "readability": "Readable",
+      "correction": "G. Reimer"
+    },
+    "metadata.publication_place": {
+      "readability": "Readable",
+      "correction": "BERLIN"
+    },
+    "metadata.date": {
+      "readability": "Readable",
+      "correction": "1881"
+    },
+    "language": {
+      "readability": "Readable"
+    },
+    "metadata.identifier": {
+      "readability": "Readable"
+    },
+    "metadata.iiif_manifest": {
+      "readability": "Readable"
+    },
+    "ark": {
+      "readability": "Readable"
+    }
+  },
+  "language": "fr (French)"
+}

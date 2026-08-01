@@ -1,0 +1,15 @@
+{
+    "processing_time_seconds": 3.24,
+    "metadata": {
+        "title": "Einführung in das Studium der Chemie",
+        "title_complement": "nach Vorlesungen gehalten am naturwissenschaftlichen Institut in Florenz",
+        "volume_number": "1. Band",
+        "authors": "Schiff, Hugo",
+        "publisher": "Verlag von Theobald Grieben",
+        "publication_place": "BERLIN",
+        "date": "1876",
+        "identifier": "http://gallica.bnf.fr/ark:/12148/bpt6k90102s",
+        "iiif_manifest": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k90102s/manifest.json"
+    },
+    "ark": "bpt6k90102s"
+}

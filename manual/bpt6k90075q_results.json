@@ -1,0 +1,60 @@
+{
+  "metadata": {
+    "title": "TRAITÉ PRATIQUE D'ANALYSE CHIMIQUE",
+    "title_complement": "",
+    "volume_number": "TOME SECOND",
+    "authors": "Henri ROSE",
+    "publisher": "J.B. BAILLIÈRE; H. BAILLIÈRE",
+    "publication_place": "PARIS; LONDRES",
+    "date": "1843",
+    "identifier": "http://gallica.bnf.fr/ark:/12148/bpt6k90075q",
+    "iiif_manifest": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k90075q/manifest.json"
+  },
+  "ark": "bpt6k90075q",
+  "typographie": {
+    "category": "Serif/Roman",
+    "subtype": "Modern (Didone)"
+  },
+  "_annotations": {
+    "metadata.title": {
+      "readability": "Not readable",
+      "cause": "covered"
+    },
+    "metadata.title_complement": {
+      "readability": "Not readable",
+      "cause": "absent",
+      "correction": ""
+    },
+    "metadata.volume_number": {
+      "readability": "Readable"
+    },
+    "metadata.authors": {
+      "readability": "Readable",
+      "correction": "Henri ROSE"
+    },
+    "metadata.publisher": {
+      "readability": "Readable",
+      "correction": "J.B. BAILLIÈRE; H. BAILLIÈRE"
+    },
+    "metadata.publication_place": {
+      "readability": "Readable",
+      "correction": "PARIS; LONDRES"
+    },
+    "metadata.date": {
+      "readability": "Readable"
+    },
+    "language": {
+      "readability": "Readable"
+    },
+    "metadata.identifier": {
+      "readability": "Readable"
+    },
+    "metadata.iiif_manifest": {
+      "readability": "Readable"
+    },
+    "ark": {
+      "readability": "Readable"
+    }
+  },
+  "language": "fr (French)"
+}

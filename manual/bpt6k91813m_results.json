@@ -1,0 +1,61 @@
+{
+  "metadata": {
+    "title": "TRAITÉ DES CARACTÈRES PHYSIQUES DES PIERRES PRÉCIEUSES",
+    "title_complement": "pour servir à leur détermination, lorsqu'elles ont été taillées",
+    "volume_number": "",
+    "authors": "Haüy",
+    "publisher": "VVE COURCIER",
+    "publication_place": "PARIS",
+    "date": "1817",
+    "identifier": "http://gallica.bnf.fr/ark:/12148/bpt6k91813m",
+    "iiif_manifest": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k91813m/manifest.json"
+  },
+  "ark": "bpt6k91813m",
+  "typographie": {
+    "category": "Serif/Roman",
+    "subtype": "Didone (Modern)"
+  },
+  "_annotations": {
+    "metadata.title": {
+      "readability": "Readable",
+      "correction": "TRAITÉ DES CARACTÈRES PHYSIQUES DES PIERRES PRÉCIEUSES"
+    },
+    "metadata.title_complement": {
+      "readability": "Readable",
+      "correction": "pour servir à leur détermination, lorsqu'elles ont été taillées"
+    },
+    "metadata.volume_number": {
+      "readability": "Not readable",
+      "cause": "absent"
+    },
+    "metadata.authors": {
+      "readability": "Readable",
+      "correction": "Haüy"
+    },
+    "metadata.publisher": {
+      "readability": "Readable",
+      "correction": "Vve Courcier "
+    },
+    "metadata.publication_place": {
+      "readability": "Readable",
+      "correction": "Paris"
+    },
+    "metadata.date": {
+      "readability": "Readable",
+      "correction": "1817"
+    },
+    "language": {
+      "readability": "Readable"
+    },
+    "metadata.identifier": {
+      "readability": "Readable"
+    },
+    "metadata.iiif_manifest": {
+      "readability": "Readable"
+    },
+    "ark": {
+      "readability": "Readable"
+    }
+  },
+  "language": "fr (French)"
+}

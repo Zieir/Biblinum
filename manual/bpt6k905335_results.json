@@ -1,0 +1,57 @@
+{
+  "metadata": {
+    "title": "LA THÉORIE ATOMIQUE",
+    "title_complement": "ET LA THÉORIE DUALISTIQUE. TRANSFORMATION DES FORMULES. DIFFÉRENCES ESSENTIELLES ENTRE LES DEUX THÉORIES.",
+    "volume_number": "",
+    "authors": "E. LENOBLE",
+    "publisher": "GAUTHIER-VILLARS ET FILS",
+    "publication_place": "PARIS",
+    "date": "1896",
+    "identifier": "http://gallica.bnf.fr/ark:/12148/bpt6k905335",
+    "iiif_manifest": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k905335/manifest.json"
+  },
+  "ark": "bpt6k905335",
+  "typographie": {
+    "category": "Serif/Roman",
+    "subtype": "Modern (Didone)"
+  },
+  "_annotations": {
+    "metadata.title": {
+      "readability": "Readable",
+      "correction": "LA THÉORIE ATOMIQUE"
+    },
+    "metadata.title_complement": {
+      "readability": "Readable"
+    },
+    "metadata.volume_number": {
+      "readability": "Not readable",
+      "cause": "absent"
+    },
+    "metadata.authors": {
+      "readability": "Readable",
+      "correction": "E. LENOBLE"
+    },
+    "metadata.publisher": {
+      "readability": "Readable"
+    },
+    "metadata.publication_place": {
+      "readability": "Readable"
+    },
+    "metadata.date": {
+      "readability": "Readable"
+    },
+    "language": {
+      "readability": "Readable"
+    },
+    "metadata.identifier": {
+      "readability": "Readable"
+    },
+    "metadata.iiif_manifest": {
+      "readability": "Readable"
+    },
+    "ark": {
+      "readability": "Readable"
+    }
+  },
+  "language": "fr (French)"
+}

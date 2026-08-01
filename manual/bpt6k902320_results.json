@@ -1,0 +1,60 @@
+{
+  "metadata": {
+    "title": "TRAITÉ DE CHIMIE ÉLÉMENTAIRE",
+    "title_complement": "conforme au programme et avec une théorie nouvelle",
+    "volume_number": "",
+    "authors": "M. E.-J. Maumené",
+    "publisher": "LIBRAIRIE BRIDAY",
+    "publication_place": "PARIS; LYON",
+    "date": "1885",
+    "identifier": "http://gallica.bnf.fr/ark:/12148/bpt6k902320",
+    "iiif_manifest": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k902320/manifest.json"
+  },
+  "ark": "bpt6k902320",
+  "typographie": {
+    "category": "Slab Serif",
+    "subtype": "Egyptian"
+  },
+  "_annotations": {
+    "metadata.title": {
+      "readability": "Readable"
+    },
+    "metadata.title_complement": {
+      "readability": "Readable",
+      "correction": "conforme au programme et avec une théorie nouvelle"
+    },
+    "metadata.volume_number": {
+      "readability": "Not readable",
+      "cause": "absent"
+    },
+    "metadata.authors": {
+      "readability": "Readable",
+      "correction": "M. E.-J. Maumené"
+    },
+    "metadata.publisher": {
+      "readability": "Readable",
+      "correction": "Librairie BRIDAY"
+    },
+    "metadata.publication_place": {
+      "readability": "Readable",
+      "correction": "PARIS; LYON"
+    },
+    "metadata.date": {
+      "readability": "Readable",
+      "correction": "1885"
+    },
+    "language": {
+      "readability": "Readable"
+    },
+    "metadata.identifier": {
+      "readability": "Readable"
+    },
+    "metadata.iiif_manifest": {
+      "readability": "Readable"
+    },
+    "ark": {
+      "readability": "Readable"
+    }
+  },
+  "language": "fr (French)"
+}

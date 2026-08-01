@@ -1,0 +1,15 @@
+{
+    "processing_time_seconds": 2.2,
+    "metadata": {
+        "title": "CHIMIE VÉGÉTALE ET AGRICOLE",
+        "title_complement": "RECHERCHES SPÉCIALES SUR LA VÉGÉTATION",
+        "volume_number": "TOME TROISIÈME",
+        "authors": "BERTHELOT, M.",
+        "publisher": "MASSON ET Cie ; LIBRAIRIE GAUTHIER-VILLARS",
+        "publication_place": "PARIS",
+        "date": "1899",
+        "identifier": "http://gallica.bnf.fr/ark:/12148/bpt6k916988",
+        "iiif_manifest": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k916988/manifest.json"
+    },
+    "ark": "bpt6k916988"
+}

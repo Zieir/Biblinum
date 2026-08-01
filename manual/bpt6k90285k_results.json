@@ -1,0 +1,57 @@
+{
+  "metadata": {
+    "title": "STÉRÉOCHIMIE",
+    "title_complement": "NOUVELLE EDITION DE DIX ANNÉES DANS L'HISTOIRE D'UNE THÉORIE",
+    "volume_number": "",
+    "authors": "J.-H. VAN'T HOFF",
+    "publisher": "GEORGES CARRÉ",
+    "publication_place": "PARIS",
+    "date": "1892",
+    "identifier": "http://gallica.bnf.fr/ark:/12148/bpt6k90285k",
+    "iiif_manifest": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k90285k/manifest.json"
+  },
+  "ark": "bpt6k90285k",
+  "typographie": {
+    "category": "Serif/Roman",
+    "subtype": "Didone (Modern)"
+  },
+  "_annotations": {
+    "metadata.title": {
+      "readability": "Readable"
+    },
+    "metadata.title_complement": {
+      "readability": "Readable",
+      "correction": "NOUVELLE EDITION DE DIX ANNÉES DANS L'HISTOIRE D'UNE THÉORIE"
+    },
+    "metadata.volume_number": {
+      "readability": "Not readable",
+      "cause": "absent"
+    },
+    "metadata.authors": {
+      "readability": "Readable",
+      "correction": "J.-H. VAN'T HOFF"
+    },
+    "metadata.publisher": {
+      "readability": "Readable"
+    },
+    "metadata.publication_place": {
+      "readability": "Readable"
+    },
+    "metadata.date": {
+      "readability": "Readable"
+    },
+    "language": {
+      "readability": "Readable"
+    },
+    "metadata.identifier": {
+      "readability": "Readable"
+    },
+    "metadata.iiif_manifest": {
+      "readability": "Readable"
+    },
+    "ark": {
+      "readability": "Readable"
+    }
+  },
+  "language": "fr (French)"
+}

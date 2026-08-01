@@ -1,0 +1,62 @@
+{
+  "metadata": {
+    "title": "TRAITÉ DE CHIMIE MINÉRALE ET ORGANIQUE",
+    "title_complement": "",
+    "volume_number": "TOME II",
+    "authors": "Ed. WILLM; M. HANRIOT",
+    "publisher": "G. MASSON",
+    "publication_place": "PARIS",
+    "date": "1889",
+    "identifier": "http://gallica.bnf.fr/ark:/12148/bpt6k901692",
+    "iiif_manifest": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k901692/manifest.json"
+  },
+  "ark": "bpt6k901692",
+  "typographie": {
+    "category": "Serif/Roman",
+    "subtype": "Didone (Modern)"
+  },
+  "_annotations": {
+    "metadata.title": {
+      "readability": "Readable",
+      "correction": "TRAITÉ DE CHIMIE MINÉRALE ET ORGANIQUE"
+    },
+    "metadata.title_complement": {
+      "readability": "Not readable",
+      "cause": "absent",
+      "correction": ""
+    },
+    "metadata.volume_number": {
+      "readability": "Readable",
+      "correction": "TOME II"
+    },
+    "metadata.authors": {
+      "readability": "Readable",
+      "correction": "Ed. WILLM; M. HANRIOT"
+    },
+    "metadata.publisher": {
+      "readability": "Readable",
+      "correction": "G. MASSON"
+    },
+    "metadata.publication_place": {
+      "readability": "Readable",
+      "correction": "PARIS"
+    },
+    "metadata.date": {
+      "readability": "Readable",
+      "correction": "1889"
+    },
+    "language": {
+      "readability": "Readable"
+    },
+    "metadata.identifier": {
+      "readability": "Readable"
+    },
+    "metadata.iiif_manifest": {
+      "readability": "Readable"
+    },
+    "ark": {
+      "readability": "Readable"
+    }
+  },
+  "language": "fr (French)"
+}

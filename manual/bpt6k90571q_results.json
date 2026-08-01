@@ -1,0 +1,58 @@
+{
+  "metadata": {
+    "title": "SCHEURER-KESTNER",
+    "title_complement": "(1833-1899)",
+    "volume_number": "",
+    "authors": "",
+    "publisher": "P.-V. STOCK, ÉDITEUR",
+    "publication_place": "PARIS",
+    "date": "",
+    "identifier": "http://gallica.bnf.fr/ark:/12148/bpt6k90571q",
+    "iiif_manifest": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k90571q/manifest.json"
+  },
+  "ark": "bpt6k90571q",
+  "typographie": {
+    "category": "Serif/Roman",
+    "subtype": "Old Style"
+  },
+  "_annotations": {
+    "metadata.title": {
+      "readability": "Readable"
+    },
+    "metadata.title_complement": {
+      "readability": "Readable",
+      "correction": "(1833-1899)"
+    },
+    "metadata.volume_number": {
+      "readability": "Not readable",
+      "cause": "absent"
+    },
+    "metadata.authors": {
+      "readability": "Not readable",
+      "cause": "absent"
+    },
+    "metadata.publisher": {
+      "readability": "Readable"
+    },
+    "metadata.publication_place": {
+      "readability": "Readable"
+    },
+    "metadata.date": {
+      "readability": "Not readable",
+      "cause": "absent"
+    },
+    "language": {
+      "readability": "Readable"
+    },
+    "metadata.identifier": {
+      "readability": "Readable"
+    },
+    "metadata.iiif_manifest": {
+      "readability": "Readable"
+    },
+    "ark": {
+      "readability": "Readable"
+    }
+  },
+  "language": "fr (French)"
+}

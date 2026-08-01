@@ -1,0 +1,58 @@
+{
+  "metadata": {
+    "title": "AN ELEMENTARY TREATISE ON PRACTICAL CHEMISTRY",
+    "title_complement": "Qualitative Inorganic Analysis specially adapted for use in the laboratories of schools ans colleges, and by beginners",
+    "volume_number": "",
+    "authors": "Frank CLOWES",
+    "publisher": "J. & A. CHURCHILL",
+    "publication_place": "LONDON",
+    "date": "1877",
+    "identifier": "http://gallica.bnf.fr/ark:/12148/bpt6k90403z",
+    "iiif_manifest": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k90403z/manifest.json"
+  },
+  "ark": "bpt6k90403z",
+  "typographie": {
+    "category": "Serif/Roman",
+    "subtype": "Old Style / Transitional"
+  },
+  "_annotations": {
+    "metadata.title": {
+      "readability": "Not readable",
+      "cause": "covered"
+    },
+    "metadata.title_complement": {
+      "readability": "Readable",
+      "correction": "Qualitative Inorganic Analysis specially adapted for use in the laboratories of schools ans colleges, and by beginners"
+    },
+    "metadata.volume_number": {
+      "readability": "Not readable",
+      "cause": "absent"
+    },
+    "metadata.authors": {
+      "readability": "Readable",
+      "correction": "Frank CLOWES"
+    },
+    "metadata.publisher": {
+      "readability": "Readable"
+    },
+    "metadata.publication_place": {
+      "readability": "Readable"
+    },
+    "metadata.date": {
+      "readability": "Readable"
+    },
+    "language": {
+      "readability": "Readable"
+    },
+    "metadata.identifier": {
+      "readability": "Readable"
+    },
+    "metadata.iiif_manifest": {
+      "readability": "Readable"
+    },
+    "ark": {
+      "readability": "Readable"
+    }
+  },
+  "language": "en (English)"
+}

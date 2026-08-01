@@ -1,0 +1,61 @@
+{
+  "metadata": {
+    "title": "CHARLES GERHARDT SA VIE, SON ŒUVRE, SA CORRESPONDANCE 1816-1856",
+    "title_complement": "document d'histoire de la chimie ",
+    "volume_number": "",
+    "authors": "Édouard Grimaux; Charles James Gerhardt",
+    "publisher": "MASSON ET CIE",
+    "publication_place": "PARIS",
+    "date": "1900",
+    "identifier": "http://gallica.bnf.fr/ark:/12148/bpt6k90459k",
+    "iiif_manifest": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k90459k/manifest.json"
+  },
+  "ark": "bpt6k90459k",
+  "typographie": {
+    "category": "Serif/Roman",
+    "subtype": "Old Style / Transitional"
+  },
+  "_annotations": {
+    "metadata.title": {
+      "readability": "Readable",
+      "correction": "CHARLES GERHARDT SA VIE, SON ŒUVRE, SA CORRESPONDANCE 1816-1856"
+    },
+    "metadata.title_complement": {
+      "readability": "Readable",
+      "correction": "document d'histoire de la chimie "
+    },
+    "metadata.volume_number": {
+      "readability": "Not readable",
+      "cause": "absent"
+    },
+    "metadata.authors": {
+      "readability": "Readable",
+      "correction": "Édouard Grimaux; Charles James Gerhardt"
+    },
+    "metadata.publisher": {
+      "readability": "Readable",
+      "correction": "MASSON ET Cie"
+    },
+    "metadata.publication_place": {
+      "readability": "Readable",
+      "correction": "PARIS"
+    },
+    "metadata.date": {
+      "readability": "Readable",
+      "correction": "1900"
+    },
+    "language": {
+      "readability": "Readable"
+    },
+    "metadata.identifier": {
+      "readability": "Readable"
+    },
+    "metadata.iiif_manifest": {
+      "readability": "Readable"
+    },
+    "ark": {
+      "readability": "Readable"
+    }
+  },
+  "language": "fr (French)"
+}

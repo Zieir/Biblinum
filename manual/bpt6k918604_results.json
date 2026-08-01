@@ -1,0 +1,57 @@
+{
+  "metadata": {
+    "title": "COURS DE CHYMIE",
+    "title_complement": "CONTENANT LA MANIERE DE FAIRE LES OPERATIONS QUI SONT En usage dans la Médecine, par une Méthode facile.",
+    "volume_number": "",
+    "authors": "LEMERY",
+    "publisher": "CHEZ LAURENT-CHARLES D'HOURY, FILS",
+    "publication_place": "PARIS",
+    "date": "1757",
+    "identifier": "http://gallica.bnf.fr/ark:/12148/bpt6k918604",
+    "iiif_manifest": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k918604/manifest.json"
+  },
+  "ark": "bpt6k918604",
+  "typographie": {
+    "category": "Serif/Roman",
+    "subtype": "Old Style (Garalde)"
+  },
+  "_annotations": {
+    "metadata.title": {
+      "readability": "Readable"
+    },
+    "metadata.title_complement": {
+      "readability": "Readable"
+    },
+    "metadata.volume_number": {
+      "readability": "Not readable",
+      "cause": "absent"
+    },
+    "metadata.authors": {
+      "readability": "Readable",
+      "correction": "LEMERY"
+    },
+    "metadata.publisher": {
+      "readability": "Readable"
+    },
+    "metadata.publication_place": {
+      "readability": "Readable"
+    },
+    "metadata.date": {
+      "readability": "Readable",
+      "correction": "1757"
+    },
+    "language": {
+      "readability": "Readable"
+    },
+    "metadata.identifier": {
+      "readability": "Readable"
+    },
+    "metadata.iiif_manifest": {
+      "readability": "Readable"
+    },
+    "ark": {
+      "readability": "Readable"
+    }
+  },
+  "language": "fr (French)"
+}

@@ -1,0 +1,61 @@
+{
+  "metadata": {
+    "title": "Researches on the Affinities of the Elements",
+    "title_complement": "and on the causes of the chimical similarity or dissimilarity of elements and compounds ",
+    "volume_number": "",
+    "authors": "Geoffrey MARTIN",
+    "publisher": "J. & A. CHURCHILL",
+    "publication_place": "LONDON",
+    "date": "1905",
+    "identifier": "http://gallica.bnf.fr/ark:/12148/bpt6k900224",
+    "iiif_manifest": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k900224/manifest.json"
+  },
+  "ark": "bpt6k900224",
+  "typographie": {
+    "category": "Serif/Roman",
+    "subtype": "Old Style"
+  },
+  "_annotations": {
+    "metadata.title": {
+      "readability": "Readable",
+      "correction": "Researches on the Affinities of the Elements"
+    },
+    "metadata.title_complement": {
+      "readability": "Readable",
+      "correction": "and on the causes of the chimical similarity or dissimilarity of elements and compounds "
+    },
+    "metadata.volume_number": {
+      "readability": "Not readable",
+      "cause": "absent"
+    },
+    "metadata.authors": {
+      "readability": "Readable",
+      "correction": "Geoffrey MARTIN"
+    },
+    "metadata.publisher": {
+      "readability": "Readable",
+      "correction": "J. & A. CHURCHILL"
+    },
+    "metadata.publication_place": {
+      "readability": "Readable",
+      "correction": "LONDON"
+    },
+    "metadata.date": {
+      "readability": "Readable",
+      "correction": "1905"
+    },
+    "language": {
+      "readability": "Readable"
+    },
+    "metadata.identifier": {
+      "readability": "Readable"
+    },
+    "metadata.iiif_manifest": {
+      "readability": "Readable"
+    },
+    "ark": {
+      "readability": "Readable"
+    }
+  },
+  "language": "en (English)"
+}

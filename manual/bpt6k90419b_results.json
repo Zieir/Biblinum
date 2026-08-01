@@ -1,0 +1,59 @@
+{
+  "metadata": {
+    "title": "MÉMOIRE SUR LES ÉQUIVALENTS DES CORPS SIMPLES",
+    "title_complement": "",
+    "volume_number": "",
+    "authors": " M. J. Dumas",
+    "publisher": "MALLET-BACHELIER",
+    "publication_place": "PARIS",
+    "date": "1859",
+    "identifier": "http://gallica.bnf.fr/ark:/12148/bpt6k90419b",
+    "iiif_manifest": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k90419b/manifest.json"
+  },
+  "ark": "bpt6k90419b",
+  "typographie": {
+    "category": "Serif/Roman",
+    "subtype": "Modern (Didone)"
+  },
+  "_annotations": {
+    "metadata.title": {
+      "readability": "Readable",
+      "correction": "MÉMOIRE SUR LES ÉQUIVALENTS DES CORPS SIMPLES"
+    },
+    "metadata.title_complement": {
+      "readability": "Not readable",
+      "cause": "absent",
+      "correction": ""
+    },
+    "metadata.volume_number": {
+      "readability": "Not readable",
+      "cause": "absent"
+    },
+    "metadata.authors": {
+      "readability": "Readable",
+      "correction": " M. J. Dumas"
+    },
+    "metadata.publisher": {
+      "readability": "Readable"
+    },
+    "metadata.publication_place": {
+      "readability": "Readable"
+    },
+    "metadata.date": {
+      "readability": "Readable"
+    },
+    "language": {
+      "readability": "Readable"
+    },
+    "metadata.identifier": {
+      "readability": "Readable"
+    },
+    "metadata.iiif_manifest": {
+      "readability": "Readable"
+    },
+    "ark": {
+      "readability": "Readable"
+    }
+  },
+  "language": "fr (French)"
+}

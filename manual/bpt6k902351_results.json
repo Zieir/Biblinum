@@ -1,0 +1,62 @@
+{
+  "metadata": {
+    "title": "PRÉCIS DE CHIMIE LÉGALE",
+    "title_complement": "guide pour la recherche des poisons, l'examen des armes à feu, l'analyse des cendres, l'altération des écritures, des monnaies, des alliages, des denrées et la détermination des taches dans les expertises chimico-légales, à l'usage des médecins, pharmaciens, chimistes, experts, avocats, etc. ",
+    "volume_number": "",
+    "authors": "A. NAQUET",
+    "publisher": "F. SAVY",
+    "publication_place": "PARIS",
+    "date": "1873",
+    "identifier": "http://gallica.bnf.fr/ark:/12148/bpt6k902351",
+    "iiif_manifest": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k902351/manifest.json"
+  },
+  "ark": "bpt6k902351",
+  "typographie": {
+    "category": "Serif/Roman",
+    "subtype": "Didone (Modern)"
+  },
+  "_annotations": {
+    "metadata.title": {
+      "readability": "Readable"
+    },
+    "metadata.title_complement": {
+      "readability": "Readable",
+      "correction": "guide pour la recherche des poisons, l'examen des armes à feu, l'analyse des cendres, l'altération des écritures, des monnaies, des alliages, des denrées et la détermination des taches dans les expertises chimico-légales, à l'usage des médecins, pharmaciens, chimistes, experts, avocats, etc. "
+    },
+    "metadata.volume_number": {
+      "readability": "Not readable",
+      "cause": "absent"
+    },
+    "metadata.authors": {
+      "readability": "Readable",
+      "correction": "A. NAQUET"
+    },
+    "metadata.publisher": {
+      "readability": "Not readable",
+      "cause": "covered",
+      "correction": "F. SAVY"
+    },
+    "metadata.publication_place": {
+      "readability": "Not readable",
+      "cause": "covered",
+      "correction": "PARIS"
+    },
+    "metadata.date": {
+      "readability": "Readable",
+      "correction": "1873"
+    },
+    "language": {
+      "readability": "Readable"
+    },
+    "metadata.identifier": {
+      "readability": "Readable"
+    },
+    "metadata.iiif_manifest": {
+      "readability": "Readable"
+    },
+    "ark": {
+      "readability": "Readable"
+    }
+  },
+  "language": "fr (French)"
+}

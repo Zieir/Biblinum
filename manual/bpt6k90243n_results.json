@@ -1,0 +1,61 @@
+{
+  "metadata": {
+    "title": "LEÇONS ÉLÉMENTAIRES DE CHIMIE",
+    "title_complement": "",
+    "volume_number": "Première Partie",
+    "authors": "F. MALAGUTI",
+    "publisher": "DEZOBRY, E. MAGDELEINE ET C.",
+    "publication_place": "PARIS",
+    "date": "",
+    "identifier": "http://gallica.bnf.fr/ark:/12148/bpt6k90243n",
+    "iiif_manifest": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k90243n/manifest.json"
+  },
+  "ark": "bpt6k90243n",
+  "typographie": {
+    "category": "Serif/Roman",
+    "subtype": "Didone (Modern)"
+  },
+  "_annotations": {
+    "metadata.title": {
+      "readability": "Readable",
+      "correction": "LEÇONS ÉLÉMENTAIRES DE CHIMIE"
+    },
+    "metadata.title_complement": {
+      "readability": "Not readable",
+      "cause": "absent",
+      "correction": ""
+    },
+    "metadata.volume_number": {
+      "readability": "Not readable",
+      "cause": "covered",
+      "correction": "Première Partie"
+    },
+    "metadata.authors": {
+      "readability": "Readable",
+      "correction": "F. MALAGUTI"
+    },
+    "metadata.publisher": {
+      "readability": "Readable"
+    },
+    "metadata.publication_place": {
+      "readability": "Readable"
+    },
+    "metadata.date": {
+      "readability": "Not readable",
+      "cause": "covered"
+    },
+    "language": {
+      "readability": "Readable"
+    },
+    "metadata.identifier": {
+      "readability": "Readable"
+    },
+    "metadata.iiif_manifest": {
+      "readability": "Readable"
+    },
+    "ark": {
+      "readability": "Readable"
+    }
+  },
+  "language": "fr (French)"
+}

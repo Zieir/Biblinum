@@ -1,0 +1,60 @@
+{
+  "metadata": {
+    "title": "MESURE DES TEMPÉRATURES ÉLEVÉES",
+    "title_complement": "",
+    "volume_number": "",
+    "authors": "H. LE CHATELIER; O. BOUDOUARD",
+    "publisher": "GEORGE CARRÉ; C. NAUD",
+    "publication_place": "PARIS",
+    "date": "1900",
+    "identifier": "http://gallica.bnf.fr/ark:/12148/bpt6k918488",
+    "iiif_manifest": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k918488/manifest.json"
+  },
+  "ark": "bpt6k918488",
+  "typographie": {
+    "category": "Serif",
+    "subtype": "Slab Serif (Egyptian)"
+  },
+  "_annotations": {
+    "metadata.title": {
+      "readability": "Readable"
+    },
+    "metadata.title_complement": {
+      "readability": "Not readable",
+      "cause": "absent"
+    },
+    "metadata.volume_number": {
+      "readability": "Not readable",
+      "cause": "absent"
+    },
+    "metadata.authors": {
+      "readability": "Readable",
+      "correction": "H. LE CHATELIER; O. BOUDOUARD"
+    },
+    "metadata.publisher": {
+      "readability": "Readable",
+      "correction": "GEORGE CARRÉ; C. NAUD"
+    },
+    "metadata.publication_place": {
+      "readability": "Readable",
+      "correction": "PARIS"
+    },
+    "metadata.date": {
+      "readability": "Readable",
+      "correction": "1900"
+    },
+    "language": {
+      "readability": "Readable"
+    },
+    "metadata.identifier": {
+      "readability": "Readable"
+    },
+    "metadata.iiif_manifest": {
+      "readability": "Readable"
+    },
+    "ark": {
+      "readability": "Readable"
+    }
+  },
+  "language": "fr (French)"
+}

@@ -1,0 +1,62 @@
+{
+  "metadata": {
+    "title": "ESTUDO SOBRE AS CLASSIFICAÇÕES CHIMICAS DOS COMPOSTOS ORGANICOS",
+    "title_complement": "",
+    "volume_number": "",
+    "authors": "Antonio Joaquim Ferreira da Silva",
+    "publisher": "IMPR. DA UNIVERSIDADE",
+    "publication_place": "COIMBRA",
+    "date": "1877",
+    "identifier": "http://gallica.bnf.fr/ark:/12148/bpt6k90429n",
+    "iiif_manifest": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k90429n/manifest.json"
+  },
+  "ark": "bpt6k90429n",
+  "typographie": {
+    "category": "Serif/Roman",
+    "subtype": "Modern / Didone"
+  },
+  "_annotations": {
+    "metadata.title": {
+      "readability": "Readable",
+      "correction": "ESTUDO SOBRE AS CLASSIFICAÇÕES CHIMICAS DOS COMPOSTOS ORGANICOS"
+    },
+    "metadata.title_complement": {
+      "readability": "Not readable",
+      "cause": "absent",
+      "correction": ""
+    },
+    "metadata.volume_number": {
+      "readability": "Not readable",
+      "cause": "absent"
+    },
+    "metadata.authors": {
+      "readability": "Readable",
+      "correction": "Antonio Joaquim Ferreira da Silva"
+    },
+    "metadata.publisher": {
+      "readability": "Readable",
+      "correction": "Impr. da Universidade"
+    },
+    "metadata.publication_place": {
+      "readability": "Readable",
+      "correction": "Coimbra"
+    },
+    "metadata.date": {
+      "readability": "Readable",
+      "correction": "1877"
+    },
+    "language": {
+      "readability": "Readable"
+    },
+    "metadata.identifier": {
+      "readability": "Readable"
+    },
+    "metadata.iiif_manifest": {
+      "readability": "Readable"
+    },
+    "ark": {
+      "readability": "Readable"
+    }
+  },
+  "language": "pt (Portuguese)"
+}

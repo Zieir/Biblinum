@@ -1,0 +1,61 @@
+{
+  "metadata": {
+    "title": "Tratato de CHIMICA ELEMENTAR",
+    "title_complement": "CHIMICA ORGANICA",
+    "volume_number": "TOMO II",
+    "authors": "A. J. FERREIRA DA SILVA",
+    "publisher": "TYPOGRAPHIA A. F. VASCONCELLOS, SUCCESSORES",
+    "publication_place": "PORTO",
+    "date": "1900",
+    "identifier": "http://gallica.bnf.fr/ark:/12148/bpt6k90637t",
+    "iiif_manifest": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k90637t/manifest.json"
+  },
+  "ark": "bpt6k90637t",
+  "typographie": {
+    "category": "Serif/Roman",
+    "subtype": "Didone (Modern)"
+  },
+  "_annotations": {
+    "metadata.title": {
+      "readability": "Readable",
+      "correction": "Tratato de CHIMICA ELEMENTAR"
+    },
+    "metadata.title_complement": {
+      "readability": "Readable"
+    },
+    "metadata.volume_number": {
+      "readability": "Readable"
+    },
+    "metadata.authors": {
+      "readability": "Readable",
+      "correction": "A. J. FERREIRA DA SILVA"
+    },
+    "metadata.publisher": {
+      "readability": "Not readable",
+      "cause": "covered"
+    },
+    "metadata.publication_place": {
+      "readability": "Not readable",
+      "cause": "quality",
+      "correction": "PORTO"
+    },
+    "metadata.date": {
+      "readability": "Not readable",
+      "cause": "quality",
+      "correction": "1900"
+    },
+    "language": {
+      "readability": "Readable"
+    },
+    "metadata.identifier": {
+      "readability": "Readable"
+    },
+    "metadata.iiif_manifest": {
+      "readability": "Readable"
+    },
+    "ark": {
+      "readability": "Readable"
+    }
+  },
+  "language": "pt (Portuguese)"
+}

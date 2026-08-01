@@ -1,0 +1,57 @@
+{
+  "metadata": {
+    "title": "DE LA NOTATION ATOMIQUE",
+    "title_complement": "ET DE SA COMPARAISON AVEC LA NOTATION EN ÉQUIVALENTS",
+    "volume_number": "",
+    "authors": "L. MICÉ",
+    "publisher": "J.-B. BAILLIÈRE ET FILS",
+    "publication_place": "PARIS",
+    "date": "1871",
+    "identifier": "http://gallica.bnf.fr/ark:/12148/bpt6k91825m",
+    "iiif_manifest": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k91825m/manifest.json"
+  },
+  "ark": "bpt6k91825m",
+  "typographie": {
+    "category": "Serif/Roman",
+    "subtype": "Didone (Modern)"
+  },
+  "_annotations": {
+    "metadata.title": {
+      "readability": "Readable"
+    },
+    "metadata.title_complement": {
+      "readability": "Readable"
+    },
+    "metadata.volume_number": {
+      "readability": "Not readable",
+      "cause": "absent"
+    },
+    "metadata.authors": {
+      "readability": "Readable",
+      "correction": "L. MICÉ"
+    },
+    "metadata.publisher": {
+      "readability": "Readable"
+    },
+    "metadata.publication_place": {
+      "readability": "Readable"
+    },
+    "metadata.date": {
+      "readability": "Readable",
+      "correction": "1871"
+    },
+    "language": {
+      "readability": "Readable"
+    },
+    "metadata.identifier": {
+      "readability": "Readable"
+    },
+    "metadata.iiif_manifest": {
+      "readability": "Readable"
+    },
+    "ark": {
+      "readability": "Readable"
+    }
+  },
+  "language": "fr (French)"
+}

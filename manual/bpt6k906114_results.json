@@ -1,0 +1,56 @@
+{
+  "metadata": {
+    "title": "ELEMENTS OF CHEMICAL PHILOSOPHY",
+    "title_complement": "",
+    "volume_number": "PART I. VOL. I.",
+    "authors": "Humphry DAVY",
+    "publisher": "J. JOHNSON AND CO.",
+    "publication_place": "LONDON",
+    "date": "1812",
+    "identifier": "http://gallica.bnf.fr/ark:/12148/bpt6k906114",
+    "iiif_manifest": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k906114/manifest.json"
+  },
+  "ark": "bpt6k906114",
+  "typographie": {
+    "category": "Serif/Roman",
+    "subtype": "Didone (Modern)"
+  },
+  "_annotations": {
+    "metadata.title": {
+      "readability": "Readable"
+    },
+    "metadata.title_complement": {
+      "readability": "Not readable",
+      "cause": "absent"
+    },
+    "metadata.volume_number": {
+      "readability": "Readable"
+    },
+    "metadata.authors": {
+      "readability": "Readable",
+      "correction": "Humphry DAVY"
+    },
+    "metadata.publisher": {
+      "readability": "Readable"
+    },
+    "metadata.publication_place": {
+      "readability": "Readable"
+    },
+    "metadata.date": {
+      "readability": "Readable"
+    },
+    "language": {
+      "readability": "Readable"
+    },
+    "metadata.identifier": {
+      "readability": "Readable"
+    },
+    "metadata.iiif_manifest": {
+      "readability": "Readable"
+    },
+    "ark": {
+      "readability": "Readable"
+    }
+  },
+  "language": "en (English)"
+}

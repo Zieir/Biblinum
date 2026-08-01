@@ -1,0 +1,57 @@
+{
+  "metadata": {
+    "title": "A TREATISE ON CHEMISTRY",
+    "title_complement": "THE CHEMISTRY OF THE HYDROCARBONS AND THEIR DERIVATIVES OR ORGANIC CHEMISTRY",
+    "volume_number": "VOLUME III",
+    "authors": "H. E. ROSCOE ; C. SCHORLEMMER",
+    "publisher": "MACMILLAN AND CO.",
+    "publication_place": "LONDON",
+    "date": "1886",
+    "identifier": "http://gallica.bnf.fr/ark:/12148/bpt6k90072p",
+    "iiif_manifest": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k90072p/manifest.json"
+  },
+  "ark": "bpt6k90072p",
+  "typographie": {
+    "category": "Serif/Roman",
+    "subtype": "Modern (Didone)"
+  },
+  "_annotations": {
+    "metadata.title": {
+      "readability": "Readable"
+    },
+    "metadata.title_complement": {
+      "readability": "Not readable",
+      "cause": "covered",
+      "correction": "THE CHEMISTRY OF THE HYDROCARBONS AND THEIR DERIVATIVES OR ORGANIC CHEMISTRY"
+    },
+    "metadata.volume_number": {
+      "readability": "Readable"
+    },
+    "metadata.authors": {
+      "readability": "Readable",
+      "correction": "H. E. ROSCOE ; C. SCHORLEMMER"
+    },
+    "metadata.publisher": {
+      "readability": "Readable"
+    },
+    "metadata.publication_place": {
+      "readability": "Readable"
+    },
+    "metadata.date": {
+      "readability": "Readable"
+    },
+    "language": {
+      "readability": "Readable"
+    },
+    "metadata.identifier": {
+      "readability": "Readable"
+    },
+    "metadata.iiif_manifest": {
+      "readability": "Readable"
+    },
+    "ark": {
+      "readability": "Readable"
+    }
+  },
+  "language": "en (English)"
+}

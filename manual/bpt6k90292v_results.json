@@ -1,0 +1,60 @@
+{
+  "metadata": {
+    "title": "LA CHIMIE DU LABORATOIRE",
+    "title_complement": "",
+    "volume_number": "",
+    "authors": "F.  PISANI; PH. DIRVELL",
+    "publisher": "LIBRAIRIE GERMER BAILLIÈRE ET CIE",
+    "publication_place": "PARIS",
+    "date": "1882",
+    "identifier": "http://gallica.bnf.fr/ark:/12148/bpt6k90292v",
+    "iiif_manifest": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k90292v/manifest.json"
+  },
+  "ark": "bpt6k90292v",
+  "typographie": {
+    "category": "Serif/Roman",
+    "subtype": "Didone (Modern)"
+  },
+  "_annotations": {
+    "metadata.title": {
+      "readability": "Not readable",
+      "cause": "covered",
+      "correction": "LA CHIMIE DU LABORATOIRE"
+    },
+    "metadata.title_complement": {
+      "readability": "Not readable",
+      "cause": "absent"
+    },
+    "metadata.volume_number": {
+      "readability": "Not readable",
+      "cause": "absent"
+    },
+    "metadata.authors": {
+      "readability": "Readable",
+      "correction": "F.  PISANI; PH. DIRVELL"
+    },
+    "metadata.publisher": {
+      "readability": "Readable"
+    },
+    "metadata.publication_place": {
+      "readability": "Readable"
+    },
+    "metadata.date": {
+      "readability": "Readable",
+      "correction": "1882"
+    },
+    "language": {
+      "readability": "Readable"
+    },
+    "metadata.identifier": {
+      "readability": "Readable"
+    },
+    "metadata.iiif_manifest": {
+      "readability": "Readable"
+    },
+    "ark": {
+      "readability": "Readable"
+    }
+  },
+  "language": "fr (French)"
+}

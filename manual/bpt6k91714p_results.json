@@ -1,0 +1,60 @@
+{
+  "metadata": {
+    "title": "CHIMIE ORGANIQUE DES ALCALIS ORGANIQUES",
+    "title_complement": "",
+    "volume_number": "",
+    "authors": "Edme BOURGOIN",
+    "publisher": "ADRIEN DELAHAYE, LIBRAIRE-EDITEUR",
+    "publication_place": "PARIS",
+    "date": "1869",
+    "identifier": "http://gallica.bnf.fr/ark:/12148/bpt6k91714p",
+    "iiif_manifest": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k91714p/manifest.json"
+  },
+  "ark": "bpt6k91714p",
+  "typographie": {
+    "category": "Serif/Roman",
+    "subtype": "Didone (Modern)"
+  },
+  "_annotations": {
+    "metadata.title": {
+      "readability": "Readable",
+      "correction": "CHIMIE ORGANIQUE DES ALCALIS ORGANIQUES"
+    },
+    "metadata.title_complement": {
+      "readability": "Not readable",
+      "cause": "absent",
+      "correction": ""
+    },
+    "metadata.volume_number": {
+      "readability": "Not readable",
+      "cause": "absent"
+    },
+    "metadata.authors": {
+      "readability": "Readable",
+      "correction": "Edme BOURGOIN"
+    },
+    "metadata.publisher": {
+      "readability": "Readable"
+    },
+    "metadata.publication_place": {
+      "readability": "Readable"
+    },
+    "metadata.date": {
+      "readability": "Readable",
+      "correction": "1869"
+    },
+    "language": {
+      "readability": "Readable"
+    },
+    "metadata.identifier": {
+      "readability": "Readable"
+    },
+    "metadata.iiif_manifest": {
+      "readability": "Readable"
+    },
+    "ark": {
+      "readability": "Readable"
+    }
+  },
+  "language": "fr (French)"
+}

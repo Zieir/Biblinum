@@ -1,0 +1,56 @@
+{
+  "metadata": {
+    "title": "MÉMORIAL PRATIQUE DU CHIMISTE-MANUFACTURIER",
+    "title_complement": "RÉCUEIL DE PROCÉDÉS D'ARTS ET DE MANUFACTURES",
+    "volume_number": "TOME I",
+    "authors": "M. Colin",
+    "publisher": "BARROIS L'AINE, LIBRAIRE",
+    "publication_place": "PARIS",
+    "date": "1824",
+    "identifier": "http://gallica.bnf.fr/ark:/12148/bpt6k91864h",
+    "iiif_manifest": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k91864h/manifest.json"
+  },
+  "ark": "bpt6k91864h",
+  "typographie": {
+    "category": "Serif/Roman",
+    "subtype": "Didone (Modern)"
+  },
+  "_annotations": {
+    "metadata.title": {
+      "readability": "Not readable",
+      "cause": "covered"
+    },
+    "metadata.title_complement": {
+      "readability": "Readable"
+    },
+    "metadata.volume_number": {
+      "readability": "Readable"
+    },
+    "metadata.authors": {
+      "readability": "Readable",
+      "correction": "M. Colin"
+    },
+    "metadata.publisher": {
+      "readability": "Readable"
+    },
+    "metadata.publication_place": {
+      "readability": "Readable"
+    },
+    "metadata.date": {
+      "readability": "Readable"
+    },
+    "language": {
+      "readability": "Readable"
+    },
+    "metadata.identifier": {
+      "readability": "Readable"
+    },
+    "metadata.iiif_manifest": {
+      "readability": "Readable"
+    },
+    "ark": {
+      "readability": "Readable"
+    }
+  },
+  "language": "fr (French)"
+}

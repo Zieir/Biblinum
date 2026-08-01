@@ -1,0 +1,60 @@
+{
+  "metadata": {
+    "title": "CONFÉRENCES Faites au laboratoire de M. FRIEDEL",
+    "title_complement": "1888-1889",
+    "volume_number": "SECOND FASCICULE",
+    "authors": "C. CHABRIÉ; G. PATEIN; V. AUGER; A. BÉHAL; A. COMBES",
+    "publisher": "GEORGES CARRÉ",
+    "publication_place": "PARIS",
+    "date": "1891",
+    "identifier": "http://gallica.bnf.fr/ark:/12148/bpt6k90441h",
+    "iiif_manifest": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k90441h/manifest.json"
+  },
+  "ark": "bpt6k90441h",
+  "typographie": {
+    "category": "Serif/Roman",
+    "subtype": "Modern (Didone)"
+  },
+  "_annotations": {
+    "metadata.title": {
+      "readability": "Readable",
+      "correction": "CONFÉRENCES Faites au laboratoire de M. FRIEDEL"
+    },
+    "metadata.title_complement": {
+      "readability": "Readable",
+      "correction": "1888-1889"
+    },
+    "metadata.volume_number": {
+      "readability": "Readable",
+      "correction": "SECOND FASCICULE"
+    },
+    "metadata.authors": {
+      "readability": "Readable",
+      "correction": "C. CHABRIÉ; G. PATEIN; V. AUGER; A. BÉHAL; A. COMBES"
+    },
+    "metadata.publisher": {
+      "readability": "Readable",
+      "correction": "GEORGES CARRÉ"
+    },
+    "metadata.publication_place": {
+      "readability": "Readable"
+    },
+    "metadata.date": {
+      "readability": "Readable",
+      "correction": "1891"
+    },
+    "language": {
+      "readability": "Readable"
+    },
+    "metadata.identifier": {
+      "readability": "Readable"
+    },
+    "metadata.iiif_manifest": {
+      "readability": "Readable"
+    },
+    "ark": {
+      "readability": "Readable"
+    }
+  },
+  "language": "fr (French)"
+}

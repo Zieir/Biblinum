@@ -1,0 +1,15 @@
+{
+    "processing_time_seconds": 3.14,
+    "metadata": {
+        "title": "LEÇONS DE CHIMIE GÉNÉRALE",
+        "title_complement": "ÉLÉMENTAIRE",
+        "volume_number": "TOME SECOND",
+        "authors": "Auguste Pelouze",
+        "publisher": "MALLET-BACHELIER, IMPRIMEUR-LIBRAIRE",
+        "publication_place": "PARIS",
+        "date": "1856",
+        "identifier": "http://gallica.bnf.fr/ark:/12148/bpt6k90264m",
+        "iiif_manifest": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k90264m/manifest.json"
+    },
+    "ark": "bpt6k90264m"
+}

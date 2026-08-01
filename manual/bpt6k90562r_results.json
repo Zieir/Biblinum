@@ -1,0 +1,60 @@
+{
+  "metadata": {
+    "title": "HET VAN 'T HOFF-MONUMENT",
+    "title_complement": "TE ROTTERDAM",
+    "volume_number": "",
+    "authors": "",
+    "publisher": "NAAMLOOZE VENNOOTSCHAP ; VAN SELDAM",
+    "publication_place": "AMSTERDAM",
+    "date": "",
+    "identifier": "http://gallica.bnf.fr/ark:/12148/bpt6k90562r",
+    "iiif_manifest": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k90562r/manifest.json"
+  },
+  "ark": "bpt6k90562r",
+  "typographie": {
+    "category": "Sans-serif",
+    "subtype": "Grotesque"
+  },
+  "_annotations": {
+    "metadata.title": {
+      "readability": "Readable",
+      "correction": "HET VAN 'T HOFF-MONUMENT"
+    },
+    "metadata.title_complement": {
+      "readability": "Readable"
+    },
+    "metadata.volume_number": {
+      "readability": "Not readable",
+      "cause": "absent"
+    },
+    "metadata.authors": {
+      "readability": "Not readable",
+      "cause": "absent"
+    },
+    "metadata.publisher": {
+      "readability": "Readable",
+      "correction": "Naamlooze Vennootschap ;  Van Seldam"
+    },
+    "metadata.publication_place": {
+      "readability": "Readable",
+      "correction": "Amsterdam"
+    },
+    "metadata.date": {
+      "readability": "Not readable",
+      "cause": "absent"
+    },
+    "language": {
+      "readability": "Readable"
+    },
+    "metadata.identifier": {
+      "readability": "Readable"
+    },
+    "metadata.iiif_manifest": {
+      "readability": "Readable"
+    },
+    "ark": {
+      "readability": "Readable"
+    }
+  },
+  "language": "dut | néerlandais"
+}

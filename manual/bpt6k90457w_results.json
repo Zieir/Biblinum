@@ -1,0 +1,58 @@
+{
+  "metadata": {
+    "title": "ELEMENTS OF CHEMISTRY",
+    "title_complement": "including the applications of the science in the arts",
+    "volume_number": "VOL. I",
+    "authors": "Thomas GRAHAM",
+    "publisher": "HIPPOLYTE BAILLIÈRE; J.-B BAILLIÈRE; BAILLY-BAILLIÈRE",
+    "publication_place": "LONDON; PARIS; MADRID",
+    "date": "1850",
+    "identifier": "http://gallica.bnf.fr/ark:/12148/bpt6k90457w",
+    "iiif_manifest": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k90457w/manifest.json"
+  },
+  "ark": "bpt6k90457w",
+  "typographie": {
+    "category": "Serif/Roman",
+    "subtype": "Modern / Didone"
+  },
+  "_annotations": {
+    "metadata.title": {
+      "readability": "Readable"
+    },
+    "metadata.title_complement": {
+      "readability": "Readable",
+      "correction": "including the applications of the science in the arts"
+    },
+    "metadata.volume_number": {
+      "readability": "Readable"
+    },
+    "metadata.authors": {
+      "readability": "Readable",
+      "correction": "Thomas GRAHAM"
+    },
+    "metadata.publisher": {
+      "readability": "Readable",
+      "correction": "HIPPOLYTE BAILLIÈRE; J.-B BAILLIÈRE; BAILLY-BAILLIÈRE "
+    },
+    "metadata.publication_place": {
+      "readability": "Readable",
+      "correction": "LONDON; PARIS; MADRID "
+    },
+    "metadata.date": {
+      "readability": "Readable"
+    },
+    "language": {
+      "readability": "Readable"
+    },
+    "metadata.identifier": {
+      "readability": "Readable"
+    },
+    "metadata.iiif_manifest": {
+      "readability": "Readable"
+    },
+    "ark": {
+      "readability": "Readable"
+    }
+  },
+  "language": "en (English)"
+}

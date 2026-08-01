@@ -1,0 +1,62 @@
+{
+  "metadata": {
+    "title": "A DICTIONARY OF APPLIED CHEMISTRY",
+    "title_complement": "",
+    "volume_number": "VOL. I.",
+    "authors": "EDWARD THORPE",
+    "publisher": "LONGMANS, GREEN, AND CO.",
+    "publication_place": "LONDON; NEW-YORK; BOMBAY; CALCUTTA; MADRAS",
+    "date": "1921",
+    "identifier": "http://gallica.bnf.fr/ark:/12148/bpt6k901154",
+    "iiif_manifest": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k901154/manifest.json"
+  },
+  "ark": "bpt6k901154",
+  "typographie": {
+    "category": "Serif/Roman",
+    "subtype": "Transitional / Modern (Didone influence)"
+  },
+  "_annotations": {
+    "metadata.title": {
+      "readability": "Readable",
+      "correction": "A DICTIONARY OF APPLIED CHEMISTRY"
+    },
+    "metadata.title_complement": {
+      "readability": "Not readable",
+      "cause": "absent",
+      "correction": ""
+    },
+    "metadata.volume_number": {
+      "readability": "Readable"
+    },
+    "metadata.authors": {
+      "readability": "Readable",
+      "correction": "EDWARD THORPE"
+    },
+    "metadata.publisher": {
+      "readability": "Readable",
+      "correction": "LONGMANS, GREEN, AND CO."
+    },
+    "metadata.publication_place": {
+      "readability": "Not readable",
+      "cause": "quality",
+      "correction": "LONDON; NEW-YORK; BOMBAY; CALCUTTA; MADRAS"
+    },
+    "metadata.date": {
+      "readability": "Readable",
+      "correction": "1921"
+    },
+    "language": {
+      "readability": "Readable"
+    },
+    "metadata.identifier": {
+      "readability": "Readable"
+    },
+    "metadata.iiif_manifest": {
+      "readability": "Readable"
+    },
+    "ark": {
+      "readability": "Readable"
+    }
+  },
+  "language": "en (English)"
+}

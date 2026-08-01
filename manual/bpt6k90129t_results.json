@@ -1,0 +1,57 @@
+{
+  "metadata": {
+    "title": "PRINCIPES DE LA CHIMIE ÉTABLIS PAR LES EXPÉRIENCES;",
+    "title_complement": "OU ESSAI SUR LES PROPORTIONS DÉFINIES DANS LA COMPOSITION DES CORPS",
+    "volume_number": "TOME SECOND",
+    "authors": "TH. THOMSON",
+    "publisher": "CREVOT, LIBRAIRE-ÉDITEUR",
+    "publication_place": "PARIS",
+    "date": "1825",
+    "identifier": "http://gallica.bnf.fr/ark:/12148/bpt6k90129t",
+    "iiif_manifest": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k90129t/manifest.json"
+  },
+  "ark": "bpt6k90129t",
+  "typographie": {
+    "category": "Serif/Roman",
+    "subtype": "Didone (Modern)"
+  },
+  "_annotations": {
+    "metadata.title": {
+      "readability": "Readable",
+      "correction": "PRINCIPES DE LA CHIMIE ÉTABLIS PAR LES EXPÉRIENCES;"
+    },
+    "metadata.title_complement": {
+      "readability": "Readable",
+      "correction": "OU ESSAI SUR LES PROPORTIONS DÉFINIES DANS LA COMPOSITION DES CORPS"
+    },
+    "metadata.volume_number": {
+      "readability": "Readable"
+    },
+    "metadata.authors": {
+      "readability": "Readable",
+      "correction": "TH. THOMSON"
+    },
+    "metadata.publisher": {
+      "readability": "Readable"
+    },
+    "metadata.publication_place": {
+      "readability": "Readable"
+    },
+    "metadata.date": {
+      "readability": "Readable"
+    },
+    "language": {
+      "readability": "Readable"
+    },
+    "metadata.identifier": {
+      "readability": "Readable"
+    },
+    "metadata.iiif_manifest": {
+      "readability": "Readable"
+    },
+    "ark": {
+      "readability": "Readable"
+    }
+  },
+  "language": "fr (French)"
+}

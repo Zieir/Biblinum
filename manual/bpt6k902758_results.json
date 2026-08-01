@@ -1,0 +1,62 @@
+{
+  "metadata": {
+    "title": "CONSIDÉRATIONS GÉNÉRALES SUR L'ANALYSE ORGANIQUE ET SUR SES APPLICATIONS",
+    "title_complement": "",
+    "volume_number": "",
+    "authors": "M.-E. CHEVREUL",
+    "publisher": "F.-G LEVRAULT",
+    "publication_place": "PARIS; STRASBOURG",
+    "date": "1824",
+    "identifier": "http://gallica.bnf.fr/ark:/12148/bpt6k902758",
+    "iiif_manifest": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k902758/manifest.json"
+  },
+  "ark": "bpt6k902758",
+  "typographie": {
+    "category": "Serif/Roman",
+    "subtype": "Didone (Modern)"
+  },
+  "_annotations": {
+    "metadata.title": {
+      "readability": "Readable",
+      "correction": "CONSIDÉRATIONS GÉNÉRALES SUR L'ANALYSE ORGANIQUE ET SUR SES APPLICATIONS"
+    },
+    "metadata.title_complement": {
+      "readability": "Not readable",
+      "cause": "absent",
+      "correction": ""
+    },
+    "metadata.volume_number": {
+      "readability": "Not readable",
+      "cause": "absent"
+    },
+    "metadata.authors": {
+      "readability": "Readable",
+      "correction": "M.-E. CHEVREUL"
+    },
+    "metadata.publisher": {
+      "readability": "Readable",
+      "correction": "F.-G LEVRAULT"
+    },
+    "metadata.publication_place": {
+      "readability": "Readable",
+      "correction": "PARIS; STRASBOURG"
+    },
+    "metadata.date": {
+      "readability": "Readable",
+      "correction": "1824"
+    },
+    "language": {
+      "readability": "Readable"
+    },
+    "metadata.identifier": {
+      "readability": "Readable"
+    },
+    "metadata.iiif_manifest": {
+      "readability": "Readable"
+    },
+    "ark": {
+      "readability": "Readable"
+    }
+  },
+  "language": "fr (French)"
+}

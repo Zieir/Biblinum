@@ -1,0 +1,60 @@
+{
+  "metadata": {
+    "title": "Introduction à la CHIMIE MODERNE",
+    "title_complement": "RÉSUMÉ DES OUVRAGES ET DES TRAVAUX RÉCENTS DES CHIMISTES FRANÇAIS ET ALLEMANDS",
+    "volume_number": "",
+    "authors": "G. BRÉLAZ",
+    "publisher": "LIBRAIRIE VICTOR MASSON ET FILS; LIBRAIRIE JAQUES CHANTRENS",
+    "publication_place": "PARIS; LAUSANNE",
+    "date": "1868",
+    "identifier": "http://gallica.bnf.fr/ark:/12148/bpt6k90597d",
+    "iiif_manifest": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k90597d/manifest.json"
+  },
+  "ark": "bpt6k90597d",
+  "typographie": {
+    "category": "Serif/Roman",
+    "subtype": "Didone (Modern)"
+  },
+  "_annotations": {
+    "metadata.title": {
+      "readability": "Not readable",
+      "cause": "covered",
+      "correction": "Introduction à la CHIMIE MODERNE"
+    },
+    "metadata.title_complement": {
+      "readability": "Readable"
+    },
+    "metadata.volume_number": {
+      "readability": "Not readable",
+      "cause": "absent"
+    },
+    "metadata.authors": {
+      "readability": "Readable",
+      "correction": "G. BRÉLAZ"
+    },
+    "metadata.publisher": {
+      "readability": "Readable",
+      "correction": "LIBRAIRIE VICTOR MASSON ET FILS; Librairie Jaques Chantrens"
+    },
+    "metadata.publication_place": {
+      "readability": "Readable",
+      "correction": "PARIS; Lausanne"
+    },
+    "metadata.date": {
+      "readability": "Readable"
+    },
+    "language": {
+      "readability": "Readable"
+    },
+    "metadata.identifier": {
+      "readability": "Readable"
+    },
+    "metadata.iiif_manifest": {
+      "readability": "Readable"
+    },
+    "ark": {
+      "readability": "Readable"
+    }
+  },
+  "language": "fr (French)"
+}

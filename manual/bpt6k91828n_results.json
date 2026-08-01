@@ -1,0 +1,59 @@
+{
+  "metadata": {
+    "title": "BERICHT ÜBER DIE ENTWICKELUNG DER CHEMISCHEN INDUSTRIE WÄHREND DES LETZTEN JAHRZEHENDS",
+    "title_complement": "IM VEREIN MIT FREUNDEN UND FACHGENOSSEN",
+    "volume_number": "",
+    "authors": "A. W. HOFMANN",
+    "publisher": "FRIEDRICH VIEWEG UND SOHN",
+    "publication_place": "BRAUNSCHWEIG",
+    "date": "1875",
+    "identifier": "http://gallica.bnf.fr/ark:/12148/bpt6k91828n",
+    "iiif_manifest": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k91828n/manifest.json"
+  },
+  "ark": "bpt6k91828n",
+  "typographie": {
+    "category": "Serif/Roman",
+    "subtype": "Didone (Modern)"
+  },
+  "_annotations": {
+    "metadata.title": {
+      "readability": "Readable",
+      "correction": "BERICHT ÜBER DIE ENTWICKELUNG DER CHEMISCHEN INDUSTRIE WÄHREND DES LETZTEN JAHRZEHENDS"
+    },
+    "metadata.title_complement": {
+      "readability": "Readable",
+      "correction": "IM VEREIN MIT FREUNDEN UND FACHGENOSSEN"
+    },
+    "metadata.volume_number": {
+      "readability": "Not readable",
+      "cause": "absent"
+    },
+    "metadata.authors": {
+      "readability": "Readable",
+      "correction": "A. W. HOFMANN"
+    },
+    "metadata.publisher": {
+      "readability": "Readable",
+      "correction": "FRIEDRICH VIEWEG UND SOHN"
+    },
+    "metadata.publication_place": {
+      "readability": "Readable"
+    },
+    "metadata.date": {
+      "readability": "Readable"
+    },
+    "language": {
+      "readability": "Readable"
+    },
+    "metadata.identifier": {
+      "readability": "Readable"
+    },
+    "metadata.iiif_manifest": {
+      "readability": "Readable"
+    },
+    "ark": {
+      "readability": "Readable"
+    }
+  },
+  "language": "de (German)"
+}

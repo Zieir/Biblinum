@@ -1,0 +1,56 @@
+{
+  "metadata": {
+    "title": "GRUNDRISS DER KOLLOIDCHEMIE",
+    "title_complement": "",
+    "volume_number": "ERSTE HÄLFTE",
+    "authors": "WO. OSTWALD; THOMAS GRAHAM",
+    "publisher": "THEODOR STEINKOPFF",
+    "publication_place": "DRESDEN UND LEIPZIG",
+    "date": "1919",
+    "identifier": "http://gallica.bnf.fr/ark:/12148/bpt6k91885g",
+    "iiif_manifest": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k91885g/manifest.json"
+  },
+  "ark": "bpt6k91885g",
+  "typographie": {
+    "category": "Serif/Roman",
+    "subtype": "Slab Serif (Egyptian)"
+  },
+  "_annotations": {
+    "metadata.title": {
+      "readability": "Readable"
+    },
+    "metadata.title_complement": {
+      "readability": "Not readable",
+      "cause": "absent"
+    },
+    "metadata.volume_number": {
+      "readability": "Readable"
+    },
+    "metadata.authors": {
+      "readability": "Readable",
+      "correction": "WO. OSTWALD; THOMAS GRAHAM"
+    },
+    "metadata.publisher": {
+      "readability": "Readable"
+    },
+    "metadata.publication_place": {
+      "readability": "Readable"
+    },
+    "metadata.date": {
+      "readability": "Readable"
+    },
+    "language": {
+      "readability": "Readable"
+    },
+    "metadata.identifier": {
+      "readability": "Readable"
+    },
+    "metadata.iiif_manifest": {
+      "readability": "Readable"
+    },
+    "ark": {
+      "readability": "Readable"
+    }
+  },
+  "language": "de (German)"
+}

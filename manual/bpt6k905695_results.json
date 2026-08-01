@@ -1,0 +1,59 @@
+{
+  "metadata": {
+    "title": "MINNESFESTEN ÖFVER BERZELIUS",
+    "title_complement": "den 7 oktober 1898",
+    "volume_number": "",
+    "authors": "",
+    "publisher": "P. A. NORSTEDT & SÖNERS FÖRLAG",
+    "publication_place": "",
+    "date": "1898",
+    "identifier": "http://gallica.bnf.fr/ark:/12148/bpt6k905695",
+    "iiif_manifest": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k905695/manifest.json"
+  },
+  "ark": "bpt6k905695",
+  "typographie": {
+    "category": "Serif/Roman",
+    "subtype": "Didone (Modern)"
+  },
+  "_annotations": {
+    "metadata.title": {
+      "readability": "Readable",
+      "correction": "MINNESFESTEN ÖFVER BERZELIUS"
+    },
+    "metadata.title_complement": {
+      "readability": "Readable",
+      "correction": "den 7 oktober 1898"
+    },
+    "metadata.volume_number": {
+      "readability": "Not readable",
+      "cause": "absent"
+    },
+    "metadata.authors": {
+      "readability": "Not readable",
+      "cause": "absent"
+    },
+    "metadata.publisher": {
+      "readability": "Readable"
+    },
+    "metadata.publication_place": {
+      "readability": "Not readable",
+      "cause": "absent"
+    },
+    "metadata.date": {
+      "readability": "Readable"
+    },
+    "language": {
+      "readability": "Readable"
+    },
+    "metadata.identifier": {
+      "readability": "Readable"
+    },
+    "metadata.iiif_manifest": {
+      "readability": "Readable"
+    },
+    "ark": {
+      "readability": "Readable"
+    }
+  },
+  "language": "sv (Swedish)"
+}

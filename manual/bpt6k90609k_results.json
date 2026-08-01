@@ -1,0 +1,61 @@
+{
+  "metadata": {
+    "title": "ÉCOLE CENTRALE DES ARTS ET MANUFACTURES",
+    "title_complement": "1829 - 1879",
+    "volume_number": "",
+    "authors": "",
+    "publisher": "",
+    "publication_place": "",
+    "date": "1879",
+    "identifier": "http://gallica.bnf.fr/ark:/12148/bpt6k90609k",
+    "iiif_manifest": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k90609k/manifest.json"
+  },
+  "ark": "bpt6k90609k",
+  "typographie": {
+    "category": "Serif/Roman",
+    "subtype": "Slab Serif (Egyptian)"
+  },
+  "_annotations": {
+    "metadata.title": {
+      "readability": "Readable",
+      "correction": "ÉCOLE CENTRALE DES ARTS ET MANUFACTURES"
+    },
+    "metadata.title_complement": {
+      "readability": "Readable",
+      "correction": "1829 - 1879"
+    },
+    "metadata.volume_number": {
+      "readability": "Not readable",
+      "cause": "absent"
+    },
+    "metadata.authors": {
+      "readability": "Not readable",
+      "cause": "absent"
+    },
+    "metadata.publisher": {
+      "readability": "Not readable",
+      "cause": "absent",
+      "correction": ""
+    },
+    "metadata.publication_place": {
+      "readability": "Not readable",
+      "cause": "absent"
+    },
+    "metadata.date": {
+      "readability": "Readable"
+    },
+    "language": {
+      "readability": "Readable"
+    },
+    "metadata.identifier": {
+      "readability": "Readable"
+    },
+    "metadata.iiif_manifest": {
+      "readability": "Readable"
+    },
+    "ark": {
+      "readability": "Readable"
+    }
+  },
+  "language": "fr (French)"
+}

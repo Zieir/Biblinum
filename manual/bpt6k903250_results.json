@@ -1,0 +1,64 @@
+{
+  "metadata": {
+    "title": "COURS DE CHIMIE AGRICOLE",
+    "title_complement": "",
+    "volume_number": "",
+    "authors": "F. Malaguti",
+    "publisher": "IMPR. DE OBERTHÜR",
+    "publication_place": "RENNES",
+    "date": "1858",
+    "identifier": "http://gallica.bnf.fr/ark:/12148/bpt6k903250",
+    "iiif_manifest": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k903250/manifest.json"
+  },
+  "ark": "bpt6k903250",
+  "typographie": {
+    "category": "Serif/Roman",
+    "subtype": "Slab Serif (Egyptian)"
+  },
+  "_annotations": {
+    "metadata.title": {
+      "readability": "Readable"
+    },
+    "metadata.title_complement": {
+      "readability": "Not readable",
+      "cause": "absent"
+    },
+    "metadata.volume_number": {
+      "readability": "Not readable",
+      "cause": "quality"
+    },
+    "metadata.authors": {
+      "readability": "Not readable",
+      "cause": "quality",
+      "correction": "F. Malaguti"
+    },
+    "metadata.publisher": {
+      "readability": "Not readable",
+      "cause": "quality",
+      "correction": "impr. de Oberthür"
+    },
+    "metadata.publication_place": {
+      "readability": "Not readable",
+      "cause": "quality",
+      "correction": "RENNES"
+    },
+    "metadata.date": {
+      "readability": "Not readable",
+      "cause": "quality",
+      "correction": "1858"
+    },
+    "language": {
+      "readability": "Readable"
+    },
+    "metadata.identifier": {
+      "readability": "Readable"
+    },
+    "metadata.iiif_manifest": {
+      "readability": "Readable"
+    },
+    "ark": {
+      "readability": "Readable"
+    }
+  },
+  "language": "fr (French)"
+}

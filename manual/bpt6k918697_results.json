@@ -1,0 +1,60 @@
+{
+  "metadata": {
+    "title": "TRAITÉ DE LA FABRICATION DU SUCRE",
+    "title_complement": "Comprenant la culture des plantes saccharines, l'extraction du sucre brut, le raffinage, le traitement des mélasses, la distillation et les opérations relatives au travail des salins et potasses, l'analyse des matières utiles à la culture et à la fabrication, etc., etc.",
+    "volume_number": "TOME II",
+    "authors": "E.-J. MAUMENÉ",
+    "publisher": "DUNOD",
+    "publication_place": "PARIS",
+    "date": "1878",
+    "identifier": "http://gallica.bnf.fr/ark:/12148/bpt6k918697",
+    "iiif_manifest": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k918697/manifest.json"
+  },
+  "ark": "bpt6k918697",
+  "typographie": {
+    "category": "Serif/Roman",
+    "subtype": "Modern (Didone)"
+  },
+  "_annotations": {
+    "metadata.title": {
+      "readability": "Readable"
+    },
+    "metadata.title_complement": {
+      "readability": "Readable",
+      "correction": "Comprenant la culture des plantes saccharines, l'extraction du sucre brut, le raffinage, le traitement des mélasses, la distillation et les opérations relatives au travail des salins et potasses, l'analyse des matières utiles à la culture et à la fabrication, etc., etc."
+    },
+    "metadata.volume_number": {
+      "readability": "Readable",
+      "correction": "TOME II"
+    },
+    "metadata.authors": {
+      "readability": "Readable",
+      "correction": "E.-J. MAUMENÉ"
+    },
+    "metadata.publisher": {
+      "readability": "Readable",
+      "correction": "DUNOD"
+    },
+    "metadata.publication_place": {
+      "readability": "Readable",
+      "correction": "PARIS"
+    },
+    "metadata.date": {
+      "readability": "Readable",
+      "correction": "1878"
+    },
+    "language": {
+      "readability": "Readable"
+    },
+    "metadata.identifier": {
+      "readability": "Readable"
+    },
+    "metadata.iiif_manifest": {
+      "readability": "Readable"
+    },
+    "ark": {
+      "readability": "Readable"
+    }
+  },
+  "language": "fr (French)"
+}

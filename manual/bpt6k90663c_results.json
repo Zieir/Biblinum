@@ -1,0 +1,58 @@
+{
+  "metadata": {
+    "title": "HISTOIRE DE LA CHIMIE",
+    "title_complement": "",
+    "volume_number": "TOME SECOND",
+    "authors": "Raoul JAGNAUX",
+    "publisher": "LIBRAIRIE POLYTECHNIQUE, BAUDRY ET C^IE",
+    "publication_place": "PARIS",
+    "date": "1891",
+    "identifier": "http://gallica.bnf.fr/ark:/12148/bpt6k90663c",
+    "iiif_manifest": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k90663c/manifest.json"
+  },
+  "ark": "bpt6k90663c",
+  "typographie": {
+    "category": "Serif/Roman",
+    "subtype": "Didone (Modern)"
+  },
+  "_annotations": {
+    "metadata.title": {
+      "readability": "Readable"
+    },
+    "metadata.title_complement": {
+      "readability": "Not readable",
+      "cause": "absent"
+    },
+    "metadata.volume_number": {
+      "readability": "Readable"
+    },
+    "metadata.authors": {
+      "readability": "Readable",
+      "correction": "Raoul JAGNAUX"
+    },
+    "metadata.publisher": {
+      "readability": "Readable"
+    },
+    "metadata.publication_place": {
+      "readability": "Readable"
+    },
+    "metadata.date": {
+      "readability": "Not readable",
+      "cause": "quality",
+      "correction": "1891"
+    },
+    "language": {
+      "readability": "Readable"
+    },
+    "metadata.identifier": {
+      "readability": "Readable"
+    },
+    "metadata.iiif_manifest": {
+      "readability": "Readable"
+    },
+    "ark": {
+      "readability": "Readable"
+    }
+  },
+  "language": "fr (French)"
+}

@@ -1,0 +1,57 @@
+{
+  "metadata": {
+    "title": "A MANUAL OF CHEMICAL ANALYSIS QUALITATIVE AND QUANTITATIVE",
+    "title_complement": "for the use of students.",
+    "volume_number": "PART I",
+    "authors": "HENRY M. NOAD",
+    "publisher": "L. REEVE AND CO.",
+    "publication_place": "LONDON",
+    "date": "1870",
+    "identifier": "http://gallica.bnf.fr/ark:/12148/bpt6k90555g",
+    "iiif_manifest": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k90555g/manifest.json"
+  },
+  "ark": "bpt6k90555g",
+  "typographie": {
+    "category": "Serif/Roman",
+    "subtype": "Modern / Didone"
+  },
+  "_annotations": {
+    "metadata.title": {
+      "readability": "Readable",
+      "correction": "A MANUAL OF CHEMICAL ANALYSIS QUALITATIVE AND QUANTITATIVE"
+    },
+    "metadata.title_complement": {
+      "readability": "Readable",
+      "correction": "for the use of students."
+    },
+    "metadata.volume_number": {
+      "readability": "Readable"
+    },
+    "metadata.authors": {
+      "readability": "Readable",
+      "correction": "HENRY M. NOAD"
+    },
+    "metadata.publisher": {
+      "readability": "Readable"
+    },
+    "metadata.publication_place": {
+      "readability": "Readable"
+    },
+    "metadata.date": {
+      "readability": "Readable"
+    },
+    "language": {
+      "readability": "Readable"
+    },
+    "metadata.identifier": {
+      "readability": "Readable"
+    },
+    "metadata.iiif_manifest": {
+      "readability": "Readable"
+    },
+    "ark": {
+      "readability": "Readable"
+    }
+  },
+  "language": "en (English)"
+}

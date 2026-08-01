@@ -1,0 +1,58 @@
+{
+  "metadata": {
+    "title": "LE CHIMISTE DIZÉ",
+    "title_complement": "SA VIE — SES TRAVAUX",
+    "volume_number": "",
+    "authors": "A. PILLAS; A. BALLAND",
+    "publisher": "J.-B. BAILLIÈRE ET FILS",
+    "publication_place": "PARIS",
+    "date": "1906",
+    "identifier": "http://gallica.bnf.fr/ark:/12148/bpt6k90042r",
+    "iiif_manifest": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k90042r/manifest.json"
+  },
+  "ark": "bpt6k90042r",
+  "typographie": {
+    "category": "Serif/Roman",
+    "subtype": "Old Style / Transitional"
+  },
+  "_annotations": {
+    "metadata.title": {
+      "readability": "Readable"
+    },
+    "metadata.title_complement": {
+      "readability": "Readable"
+    },
+    "metadata.volume_number": {
+      "readability": "Not readable",
+      "cause": "absent"
+    },
+    "metadata.authors": {
+      "readability": "Readable",
+      "correction": "A. PILLAS; A. BALLAND"
+    },
+    "metadata.publisher": {
+      "readability": "Readable",
+      "correction": "J.-B. Baillière et fils "
+    },
+    "metadata.publication_place": {
+      "readability": "Readable",
+      "correction": "PARIS"
+    },
+    "metadata.date": {
+      "readability": "Readable"
+    },
+    "language": {
+      "readability": "Readable"
+    },
+    "metadata.identifier": {
+      "readability": "Readable"
+    },
+    "metadata.iiif_manifest": {
+      "readability": "Readable"
+    },
+    "ark": {
+      "readability": "Readable"
+    }
+  },
+  "language": "fr (French)"
+}

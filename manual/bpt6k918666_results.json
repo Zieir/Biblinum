@@ -1,0 +1,55 @@
+{
+  "metadata": {
+    "title": "MÉMORIAL PRATIQUE DU CHIMISTE-MANUFACTURIER",
+    "title_complement": "RECUEIL DE PROCÉDÉS D'ARTS ET DE MANUFACTURES",
+    "volume_number": "TOME III",
+    "authors": "COLIN MACKENZIE",
+    "publisher": "BARROIS L'AINE, LIBRAIRE",
+    "publication_place": "PARIS",
+    "date": "1825",
+    "identifier": "http://gallica.bnf.fr/ark:/12148/bpt6k918666",
+    "iiif_manifest": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k918666/manifest.json"
+  },
+  "ark": "bpt6k918666",
+  "typographie": {
+    "category": "Serif/Roman",
+    "subtype": "Didone (Modern)"
+  },
+  "_annotations": {
+    "metadata.title": {
+      "readability": "Readable"
+    },
+    "metadata.title_complement": {
+      "readability": "Readable"
+    },
+    "metadata.volume_number": {
+      "readability": "Readable"
+    },
+    "metadata.authors": {
+      "readability": "Readable",
+      "correction": "COLIN MACKENZIE"
+    },
+    "metadata.publisher": {
+      "readability": "Readable"
+    },
+    "metadata.publication_place": {
+      "readability": "Readable"
+    },
+    "metadata.date": {
+      "readability": "Readable"
+    },
+    "language": {
+      "readability": "Readable"
+    },
+    "metadata.identifier": {
+      "readability": "Readable"
+    },
+    "metadata.iiif_manifest": {
+      "readability": "Readable"
+    },
+    "ark": {
+      "readability": "Readable"
+    }
+  },
+  "language": "fr (French)"
+}

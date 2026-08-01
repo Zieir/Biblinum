@@ -1,0 +1,61 @@
+{
+  "metadata": {
+    "title": "Supplément à la traduction française de la 5e édition du Système de chimie",
+    "title_complement": "",
+    "volume_number": "",
+    "authors": "Thomson, Th.",
+    "publisher": "MÉQUIGNON-MARVIS",
+    "publication_place": "PARIS",
+    "date": "1822",
+    "identifier": "http://gallica.bnf.fr/ark:/12148/bpt6k90123r",
+    "iiif_manifest": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k90123r/manifest.json"
+  },
+  "ark": "bpt6k90123r",
+  "typographie": {
+    "category": "Script",
+    "subtype": "Cursive"
+  },
+  "_annotations": {
+    "metadata.title": {
+      "readability": "Not readable",
+      "cause": "covered",
+      "correction": "Supplément à la traduction française de la 5e édition du Système de chimie"
+    },
+    "metadata.title_complement": {
+      "readability": "Not readable",
+      "cause": "absent",
+      "correction": ""
+    },
+    "metadata.volume_number": {
+      "readability": "Not readable",
+      "cause": "absent"
+    },
+    "metadata.authors": {
+      "readability": "Not readable",
+      "cause": "covered",
+      "correction": "Thomson, Th."
+    },
+    "metadata.publisher": {
+      "readability": "Readable"
+    },
+    "metadata.publication_place": {
+      "readability": "Readable"
+    },
+    "metadata.date": {
+      "readability": "Readable"
+    },
+    "language": {
+      "readability": "Readable"
+    },
+    "metadata.identifier": {
+      "readability": "Readable"
+    },
+    "metadata.iiif_manifest": {
+      "readability": "Readable"
+    },
+    "ark": {
+      "readability": "Readable"
+    }
+  },
+  "language": "fr (French)"
+}

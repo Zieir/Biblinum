@@ -1,0 +1,61 @@
+{
+  "metadata": {
+    "title": "JUBILEE OF THE DISCOVERY OF MAUVE",
+    "title_complement": "AND OF THE FOUNDATION OF THE COAL-TAR COLOUR INDUSTRY",
+    "volume_number": "",
+    "authors": "W. H. Perkin",
+    "publisher": "GEORGE EDWARD WRIGHT; THE PERKIN MEMORIAL COMMITTEE",
+    "publication_place": "LONDON",
+    "date": "",
+    "identifier": "http://gallica.bnf.fr/ark:/12148/bpt6k905486",
+    "iiif_manifest": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k905486/manifest.json"
+  },
+  "ark": "bpt6k905486",
+  "typographie": {
+    "category": "Serif/Roman",
+    "subtype": "Transitional / Modern"
+  },
+  "_annotations": {
+    "metadata.title": {
+      "readability": "Readable",
+      "correction": "JUBILEE OF THE DISCOVERY OF MAUVE"
+    },
+    "metadata.title_complement": {
+      "readability": "Readable",
+      "correction": "AND OF THE FOUNDATION OF THE COAL-TAR COLOUR INDUSTRY"
+    },
+    "metadata.volume_number": {
+      "readability": "Not readable",
+      "cause": "absent"
+    },
+    "metadata.authors": {
+      "readability": "Readable",
+      "correction": "W. H. Perkin"
+    },
+    "metadata.publisher": {
+      "readability": "Readable",
+      "correction": "GEORGE EDWARD WRIGHT; THE PERKIN MEMORIAL COMMITTEE"
+    },
+    "metadata.publication_place": {
+      "readability": "Readable",
+      "correction": "LONDON"
+    },
+    "metadata.date": {
+      "readability": "Not readable",
+      "cause": "absent"
+    },
+    "language": {
+      "readability": "Readable"
+    },
+    "metadata.identifier": {
+      "readability": "Readable"
+    },
+    "metadata.iiif_manifest": {
+      "readability": "Readable"
+    },
+    "ark": {
+      "readability": "Readable"
+    }
+  },
+  "language": "en (English)"
+}

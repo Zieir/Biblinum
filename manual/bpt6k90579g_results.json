@@ -1,0 +1,58 @@
+{
+  "metadata": {
+    "title": "Lettres historiques sur la chimie,",
+    "title_complement": " adressées à M. le professeur Courty",
+    "volume_number": "",
+    "authors": "A. BÉCHAMP",
+    "publisher": "G. MASSON, ÉDITEUR",
+    "publication_place": "PARIS",
+    "date": "1876",
+    "identifier": "http://gallica.bnf.fr/ark:/12148/bpt6k90579g",
+    "iiif_manifest": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k90579g/manifest.json"
+  },
+  "ark": "bpt6k90579g",
+  "typographie": {
+    "category": "Serif/Roman",
+    "subtype": "Modern (Didone)"
+  },
+  "_annotations": {
+    "metadata.title": {
+      "readability": "Readable",
+      "correction": "Lettres historiques sur la chimie,"
+    },
+    "metadata.title_complement": {
+      "readability": "Readable",
+      "correction": " adressées à M. le professeur Courty"
+    },
+    "metadata.volume_number": {
+      "readability": "Not readable",
+      "cause": "absent"
+    },
+    "metadata.authors": {
+      "readability": "Readable",
+      "correction": "A. BÉCHAMP"
+    },
+    "metadata.publisher": {
+      "readability": "Readable"
+    },
+    "metadata.publication_place": {
+      "readability": "Readable"
+    },
+    "metadata.date": {
+      "readability": "Readable"
+    },
+    "language": {
+      "readability": "Readable"
+    },
+    "metadata.identifier": {
+      "readability": "Readable"
+    },
+    "metadata.iiif_manifest": {
+      "readability": "Readable"
+    },
+    "ark": {
+      "readability": "Readable"
+    }
+  },
+  "language": "fr (French)"
+}

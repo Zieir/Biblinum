@@ -1,0 +1,59 @@
+{
+  "metadata": {
+    "title": "HISTOIRE DU DÉVELOPPEMENT DE LA CHIMIE",
+    "title_complement": "DEPUIS LAVOISIER JUSQU'A NOS JOURS",
+    "volume_number": "",
+    "authors": "A. LADENBURG",
+    "publisher": "A. HERMANN",
+    "publication_place": "PARIS",
+    "date": "1909",
+    "identifier": "http://gallica.bnf.fr/ark:/12148/bpt6k91843j",
+    "iiif_manifest": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k91843j/manifest.json"
+  },
+  "ark": "bpt6k91843j",
+  "typographie": {
+    "category": "Serif/Roman",
+    "subtype": "Modern (Didone)"
+  },
+  "_annotations": {
+    "metadata.title": {
+      "readability": "Readable"
+    },
+    "metadata.title_complement": {
+      "readability": "Readable"
+    },
+    "metadata.volume_number": {
+      "readability": "Not readable",
+      "cause": "absent"
+    },
+    "metadata.authors": {
+      "readability": "Readable",
+      "correction": "A. LADENBURG"
+    },
+    "metadata.publisher": {
+      "readability": "Readable",
+      "correction": "A. HERMANN"
+    },
+    "metadata.publication_place": {
+      "readability": "Readable",
+      "correction": "PARIS"
+    },
+    "metadata.date": {
+      "readability": "Readable",
+      "correction": "1909"
+    },
+    "language": {
+      "readability": "Readable"
+    },
+    "metadata.identifier": {
+      "readability": "Readable"
+    },
+    "metadata.iiif_manifest": {
+      "readability": "Readable"
+    },
+    "ark": {
+      "readability": "Readable"
+    }
+  },
+  "language": "fr (French)"
+}

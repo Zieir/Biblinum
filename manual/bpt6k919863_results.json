@@ -1,0 +1,57 @@
+{
+  "metadata": {
+    "title": "DÉMONSTRATION EXPÉRIMENTALE SUR L'ALBUMINE",
+    "title_complement": "et sur les substances inorganiques qui l'accompagnent",
+    "volume_number": "",
+    "authors": "P.-S. DENIS",
+    "publisher": "IMPRIMERIE DE C.-F. DENIS",
+    "publication_place": "COMMERCY",
+    "date": "1839",
+    "identifier": "http://gallica.bnf.fr/ark:/12148/bpt6k919863",
+    "iiif_manifest": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k919863/manifest.json"
+  },
+  "ark": "bpt6k919863",
+  "typographie": {
+    "category": "Serif/Roman",
+    "subtype": "Modern Italic"
+  },
+  "_annotations": {
+    "metadata.title": {
+      "readability": "Readable"
+    },
+    "metadata.title_complement": {
+      "readability": "Readable"
+    },
+    "metadata.volume_number": {
+      "readability": "Not readable",
+      "cause": "absent"
+    },
+    "metadata.authors": {
+      "readability": "Not readable",
+      "cause": "quality",
+      "correction": "P.-S. DENIS"
+    },
+    "metadata.publisher": {
+      "readability": "Readable"
+    },
+    "metadata.publication_place": {
+      "readability": "Readable"
+    },
+    "metadata.date": {
+      "readability": "Readable"
+    },
+    "language": {
+      "readability": "Readable"
+    },
+    "metadata.identifier": {
+      "readability": "Readable"
+    },
+    "metadata.iiif_manifest": {
+      "readability": "Readable"
+    },
+    "ark": {
+      "readability": "Readable"
+    }
+  },
+  "language": "fr (French)"
+}

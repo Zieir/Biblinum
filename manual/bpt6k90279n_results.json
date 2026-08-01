@@ -1,0 +1,60 @@
+{
+  "metadata": {
+    "title": "COURS DE CHIMIE",
+    "title_complement": "comprenant l'histoire des sels, la chimie végétale et animale",
+    "volume_number": "TOME SECOND",
+    "authors": "GAY-LUSSAC",
+    "publisher": "PICHON ET DIDIER",
+    "publication_place": "PARIS",
+    "date": "1828",
+    "identifier": "http://gallica.bnf.fr/ark:/12148/bpt6k90279n",
+    "iiif_manifest": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k90279n/manifest.json"
+  },
+  "ark": "bpt6k90279n",
+  "typographie": {
+    "category": "Serif/Roman",
+    "subtype": "Modern (Didone)"
+  },
+  "_annotations": {
+    "metadata.title": {
+      "readability": "Readable"
+    },
+    "metadata.title_complement": {
+      "readability": "Readable",
+      "correction": "comprenant l'histoire des sels, la chimie végétale et animale"
+    },
+    "metadata.volume_number": {
+      "readability": "Readable",
+      "correction": "TOME SECOND"
+    },
+    "metadata.authors": {
+      "readability": "Readable",
+      "correction": "GAY-LUSSAC"
+    },
+    "metadata.publisher": {
+      "readability": "Readable",
+      "correction": "PICHON ET DIDIER"
+    },
+    "metadata.publication_place": {
+      "readability": "Readable",
+      "correction": "PARIS"
+    },
+    "metadata.date": {
+      "readability": "Readable",
+      "correction": "1828"
+    },
+    "language": {
+      "readability": "Readable"
+    },
+    "metadata.identifier": {
+      "readability": "Readable"
+    },
+    "metadata.iiif_manifest": {
+      "readability": "Readable"
+    },
+    "ark": {
+      "readability": "Readable"
+    }
+  },
+  "language": "fr (French)"
+}

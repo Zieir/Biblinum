@@ -1,0 +1,57 @@
+{
+  "metadata": {
+    "title": "Geschichte Der Chemie",
+    "title_complement": "",
+    "volume_number": "Dritter Theil",
+    "authors": "Hermann Kopp",
+    "publisher": "FRIEDRICH VIEWEG UND SOHN",
+    "publication_place": "BRAUNSCHWEIG",
+    "date": "1845",
+    "identifier": "http://gallica.bnf.fr/ark:/12148/bpt6k90664q",
+    "iiif_manifest": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k90664q/manifest.json"
+  },
+  "ark": "bpt6k90664q",
+  "typographie": {
+    "category": "Blackletter",
+    "subtype": "Fraktur"
+  },
+  "_annotations": {
+    "metadata.title": {
+      "readability": "Not readable",
+      "cause": "covered"
+    },
+    "metadata.title_complement": {
+      "readability": "Not readable",
+      "cause": "absent"
+    },
+    "metadata.volume_number": {
+      "readability": "Readable"
+    },
+    "metadata.authors": {
+      "readability": "Readable"
+    },
+    "metadata.publisher": {
+      "readability": "Readable",
+      "correction": "Friedrich Vieweg und Sohn"
+    },
+    "metadata.publication_place": {
+      "readability": "Readable"
+    },
+    "metadata.date": {
+      "readability": "Readable"
+    },
+    "language": {
+      "readability": "Readable"
+    },
+    "metadata.identifier": {
+      "readability": "Readable"
+    },
+    "metadata.iiif_manifest": {
+      "readability": "Readable"
+    },
+    "ark": {
+      "readability": "Readable"
+    }
+  },
+  "language": "de (German)"
+}

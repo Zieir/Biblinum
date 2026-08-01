@@ -1,0 +1,57 @@
+{
+  "metadata": {
+    "title": "ROSCOES-SCHORLEMMER'S AUSFÜHRLICHES LEHRBUCH DER CHEMIE",
+    "title_complement": "DIE KOHLENWASSERSTOFFE UND IHRE DERIVATE ODER ORGANISCHE CHEMIE",
+    "volume_number": "ACHTER BAND, SECHSTER THEIL",
+    "authors": "JUL. WILH. BRÜHL; EDVARD HJELT; OSSIAN ASCHAN",
+    "publisher": "FRIEDRICH VIEWEG UND SOHN",
+    "publication_place": "BRAUNSCHWEIG",
+    "date": "1901",
+    "identifier": "http://gallica.bnf.fr/ark:/12148/bpt6k919534/f3.item",
+    "iiif_manifest": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k919534/manifest.json"
+  },
+  "ark": "bpt6k919534",
+  "typographie": {
+    "category": "Serif/Roman",
+    "subtype": "Modern / Didone"
+  },
+  "_annotations": {
+    "metadata.title": {
+      "readability": "Readable",
+      "correction": "ROSCOES-SCHORLEMMER'S AUSFÜHRLICHES LEHRBUCH DER CHEMIE"
+    },
+    "metadata.title_complement": {
+      "readability": "Readable"
+    },
+    "metadata.volume_number": {
+      "readability": "Readable",
+      "correction": "ACHTER BAND, SECHSTER THEIL"
+    },
+    "metadata.authors": {
+      "readability": "Readable",
+      "correction": "JUL. WILH. BRÜHL; EDVARD HJELT; OSSIAN ASCHAN"
+    },
+    "metadata.publisher": {
+      "readability": "Readable"
+    },
+    "metadata.publication_place": {
+      "readability": "Readable"
+    },
+    "metadata.date": {
+      "readability": "Readable"
+    },
+    "language": {
+      "readability": "Readable"
+    },
+    "metadata.identifier": {
+      "readability": "Readable"
+    },
+    "metadata.iiif_manifest": {
+      "readability": "Readable"
+    },
+    "ark": {
+      "readability": "Readable"
+    }
+  },
+  "language": "de (German)"
+}

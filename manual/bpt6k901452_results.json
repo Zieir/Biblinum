@@ -1,0 +1,59 @@
+{
+  "metadata": {
+    "title": "APERÇU SYSTÉMATIQUE DES COMBINAISONS DITES INORGANIQUES",
+    "title_complement": "",
+    "volume_number": "",
+    "authors": "C. WELTZIEN",
+    "publisher": "C. REINWALD ; F. BASSERMANN",
+    "publication_place": "PARIS ; HEIDELBERG",
+    "date": "1867",
+    "identifier": "http://gallica.bnf.fr/ark:/12148/bpt6k901452",
+    "iiif_manifest": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k901452/manifest.json"
+  },
+  "ark": "bpt6k901452",
+  "typographie": {
+    "category": "Serif/Roman",
+    "subtype": "Slab Serif (Egyptian)"
+  },
+  "_annotations": {
+    "metadata.title": {
+      "readability": "Readable",
+      "correction": "APERÇU SYSTÉMATIQUE DES COMBINAISONS DITES INORGANIQUES"
+    },
+    "metadata.title_complement": {
+      "readability": "Not readable",
+      "cause": "absent",
+      "correction": ""
+    },
+    "metadata.volume_number": {
+      "readability": "Not readable",
+      "cause": "absent"
+    },
+    "metadata.authors": {
+      "readability": "Readable",
+      "correction": "C. WELTZIEN"
+    },
+    "metadata.publisher": {
+      "readability": "Readable"
+    },
+    "metadata.publication_place": {
+      "readability": "Readable"
+    },
+    "metadata.date": {
+      "readability": "Readable"
+    },
+    "language": {
+      "readability": "Readable"
+    },
+    "metadata.identifier": {
+      "readability": "Readable"
+    },
+    "metadata.iiif_manifest": {
+      "readability": "Readable"
+    },
+    "ark": {
+      "readability": "Readable"
+    }
+  },
+  "language": "fr (French)"
+}

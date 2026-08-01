@@ -1,0 +1,59 @@
+{
+  "metadata": {
+    "title": "BREF",
+    "title_complement": "BREFVÄXLING MELLAN BERZELIUS OCH THOMAS THOMSON (1813-1825)",
+    "volume_number": "VI",
+    "authors": "Jac. Berzelius",
+    "publisher": "KUNGL. SVENSKA VETENSKAPSAKADEMIEN",
+    "publication_place": "",
+    "date": "",
+    "identifier": "http://gallica.bnf.fr/ark:/12148/bpt6k901065",
+    "iiif_manifest": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k901065/manifest.json"
+  },
+  "ark": "bpt6k901065",
+  "typographie": {
+    "category": "Serif/Roman",
+    "subtype": "Didone (Modern)"
+  },
+  "_annotations": {
+    "metadata.title": {
+      "readability": "Readable",
+      "correction": "BREF"
+    },
+    "metadata.title_complement": {
+      "readability": "Readable"
+    },
+    "metadata.volume_number": {
+      "readability": "Readable"
+    },
+    "metadata.authors": {
+      "readability": "Readable",
+      "correction": "Jac. Berzelius"
+    },
+    "metadata.publisher": {
+      "readability": "Readable"
+    },
+    "metadata.publication_place": {
+      "readability": "Not readable",
+      "cause": "absent"
+    },
+    "metadata.date": {
+      "readability": "Not readable",
+      "cause": "absent"
+    },
+    "language": {
+      "readability": "Readable"
+    },
+    "_note": "A revoir",
+    "metadata.identifier": {
+      "readability": "Readable"
+    },
+    "metadata.iiif_manifest": {
+      "readability": "Readable"
+    },
+    "ark": {
+      "readability": "Readable"
+    }
+  },
+  "language": "sv (Swedish)"
+}

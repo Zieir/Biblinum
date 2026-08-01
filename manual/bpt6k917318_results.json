@@ -1,0 +1,56 @@
+{
+  "metadata": {
+    "title": "CONTRIBUTION A L'HISTOIRE DE LA CHIMIE",
+    "title_complement": "A PROPOS DU LIVRE DE M. LADENBURG SUR L'HISTOIRE DU DÉVELOPPEMENT DE LA CHIMIE DEPUIS LAVOISIER",
+    "volume_number": "",
+    "authors": "A. COLSON",
+    "publisher": "LIBRAIRIE SCIENTIFIQUE A. HERMANN ET FILS",
+    "publication_place": "PARIS",
+    "date": "1910",
+    "identifier": "http://gallica.bnf.fr/ark:/12148/bpt6k917318",
+    "iiif_manifest": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k917318/manifest.json"
+  },
+  "ark": "bpt6k917318",
+  "typographie": {
+    "category": "Serif/Roman",
+    "subtype": "Transitional / Modern (Didone influence)"
+  },
+  "_annotations": {
+    "metadata.title": {
+      "readability": "Readable"
+    },
+    "metadata.title_complement": {
+      "readability": "Readable"
+    },
+    "metadata.volume_number": {
+      "readability": "Not readable",
+      "cause": "absent"
+    },
+    "metadata.authors": {
+      "readability": "Readable",
+      "correction": "A. COLSON"
+    },
+    "metadata.publisher": {
+      "readability": "Readable"
+    },
+    "metadata.publication_place": {
+      "readability": "Readable"
+    },
+    "metadata.date": {
+      "readability": "Readable"
+    },
+    "language": {
+      "readability": "Readable"
+    },
+    "metadata.identifier": {
+      "readability": "Readable"
+    },
+    "metadata.iiif_manifest": {
+      "readability": "Readable"
+    },
+    "ark": {
+      "readability": "Readable"
+    }
+  },
+  "language": "fr (French)"
+}

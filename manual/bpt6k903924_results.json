@@ -1,0 +1,56 @@
+{
+  "metadata": {
+    "title": "MANUAL OF CHEMISTRY",
+    "title_complement": "CONTAINING THE PRINCIPAL FACTS OF THE SCIENCE, ARRANGED IN THE ORDERS IN WHICH THEY ARE DISCUSSED AND ILLUSTRATED IN THE LECTURES AT THE ROYAL INSTITUTION OF GREAT BRITAIN",
+    "volume_number": "VOL. I.",
+    "authors": " William Thomas Brande",
+    "publisher": "JOHN MURRAY",
+    "publication_place": "LONDON",
+    "date": "1821",
+    "identifier": "http://gallica.bnf.fr/ark:/12148/bpt6k903924",
+    "iiif_manifest": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k903924/manifest.json"
+  },
+  "ark": "bpt6k903924",
+  "typographie": {
+    "category": "Serif/Roman",
+    "subtype": "Modern (Didone)"
+  },
+  "_annotations": {
+    "metadata.title": {
+      "readability": "Readable"
+    },
+    "metadata.title_complement": {
+      "readability": "Readable"
+    },
+    "metadata.volume_number": {
+      "readability": "Readable"
+    },
+    "metadata.authors": {
+      "readability": "Not readable",
+      "cause": "covered",
+      "correction": " William Thomas Brande"
+    },
+    "metadata.publisher": {
+      "readability": "Readable"
+    },
+    "metadata.publication_place": {
+      "readability": "Readable"
+    },
+    "metadata.date": {
+      "readability": "Readable"
+    },
+    "language": {
+      "readability": "Readable"
+    },
+    "metadata.identifier": {
+      "readability": "Readable"
+    },
+    "metadata.iiif_manifest": {
+      "readability": "Readable"
+    },
+    "ark": {
+      "readability": "Readable"
+    }
+  },
+  "language": "en (English)"
+}

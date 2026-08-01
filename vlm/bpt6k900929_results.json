@@ -1,0 +1,15 @@
+{
+    "processing_time_seconds": 2.5,
+    "metadata": {
+        "title": "Kleyers Encyklopädie der gesamten mathematischen, technischen und exakten Natur-Wissenschaften",
+        "title_complement": "Lehrbuch der anorganischen reinen und technischen Chemie (Experimental-Chemie)",
+        "volume_number": "",
+        "authors": "Steffen, Wilh.",
+        "publisher": "",
+        "publication_place": "",
+        "date": "",
+        "identifier": "http://gallica.bnf.fr/ark:/12148/bpt6k900929",
+        "iiif_manifest": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k900929/manifest.json"
+    },
+    "ark": "bpt6k900929"
+}

@@ -1,0 +1,61 @@
+{
+  "metadata": {
+    "title": "TRAITÉ ÉLÉMENTAIRE DE PHYSIQUE THÉORIQUE ET EXPÉRIMENTALE",
+    "title_complement": " avec les applications à la météorologie et aux arts industriels",
+    "volume_number": "TOME SECOND",
+    "authors": "P.-A. Daguin",
+    "publisher": "ÉDOUARD PRIVAT; DEZOBRY & E. MAGDELEINE",
+    "publication_place": "TOULOUSE; PARIS",
+    "date": "1856",
+    "identifier": "http://gallica.bnf.fr/ark:/12148/bpt6k90310z",
+    "iiif_manifest": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k90310z/manifest.json"
+  },
+  "ark": "bpt6k90310z",
+  "typographie": {
+    "category": "Serif/Roman",
+    "subtype": "Didone (Modern)"
+  },
+  "_annotations": {
+    "metadata.title": {
+      "readability": "Readable",
+      "correction": "TRAITÉ ÉLÉMENTAIRE DE PHYSIQUE THÉORIQUE ET EXPÉRIMENTALE"
+    },
+    "metadata.title_complement": {
+      "readability": "Readable",
+      "correction": " avec les applications à la météorologie et aux arts industriels"
+    },
+    "metadata.volume_number": {
+      "readability": "Readable",
+      "correction": "TOME SECOND"
+    },
+    "metadata.authors": {
+      "readability": "Readable",
+      "correction": "P.-A. Daguin"
+    },
+    "metadata.publisher": {
+      "readability": "Readable",
+      "correction": "ÉDOUARD PRIVAT; DEZOBRY & E. MAGDELEINE"
+    },
+    "metadata.publication_place": {
+      "readability": "Readable",
+      "correction": "TOULOUSE; PARIS"
+    },
+    "metadata.date": {
+      "readability": "Readable",
+      "correction": "1856"
+    },
+    "language": {
+      "readability": "Readable"
+    },
+    "metadata.identifier": {
+      "readability": "Readable"
+    },
+    "metadata.iiif_manifest": {
+      "readability": "Readable"
+    },
+    "ark": {
+      "readability": "Readable"
+    }
+  },
+  "language": "fr (French)"
+}

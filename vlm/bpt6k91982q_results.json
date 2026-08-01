@@ -1,0 +1,15 @@
+{
+    "processing_time_seconds": 4.35,
+    "metadata": {
+        "title": "TRAITÉ ÉLÉMENTAIRE DE PHYSIQUE",
+        "title_complement": "THÉORIQUE ET EXPÉRIMENTALE AVEC LES APPLICATIONS A LA MÉTÉOROLOGIE ET AUX ARTS INDUSTRIELS",
+        "volume_number": "TOME PREMIER",
+        "authors": "DAGUIN, P. A.",
+        "publisher": "ÉDOUARD PRIVAT ; DEZOBRY & E. MAGDELEINE",
+        "publication_place": "TOULOUSE ; PARIS",
+        "date": "1864",
+        "identifier": "http://gallica.bnf.fr/ark:/12148/bpt6k91982q",
+        "iiif_manifest": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k91982q/manifest.json"
+    },
+    "ark": "bpt6k91982q"
+}

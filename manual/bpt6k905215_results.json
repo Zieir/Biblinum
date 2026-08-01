@@ -1,0 +1,57 @@
+{
+  "metadata": {
+    "title": "DICTIONNAIRE DES ARTS ET MANUFACTURES DE L'AGRICULTURE, DES MINES, ETC.",
+    "title_complement": "description des procédés de l'industrie française et étrangère",
+    "volume_number": "H-Z",
+    "authors": "CH. LABOULAYE",
+    "publisher": "LIBRAIRIE DU DICTIONNAIRE DES ARTS ET MANUFACTURES",
+    "publication_place": "PARIS",
+    "date": "1870",
+    "identifier": "http://gallica.bnf.fr/ark:/12148/bpt6k905215",
+    "iiif_manifest": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k905215/manifest.json"
+  },
+  "ark": "bpt6k905215",
+  "typographie": {
+    "category": "Serif/Roman",
+    "subtype": "Didone (Modern)"
+  },
+  "_annotations": {
+    "metadata.title": {
+      "readability": "Readable",
+      "correction": "DICTIONNAIRE DES ARTS ET MANUFACTURES DE L'AGRICULTURE, DES MINES, ETC."
+    },
+    "metadata.title_complement": {
+      "readability": "Readable",
+      "correction": "description des procédés de l'industrie française et étrangère"
+    },
+    "metadata.volume_number": {
+      "readability": "Readable"
+    },
+    "metadata.authors": {
+      "readability": "Readable",
+      "correction": "CH. LABOULAYE"
+    },
+    "metadata.publisher": {
+      "readability": "Readable"
+    },
+    "metadata.publication_place": {
+      "readability": "Readable"
+    },
+    "metadata.date": {
+      "readability": "Readable"
+    },
+    "language": {
+      "readability": "Readable"
+    },
+    "metadata.identifier": {
+      "readability": "Readable"
+    },
+    "metadata.iiif_manifest": {
+      "readability": "Readable"
+    },
+    "ark": {
+      "readability": "Readable"
+    }
+  },
+  "language": "fr (French)"
+}

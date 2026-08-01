@@ -1,0 +1,61 @@
+{
+  "metadata": {
+    "title": "TRAITÉ DE CHIMIE ANATOMIQUE ET PHYSIOLOGIQUE NORMALE ET PATHOLOGIQUE ",
+    "title_complement": "OU DES PRINCIPES IMMÉDIATS NORMAUX ET MORBIDES QUI CONSTITUENT LE CORPS DE L'HOMME ET DES MAMMIFÈRES",
+    "volume_number": "TOME DEUXIÈME",
+    "authors": "Charles ROBIN; F. Verdeil",
+    "publisher": "J.-B. BAILLIÈRE; H. BAILLIÈRE; H. BAILLIÈRE; C. BAILLY BAILLIÈRE",
+    "publication_place": "PARIS; LONDRES; NEW-YORK; MADRID",
+    "date": "1853",
+    "identifier": "http://gallica.bnf.fr/ark:/12148/bpt6k900611",
+    "iiif_manifest": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k900611/manifest.json"
+  },
+  "ark": "bpt6k900611",
+  "typographie": {
+    "category": "Serif/Roman",
+    "subtype": "Didone (Modern)"
+  },
+  "_annotations": {
+    "metadata.title": {
+      "readability": "Readable",
+      "correction": "TRAITÉ DE CHIMIE ANATOMIQUE ET PHYSIOLOGIQUE NORMALE ET PATHOLOGIQUE "
+    },
+    "metadata.title_complement": {
+      "readability": "Readable",
+      "correction": "OU DES PRINCIPES IMMÉDIATS NORMAUX ET MORBIDES QUI CONSTITUENT LE CORPS DE L'HOMME ET DES MAMMIFÈRES"
+    },
+    "metadata.volume_number": {
+      "readability": "Readable"
+    },
+    "metadata.authors": {
+      "readability": "Readable",
+      "correction": "Charles ROBIN; F. Verdeil"
+    },
+    "metadata.publisher": {
+      "readability": "Readable",
+      "correction": "J.-B. Baillière; H. Baillière; H. Baillière; C. BAILLY Baillière "
+    },
+    "metadata.publication_place": {
+      "readability": "Readable",
+      "correction": "PARIS; LONDRES; NEW-YORK; MADRID"
+    },
+    "metadata.date": {
+      "readability": "Not readable",
+      "cause": "quality",
+      "correction": "1853"
+    },
+    "language": {
+      "readability": "Readable"
+    },
+    "metadata.identifier": {
+      "readability": "Readable"
+    },
+    "metadata.iiif_manifest": {
+      "readability": "Readable"
+    },
+    "ark": {
+      "readability": "Readable"
+    }
+  },
+  "language": "fr (French)"
+}

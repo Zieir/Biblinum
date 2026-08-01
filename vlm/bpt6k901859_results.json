@@ -1,0 +1,15 @@
+{
+    "processing_time_seconds": 1.53,
+    "metadata": {
+        "title": "Œuvres complètes",
+        "title_complement": "",
+        "volume_number": "Tome V",
+        "authors": "Cauchy, Augustin",
+        "publisher": "Gauthier-Villars",
+        "publication_place": "Paris",
+        "date": "1885",
+        "identifier": "http://gallica.bnf.fr/ark:/12148/bpt6k901859",
+        "iiif_manifest": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k901859/manifest.json"
+    },
+    "ark": "bpt6k901859"
+}

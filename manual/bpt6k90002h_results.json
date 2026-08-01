@@ -1,0 +1,57 @@
+{
+  "metadata": {
+    "title": "A TREATISE ON THE PRINCIPLES OF CHEMISTRY",
+    "title_complement": "",
+    "volume_number": "",
+    "authors": "M. M. Pattison MUIR",
+    "publisher": "UNIVERSITY PRESS",
+    "publication_place": "CAMBRIDGE",
+    "date": "1884",
+    "identifier": "http://gallica.bnf.fr/ark:/12148/bpt6k90002h",
+    "iiif_manifest": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k90002h/manifest.json"
+  },
+  "ark": "bpt6k90002h",
+  "typographie": {
+    "category": "Serif/Roman",
+    "subtype": "Modern / Didone"
+  },
+  "_annotations": {
+    "metadata.title": {
+      "readability": "Readable"
+    },
+    "metadata.title_complement": {
+      "readability": "Not readable",
+      "cause": "absent"
+    },
+    "metadata.volume_number": {
+      "readability": "Not readable",
+      "cause": "absent"
+    },
+    "metadata.authors": {
+      "readability": "Readable",
+      "correction": "M. M. Pattison MUIR"
+    },
+    "metadata.publisher": {
+      "readability": "Readable"
+    },
+    "metadata.publication_place": {
+      "readability": "Readable"
+    },
+    "metadata.date": {
+      "readability": "Readable"
+    },
+    "language": {
+      "readability": "Readable"
+    },
+    "metadata.identifier": {
+      "readability": "Readable"
+    },
+    "metadata.iiif_manifest": {
+      "readability": "Readable"
+    },
+    "ark": {
+      "readability": "Readable"
+    }
+  },
+  "language": "en (English)"
+}

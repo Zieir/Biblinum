@@ -1,0 +1,59 @@
+{
+  "metadata": {
+    "title": "RAPPORT ANNUEL SUR LES PROGRÈS DES SCIENCES PHYSIQUES ET CHIMIQUES",
+    "title_complement": "présenté le 31 mars 1840 à l'Académie royale des sciences de Stockholm",
+    "volume_number": "",
+    "authors": "J. BERZELIUS",
+    "publisher": "FORTIN, MASSON ET CIE",
+    "publication_place": "PARIS",
+    "date": "1841",
+    "identifier": "http://gallica.bnf.fr/ark:/12148/bpt6k905873",
+    "iiif_manifest": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k905873/manifest.json"
+  },
+  "ark": "bpt6k905873",
+  "typographie": {
+    "category": "",
+    "subtype": ""
+  },
+  "_annotations": {
+    "metadata.title": {
+      "readability": "Not readable",
+      "cause": "covered",
+      "correction": "RAPPORT ANNUEL SUR LES PROGRÈS DES SCIENCES PHYSIQUES ET CHIMIQUES"
+    },
+    "metadata.title_complement": {
+      "readability": "Readable",
+      "correction": "présenté le 31 mars 1840 à l'Académie royale des sciences de Stockholm"
+    },
+    "metadata.volume_number": {
+      "readability": "Not readable",
+      "cause": "absent"
+    },
+    "metadata.authors": {
+      "readability": "Readable",
+      "correction": "J. BERZELIUS"
+    },
+    "metadata.publisher": {
+      "readability": "Readable"
+    },
+    "metadata.publication_place": {
+      "readability": "Readable"
+    },
+    "metadata.date": {
+      "readability": "Readable"
+    },
+    "language": {
+      "readability": "Readable"
+    },
+    "metadata.identifier": {
+      "readability": "Readable"
+    },
+    "metadata.iiif_manifest": {
+      "readability": "Readable"
+    },
+    "ark": {
+      "readability": "Readable"
+    }
+  },
+  "language": "fr (French)"
+}

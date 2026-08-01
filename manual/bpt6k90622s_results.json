@@ -1,0 +1,59 @@
+{
+  "metadata": {
+    "title": "TRAITÉ DE CHIMIE",
+    "title_complement": "APPLIQUÉE AUX ARTS",
+    "volume_number": "TOME PREMIER",
+    "authors": "DUMAS",
+    "publisher": "BÉCHET JEUNE; DÉPOT GÉNÉRAL DE LA LIBRAIRIE MÉDICALE FRANÇAISE",
+    "publication_place": "PARIS; BRUXELLES",
+    "date": "1828",
+    "identifier": "http://gallica.bnf.fr/ark:/12148/bpt6k90622s",
+    "iiif_manifest": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k90622s/manifest.json"
+  },
+  "ark": "bpt6k90622s",
+  "typographie": {
+    "category": "Serif/Roman",
+    "subtype": "Didone (Modern)"
+  },
+  "_annotations": {
+    "metadata.title": {
+      "readability": "Readable"
+    },
+    "metadata.title_complement": {
+      "readability": "Readable"
+    },
+    "metadata.volume_number": {
+      "readability": "Readable",
+      "correction": "TOME PREMIER"
+    },
+    "metadata.authors": {
+      "readability": "Readable",
+      "correction": "DUMAS"
+    },
+    "metadata.publisher": {
+      "readability": "Readable",
+      "correction": "Béchet jeune; Dépot général de la librairie médicale française"
+    },
+    "metadata.publication_place": {
+      "readability": "Readable",
+      "correction": "PARIS; BRUXELLES"
+    },
+    "metadata.date": {
+      "readability": "Readable",
+      "correction": "1828"
+    },
+    "language": {
+      "readability": "Readable"
+    },
+    "metadata.identifier": {
+      "readability": "Readable"
+    },
+    "metadata.iiif_manifest": {
+      "readability": "Readable"
+    },
+    "ark": {
+      "readability": "Readable"
+    }
+  },
+  "language": "fr (French)"
+}

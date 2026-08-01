@@ -1,0 +1,62 @@
+{
+  "metadata": {
+    "title": "La théorie de Maxwell et les oscillations Hertziennes",
+    "title_complement": "",
+    "volume_number": "",
+    "authors": "H. Poincaré",
+    "publisher": "GEORGES CARRÉ & C. NAUD",
+    "publication_place": "",
+    "date": "",
+    "identifier": "http://gallica.bnf.fr/ark:/12148/bpt6k90336n",
+    "iiif_manifest": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k90336n/manifest.json"
+  },
+  "ark": "bpt6k90336n",
+  "typographie": {
+    "category": "Serif/Roman",
+    "subtype": "Modern (Didone)"
+  },
+  "_annotations": {
+    "metadata.title": {
+      "readability": "Readable",
+      "correction": "La théorie de Maxwell et les oscillations Hertziennes"
+    },
+    "metadata.title_complement": {
+      "readability": "Not readable",
+      "cause": "absent",
+      "correction": ""
+    },
+    "metadata.volume_number": {
+      "readability": "Not readable",
+      "cause": "absent"
+    },
+    "metadata.authors": {
+      "readability": "Readable",
+      "correction": "H. Poincaré"
+    },
+    "metadata.publisher": {
+      "readability": "Readable",
+      "correction": "Georges CARRÉ & C. NAUD"
+    },
+    "metadata.publication_place": {
+      "readability": "Not readable",
+      "cause": "absent"
+    },
+    "metadata.date": {
+      "readability": "Not readable",
+      "cause": "absent"
+    },
+    "language": {
+      "readability": "Readable"
+    },
+    "metadata.identifier": {
+      "readability": "Readable"
+    },
+    "metadata.iiif_manifest": {
+      "readability": "Readable"
+    },
+    "ark": {
+      "readability": "Readable"
+    }
+  },
+  "language": "fr (French)"
+}

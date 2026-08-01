@@ -1,0 +1,57 @@
+{
+  "metadata": {
+    "title": "Investigación Vinícola",
+    "title_complement": "INFORMES  presentados al ministro de agricultura",
+    "volume_number": "TOMO I—NÚM. 1",
+    "authors": "Pedro N. Arata ; Ulises Isola",
+    "publisher": "OFFICINA METEOROLOGICA ARGENTINA",
+    "publication_place": "BUENOS AIRES",
+    "date": "1903",
+    "identifier": "http://gallica.bnf.fr/ark:/12148/bpt6k91688z",
+    "iiif_manifest": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k91688z/manifest.json"
+  },
+  "ark": "bpt6k91688z",
+  "typographie": {
+    "category": "Serif/Roman",
+    "subtype": "Old Style / Transitional"
+  },
+  "_annotations": {
+    "metadata.title": {
+      "readability": "Readable"
+    },
+    "metadata.title_complement": {
+      "readability": "Readable",
+      "correction": "INFORMES  presentados al ministro de agricultura"
+    },
+    "metadata.volume_number": {
+      "readability": "Readable"
+    },
+    "metadata.authors": {
+      "readability": "Readable",
+      "correction": "Pedro N. Arata ; Ulises Isola"
+    },
+    "metadata.publisher": {
+      "readability": "Readable",
+      "correction": "Officina meteorologica argentina"
+    },
+    "metadata.publication_place": {
+      "readability": "Readable"
+    },
+    "metadata.date": {
+      "readability": "Readable"
+    },
+    "language": {
+      "readability": "Readable"
+    },
+    "metadata.identifier": {
+      "readability": "Readable"
+    },
+    "metadata.iiif_manifest": {
+      "readability": "Readable"
+    },
+    "ark": {
+      "readability": "Readable"
+    }
+  },
+  "language": "es (Spanish)"
+}

@@ -1,0 +1,58 @@
+{
+    "metadata": {
+        "title": "ФИЗИКО-ХИМЕСКИЯ ТЕОРІИ",
+        "title_complement": "",
+        "volume_number": "",
+        "authors": "Ю. С. Залькинда ; В. И. Ярковскаго",
+        "publisher": "ИЗДАНІЕ И. Н. БАЗЛОВИДЗ",
+        "publication_place": "С-ПЕТЕРБУРГЪ",
+        "date": "1908",
+        "identifier": "http://gallica.bnf.fr/ark:/12148/bpt6k91907z",
+        "iiif_manifest": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k91907z/manifest.json"
+    },
+    "ark": "bpt6k91907z",
+    "typographie": {
+        "category": "Serif/Roman",
+        "subtype": "Transitional / Modern (Cyrillic)"
+    },
+    "_annotations": {
+        "metadata.title": {
+            "readability": "Readable"
+        },
+        "metadata.title_complement": {
+            "readability": "Not readable",
+            "cause": "absent"
+        },
+        "metadata.volume_number": {
+            "readability": "Not readable",
+            "cause": "absent"
+        },
+        "metadata.authors": {
+            "readability": "Readable",
+            "correction": "Ю. С. Залькинда ; В. И. Ярковскаго"
+        },
+        "metadata.publisher": {
+            "readability": "Readable"
+        },
+        "metadata.publication_place": {
+            "readability": "Readable"
+        },
+        "metadata.date": {
+            "readability": "Readable"
+        },
+        "language": {
+            "readability": "Readable"
+        },
+        "_note": "A revoir TODO",
+        "metadata.identifier": {
+            "readability": "Readable"
+        },
+        "metadata.iiif_manifest": {
+            "readability": "Readable"
+        },
+        "ark": {
+            "readability": "Readable"
+        }
+    },
+    "language": "ru (Russian)"
+}

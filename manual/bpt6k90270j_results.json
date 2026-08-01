@@ -1,0 +1,60 @@
+{
+  "metadata": {
+    "title": "INSTRUCTION SUR L'ESSAI DES MATIÈRES D'ARGENT PAR LA VOIE HUMIDE",
+    "title_complement": "",
+    "volume_number": "",
+    "authors": "GAY-LUSSAC",
+    "publisher": "L'IMPRIMERIE ROYALE",
+    "publication_place": "PARIS",
+    "date": "1832",
+    "identifier": "http://gallica.bnf.fr/ark:/12148/bpt6k90270j",
+    "iiif_manifest": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k90270j/manifest.json"
+  },
+  "ark": "bpt6k90270j",
+  "typographie": {
+    "category": "Serif/Roman",
+    "subtype": "Didone (Modern)"
+  },
+  "_annotations": {
+    "metadata.title": {
+      "readability": "Readable",
+      "correction": "INSTRUCTION SUR L'ESSAI DES MATIÈRES D'ARGENT PAR LA VOIE HUMIDE"
+    },
+    "metadata.title_complement": {
+      "readability": "Not readable",
+      "cause": "absent",
+      "correction": ""
+    },
+    "metadata.volume_number": {
+      "readability": "Not readable",
+      "cause": "absent"
+    },
+    "metadata.authors": {
+      "readability": "Readable",
+      "correction": "GAY-LUSSAC"
+    },
+    "metadata.publisher": {
+      "readability": "Readable",
+      "correction": "L'imprimerie Royale"
+    },
+    "metadata.publication_place": {
+      "readability": "Readable"
+    },
+    "metadata.date": {
+      "readability": "Readable"
+    },
+    "language": {
+      "readability": "Readable"
+    },
+    "metadata.identifier": {
+      "readability": "Readable"
+    },
+    "metadata.iiif_manifest": {
+      "readability": "Readable"
+    },
+    "ark": {
+      "readability": "Readable"
+    }
+  },
+  "language": "fr (French)"
+}

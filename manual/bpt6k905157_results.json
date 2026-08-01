@@ -1,0 +1,56 @@
+{
+  "metadata": {
+    "title": "DIE ALCHEMIE IN ÄLTERER UND NEUERER ZEIT",
+    "title_complement": "EIN BEITRAG ZUR CULTURGESCHICHTE",
+    "volume_number": "ERSTER THEIL",
+    "authors": "HERMANN KOPP",
+    "publisher": "CARL WINTER'S UNIVERSITÄTSBUCHHANDLUNG",
+    "publication_place": "HEIDELBERG",
+    "date": "1886",
+    "identifier": "http://gallica.bnf.fr/ark:/12148/bpt6k905157",
+    "iiif_manifest": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k905157/manifest.json"
+  },
+  "ark": "bpt6k905157",
+  "typographie": {
+    "category": "Serif/Roman",
+    "subtype": "Modern (Didone)"
+  },
+  "_annotations": {
+    "metadata.title": {
+      "readability": "Readable",
+      "correction": "DIE ALCHEMIE IN ÄLTERER UND NEUERER ZEIT"
+    },
+    "metadata.title_complement": {
+      "readability": "Not readable",
+      "cause": "covered"
+    },
+    "metadata.volume_number": {
+      "readability": "Readable"
+    },
+    "metadata.authors": {
+      "readability": "Readable"
+    },
+    "metadata.publisher": {
+      "readability": "Readable"
+    },
+    "metadata.publication_place": {
+      "readability": "Readable"
+    },
+    "metadata.date": {
+      "readability": "Readable"
+    },
+    "language": {
+      "readability": "Readable"
+    },
+    "metadata.identifier": {
+      "readability": "Readable"
+    },
+    "metadata.iiif_manifest": {
+      "readability": "Readable"
+    },
+    "ark": {
+      "readability": "Readable"
+    }
+  },
+  "language": "de (German)"
+}

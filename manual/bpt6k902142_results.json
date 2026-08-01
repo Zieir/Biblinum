@@ -1,0 +1,56 @@
+{
+  "metadata": {
+    "title": "APPLICATIONS D'ANALYSE ET DE GÉOMÉTRIE",
+    "title_complement": "qui ont servi de principal fondement au Traité des propriétés projectives des figures",
+    "volume_number": "TOME DEUXIÈME ET DERNIER",
+    "authors": "J.-V. Poncelet",
+    "publisher": "GAUTHIER-VILLARS, IMPRIMEUR-LIBRAIRE",
+    "publication_place": "PARIS",
+    "date": "1864",
+    "identifier": "http://gallica.bnf.fr/ark:/12148/bpt6k902142",
+    "iiif_manifest": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k902142/manifest.json"
+  },
+  "ark": "bpt6k902142",
+  "typographie": {
+    "category": "Serif/Roman",
+    "subtype": "Didone (Modern)"
+  },
+  "_annotations": {
+    "metadata.title": {
+      "readability": "Readable"
+    },
+    "metadata.title_complement": {
+      "readability": "Readable",
+      "correction": "qui ont servi de principal fondement au Traité des propriétés projectives des figures"
+    },
+    "metadata.volume_number": {
+      "readability": "Readable"
+    },
+    "metadata.authors": {
+      "readability": "Readable",
+      "correction": "J.-V. Poncelet"
+    },
+    "metadata.publisher": {
+      "readability": "Readable"
+    },
+    "metadata.publication_place": {
+      "readability": "Readable"
+    },
+    "metadata.date": {
+      "readability": "Readable"
+    },
+    "language": {
+      "readability": "Readable"
+    },
+    "metadata.identifier": {
+      "readability": "Readable"
+    },
+    "metadata.iiif_manifest": {
+      "readability": "Readable"
+    },
+    "ark": {
+      "readability": "Readable"
+    }
+  },
+  "language": "fr (French)"
+}

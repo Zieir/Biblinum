@@ -1,0 +1,59 @@
+{
+  "metadata": {
+    "title": "COURS ÉLÉMENTAIRE DE CHIMIE",
+    "title_complement": "à l'usage des lycées et collèges, des candidats au baccalauréat et des élèves en médecine ",
+    "volume_number": "",
+    "authors": "C.-I. Istrat",
+    "publisher": "GEORGES CARRÉ",
+    "publication_place": "PARIS",
+    "date": "1893",
+    "identifier": "http://gallica.bnf.fr/ark:/12148/bpt6k904885",
+    "iiif_manifest": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k904885/manifest.json"
+  },
+  "ark": "bpt6k904885",
+  "typographie": {
+    "category": "Serif/Roman",
+    "subtype": "Didone (Modern)"
+  },
+  "_annotations": {
+    "metadata.title": {
+      "readability": "Readable"
+    },
+    "metadata.title_complement": {
+      "readability": "Readable",
+      "correction": "à l'usage des lycées et collèges, des candidats au baccalauréat et des élèves en médecine "
+    },
+    "metadata.volume_number": {
+      "readability": "Not readable",
+      "cause": "absent"
+    },
+    "metadata.authors": {
+      "readability": "Readable",
+      "correction": "C.-I. Istrat"
+    },
+    "metadata.publisher": {
+      "readability": "Readable",
+      "correction": "GEORGES CARRÉ"
+    },
+    "metadata.publication_place": {
+      "readability": "Readable"
+    },
+    "metadata.date": {
+      "readability": "Readable",
+      "correction": "1893"
+    },
+    "language": {
+      "readability": "Readable"
+    },
+    "metadata.identifier": {
+      "readability": "Readable"
+    },
+    "metadata.iiif_manifest": {
+      "readability": "Readable"
+    },
+    "ark": {
+      "readability": "Readable"
+    }
+  },
+  "language": "fr (French)"
+}

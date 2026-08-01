@@ -1,0 +1,60 @@
+{
+  "metadata": {
+    "title": "LEÇONS DE CHIMIE ÉLÉMENTAIRE",
+    "title_complement": "appliquée aux arts industriels",
+    "volume_number": "IV",
+    "authors": "J. GIRARDIN",
+    "publisher": "G. MASSON",
+    "publication_place": "PARIS",
+    "date": "1877",
+    "identifier": "http://gallica.bnf.fr/ark:/12148/bpt6k90453h",
+    "iiif_manifest": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k90453h/manifest.json"
+  },
+  "ark": "bpt6k90453h",
+  "typographie": {
+    "category": "Serif/Roman",
+    "subtype": "Didone (Modern)"
+  },
+  "_annotations": {
+    "metadata.title": {
+      "readability": "Readable"
+    },
+    "metadata.title_complement": {
+      "readability": "Readable",
+      "correction": "appliquée aux arts industriels"
+    },
+    "metadata.volume_number": {
+      "readability": "Readable",
+      "correction": "IV"
+    },
+    "metadata.authors": {
+      "readability": "Readable",
+      "correction": "J. GIRARDIN"
+    },
+    "metadata.publisher": {
+      "readability": "Readable",
+      "correction": "G. MASSON"
+    },
+    "metadata.publication_place": {
+      "readability": "Readable",
+      "correction": "PARIS"
+    },
+    "metadata.date": {
+      "readability": "Readable",
+      "correction": "1877"
+    },
+    "language": {
+      "readability": "Readable"
+    },
+    "metadata.identifier": {
+      "readability": "Readable"
+    },
+    "metadata.iiif_manifest": {
+      "readability": "Readable"
+    },
+    "ark": {
+      "readability": "Readable"
+    }
+  },
+  "language": "fr (French)"
+}

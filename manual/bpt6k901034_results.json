@@ -1,0 +1,61 @@
+{
+  "metadata": {
+    "title": "TOUTE LA CHIMIE MINÉRALE PAR L'ELECTRICITÉ",
+    "title_complement": "rien d'impossible par l'électricité",
+    "volume_number": "",
+    "authors": "Jules SÉVERIN",
+    "publisher": "H. DUNOD; E. PINAT",
+    "publication_place": "PARIS; PARIS",
+    "date": "1908",
+    "identifier": "http://gallica.bnf.fr/ark:/12148/bpt6k901034",
+    "iiif_manifest": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k901034/manifest.json"
+  },
+  "ark": "bpt6k901034",
+  "typographie": {
+    "category": "Serif/Roman",
+    "subtype": "Didone (Modern)"
+  },
+  "_annotations": {
+    "metadata.title": {
+      "readability": "Readable",
+      "correction": "TOUTE LA CHIMIE MINÉRALE PAR L'ELECTRICITÉ"
+    },
+    "metadata.title_complement": {
+      "readability": "Readable",
+      "correction": "rien d'impossible par l'électricité"
+    },
+    "metadata.volume_number": {
+      "readability": "Not readable",
+      "cause": "absent"
+    },
+    "metadata.authors": {
+      "readability": "Readable",
+      "correction": "Jules SÉVERIN"
+    },
+    "metadata.publisher": {
+      "readability": "Readable",
+      "correction": "H. DUNOD; E. PINAT"
+    },
+    "metadata.publication_place": {
+      "readability": "Readable",
+      "correction": "PARIS; PARIS"
+    },
+    "metadata.date": {
+      "readability": "Readable",
+      "correction": "1908"
+    },
+    "language": {
+      "readability": "Readable"
+    },
+    "metadata.identifier": {
+      "readability": "Readable"
+    },
+    "metadata.iiif_manifest": {
+      "readability": "Readable"
+    },
+    "ark": {
+      "readability": "Readable"
+    }
+  },
+  "language": "fr (French)"
+}

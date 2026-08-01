@@ -1,0 +1,63 @@
+{
+    "metadata": {
+        "title": "NOTICE SUR LES TITRES et TRAVAUX SCIENTIFIQUES",
+        "title_complement": "",
+        "volume_number": "",
+        "authors": "Emile PERROT",
+        "publisher": "IMPRIMRIE ET LITHOGRAPHIE LUCIEN DECLUME",
+        "publication_place": "LONS-LESSAUNIER",
+        "date": "1902",
+        "identifier": "http://gallica.bnf.fr/ark:/12148/bpt6k90008k",
+        "iiif_manifest": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k90008k/manifest.json"
+    },
+    "ark": "bpt6k90008k",
+    "typographie": {
+        "category": "Serif/Roman",
+        "subtype": "Didone (Modern)"
+    },
+    "_annotations": {
+        "metadata.title": {
+            "readability": "Readable",
+            "correction": "NOTICE SUR LES TITRES et TRAVAUX SCIENTIFIQUES"
+        },
+        "metadata.title_complement": {
+            "readability": "Not readable",
+            "cause": "absent"
+        },
+        "metadata.volume_number": {
+            "readability": "Not readable",
+            "cause": "absent"
+        },
+        "metadata.authors": {
+            "readability": "Readable",
+            "correction": "Emile PERROT"
+        },
+        "metadata.publisher": {
+            "readability": "Not readable",
+            "cause": "quality",
+            "correction": "imprimrie et lithographie Lucien Declume"
+        },
+        "metadata.publication_place": {
+            "readability": "Readable",
+            "correction": "LONS-LESSAUNIER"
+        },
+        "metadata.date": {
+            "readability": "Not readable",
+            "cause": "quality",
+            "correction": "1902"
+        },
+        "language": {
+            "readability": "Readable"
+        },
+        "metadata.identifier": {
+            "readability": "Readable"
+        },
+        "metadata.iiif_manifest": {
+            "readability": "Readable"
+        },
+        "ark": {
+            "readability": "Readable"
+        }
+    },
+    "language": "fr (French)"
+}

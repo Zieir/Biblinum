@@ -1,0 +1,55 @@
+{
+  "metadata": {
+    "title": "ОСНОВЫ ХИМИИ",
+    "title_complement": "",
+    "volume_number": "ПЕРВЫЙ",
+    "authors": "МЕНДЕЛЕЕВ, Д. И.",
+    "publisher": "ГОСХИМТЕХИЗДАТ",
+    "publication_place": "МОСКВА—ЛЕНИНГРАД",
+    "date": "1934",
+    "identifier": "http://gallica.bnf.fr/ark:/12148/bpt6k900104",
+    "iiif_manifest": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k900104/manifest.json"
+  },
+  "ark": "bpt6k900104",
+  "typographie": {
+    "category": "Serif/Roman",
+    "subtype": "Slab Serif (Egyptian)"
+  },
+  "_annotations": {
+    "metadata.title": {
+      "readability": "Readable"
+    },
+    "metadata.title_complement": {
+      "readability": "Not readable",
+      "cause": "absent"
+    },
+    "metadata.volume_number": {
+      "readability": "Readable"
+    },
+    "metadata.authors": {
+      "readability": "Readable"
+    },
+    "metadata.publisher": {
+      "readability": "Readable"
+    },
+    "metadata.publication_place": {
+      "readability": "Readable"
+    },
+    "metadata.date": {
+      "readability": "Readable"
+    },
+    "language": {
+      "readability": "Readable"
+    },
+    "metadata.identifier": {
+      "readability": "Readable"
+    },
+    "metadata.iiif_manifest": {
+      "readability": "Readable"
+    },
+    "ark": {
+      "readability": "Readable"
+    }
+  },
+  "language": "ru (Russian)"
+}

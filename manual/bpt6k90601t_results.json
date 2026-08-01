@@ -1,0 +1,63 @@
+{
+  "metadata": {
+    "title": "SCRITTE intorno alla",
+    "title_complement": "TEORIA MOLECOLARE ED ATOMICA ALLA NOTAZIONE CHIMICA",
+    "volume_number": "",
+    "authors": "S. CANNIZZARO",
+    "publisher": "LO STATUTO",
+    "publication_place": "PALERMO",
+    "date": "1896",
+    "identifier": "http://gallica.bnf.fr/ark:/12148/bpt6k90601t",
+    "iiif_manifest": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k90601t/manifest.json"
+  },
+  "ark": "bpt6k90601t",
+  "typographie": {
+    "category": "Serif/Roman",
+    "subtype": "Didone (Modern)"
+  },
+  "_annotations": {
+    "metadata.title": {
+      "readability": "Not readable",
+      "cause": "quality",
+      "correction": "SCRITTE intorno alla"
+    },
+    "metadata.title_complement": {
+      "readability": "Readable"
+    },
+    "metadata.volume_number": {
+      "readability": "Not readable",
+      "cause": "absent"
+    },
+    "metadata.authors": {
+      "readability": "Not readable",
+      "cause": "quality",
+      "correction": "S. CANNIZZARO"
+    },
+    "metadata.publisher": {
+      "readability": "Not readable",
+      "cause": "quality",
+      "correction": "Lo Statuto"
+    },
+    "metadata.publication_place": {
+      "readability": "Readable"
+    },
+    "metadata.date": {
+      "readability": "Not readable",
+      "cause": "quality",
+      "correction": "1896"
+    },
+    "language": {
+      "readability": "Readable"
+    },
+    "metadata.identifier": {
+      "readability": "Readable"
+    },
+    "metadata.iiif_manifest": {
+      "readability": "Readable"
+    },
+    "ark": {
+      "readability": "Readable"
+    }
+  },
+  "language": "it (Italian)"
+}

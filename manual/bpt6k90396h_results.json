@@ -1,0 +1,59 @@
+{
+  "metadata": {
+    "title": "Cinquantenaire Scientifique de M. Henry Le Chatelier",
+    "title_complement": "",
+    "volume_number": "",
+    "authors": "",
+    "publisher": "IMPRIMERIE F. DUTAL",
+    "publication_place": "PARIS",
+    "date": "1922",
+    "identifier": "http://gallica.bnf.fr/ark:/12148/bpt6k90396h",
+    "iiif_manifest": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k90396h/manifest.json"
+  },
+  "ark": "bpt6k90396h",
+  "typographie": {
+    "category": "Serif/Roman",
+    "subtype": "Transitional / Didone"
+  },
+  "_annotations": {
+    "metadata.title": {
+      "readability": "Readable",
+      "correction": "Cinquantenaire Scientifique de M. Henry Le Chatelier"
+    },
+    "metadata.title_complement": {
+      "readability": "Not readable",
+      "cause": "absent"
+    },
+    "metadata.volume_number": {
+      "readability": "Not readable",
+      "cause": "absent"
+    },
+    "metadata.authors": {
+      "readability": "Not readable",
+      "cause": "absent",
+      "correction": ""
+    },
+    "metadata.publisher": {
+      "readability": "Readable"
+    },
+    "metadata.publication_place": {
+      "readability": "Readable"
+    },
+    "metadata.date": {
+      "readability": "Readable"
+    },
+    "language": {
+      "readability": "Readable"
+    },
+    "metadata.identifier": {
+      "readability": "Readable"
+    },
+    "metadata.iiif_manifest": {
+      "readability": "Readable"
+    },
+    "ark": {
+      "readability": "Readable"
+    }
+  },
+  "language": "fr (French)"
+}

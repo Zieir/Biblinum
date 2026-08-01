@@ -1,0 +1,59 @@
+{
+  "metadata": {
+    "title": "RAPPORT MÉTHODIQUE",
+    "title_complement": "SUR LES PROGRÈS DE LA CHIMIE ORGANIQUE PURE",
+    "volume_number": "",
+    "authors": "L. MICÉ",
+    "publisher": "J.-B. BAILLIÈRE ET FILS",
+    "publication_place": "PARIS",
+    "date": "1868",
+    "identifier": "http://gallica.bnf.fr/ark:/12148/bpt6k91744m",
+    "iiif_manifest": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k91744m/manifest.json"
+  },
+  "ark": "bpt6k91744m",
+  "typographie": {
+    "category": "Serif/Roman",
+    "subtype": "Modern (Didone)"
+  },
+  "_annotations": {
+    "metadata.title": {
+      "readability": "Readable"
+    },
+    "metadata.title_complement": {
+      "readability": "Readable"
+    },
+    "metadata.volume_number": {
+      "readability": "Not readable",
+      "cause": "absent"
+    },
+    "metadata.authors": {
+      "readability": "Readable",
+      "correction": "L. MICÉ"
+    },
+    "metadata.publisher": {
+      "readability": "Readable",
+      "correction": "J.-B. Baillière et fils"
+    },
+    "metadata.publication_place": {
+      "readability": "Readable",
+      "correction": "PARIS"
+    },
+    "metadata.date": {
+      "readability": "Readable"
+    },
+    "language": {
+      "readability": "Readable"
+    },
+    "_note": "Date really is 1869 but the book cover clearly says otherwise",
+    "metadata.identifier": {
+      "readability": "Readable"
+    },
+    "metadata.iiif_manifest": {
+      "readability": "Readable"
+    },
+    "ark": {
+      "readability": "Readable"
+    }
+  },
+  "language": "fr (French)"
+}

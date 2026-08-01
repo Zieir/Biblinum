@@ -1,0 +1,58 @@
+{
+  "metadata": {
+    "title": "SÉRIE DU CYANOGÈNE",
+    "title_complement": "",
+    "volume_number": "",
+    "authors": "H. Moissan",
+    "publisher": "IMPRIMERIE A PARENT, A. DAVY",
+    "publication_place": "PARIS",
+    "date": "1882",
+    "identifier": "http://gallica.bnf.fr/ark:/12148/bpt6k90549j",
+    "iiif_manifest": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k90549j/manifest.json"
+  },
+  "ark": "bpt6k90549j",
+  "typographie": {
+    "category": "Serif/Roman",
+    "subtype": "Didone (Modern)"
+  },
+  "_annotations": {
+    "metadata.title": {
+      "readability": "Readable"
+    },
+    "metadata.title_complement": {
+      "readability": "Not readable",
+      "cause": "absent"
+    },
+    "metadata.volume_number": {
+      "readability": "Not readable",
+      "cause": "absent"
+    },
+    "metadata.authors": {
+      "readability": "Readable",
+      "correction": "H. Moissan"
+    },
+    "metadata.publisher": {
+      "readability": "Readable",
+      "correction": "Imprimerie a Parent, A. Davy"
+    },
+    "metadata.publication_place": {
+      "readability": "Readable"
+    },
+    "metadata.date": {
+      "readability": "Readable"
+    },
+    "language": {
+      "readability": "Readable"
+    },
+    "metadata.identifier": {
+      "readability": "Readable"
+    },
+    "metadata.iiif_manifest": {
+      "readability": "Readable"
+    },
+    "ark": {
+      "readability": "Readable"
+    }
+  },
+  "language": "fr (French)"
+}

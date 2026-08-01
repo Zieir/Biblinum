@@ -1,0 +1,15 @@
+{
+    "processing_time_seconds": 2.1,
+    "metadata": {
+        "title": "LEHRBUCH DER CHEMIE",
+        "title_complement": "",
+        "volume_number": "ZWEITER BAND, ERSTE ABTHEILUNG",
+        "authors": "MITSCHERLICH, E.",
+        "publisher": "ERNST SIEGFRIED MITTLER",
+        "publication_place": "BERLIN",
+        "date": "1835",
+        "identifier": "http://gallica.bnf.fr/ark:/12148/bpt6k90006w",
+        "iiif_manifest": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k90006w/manifest.json"
+    },
+    "ark": "bpt6k90006w"
+}

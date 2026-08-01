@@ -1,0 +1,57 @@
+{
+  "metadata": {
+    "title": "ANLEITUNG ZUR QUANTITATIVEN CHEMISCHEN ANALYSE",
+    "title_complement": "oder die Lehre von der Gewichtsbestimmung und Scheidung der in der Pharmacie, den Künsten, Gewerben und der Landwirthschaft häufiger vorkommenden Körper in einfachen und zusammengesetzten Verbindungen. Für Anfänger und Geübtere",
+    "volume_number": "ERSTER BAND",
+    "authors": "FRESENIUS,  C. Remigius",
+    "publisher": "FRIEDRICH VIEWEG UND SOHN",
+    "publication_place": "BRAUNSCHWEIG",
+    "date": "1875",
+    "identifier": "http://gallica.bnf.fr/ark:/12148/bpt6k90318q",
+    "iiif_manifest": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k90318q/manifest.json"
+  },
+  "ark": "bpt6k90318q",
+  "typographie": {
+    "category": "Serif/Roman",
+    "subtype": "Didone (Modern)"
+  },
+  "_annotations": {
+    "metadata.title": {
+      "readability": "Readable"
+    },
+    "metadata.title_complement": {
+      "readability": "Not readable",
+      "cause": "covered",
+      "correction": "oder die Lehre von der Gewichtsbestimmung und Scheidung der in der Pharmacie, den Künsten, Gewerben und der Landwirthschaft häufiger vorkommenden Körper in einfachen und zusammengesetzten Verbindungen. Für Anfänger und Geübtere"
+    },
+    "metadata.volume_number": {
+      "readability": "Readable"
+    },
+    "metadata.authors": {
+      "readability": "Readable",
+      "correction": "FRESENIUS,  C. Remigius"
+    },
+    "metadata.publisher": {
+      "readability": "Readable"
+    },
+    "metadata.publication_place": {
+      "readability": "Readable"
+    },
+    "metadata.date": {
+      "readability": "Readable"
+    },
+    "language": {
+      "readability": "Readable"
+    },
+    "metadata.identifier": {
+      "readability": "Readable"
+    },
+    "metadata.iiif_manifest": {
+      "readability": "Readable"
+    },
+    "ark": {
+      "readability": "Readable"
+    }
+  },
+  "language": "de (German)"
+}

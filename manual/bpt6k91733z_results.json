@@ -1,0 +1,58 @@
+{
+  "metadata": {
+    "title": "SELECT METHODS OF CHEMICAL ANALYSIS",
+    "title_complement": "(CHIEFLY INORGANIC)",
+    "volume_number": "",
+    "authors": "William CROOKES",
+    "publisher": "LONGMANS, GREEN, AND CO.",
+    "publication_place": "LONDON",
+    "date": "1871",
+    "identifier": "http://gallica.bnf.fr/ark:/12148/bpt6k91733z",
+    "iiif_manifest": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k91733z/manifest.json"
+  },
+  "ark": "bpt6k91733z",
+  "typographie": {
+    "category": "Serif/Roman",
+    "subtype": "Modern (Didone)"
+  },
+  "_annotations": {
+    "metadata.title": {
+      "readability": "Not readable",
+      "cause": "covered",
+      "correction": "SELECT METHODS OF CHEMICAL ANALYSIS"
+    },
+    "metadata.title_complement": {
+      "readability": "Readable"
+    },
+    "metadata.volume_number": {
+      "readability": "Not readable",
+      "cause": "absent"
+    },
+    "metadata.authors": {
+      "readability": "Readable",
+      "correction": "William CROOKES"
+    },
+    "metadata.publisher": {
+      "readability": "Readable"
+    },
+    "metadata.publication_place": {
+      "readability": "Readable"
+    },
+    "metadata.date": {
+      "readability": "Readable"
+    },
+    "language": {
+      "readability": "Readable"
+    },
+    "metadata.identifier": {
+      "readability": "Readable"
+    },
+    "metadata.iiif_manifest": {
+      "readability": "Readable"
+    },
+    "ark": {
+      "readability": "Readable"
+    }
+  },
+  "language": "en (English)"
+}

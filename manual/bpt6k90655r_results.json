@@ -1,0 +1,59 @@
+{
+  "metadata": {
+    "title": "Introduction à l'étude de la chimie, THÉORIES ET NOTATIONS CHIMIQUES",
+    "title_complement": "PREMIÈRES LEÇONS DU COURS PROFESSÉ A L'ÉCOLE POLYTECHNIQUE",
+    "volume_number": "",
+    "authors": "Édouard GRIMAUX",
+    "publisher": "DUNOD, ÉDITEUR",
+    "publication_place": "PARIS",
+    "date": "1884",
+    "identifier": "http://gallica.bnf.fr/ark:/12148/bpt6k90655r",
+    "iiif_manifest": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k90655r/manifest.json"
+  },
+  "ark": "bpt6k90655r",
+  "typographie": {
+    "category": "Serif/Roman",
+    "subtype": "Modern (Didone)"
+  },
+  "_annotations": {
+    "metadata.title": {
+      "readability": "Readable",
+      "correction": "Introduction à l'étude de la chimie, THÉORIES ET NOTATIONS CHIMIQUES"
+    },
+    "metadata.title_complement": {
+      "readability": "Readable"
+    },
+    "metadata.volume_number": {
+      "readability": "Not readable",
+      "cause": "absent"
+    },
+    "metadata.authors": {
+      "readability": "Readable",
+      "correction": "Édouard GRIMAUX"
+    },
+    "metadata.publisher": {
+      "readability": "Not readable",
+      "cause": "covered",
+      "correction": "DUNOD, ÉDITEUR"
+    },
+    "metadata.publication_place": {
+      "readability": "Readable"
+    },
+    "metadata.date": {
+      "readability": "Readable"
+    },
+    "language": {
+      "readability": "Readable"
+    },
+    "metadata.identifier": {
+      "readability": "Readable"
+    },
+    "metadata.iiif_manifest": {
+      "readability": "Readable"
+    },
+    "ark": {
+      "readability": "Readable"
+    }
+  },
+  "language": "fr (French)"
+}

@@ -1,0 +1,59 @@
+{
+  "metadata": {
+    "title": "TRAITÉ DE LA CHALEUR CONSIDÉRÉE DANS SES APPLICATIONS",
+    "title_complement": "",
+    "volume_number": "TOME PREMIER",
+    "authors": "E. PÉCLET",
+    "publisher": "G. MASSON",
+    "publication_place": "PARIS",
+    "date": "1878",
+    "identifier": "http://gallica.bnf.fr/ark:/12148/bpt6k90333m",
+    "iiif_manifest": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k90333m/manifest.json"
+  },
+  "ark": "bpt6k90333m",
+  "typographie": {
+    "category": "Serif/Roman",
+    "subtype": "Didone (Modern)"
+  },
+  "_annotations": {
+    "metadata.title": {
+      "readability": "Readable",
+      "correction": "TRAITÉ DE LA CHALEUR CONSIDÉRÉE DANS SES APPLICATIONS"
+    },
+    "metadata.title_complement": {
+      "readability": "Not readable",
+      "cause": "absent",
+      "correction": ""
+    },
+    "metadata.volume_number": {
+      "readability": "Readable"
+    },
+    "metadata.authors": {
+      "readability": "Readable",
+      "correction": "E. PÉCLET"
+    },
+    "metadata.publisher": {
+      "readability": "Readable"
+    },
+    "metadata.publication_place": {
+      "readability": "Readable"
+    },
+    "metadata.date": {
+      "readability": "Readable"
+    },
+    "language": {
+      "readability": "Readable"
+    },
+    "_note": "Date in roman numerals",
+    "metadata.identifier": {
+      "readability": "Readable"
+    },
+    "metadata.iiif_manifest": {
+      "readability": "Readable"
+    },
+    "ark": {
+      "readability": "Readable"
+    }
+  },
+  "language": "fr (French)"
+}

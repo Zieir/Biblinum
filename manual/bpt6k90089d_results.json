@@ -1,0 +1,61 @@
+{
+  "metadata": {
+    "title": "ATLAS DE CHIMIE ANALYTIQUE MINÉRALE",
+    "title_complement": "renfermant les premières notions indispensables aux personnes qui commencent la chimie et dix-sept tableaux parfaitement imprimés en couleur des précipités donnés par les réactifs et des colorations obtenues au chalumeau ",
+    "volume_number": "",
+    "authors": "A. Terreil",
+    "publisher": "DUNOD",
+    "publication_place": "PARIS",
+    "date": "1861",
+    "identifier": "http://gallica.bnf.fr/ark:/12148/bpt6k90089d",
+    "iiif_manifest": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k90089d/manifest.json"
+  },
+  "ark": "bpt6k90089d",
+  "typographie": {
+    "category": "Serif/Roman",
+    "subtype": "Didone (Modern)"
+  },
+  "_annotations": {
+    "metadata.title": {
+      "readability": "Readable",
+      "correction": "ATLAS DE CHIMIE ANALYTIQUE MINÉRALE"
+    },
+    "metadata.title_complement": {
+      "readability": "Readable",
+      "correction": "renfermant les premières notions indispensables aux personnes qui commencent la chimie et dix-sept tableaux parfaitement imprimés en couleur des précipités donnés par les réactifs et des colorations obtenues au chalumeau "
+    },
+    "metadata.volume_number": {
+      "readability": "Not readable",
+      "cause": "absent"
+    },
+    "metadata.authors": {
+      "readability": "Readable",
+      "correction": "A. Terreil"
+    },
+    "metadata.publisher": {
+      "readability": "Readable",
+      "correction": "DUNOD"
+    },
+    "metadata.publication_place": {
+      "readability": "Readable",
+      "correction": "PARIS"
+    },
+    "metadata.date": {
+      "readability": "Readable",
+      "correction": "1861"
+    },
+    "language": {
+      "readability": "Readable"
+    },
+    "metadata.identifier": {
+      "readability": "Readable"
+    },
+    "metadata.iiif_manifest": {
+      "readability": "Readable"
+    },
+    "ark": {
+      "readability": "Readable"
+    }
+  },
+  "language": "fr (French)"
+}

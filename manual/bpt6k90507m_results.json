@@ -1,0 +1,60 @@
+{
+  "metadata": {
+    "title": "Lehrbuch der Organischen Chemie",
+    "title_complement": "oder der Chemie der Kohlenstoffverbindungen",
+    "volume_number": "Dritter Band",
+    "authors": "Aug. Kekulé",
+    "publisher": "FERDINAND ENKE",
+    "publication_place": "ERLANGEN",
+    "date": "1887",
+    "identifier": "http://gallica.bnf.fr/ark:/12148/bpt6k90507m",
+    "iiif_manifest": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k90507m/manifest.json"
+  },
+  "ark": "bpt6k90507m",
+  "typographie": {
+    "category": "Blackletter",
+    "subtype": "Fraktur"
+  },
+  "_annotations": {
+    "metadata.title": {
+      "readability": "Not readable",
+      "cause": "quality",
+      "correction": "Lehrbuch der Organischen Chemie"
+    },
+    "metadata.title_complement": {
+      "readability": "Readable"
+    },
+    "metadata.volume_number": {
+      "readability": "Not readable",
+      "cause": "covered",
+      "correction": "Dritter Band"
+    },
+    "metadata.authors": {
+      "readability": "Readable"
+    },
+    "metadata.publisher": {
+      "readability": "Not readable",
+      "cause": "quality",
+      "correction": "Ferdinand Enke"
+    },
+    "metadata.publication_place": {
+      "readability": "Readable"
+    },
+    "metadata.date": {
+      "readability": "Readable"
+    },
+    "language": {
+      "readability": "Readable"
+    },
+    "metadata.identifier": {
+      "readability": "Readable"
+    },
+    "metadata.iiif_manifest": {
+      "readability": "Readable"
+    },
+    "ark": {
+      "readability": "Readable"
+    }
+  },
+  "language": "de (German)"
+}

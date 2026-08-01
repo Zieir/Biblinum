@@ -1,0 +1,61 @@
+{
+  "metadata": {
+    "title": "TRAITÉ DE CHIMIE TECHNOLOGIQUE ET INDUSTRIELLE",
+    "title_complement": "",
+    "volume_number": "TOME PREMIER",
+    "authors": "FR. KNAPP",
+    "publisher": "DUNOD",
+    "publication_place": "PARIS",
+    "date": "1870",
+    "identifier": "http://gallica.bnf.fr/ark:/12148/bpt6k918399",
+    "iiif_manifest": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k918399/manifest.json"
+  },
+  "ark": "bpt6k918399",
+  "typographie": {
+    "category": "Serif/Roman",
+    "subtype": "Didone (Modern)"
+  },
+  "_annotations": {
+    "metadata.title": {
+      "readability": "Readable",
+      "correction": "TRAITÉ DE CHIMIE TECHNOLOGIQUE ET INDUSTRIELLE"
+    },
+    "metadata.title_complement": {
+      "readability": "Not readable",
+      "cause": "absent",
+      "correction": ""
+    },
+    "metadata.volume_number": {
+      "readability": "Readable"
+    },
+    "metadata.authors": {
+      "readability": "Readable",
+      "correction": "FR. KNAPP"
+    },
+    "metadata.publisher": {
+      "readability": "Readable",
+      "correction": "DUNOD"
+    },
+    "metadata.publication_place": {
+      "readability": "Readable",
+      "correction": "PARIS"
+    },
+    "metadata.date": {
+      "readability": "Readable",
+      "correction": "1870"
+    },
+    "language": {
+      "readability": "Readable"
+    },
+    "metadata.identifier": {
+      "readability": "Readable"
+    },
+    "metadata.iiif_manifest": {
+      "readability": "Readable"
+    },
+    "ark": {
+      "readability": "Readable"
+    }
+  },
+  "language": "fr (French)"
+}

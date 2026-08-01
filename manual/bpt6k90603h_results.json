@@ -1,0 +1,57 @@
+{
+  "metadata": {
+    "title": "Cours de Chimie",
+    "title_complement": "",
+    "volume_number": "1re Leçon",
+    "authors": "G. Charpy",
+    "publisher": "ECOLE POLYTECHNIQUE",
+    "publication_place": "",
+    "date": "1925",
+    "identifier": "http://gallica.bnf.fr/ark:/12148/bpt6k90603h",
+    "iiif_manifest": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k90603h/manifest.json"
+  },
+  "ark": "bpt6k90603h",
+  "typographie": {
+    "category": "Script",
+    "subtype": "Cursive / Handwritten"
+  },
+  "_annotations": {
+    "metadata.title": {
+      "readability": "Readable"
+    },
+    "metadata.title_complement": {
+      "readability": "Not readable",
+      "cause": "absent"
+    },
+    "metadata.volume_number": {
+      "readability": "Readable"
+    },
+    "metadata.authors": {
+      "readability": "Readable",
+      "correction": "G. Charpy"
+    },
+    "metadata.publisher": {
+      "readability": "Readable"
+    },
+    "metadata.publication_place": {
+      "readability": "Not readable",
+      "cause": "absent"
+    },
+    "metadata.date": {
+      "readability": "Readable"
+    },
+    "language": {
+      "readability": "Readable"
+    },
+    "metadata.identifier": {
+      "readability": "Readable"
+    },
+    "metadata.iiif_manifest": {
+      "readability": "Readable"
+    },
+    "ark": {
+      "readability": "Readable"
+    }
+  },
+  "language": "fr (French)"
+}

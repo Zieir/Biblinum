@@ -1,0 +1,62 @@
+{
+  "metadata": {
+    "title": "THÉORIE GÉNÉRALE de L'ACTION CHIMIQUE",
+    "title_complement": "",
+    "volume_number": "",
+    "authors": "E. -J. MAUMENÉ",
+    "publisher": "DUNOD",
+    "publication_place": "PARIS",
+    "date": "1880",
+    "identifier": "http://gallica.bnf.fr/ark:/12148/bpt6k900166",
+    "iiif_manifest": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k900166/manifest.json"
+  },
+  "ark": "bpt6k900166",
+  "typographie": {
+    "category": "Serif/Roman",
+    "subtype": "Didone (Modern)"
+  },
+  "_annotations": {
+    "metadata.title": {
+      "readability": "Readable",
+      "correction": "THÉORIE GÉNÉRALE de L'ACTION CHIMIQUE"
+    },
+    "metadata.title_complement": {
+      "readability": "Not readable",
+      "cause": "absent",
+      "correction": ""
+    },
+    "metadata.volume_number": {
+      "readability": "Not readable",
+      "cause": "absent"
+    },
+    "metadata.authors": {
+      "readability": "Readable",
+      "correction": "E. -J. MAUMENÉ"
+    },
+    "metadata.publisher": {
+      "readability": "Readable",
+      "correction": "DUNOD"
+    },
+    "metadata.publication_place": {
+      "readability": "Readable",
+      "correction": "PARIS"
+    },
+    "metadata.date": {
+      "readability": "Readable",
+      "correction": "1880"
+    },
+    "language": {
+      "readability": "Readable"
+    },
+    "metadata.identifier": {
+      "readability": "Readable"
+    },
+    "metadata.iiif_manifest": {
+      "readability": "Readable"
+    },
+    "ark": {
+      "readability": "Readable"
+    }
+  },
+  "language": "fr (French)"
+}

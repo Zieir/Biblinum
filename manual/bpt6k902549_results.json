@@ -1,0 +1,60 @@
+{
+  "metadata": {
+    "title": "AIDE-MÉMOIRE DU CHIMISTE",
+    "title_complement": "chimie inorganique et chimie organique, documents chimiques, documents physiques, documents minéralogiques, documents mathématiques",
+    "volume_number": "",
+    "authors": "Raoul Jagnaux,",
+    "publisher": "BAUDRY & CIE ÉDITEURS",
+    "publication_place": "PARIS; LIÈGE",
+    "date": "1890",
+    "identifier": "http://gallica.bnf.fr/ark:/12148/bpt6k902549",
+    "iiif_manifest": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k902549/manifest.json"
+  },
+  "ark": "bpt6k902549",
+  "typographie": {
+    "category": "Serif/Roman",
+    "subtype": "Didone (Modern)"
+  },
+  "_annotations": {
+    "metadata.title": {
+      "readability": "Readable",
+      "correction": "AIDE-MÉMOIRE DU CHIMISTE"
+    },
+    "metadata.title_complement": {
+      "readability": "Readable",
+      "correction": "chimie inorganique et chimie organique, documents chimiques, documents physiques, documents minéralogiques, documents mathématiques"
+    },
+    "metadata.volume_number": {
+      "readability": "Not readable",
+      "cause": "absent"
+    },
+    "metadata.authors": {
+      "readability": "Readable",
+      "correction": "Raoul Jagnaux,"
+    },
+    "metadata.publisher": {
+      "readability": "Readable"
+    },
+    "metadata.publication_place": {
+      "readability": "Readable",
+      "correction": "PARIS; LIÈGE"
+    },
+    "metadata.date": {
+      "readability": "Readable",
+      "correction": "1890"
+    },
+    "language": {
+      "readability": "Readable"
+    },
+    "metadata.identifier": {
+      "readability": "Readable"
+    },
+    "metadata.iiif_manifest": {
+      "readability": "Readable"
+    },
+    "ark": {
+      "readability": "Readable"
+    }
+  },
+  "language": "fr (French)"
+}

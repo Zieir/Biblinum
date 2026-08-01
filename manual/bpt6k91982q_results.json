@@ -1,0 +1,59 @@
+{
+  "metadata": {
+    "title": "TRAITÉ ÉLÉMENTAIRE DE PHYSIQUE THÉORIQUE ET EXPÉRIMENTALE ",
+    "title_complement": "AVEC LES APPLICATIONS A LA MÉTÉOROLOGIE ET AUX ARTS INDUSTRIELS",
+    "volume_number": "TOME PREMIER",
+    "authors": "P. A. DAGUIN",
+    "publisher": "ÉDOUARD PRIVAT ; DEZOBRY & E. MAGDELEINE",
+    "publication_place": "TOULOUSE ; PARIS",
+    "date": "1861",
+    "identifier": "http://gallica.bnf.fr/ark:/12148/bpt6k91982q",
+    "iiif_manifest": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k91982q/manifest.json"
+  },
+  "ark": "bpt6k91982q",
+  "typographie": {
+    "category": "Serif/Roman",
+    "subtype": "Didone (Modern)"
+  },
+  "_annotations": {
+    "metadata.title": {
+      "readability": "Readable",
+      "correction": "TRAITÉ ÉLÉMENTAIRE DE PHYSIQUE THÉORIQUE ET EXPÉRIMENTALE "
+    },
+    "metadata.title_complement": {
+      "readability": "Readable",
+      "correction": "AVEC LES APPLICATIONS A LA MÉTÉOROLOGIE ET AUX ARTS INDUSTRIELS"
+    },
+    "metadata.volume_number": {
+      "readability": "Readable"
+    },
+    "metadata.authors": {
+      "readability": "Readable",
+      "correction": "P. A. DAGUIN"
+    },
+    "metadata.publisher": {
+      "readability": "Readable"
+    },
+    "metadata.publication_place": {
+      "readability": "Readable"
+    },
+    "metadata.date": {
+      "readability": "Not readable",
+      "cause": "handwritten",
+      "correction": "1861"
+    },
+    "language": {
+      "readability": "Readable"
+    },
+    "metadata.identifier": {
+      "readability": "Readable"
+    },
+    "metadata.iiif_manifest": {
+      "readability": "Readable"
+    },
+    "ark": {
+      "readability": "Readable"
+    }
+  },
+  "language": "fr (French)"
+}

@@ -1,0 +1,60 @@
+{
+  "metadata": {
+    "title": "DESCRIPTION DE L'ARBRE A QUINQUINA",
+    "title_complement": "mémoire inédit de Joseph de Jussieu (1737) ",
+    "volume_number": "",
+    "authors": "Joseph de Jussieu",
+    "publisher": "SOCIÉTÉ DU TRAITEMENT DES QUINQUINAS",
+    "publication_place": "PARIS",
+    "date": "1936",
+    "identifier": "http://gallica.bnf.fr/ark:/12148/bpt6k90339p",
+    "iiif_manifest": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k90339p/manifest.json"
+  },
+  "ark": "bpt6k90339p",
+  "typographie": {
+    "category": "Serif/Roman",
+    "subtype": "Transitional / Didone"
+  },
+  "_annotations": {
+    "metadata.title": {
+      "readability": "Readable"
+    },
+    "metadata.title_complement": {
+      "readability": "Readable",
+      "correction": "mémoire inédit de Joseph de Jussieu (1737) "
+    },
+    "metadata.volume_number": {
+      "readability": "Not readable",
+      "cause": "absent"
+    },
+    "metadata.authors": {
+      "readability": "Readable",
+      "correction": "Joseph de Jussieu"
+    },
+    "metadata.publisher": {
+      "readability": "Readable",
+      "correction": "Société du traitement des quinquinas"
+    },
+    "metadata.publication_place": {
+      "readability": "Readable",
+      "correction": "PARIS"
+    },
+    "metadata.date": {
+      "readability": "Readable",
+      "correction": "1936"
+    },
+    "language": {
+      "readability": "Readable"
+    },
+    "metadata.identifier": {
+      "readability": "Readable"
+    },
+    "metadata.iiif_manifest": {
+      "readability": "Readable"
+    },
+    "ark": {
+      "readability": "Readable"
+    }
+  },
+  "language": "fr (French)"
+}

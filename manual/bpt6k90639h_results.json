@@ -1,0 +1,56 @@
+{
+  "metadata": {
+    "title": "EXPOSE DES TITRES",
+    "title_complement": "ET DES TRAVAUX SCIENTIFIQUES",
+    "volume_number": "",
+    "authors": "Émile FLEURENT",
+    "publisher": "IMPRIMERIE R. VINCENDEAU",
+    "publication_place": "LEVALLOIS-PERRET",
+    "date": "1929",
+    "identifier": "http://gallica.bnf.fr/ark:/12148/bpt6k90639h",
+    "iiif_manifest": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k90639h/manifest.json"
+  },
+  "ark": "bpt6k90639h",
+  "typographie": {
+    "category": "Serif/Roman",
+    "subtype": "Slab Serif (Egyptian)"
+  },
+  "_annotations": {
+    "metadata.title": {
+      "readability": "Readable"
+    },
+    "metadata.title_complement": {
+      "readability": "Readable"
+    },
+    "metadata.volume_number": {
+      "readability": "Not readable",
+      "cause": "absent"
+    },
+    "metadata.authors": {
+      "readability": "Readable",
+      "correction": "Émile FLEURENT"
+    },
+    "metadata.publisher": {
+      "readability": "Readable"
+    },
+    "metadata.publication_place": {
+      "readability": "Readable"
+    },
+    "metadata.date": {
+      "readability": "Readable"
+    },
+    "language": {
+      "readability": "Readable"
+    },
+    "metadata.identifier": {
+      "readability": "Readable"
+    },
+    "metadata.iiif_manifest": {
+      "readability": "Readable"
+    },
+    "ark": {
+      "readability": "Readable"
+    }
+  },
+  "language": "fr (French)"
+}

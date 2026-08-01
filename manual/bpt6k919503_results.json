@@ -1,0 +1,61 @@
+{
+  "metadata": {
+    "title": "TRAITÉ ÉLÉMENTAIRE DE CHIMIE MÉDICALE",
+    "title_complement": "comprenant quelques notions de toxicologie et les principales applications de la chimie à la physiologie, à la pathologie, à la pharmacie et à l'hygiène",
+    "volume_number": "II",
+    "authors": "AD. WURTZ",
+    "publisher": "VICTOR MASSON ET FILS",
+    "publication_place": "PARIS",
+    "date": "1865",
+    "identifier": "http://gallica.bnf.fr/ark:/12148/bpt6k919503",
+    "iiif_manifest": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k919503/manifest.json"
+  },
+  "ark": "bpt6k919503",
+  "typographie": {
+    "category": "Serif/Roman",
+    "subtype": "Didone (Modern)"
+  },
+  "_annotations": {
+    "metadata.title": {
+      "readability": "Readable"
+    },
+    "metadata.title_complement": {
+      "readability": "Readable",
+      "correction": "comprenant quelques notions de toxicologie et les principales applications de la chimie à la physiologie, à la pathologie, à la pharmacie et à l'hygiène"
+    },
+    "metadata.volume_number": {
+      "readability": "Readable",
+      "correction": "II"
+    },
+    "metadata.authors": {
+      "readability": "Not readable",
+      "cause": "absent",
+      "correction": "AD. WURTZ"
+    },
+    "metadata.publisher": {
+      "readability": "Readable",
+      "correction": "VICTOR MASSON ET FILS"
+    },
+    "metadata.publication_place": {
+      "readability": "Readable",
+      "correction": "PARIS"
+    },
+    "metadata.date": {
+      "readability": "Readable",
+      "correction": "1865"
+    },
+    "language": {
+      "readability": "Readable"
+    },
+    "metadata.identifier": {
+      "readability": "Readable"
+    },
+    "metadata.iiif_manifest": {
+      "readability": "Readable"
+    },
+    "ark": {
+      "readability": "Readable"
+    }
+  },
+  "language": "fr (French)"
+}

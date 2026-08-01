@@ -1,0 +1,61 @@
+{
+  "metadata": {
+    "title": "C. G. J. Jacobi's gesammelte Werke",
+    "title_complement": "HERAUSGEGEBEN AUS DER VERANLASSUNG DER KÖNIGLICH PREUSSISCHEN AKADEMIE DER WISSENSCHAFTEN",
+    "volume_number": "SIEBENTER BAND",
+    "authors": "C. G. J. JACOBI; HERAUSGEGEBEN von K. WEIERSTRASS",
+    "publisher": "GEORG REIMER",
+    "publication_place": "BERLIN",
+    "date": "1981",
+    "identifier": "http://gallica.bnf.fr/ark:/12148/bpt6k902231",
+    "iiif_manifest": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k902231/manifest.json"
+  },
+  "ark": "bpt6k902231",
+  "typographie": {
+    "category": "Serif/Roman",
+    "subtype": "Didone (Modern)"
+  },
+  "_annotations": {
+    "metadata.title": {
+      "readability": "Readable",
+      "correction": "C. G. J. Jacobi's gesammelte Werke"
+    },
+    "metadata.title_complement": {
+      "readability": "Readable",
+      "correction": "HERAUSGEGEBEN AUS DER VERANLASSUNG DER KÖNIGLICH PREUSSISCHEN AKADEMIE DER WISSENSCHAFTEN"
+    },
+    "metadata.volume_number": {
+      "readability": "Readable"
+    },
+    "metadata.authors": {
+      "readability": "Readable",
+      "correction": "C. G. J. JACOBI; HERAUSGEGEBEN von K. WEIERSTRASS"
+    },
+    "metadata.publisher": {
+      "readability": "Readable",
+      "correction": "GEORG REIMER"
+    },
+    "metadata.publication_place": {
+      "readability": "Readable",
+      "correction": "BERLIN"
+    },
+    "metadata.date": {
+      "readability": "Readable",
+      "correction": "1981"
+    },
+    "language": {
+      "readability": "Readable",
+      "correction": "de (German)"
+    },
+    "metadata.identifier": {
+      "readability": "Readable"
+    },
+    "metadata.iiif_manifest": {
+      "readability": "Readable"
+    },
+    "ark": {
+      "readability": "Readable"
+    }
+  },
+  "language": "de (German)"
+}

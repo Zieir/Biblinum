@@ -1,0 +1,58 @@
+{
+  "metadata": {
+    "title": "La chimie contemporaine",
+    "title_complement": "SYSTÈME ATOMIQUE THÉORIE ET NOTATION COMPARAISON AVEC LES ÉQUIVALENTS",
+    "volume_number": "",
+    "authors": "A. FREBAULT",
+    "publisher": "G. MASSON",
+    "publication_place": "PARIS",
+    "date": "1889",
+    "identifier": "http://gallica.bnf.fr/ark:/12148/bpt6k904378",
+    "iiif_manifest": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k904378/manifest.json"
+  },
+  "ark": "bpt6k904378",
+  "typographie": {
+    "category": "Serif/Roman",
+    "subtype": "Modern (Didone)"
+  },
+  "_annotations": {
+    "metadata.title": {
+      "readability": "Readable",
+      "correction": "La chimie contemporaine"
+    },
+    "metadata.title_complement": {
+      "readability": "Readable",
+      "correction": "SYSTÈME ATOMIQUE THÉORIE ET NOTATION COMPARAISON AVEC LES ÉQUIVALENTS"
+    },
+    "metadata.volume_number": {
+      "readability": "Not readable",
+      "cause": "absent"
+    },
+    "metadata.authors": {
+      "readability": "Readable",
+      "correction": "A. FREBAULT"
+    },
+    "metadata.publisher": {
+      "readability": "Readable"
+    },
+    "metadata.publication_place": {
+      "readability": "Readable"
+    },
+    "metadata.date": {
+      "readability": "Readable"
+    },
+    "language": {
+      "readability": "Readable"
+    },
+    "metadata.identifier": {
+      "readability": "Readable"
+    },
+    "metadata.iiif_manifest": {
+      "readability": "Readable"
+    },
+    "ark": {
+      "readability": "Readable"
+    }
+  },
+  "language": "fr (French)"
+}

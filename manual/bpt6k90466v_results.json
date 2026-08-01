@@ -1,0 +1,61 @@
+{
+  "metadata": {
+    "title": "Traité élémentaire de Chimie",
+    "title_complement": "Chimie organique",
+    "volume_number": "",
+    "authors": " A. Haller ; P. Th. Muller",
+    "publisher": "GEORGES CARRE & CNAUD",
+    "publication_place": "",
+    "date": "",
+    "identifier": "http://gallica.bnf.fr/ark:/12148/bpt6k90466v",
+    "iiif_manifest": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k90466v/manifest.json"
+  },
+  "ark": "bpt6k90466v",
+  "typographie": {
+    "category": "Serif/Roman",
+    "subtype": "Didone (Modern)"
+  },
+  "_annotations": {
+    "metadata.title": {
+      "readability": "Readable",
+      "correction": "Traité élémentaire de Chimie"
+    },
+    "metadata.title_complement": {
+      "readability": "Readable",
+      "correction": "Chimie organique"
+    },
+    "metadata.volume_number": {
+      "readability": "Not readable",
+      "cause": "absent"
+    },
+    "metadata.authors": {
+      "readability": "Not readable",
+      "cause": "quality",
+      "correction": " A. Haller ; P. Th. Muller"
+    },
+    "metadata.publisher": {
+      "readability": "Readable"
+    },
+    "metadata.publication_place": {
+      "readability": "Not readable",
+      "cause": "absent"
+    },
+    "metadata.date": {
+      "readability": "Not readable",
+      "cause": "absent"
+    },
+    "language": {
+      "readability": "Readable"
+    },
+    "metadata.identifier": {
+      "readability": "Readable"
+    },
+    "metadata.iiif_manifest": {
+      "readability": "Readable"
+    },
+    "ark": {
+      "readability": "Readable"
+    }
+  },
+  "language": "fr (French)"
+}

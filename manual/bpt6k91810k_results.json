@@ -1,0 +1,56 @@
+{
+  "metadata": {
+    "title": "LES ACTUALITÉS DE CHIMIE CONTEMPORAINE",
+    "title_complement": "",
+    "volume_number": "2^ SÉRIE",
+    "authors": "A. Haller ; M. Cornuebert ; A. Berthoud; M. BATTEGAY ; M. TIFFENEAU ; E. DARMOIS ",
+    "publisher": "LIBRAIRIE OCTAVE DOIN",
+    "publication_place": "PARIS",
+    "date": "1924",
+    "identifier": "http://gallica.bnf.fr/ark:/12148/bpt6k91810k",
+    "iiif_manifest": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k91810k/manifest.json"
+  },
+  "ark": "bpt6k91810k",
+  "typographie": {
+    "category": "Serif/Roman",
+    "subtype": "Modern / Didone"
+  },
+  "_annotations": {
+    "metadata.title": {
+      "readability": "Readable"
+    },
+    "metadata.title_complement": {
+      "readability": "Not readable",
+      "cause": "absent"
+    },
+    "metadata.volume_number": {
+      "readability": "Readable"
+    },
+    "metadata.authors": {
+      "readability": "Readable",
+      "correction": "A. Haller ; M. Cornuebert ; A. Berthoud; M. BATTEGAY ; M. TIFFENEAU ; E. DARMOIS "
+    },
+    "metadata.publisher": {
+      "readability": "Readable"
+    },
+    "metadata.publication_place": {
+      "readability": "Readable"
+    },
+    "metadata.date": {
+      "readability": "Readable"
+    },
+    "language": {
+      "readability": "Readable"
+    },
+    "metadata.identifier": {
+      "readability": "Readable"
+    },
+    "metadata.iiif_manifest": {
+      "readability": "Readable"
+    },
+    "ark": {
+      "readability": "Readable"
+    }
+  },
+  "language": "fr (French)"
+}

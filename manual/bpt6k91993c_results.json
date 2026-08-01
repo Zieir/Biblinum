@@ -1,0 +1,57 @@
+{
+  "metadata": {
+    "title": "Roscoe-Schorlemmer's ausführlichesLEHRBUCH DER CHEMIE",
+    "title_complement": "DIE KOHLENWASSERSTOFFE UND IHRE DERIVATE ODER ORGANISCHE CHEMIE",
+    "volume_number": "SIEBENTER THEIL",
+    "authors": "JUL. WILH. BRÜHL; EDVARD HJELT; OSSIAN ASCHAN; O. COHNHEIM; O. EMMERLING; E. VAHLEN",
+    "publisher": "FRIEDRICH VIEWEG UND SOHN",
+    "publication_place": "BRAUNSCHWEIG",
+    "date": "1901",
+    "identifier": "http://gallica.bnf.fr/ark:/12148/bpt6k91993c",
+    "iiif_manifest": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k91993c/manifest.json"
+  },
+  "ark": "bpt6k91993c",
+  "typographie": {
+    "category": "Serif/Roman",
+    "subtype": "Didone (Modern)"
+  },
+  "_annotations": {
+    "metadata.title": {
+      "readability": "Readable",
+      "correction": "Roscoe-Schorlemmer's ausführlichesLEHRBUCH DER CHEMIE"
+    },
+    "metadata.title_complement": {
+      "readability": "Readable"
+    },
+    "metadata.volume_number": {
+      "readability": "Readable",
+      "correction": "SIEBENTER THEIL"
+    },
+    "metadata.authors": {
+      "readability": "Readable",
+      "correction": "JUL. WILH. BRÜHL; EDVARD HJELT; OSSIAN ASCHAN; O. COHNHEIM; O. EMMERLING; E. VAHLEN"
+    },
+    "metadata.publisher": {
+      "readability": "Readable"
+    },
+    "metadata.publication_place": {
+      "readability": "Readable"
+    },
+    "metadata.date": {
+      "readability": "Readable"
+    },
+    "language": {
+      "readability": "Readable"
+    },
+    "metadata.identifier": {
+      "readability": "Readable"
+    },
+    "metadata.iiif_manifest": {
+      "readability": "Readable"
+    },
+    "ark": {
+      "readability": "Readable"
+    }
+  },
+  "language": "de (German)"
+}

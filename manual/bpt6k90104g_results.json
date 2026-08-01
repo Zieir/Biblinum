@@ -1,0 +1,60 @@
+{
+  "metadata": {
+    "title": "RESEANTECKNINGAR ",
+    "title_complement": "RESEANTECKNINGAR ",
+    "volume_number": "",
+    "authors": "Jac. Berzelius",
+    "publisher": "P. A. NORSTEDT & SÖNER",
+    "publication_place": "STOCKHOLM",
+    "date": "",
+    "identifier": "http://gallica.bnf.fr/ark:/12148/bpt6k90104g",
+    "iiif_manifest": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k90104g/manifest.json"
+  },
+  "ark": "bpt6k90104g",
+  "typographie": {
+    "category": "Serif/Roman",
+    "subtype": "Didone (Modern)"
+  },
+  "_annotations": {
+    "metadata.title": {
+      "readability": "Readable",
+      "correction": "RESEANTECKNINGAR "
+    },
+    "metadata.title_complement": {
+      "readability": "Not readable",
+      "cause": "absent"
+    },
+    "metadata.volume_number": {
+      "readability": "Not readable",
+      "cause": "absent"
+    },
+    "metadata.authors": {
+      "readability": "Readable",
+      "correction": "Jac. Berzelius"
+    },
+    "metadata.publisher": {
+      "readability": "Readable"
+    },
+    "metadata.publication_place": {
+      "readability": "Readable"
+    },
+    "metadata.date": {
+      "readability": "Not readable",
+      "cause": "absent"
+    },
+    "language": {
+      "readability": "Readable"
+    },
+    "_note": "A revoir",
+    "metadata.identifier": {
+      "readability": "Readable"
+    },
+    "metadata.iiif_manifest": {
+      "readability": "Readable"
+    },
+    "ark": {
+      "readability": "Readable"
+    }
+  },
+  "language": "sv (Swedish)"
+}

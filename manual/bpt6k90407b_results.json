@@ -1,0 +1,59 @@
+{
+  "metadata": {
+    "title": "THE NEW CHEMISTRY",
+    "title_complement": "",
+    "volume_number": "",
+    "authors": "Josiah Parsons COOKE",
+    "publisher": "KEGAN PAUL, TRENCH, & CO",
+    "publication_place": "LONDON",
+    "date": "1887",
+    "identifier": "http://gallica.bnf.fr/ark:/12148/bpt6k90407b",
+    "iiif_manifest": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k90407b/manifest.json"
+  },
+  "ark": "bpt6k90407b",
+  "typographie": {
+    "category": "Serif/Roman",
+    "subtype": "Modern (Didone)"
+  },
+  "_annotations": {
+    "metadata.title": {
+      "readability": "Not readable",
+      "cause": "covered",
+      "correction": "THE NEW CHEMISTRY"
+    },
+    "metadata.title_complement": {
+      "readability": "Not readable",
+      "cause": "absent"
+    },
+    "metadata.volume_number": {
+      "readability": "Not readable",
+      "cause": "absent"
+    },
+    "metadata.authors": {
+      "readability": "Readable",
+      "correction": "Josiah Parsons COOKE"
+    },
+    "metadata.publisher": {
+      "readability": "Readable"
+    },
+    "metadata.publication_place": {
+      "readability": "Readable"
+    },
+    "metadata.date": {
+      "readability": "Readable"
+    },
+    "language": {
+      "readability": "Readable"
+    },
+    "metadata.identifier": {
+      "readability": "Readable"
+    },
+    "metadata.iiif_manifest": {
+      "readability": "Readable"
+    },
+    "ark": {
+      "readability": "Readable"
+    }
+  },
+  "language": "en (English)"
+}

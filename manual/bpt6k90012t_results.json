@@ -1,0 +1,59 @@
+{
+  "metadata": {
+    "title": "A SHORT MANUAL OF ANALYTICAL CHEMISTRY",
+    "title_complement": "qualitative and quantitative-anorganic and organic",
+    "volume_number": "",
+    "authors": "MUTER, JOHN",
+    "publisher": "W. BAXTER",
+    "publication_place": "LONDON",
+    "date": "1887",
+    "identifier": "http://gallica.bnf.fr/ark:/12148/bpt6k90012t",
+    "iiif_manifest": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k90012t/manifest.json"
+  },
+  "ark": "bpt6k90012t",
+  "typographie": {
+    "category": "Sans-serif",
+    "subtype": "Grotesque"
+  },
+  "_annotations": {
+    "metadata.title": {
+      "readability": "Readable"
+    },
+    "metadata.title_complement": {
+      "readability": "Readable",
+      "correction": "qualitative and quantitative-anorganic and organic"
+    },
+    "metadata.volume_number": {
+      "readability": "Not readable",
+      "cause": "absent"
+    },
+    "metadata.authors": {
+      "readability": "Readable"
+    },
+    "metadata.publisher": {
+      "readability": "Readable",
+      "correction": "W. Baxter"
+    },
+    "metadata.publication_place": {
+      "readability": "Readable",
+      "correction": "LONDON"
+    },
+    "metadata.date": {
+      "readability": "Readable",
+      "correction": "1887"
+    },
+    "language": {
+      "readability": "Readable"
+    },
+    "metadata.identifier": {
+      "readability": "Readable"
+    },
+    "metadata.iiif_manifest": {
+      "readability": "Readable"
+    },
+    "ark": {
+      "readability": "Readable"
+    }
+  },
+  "language": "en (English)"
+}

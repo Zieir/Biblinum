@@ -1,0 +1,59 @@
+{
+  "metadata": {
+    "title": "DAS CHEMISCHE LABORATORIUM DER UNIVERSITÄT CHRISTIANIA UND DIE DARIN AUSGEFÜHRTEN",
+    "title_complement": "AUS VERANLASSUNG DES ACADEMISCHEN COLLEGIUMS",
+    "volume_number": "",
+    "authors": "Adolph Strecker",
+    "publisher": "BRÖGGER & CHRISTIE",
+    "publication_place": "CHRISTIANIA",
+    "date": "1854",
+    "identifier": "http://gallica.bnf.fr/ark:/12148/bpt6k91834k",
+    "iiif_manifest": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k91834k/manifest.json"
+  },
+  "ark": "bpt6k91834k",
+  "typographie": {
+    "category": "Serif/Roman",
+    "subtype": "Didone (Modern)"
+  },
+  "_annotations": {
+    "metadata.title": {
+      "readability": "Readable",
+      "correction": "DAS CHEMISCHE LABORATORIUM DER UNIVERSITÄT CHRISTIANIA UND DIE DARIN AUSGEFÜHRTEN"
+    },
+    "metadata.title_complement": {
+      "readability": "Readable",
+      "correction": "AUS VERANLASSUNG DES ACADEMISCHEN COLLEGIUMS"
+    },
+    "metadata.volume_number": {
+      "readability": "Not readable",
+      "cause": "absent"
+    },
+    "metadata.authors": {
+      "readability": "Readable",
+      "correction": "Adolph Strecker"
+    },
+    "metadata.publisher": {
+      "readability": "Readable",
+      "correction": "Brögger & Christie"
+    },
+    "metadata.publication_place": {
+      "readability": "Readable"
+    },
+    "metadata.date": {
+      "readability": "Readable"
+    },
+    "language": {
+      "readability": "Readable"
+    },
+    "metadata.identifier": {
+      "readability": "Readable"
+    },
+    "metadata.iiif_manifest": {
+      "readability": "Readable"
+    },
+    "ark": {
+      "readability": "Readable"
+    }
+  },
+  "language": "de (German)"
+}

@@ -1,0 +1,60 @@
+{
+  "metadata": {
+    "title": "Œuvres scientifiques réunies et publiées sous les auspices du ministère de l'Instruction publique",
+    "title_complement": "THÉORIE NOUVELLE DES FONCTIONS, EXCLUSIVEMENT FONDÉE SUR L'IDÉE D'UN NOMBRE",
+    "volume_number": "",
+    "authors": "Gustave ROBIN",
+    "publisher": "GAUTHIER-VILLARS",
+    "publication_place": "PARIS",
+    "date": "1903",
+    "identifier": "http://gallica.bnf.fr/ark:/12148/bpt6k90222p",
+    "iiif_manifest": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k90222p/manifest.json"
+  },
+  "ark": "bpt6k90222p",
+  "typographie": {
+    "category": "Serif/Roman",
+    "subtype": "Didone (Modern)"
+  },
+  "_annotations": {
+    "metadata.title": {
+      "readability": "Readable",
+      "correction": "Œuvres scientifiques réunies et publiées sous les auspices du ministère de l'Instruction publique"
+    },
+    "metadata.title_complement": {
+      "readability": "Readable"
+    },
+    "metadata.volume_number": {
+      "readability": "Not readable",
+      "cause": "absent"
+    },
+    "metadata.authors": {
+      "readability": "Readable",
+      "correction": "Gustave ROBIN"
+    },
+    "metadata.publisher": {
+      "readability": "Readable",
+      "correction": "Gauthier-Villars"
+    },
+    "metadata.publication_place": {
+      "readability": "Readable",
+      "correction": "PARIS"
+    },
+    "metadata.date": {
+      "readability": "Readable",
+      "correction": "1903"
+    },
+    "language": {
+      "readability": "Readable"
+    },
+    "metadata.identifier": {
+      "readability": "Readable"
+    },
+    "metadata.iiif_manifest": {
+      "readability": "Readable"
+    },
+    "ark": {
+      "readability": "Readable"
+    }
+  },
+  "language": "fr (French)"
+}

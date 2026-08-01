@@ -1,0 +1,59 @@
+{
+  "metadata": {
+    "title": "Œuvres complètes d'AUGUSTIN CAUCHY ",
+    "title_complement": "",
+    "volume_number": "SÉRIE I TOME V",
+    "authors": "Augustin Cauchy",
+    "publisher": "GAUTHIER-VILLARS",
+    "publication_place": "PARIS",
+    "date": "1885",
+    "identifier": "http://gallica.bnf.fr/ark:/12148/bpt6k901859",
+    "iiif_manifest": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k901859/manifest.json"
+  },
+  "ark": "bpt6k901859",
+  "typographie": {
+    "category": "Serif/Roman",
+    "subtype": "Didone (Modern)"
+  },
+  "_annotations": {
+    "metadata.title": {
+      "readability": "Readable",
+      "correction": "Œuvres complètes d'AUGUSTIN CAUCHY "
+    },
+    "metadata.title_complement": {
+      "readability": "Not readable",
+      "cause": "absent",
+      "correction": ""
+    },
+    "metadata.volume_number": {
+      "readability": "Readable",
+      "correction": "SÉRIE I TOME V"
+    },
+    "metadata.authors": {
+      "readability": "Readable",
+      "correction": "Augustin Cauchy"
+    },
+    "metadata.publisher": {
+      "readability": "Readable"
+    },
+    "metadata.publication_place": {
+      "readability": "Readable"
+    },
+    "metadata.date": {
+      "readability": "Readable"
+    },
+    "language": {
+      "readability": "Readable"
+    },
+    "metadata.identifier": {
+      "readability": "Readable"
+    },
+    "metadata.iiif_manifest": {
+      "readability": "Readable"
+    },
+    "ark": {
+      "readability": "Readable"
+    }
+  },
+  "language": "fr (French)"
+}

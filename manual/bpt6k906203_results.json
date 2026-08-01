@@ -1,0 +1,58 @@
+{
+  "metadata": {
+    "title": "LECONS DE CHIMIE ÉLÉMENTAIRE",
+    "title_complement": "APPLIQUÉES AUX ARTS INDUSTRIELS et faites aux ouvriers du XIIe arrondissement",
+    "volume_number": "TROISIÈME PARTIE",
+    "authors": "DORÉ FILS",
+    "publisher": "VICTOR DALMONT",
+    "publication_place": "PARIS",
+    "date": "1857",
+    "identifier": "http://gallica.bnf.fr/ark:/12148/bpt6k906203",
+    "iiif_manifest": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k906203/manifest.json"
+  },
+  "ark": "bpt6k906203",
+  "typographie": {
+    "category": "Serif/Roman",
+    "subtype": "Slab Serif (Egyptian)"
+  },
+  "_annotations": {
+    "metadata.title": {
+      "readability": "Readable"
+    },
+    "metadata.title_complement": {
+      "readability": "Readable",
+      "correction": "APPLIQUÉES AUX ARTS INDUSTRIELS et faites aux ouvriers du XIIe arrondissement"
+    },
+    "metadata.volume_number": {
+      "readability": "Readable"
+    },
+    "metadata.authors": {
+      "readability": "Readable",
+      "correction": "DORÉ FILS"
+    },
+    "metadata.publisher": {
+      "readability": "Readable"
+    },
+    "metadata.publication_place": {
+      "readability": "Readable"
+    },
+    "metadata.date": {
+      "readability": "Not readable",
+      "cause": "quality",
+      "correction": "1857"
+    },
+    "language": {
+      "readability": "Readable"
+    },
+    "metadata.identifier": {
+      "readability": "Readable"
+    },
+    "metadata.iiif_manifest": {
+      "readability": "Readable"
+    },
+    "ark": {
+      "readability": "Readable"
+    }
+  },
+  "language": "fr (French)"
+}

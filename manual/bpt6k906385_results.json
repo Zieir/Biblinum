@@ -1,0 +1,58 @@
+{
+    "metadata": {
+        "title": "OBSERVATIONS SUR LA MATIÈRE ET LES CORPS",
+        "title_complement": "",
+        "volume_number": "",
+        "authors": "Polydore Flahault",
+        "publisher": "IMPRIMERIE ET FONDERIE DE E.-J. BAILLY",
+        "publication_place": "PARIS",
+        "date": "1841",
+        "identifier": "http://gallica.bnf.fr/ark:/12148/bpt6k906385",
+        "iiif_manifest": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k906385/manifest.json"
+    },
+    "ark": "bpt6k906385",
+    "typographie": {
+        "category": "Serif/Roman",
+        "subtype": "Didone (Modern)"
+    },
+    "_annotations": {
+        "metadata.title": {
+            "readability": "Readable",
+            "correction": "OBSERVATIONS SUR LA MATIÈRE ET LES CORPS"
+        },
+        "metadata.title_complement": {
+            "readability": "Not readable",
+            "cause": "absent"
+        },
+        "metadata.volume_number": {
+            "readability": "Not readable",
+            "cause": "absent"
+        },
+        "metadata.authors": {
+            "readability": "Readable",
+            "correction": "Polydore Flahault"
+        },
+        "metadata.publisher": {
+            "readability": "Readable"
+        },
+        "metadata.publication_place": {
+            "readability": "Readable"
+        },
+        "metadata.date": {
+            "readability": "Readable"
+        },
+        "language": {
+            "readability": "Readable"
+        },
+        "metadata.identifier": {
+            "readability": "Readable"
+        },
+        "metadata.iiif_manifest": {
+            "readability": "Readable"
+        },
+        "ark": {
+            "readability": "Readable"
+        }
+    },
+    "language": "fr (French)"
+}

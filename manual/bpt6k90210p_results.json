@@ -1,0 +1,57 @@
+{
+  "metadata": {
+    "title": "ŒUVRES DE LAGUERRE",
+    "title_complement": "ALGÈBRE. - CALCUL INTÉGRAL.",
+    "volume_number": "TOME I",
+    "authors": "Ch. Hermite; H. Poincaré; E. Rouché",
+    "publisher": "CHELSEA PUBLISHING COMPANY",
+    "publication_place": "BRONX, NEW YORK",
+    "date": "",
+    "identifier": "http://gallica.bnf.fr/ark:/12148/bpt6k90210p",
+    "iiif_manifest": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k90210p/manifest.json"
+  },
+  "ark": "bpt6k90210p",
+  "typographie": {
+    "category": "Serif/Roman",
+    "subtype": "Didone (Modern)"
+  },
+  "_annotations": {
+    "metadata.title": {
+      "readability": "Readable"
+    },
+    "metadata.title_complement": {
+      "readability": "Readable",
+      "correction": "ALGÈBRE. - CALCUL INTÉGRAL."
+    },
+    "metadata.volume_number": {
+      "readability": "Readable"
+    },
+    "metadata.authors": {
+      "readability": "Readable",
+      "correction": "Ch. Hermite; H. Poincaré; E. Rouché"
+    },
+    "metadata.publisher": {
+      "readability": "Readable"
+    },
+    "metadata.publication_place": {
+      "readability": "Readable"
+    },
+    "metadata.date": {
+      "readability": "Not readable",
+      "cause": "absent"
+    },
+    "language": {
+      "readability": "Readable"
+    },
+    "metadata.identifier": {
+      "readability": "Readable"
+    },
+    "metadata.iiif_manifest": {
+      "readability": "Readable"
+    },
+    "ark": {
+      "readability": "Readable"
+    }
+  },
+  "language": "fr (French)"
+}

@@ -1,0 +1,58 @@
+{
+  "metadata": {
+    "title": "LA CHIMIE PHYSIQUE ET SES APPLICATIONS",
+    "title_complement": "huit leçons faites sur l'invitation de l'Université de Chicago, du 20 au 24 juin 1901",
+    "volume_number": "",
+    "authors": "J. H. VAN'T HOFF",
+    "publisher": "LIBRAIRIE SCIENTIFIQUE A. HERMANN",
+    "publication_place": "PARIS",
+    "date": "1903",
+    "identifier": "http://gallica.bnf.fr/ark:/12148/bpt6k918368",
+    "iiif_manifest": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k918368/manifest.json"
+  },
+  "ark": "bpt6k918368",
+  "typographie": {
+    "category": "Serif/Roman",
+    "subtype": "Didone (Modern)"
+  },
+  "_annotations": {
+    "metadata.title": {
+      "readability": "Readable",
+      "correction": "LA CHIMIE PHYSIQUE ET SES APPLICATIONS"
+    },
+    "metadata.title_complement": {
+      "readability": "Readable",
+      "correction": "huit leçons faites sur l'invitation de l'Université de Chicago, du 20 au 24 juin 1901"
+    },
+    "metadata.volume_number": {
+      "readability": "Not readable",
+      "cause": "absent"
+    },
+    "metadata.authors": {
+      "readability": "Readable",
+      "correction": "J. H. VAN'T HOFF"
+    },
+    "metadata.publisher": {
+      "readability": "Readable"
+    },
+    "metadata.publication_place": {
+      "readability": "Readable"
+    },
+    "metadata.date": {
+      "readability": "Readable"
+    },
+    "language": {
+      "readability": "Readable"
+    },
+    "metadata.identifier": {
+      "readability": "Readable"
+    },
+    "metadata.iiif_manifest": {
+      "readability": "Readable"
+    },
+    "ark": {
+      "readability": "Readable"
+    }
+  },
+  "language": "fr (French)"
+}

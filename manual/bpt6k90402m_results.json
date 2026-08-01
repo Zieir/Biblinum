@@ -1,0 +1,55 @@
+{
+  "metadata": {
+    "title": "THE CONSTANTS OF NATURE",
+    "title_complement": "A RECALCULATION OF THE ATOMIC WEIGHTS",
+    "volume_number": "PART V",
+    "authors": "FRANK WIGGLESWORTH CLARKE",
+    "publisher": "SMITHSONIAN INSTITUTION",
+    "publication_place": "WASHINGTON",
+    "date": "1882",
+    "identifier": "http://gallica.bnf.fr/ark:/12148/bpt6k90402m",
+    "iiif_manifest": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k90402m/manifest.json"
+  },
+  "ark": "bpt6k90402m",
+  "typographie": {
+    "category": "Serif/Roman",
+    "subtype": "Modern / Didone"
+  },
+  "_annotations": {
+    "metadata.title": {
+      "readability": "Readable"
+    },
+    "metadata.title_complement": {
+      "readability": "Readable"
+    },
+    "metadata.volume_number": {
+      "readability": "Readable"
+    },
+    "metadata.authors": {
+      "readability": "Readable",
+      "correction": "FRANK WIGGLESWORTH CLARKE"
+    },
+    "metadata.publisher": {
+      "readability": "Readable"
+    },
+    "metadata.publication_place": {
+      "readability": "Readable"
+    },
+    "metadata.date": {
+      "readability": "Readable"
+    },
+    "language": {
+      "readability": "Readable"
+    },
+    "metadata.identifier": {
+      "readability": "Readable"
+    },
+    "metadata.iiif_manifest": {
+      "readability": "Readable"
+    },
+    "ark": {
+      "readability": "Readable"
+    }
+  },
+  "language": "en (English)"
+}

@@ -1,0 +1,59 @@
+{
+  "metadata": {
+    "title": "UNPARALLELED DISCOVERIES of T. J. J. SEE",
+    "title_complement": "BRIEF BIOGRAPHY AND POPULAR ACCOUNT",
+    "volume_number": "",
+    "authors": "W. L. Webb",
+    "publisher": "THOS. P. NICHOLS & SON CO.; WM. WESLEY & SON",
+    "publication_place": "LYNN, MASS.; LONDON",
+    "date": "1913",
+    "identifier": "http://gallica.bnf.fr/ark:/12148/bpt6k90144q",
+    "iiif_manifest": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k90144q/manifest.json"
+  },
+  "ark": "bpt6k90144q",
+  "typographie": {
+    "category": "Serif/Roman",
+    "subtype": "Modern / Didone"
+  },
+  "_annotations": {
+    "metadata.title": {
+      "readability": "Readable",
+      "correction": "UNPARALLELED DISCOVERIES of T. J. J. SEE"
+    },
+    "metadata.title_complement": {
+      "readability": "Readable"
+    },
+    "metadata.volume_number": {
+      "readability": "Not readable",
+      "cause": "absent"
+    },
+    "metadata.authors": {
+      "readability": "Readable",
+      "correction": "W. L. Webb"
+    },
+    "metadata.publisher": {
+      "readability": "Readable",
+      "correction": "THOS. P. NICHOLS & SON CO.; WM. WESLEY & SON"
+    },
+    "metadata.publication_place": {
+      "readability": "Readable",
+      "correction": "LYNN, MASS.; LONDON"
+    },
+    "metadata.date": {
+      "readability": "Readable"
+    },
+    "language": {
+      "readability": "Readable"
+    },
+    "metadata.identifier": {
+      "readability": "Readable"
+    },
+    "metadata.iiif_manifest": {
+      "readability": "Readable"
+    },
+    "ark": {
+      "readability": "Readable"
+    }
+  },
+  "language": "en (English)"
+}

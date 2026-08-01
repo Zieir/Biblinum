@@ -1,0 +1,61 @@
+{
+  "metadata": {
+    "title": "ONORANZE CENTENARIE AD ASCANIO SOBRERO",
+    "title_complement": "",
+    "volume_number": "",
+    "authors": "Associazione Chimica Industriale di Torino",
+    "publisher": "UNIONE TIPOGRAFICO-EDITRICE TORINESE",
+    "publication_place": "TORINO",
+    "date": "1914",
+    "identifier": "http://gallica.bnf.fr/ark:/12148/bpt6k90351j",
+    "iiif_manifest": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k90351j/manifest.json"
+  },
+  "ark": "bpt6k90351j",
+  "typographie": {
+    "category": "Serif/Roman",
+    "subtype": "Slab Serif (Egyptian)"
+  },
+  "_annotations": {
+    "metadata.title": {
+      "readability": "Readable",
+      "correction": "ONORANZE CENTENARIE AD ASCANIO SOBRERO"
+    },
+    "metadata.title_complement": {
+      "readability": "Not readable",
+      "cause": "absent"
+    },
+    "metadata.volume_number": {
+      "readability": "Not readable",
+      "cause": "absent"
+    },
+    "metadata.authors": {
+      "readability": "Readable",
+      "correction": "Associazione Chimica Industriale di Torino"
+    },
+    "metadata.publisher": {
+      "readability": "Readable",
+      "correction": "Unione Tipografico-Editrice Torinese"
+    },
+    "metadata.publication_place": {
+      "readability": "Readable",
+      "correction": "TORINO"
+    },
+    "metadata.date": {
+      "readability": "Readable",
+      "correction": "1914"
+    },
+    "language": {
+      "readability": "Readable"
+    },
+    "metadata.identifier": {
+      "readability": "Readable"
+    },
+    "metadata.iiif_manifest": {
+      "readability": "Readable"
+    },
+    "ark": {
+      "readability": "Readable"
+    }
+  },
+  "language": "it (Italian)"
+}

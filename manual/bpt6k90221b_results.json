@@ -1,0 +1,58 @@
+{
+  "metadata": {
+    "title": "Œuvres de Charles Hermite",
+    "title_complement": "",
+    "volume_number": "TOME IV",
+    "authors": "Charles Hermite",
+    "publisher": "GAUTHIER-VILLARS ET CIE",
+    "publication_place": "PARIS",
+    "date": "1917",
+    "identifier": "http://gallica.bnf.fr/ark:/12148/bpt6k90221b",
+    "iiif_manifest": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k90221b/manifest.json"
+  },
+  "ark": "bpt6k90221b",
+  "typographie": {
+    "category": "Serif/Roman",
+    "subtype": "Modern (Didone)"
+  },
+  "_annotations": {
+    "metadata.title": {
+      "readability": "Readable",
+      "correction": "Œuvres de Charles Hermite"
+    },
+    "metadata.title_complement": {
+      "readability": "Not readable",
+      "cause": "absent",
+      "correction": ""
+    },
+    "metadata.volume_number": {
+      "readability": "Readable"
+    },
+    "metadata.authors": {
+      "readability": "Readable",
+      "correction": "Charles Hermite"
+    },
+    "metadata.publisher": {
+      "readability": "Readable"
+    },
+    "metadata.publication_place": {
+      "readability": "Readable"
+    },
+    "metadata.date": {
+      "readability": "Readable"
+    },
+    "language": {
+      "readability": "Readable"
+    },
+    "metadata.identifier": {
+      "readability": "Readable"
+    },
+    "metadata.iiif_manifest": {
+      "readability": "Readable"
+    },
+    "ark": {
+      "readability": "Readable"
+    }
+  },
+  "language": "fr (French)"
+}

@@ -1,0 +1,64 @@
+{
+  "metadata": {
+    "title": "Guide pour l'introduction à l'étude de la chimie ",
+    "title_complement": "Contenant les principes généraux de cette science, les proportions chimiques, la théorie atomique, le rapport des poids atomiques avec le volume des corps, l'isomorphisme, les usages des poids atomiques et des formules chimiques, les combinaisons isométriques , les corps catalytiques, etc.",
+    "volume_number": "",
+    "authors": "J. LIEBIG",
+    "publisher": "EUGÈNE LACROIX",
+    "publication_place": "PARIS",
+    "date": "",
+    "identifier": "http://gallica.bnf.fr/ark:/12148/bpt6k90248c",
+    "iiif_manifest": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k90248c/manifest.json"
+  },
+  "ark": "bpt6k90248c",
+  "typographie": {
+    "category": "Serif/Roman",
+    "subtype": "Didone (Modern)"
+  },
+  "_annotations": {
+    "metadata.title": {
+      "readability": "Not readable",
+      "cause": "quality",
+      "correction": "Guide pour l'introduction à l'étude de la chimie "
+    },
+    "metadata.title_complement": {
+      "readability": "Not readable",
+      "cause": "quality",
+      "correction": "Contenant les principes généraux de cette science, les proportions chimiques, la théorie atomique, le rapport des poids atomiques avec le volume des corps, l'isomorphisme, les usages des poids atomiques et des formules chimiques, les combinaisons isométriques , les corps catalytiques, etc."
+    },
+    "metadata.volume_number": {
+      "readability": "Not readable",
+      "cause": "absent"
+    },
+    "metadata.authors": {
+      "readability": "Not readable",
+      "cause": "quality",
+      "correction": "J. LIEBIG"
+    },
+    "metadata.publisher": {
+      "readability": "Not readable",
+      "cause": "covered",
+      "correction": "Eugène Lacroix"
+    },
+    "metadata.publication_place": {
+      "readability": "Readable"
+    },
+    "metadata.date": {
+      "readability": "Not readable",
+      "cause": "absent"
+    },
+    "language": {
+      "readability": "Readable"
+    },
+    "metadata.identifier": {
+      "readability": "Readable"
+    },
+    "metadata.iiif_manifest": {
+      "readability": "Readable"
+    },
+    "ark": {
+      "readability": "Readable"
+    }
+  },
+  "language": "fr (French)"
+}

@@ -1,0 +1,15 @@
+{
+    "processing_time_seconds": 3.01,
+    "metadata": {
+        "title": "Cours de Chimie",
+        "title_complement": "",
+        "volume_number": "1re Leçon",
+        "authors": "Charpy, M. G.",
+        "publisher": "Ecole Polytechnique",
+        "publication_place": "",
+        "date": "1925",
+        "identifier": "http://gallica.bnf.fr/ark:/12148/bpt6k90603h",
+        "iiif_manifest": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k90603h/manifest.json"
+    },
+    "ark": "bpt6k90603h"
+}

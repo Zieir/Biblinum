@@ -1,0 +1,58 @@
+{
+  "metadata": {
+    "title": "NOUVELLES MANIPULATIONS CHIMIQUES SIMPLIFIÉES",
+    "title_complement": "OU LABORATOIRE ÉCONOMIQUE DE L'ETUDIANT",
+    "volume_number": "",
+    "authors": "Henry Violette",
+    "publisher": "LACROIX ET BAUDY",
+    "publication_place": "PARIS",
+    "date": "1860",
+    "identifier": "http://gallica.bnf.fr/ark:/12148/bpt6k90149f",
+    "iiif_manifest": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k90149f/manifest.json"
+  },
+  "ark": "bpt6k90149f",
+  "typographie": {
+    "category": "Serif/Roman",
+    "subtype": "Didone (Modern)"
+  },
+  "_annotations": {
+    "metadata.title": {
+      "readability": "Readable"
+    },
+    "metadata.title_complement": {
+      "readability": "Readable"
+    },
+    "metadata.volume_number": {
+      "readability": "Not readable",
+      "cause": "absent"
+    },
+    "metadata.authors": {
+      "readability": "Readable",
+      "correction": "Henry Violette"
+    },
+    "metadata.publisher": {
+      "readability": "Readable"
+    },
+    "metadata.publication_place": {
+      "readability": "Readable"
+    },
+    "metadata.date": {
+      "readability": "Not readable",
+      "cause": "quality",
+      "correction": "1860"
+    },
+    "language": {
+      "readability": "Readable"
+    },
+    "metadata.identifier": {
+      "readability": "Readable"
+    },
+    "metadata.iiif_manifest": {
+      "readability": "Readable"
+    },
+    "ark": {
+      "readability": "Readable"
+    }
+  },
+  "language": "fr (French)"
+}

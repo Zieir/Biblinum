@@ -1,0 +1,59 @@
+{
+  "metadata": {
+    "title": "Einführung in die Chemie in leichtfasslicher Form",
+    "title_complement": "",
+    "volume_number": "",
+    "authors": "Lassar-Cohn",
+    "publisher": "LEOPOLD VOSS",
+    "publication_place": "HAMBURG UND LEIPZIG",
+    "date": "1899",
+    "identifier": "http://gallica.bnf.fr/ark:/12148/bpt6k90523v",
+    "iiif_manifest": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k90523v/manifest.json"
+  },
+  "ark": "bpt6k90523v",
+  "typographie": {
+    "category": "Blackletter",
+    "subtype": "Fraktur"
+  },
+  "_annotations": {
+    "metadata.title": {
+      "readability": "Not readable",
+      "cause": "covered"
+    },
+    "metadata.title_complement": {
+      "readability": "Not readable",
+      "cause": "absent"
+    },
+    "metadata.volume_number": {
+      "readability": "Not readable",
+      "cause": "absent"
+    },
+    "metadata.authors": {
+      "readability": "Readable",
+      "correction": "Lassar-Cohn"
+    },
+    "metadata.publisher": {
+      "readability": "Readable",
+      "correction": "Leopold Voss"
+    },
+    "metadata.publication_place": {
+      "readability": "Readable"
+    },
+    "metadata.date": {
+      "readability": "Readable"
+    },
+    "language": {
+      "readability": "Readable"
+    },
+    "metadata.identifier": {
+      "readability": "Readable"
+    },
+    "metadata.iiif_manifest": {
+      "readability": "Readable"
+    },
+    "ark": {
+      "readability": "Readable"
+    }
+  },
+  "language": "de (German)"
+}

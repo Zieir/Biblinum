@@ -1,0 +1,56 @@
+{
+  "metadata": {
+    "title": "TRAITÉ DE MÉCANIQUE",
+    "title_complement": "",
+    "volume_number": "TOME SECOND",
+    "authors": "S. D. Poisson",
+    "publisher": "VEUVE COURCIER",
+    "publication_place": "PARIS",
+    "date": "1811",
+    "identifier": "http://gallica.bnf.fr/ark:/12148/bpt6k90338b",
+    "iiif_manifest": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k90338b/manifest.json"
+  },
+  "ark": "bpt6k90338b",
+  "typographie": {
+    "category": "Serif/Roman",
+    "subtype": "Didone (Modern)"
+  },
+  "_annotations": {
+    "metadata.title": {
+      "readability": "Readable"
+    },
+    "metadata.title_complement": {
+      "readability": "Not readable",
+      "cause": "absent"
+    },
+    "metadata.volume_number": {
+      "readability": "Readable"
+    },
+    "metadata.authors": {
+      "readability": "Readable",
+      "correction": "S. D. Poisson"
+    },
+    "metadata.publisher": {
+      "readability": "Readable"
+    },
+    "metadata.publication_place": {
+      "readability": "Readable"
+    },
+    "metadata.date": {
+      "readability": "Readable"
+    },
+    "language": {
+      "readability": "Readable"
+    },
+    "metadata.identifier": {
+      "readability": "Readable"
+    },
+    "metadata.iiif_manifest": {
+      "readability": "Readable"
+    },
+    "ark": {
+      "readability": "Readable"
+    }
+  },
+  "language": "fr (French)"
+}

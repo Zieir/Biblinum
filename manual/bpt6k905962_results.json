@@ -1,0 +1,60 @@
+{
+  "metadata": {
+    "title": "Cours de Chimie Analytique",
+    "title_complement": "",
+    "volume_number": "2ème Année",
+    "authors": "Bouis",
+    "publisher": "",
+    "publication_place": "",
+    "date": "1870",
+    "identifier": "http://gallica.bnf.fr/ark:/12148/bpt6k905962",
+    "iiif_manifest": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k905962/manifest.json"
+  },
+  "ark": "bpt6k905962",
+  "typographie": {
+    "category": "Script",
+    "subtype": "Cursive / Copperplate influence"
+  },
+  "_annotations": {
+    "metadata.title": {
+      "readability": "Readable"
+    },
+    "metadata.title_complement": {
+      "readability": "Not readable",
+      "cause": "absent"
+    },
+    "metadata.volume_number": {
+      "readability": "Readable"
+    },
+    "metadata.authors": {
+      "readability": "Readable",
+      "correction": "Bouis"
+    },
+    "metadata.publisher": {
+      "readability": "Not readable",
+      "cause": "absent",
+      "correction": ""
+    },
+    "metadata.publication_place": {
+      "readability": "Not readable",
+      "cause": "absent"
+    },
+    "metadata.date": {
+      "readability": "Readable",
+      "correction": "1870"
+    },
+    "language": {
+      "readability": "Readable"
+    },
+    "metadata.identifier": {
+      "readability": "Readable"
+    },
+    "metadata.iiif_manifest": {
+      "readability": "Readable"
+    },
+    "ark": {
+      "readability": "Readable"
+    }
+  },
+  "language": "fr (French)"
+}

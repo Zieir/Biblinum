@@ -1,0 +1,56 @@
+{
+  "metadata": {
+    "title": "PREMIERS ÉLÉMENTS DU CALCUL INFINITÉSIMAL",
+    "title_complement": "A L'USAGE DES JEUNES GENS QUI SE DESTINENT A LA CARRIÈRE D'INGÉNIEUR",
+    "volume_number": "",
+    "authors": "H. SONNET",
+    "publisher": "LIBRAIRIE HACHETTE ET CIE",
+    "publication_place": "PARIS",
+    "date": "1884",
+    "identifier": "http://gallica.bnf.fr/ark:/12148/bpt6k91919z",
+    "iiif_manifest": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k91919z/manifest.json"
+  },
+  "ark": "bpt6k91919z",
+  "typographie": {
+    "category": "Serif/Roman",
+    "subtype": "Didone (Modern)"
+  },
+  "_annotations": {
+    "metadata.title": {
+      "readability": "Readable"
+    },
+    "metadata.title_complement": {
+      "readability": "Readable"
+    },
+    "metadata.volume_number": {
+      "readability": "Not readable",
+      "cause": "absent"
+    },
+    "metadata.authors": {
+      "readability": "Readable",
+      "correction": "H. SONNET"
+    },
+    "metadata.publisher": {
+      "readability": "Readable"
+    },
+    "metadata.publication_place": {
+      "readability": "Readable"
+    },
+    "metadata.date": {
+      "readability": "Readable"
+    },
+    "language": {
+      "readability": "Readable"
+    },
+    "metadata.identifier": {
+      "readability": "Readable"
+    },
+    "metadata.iiif_manifest": {
+      "readability": "Readable"
+    },
+    "ark": {
+      "readability": "Readable"
+    }
+  },
+  "language": "fr (French)"
+}

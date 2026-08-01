@@ -1,0 +1,60 @@
+{
+  "metadata": {
+    "title": "TRAITÉ DE MINÉRALOGIE",
+    "title_complement": "",
+    "volume_number": "TOME PREMIER",
+    "authors": "A. DUFRÉNOY",
+    "publisher": "VICTOR DALMONT",
+    "publication_place": "PARIS",
+    "date": "1856",
+    "identifier": "http://gallica.bnf.fr/ark:/12148/bpt6k91763w",
+    "iiif_manifest": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k91763w/manifest.json"
+  },
+  "ark": "bpt6k91763w",
+  "typographie": {
+    "category": "Serif/Roman",
+    "subtype": "Didone (Modern)"
+  },
+  "_annotations": {
+    "metadata.title": {
+      "readability": "Readable"
+    },
+    "metadata.title_complement": {
+      "readability": "Not readable",
+      "cause": "absent"
+    },
+    "metadata.volume_number": {
+      "readability": "Readable",
+      "correction": "TOME PREMIER"
+    },
+    "metadata.authors": {
+      "readability": "Readable",
+      "correction": "A. DUFRÉNOY"
+    },
+    "metadata.publisher": {
+      "readability": "Readable",
+      "correction": "VICTOR DALMONT"
+    },
+    "metadata.publication_place": {
+      "readability": "Readable",
+      "correction": "PARIS"
+    },
+    "metadata.date": {
+      "readability": "Readable",
+      "correction": "1856"
+    },
+    "language": {
+      "readability": "Readable"
+    },
+    "metadata.identifier": {
+      "readability": "Readable"
+    },
+    "metadata.iiif_manifest": {
+      "readability": "Readable"
+    },
+    "ark": {
+      "readability": "Readable"
+    }
+  },
+  "language": "fr (French)"
+}

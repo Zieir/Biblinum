@@ -1,0 +1,62 @@
+{
+  "metadata": {
+    "title": "ÉLÉMENTS DE CHIMIE INORGANIQUE ET ORGANIQUE",
+    "title_complement": "",
+    "volume_number": "",
+    "authors": "F. WÖHLER",
+    "publisher": "EMILE MELLIER ; GRIMBLOT, VE RAYBOIS ET COMP.",
+    "publication_place": "PARIS ; NANCY",
+    "date": "1858",
+    "identifier": "http://gallica.bnf.fr/ark:/12148/bpt6k901781",
+    "iiif_manifest": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k901781/manifest.json"
+  },
+  "ark": "bpt6k901781",
+  "typographie": {
+    "category": "Serif/Roman",
+    "subtype": "Didone (Modern)"
+  },
+  "_annotations": {
+    "metadata.title": {
+      "readability": "Readable",
+      "correction": "ÉLÉMENTS DE CHIMIE INORGANIQUE ET ORGANIQUE"
+    },
+    "metadata.title_complement": {
+      "readability": "Not readable",
+      "cause": "absent",
+      "correction": ""
+    },
+    "metadata.volume_number": {
+      "readability": "Not readable",
+      "cause": "absent"
+    },
+    "metadata.authors": {
+      "readability": "Readable",
+      "correction": "F. WÖHLER"
+    },
+    "metadata.publisher": {
+      "readability": "Readable",
+      "correction": "EMILE MELLIER ; GRIMBLOT, Ve RAYBOIS ET COMP."
+    },
+    "metadata.publication_place": {
+      "readability": "Readable"
+    },
+    "metadata.date": {
+      "readability": "Not readable",
+      "cause": "quality",
+      "correction": "1858"
+    },
+    "language": {
+      "readability": "Readable"
+    },
+    "metadata.identifier": {
+      "readability": "Readable"
+    },
+    "metadata.iiif_manifest": {
+      "readability": "Readable"
+    },
+    "ark": {
+      "readability": "Readable"
+    }
+  },
+  "language": "fr (French)"
+}

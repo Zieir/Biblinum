@@ -1,0 +1,60 @@
+{
+  "metadata": {
+    "title": "ŒUVRES COMPLÈTES",
+    "title_complement": "",
+    "volume_number": "TOME I",
+    "authors": "Jean-Charles Galissard de Marignac",
+    "publisher": "CH. EGGIMANN; MASSON; FRIEDLAENDER & FILS",
+    "publication_place": "GENÈVE; PARIS; BERLIN",
+    "date": "",
+    "identifier": "http://gallica.bnf.fr/ark:/12148/bpt6k90442v",
+    "iiif_manifest": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k90442v/manifest.json"
+  },
+  "ark": "bpt6k90442v",
+  "typographie": {
+    "category": "Serif/Roman",
+    "subtype": "Didone (Modern)"
+  },
+  "_annotations": {
+    "metadata.title": {
+      "readability": "Readable"
+    },
+    "metadata.title_complement": {
+      "readability": "Not readable",
+      "cause": "absent"
+    },
+    "metadata.volume_number": {
+      "readability": "Readable",
+      "correction": "TOME I"
+    },
+    "metadata.authors": {
+      "readability": "Readable",
+      "correction": "Jean-Charles Galissard de Marignac"
+    },
+    "metadata.publisher": {
+      "readability": "Readable",
+      "correction": "Ch. Eggimann; Masson; Friedlaender & fils"
+    },
+    "metadata.publication_place": {
+      "readability": "Readable",
+      "correction": "Genève; Paris; Berlin"
+    },
+    "metadata.date": {
+      "readability": "Not readable",
+      "cause": "absent"
+    },
+    "language": {
+      "readability": "Readable"
+    },
+    "metadata.identifier": {
+      "readability": "Readable"
+    },
+    "metadata.iiif_manifest": {
+      "readability": "Readable"
+    },
+    "ark": {
+      "readability": "Readable"
+    }
+  },
+  "language": "fr (French)"
+}

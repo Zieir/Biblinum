@@ -1,0 +1,61 @@
+{
+  "metadata": {
+    "title": "NOMENCLATURE des COLORANTS ET PRODUITS CHIMIQUES de la Société anonyme des matières colorantes et produits chimiques de Saint-Denis",
+    "title_complement": "PROCÉDÉS D'APPLICATIONS",
+    "volume_number": "",
+    "authors": "",
+    "publisher": "",
+    "publication_place": "",
+    "date": "1926",
+    "identifier": "http://gallica.bnf.fr/ark:/12148/bpt6k91730x",
+    "iiif_manifest": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k91730x/manifest.json"
+  },
+  "ark": "bpt6k91730x",
+  "typographie": {
+    "category": "Serif/Roman",
+    "subtype": "Didone (Modern)"
+  },
+  "_annotations": {
+    "metadata.title": {
+      "readability": "Readable",
+      "correction": "NOMENCLATURE des COLORANTS ET PRODUITS CHIMIQUES de la Société anonyme des matières colorantes et produits chimiques de Saint-Denis"
+    },
+    "metadata.title_complement": {
+      "readability": "Readable"
+    },
+    "metadata.volume_number": {
+      "readability": "Not readable",
+      "cause": "absent"
+    },
+    "metadata.authors": {
+      "readability": "Not readable",
+      "cause": "absent"
+    },
+    "metadata.publisher": {
+      "readability": "Not readable",
+      "cause": "absent",
+      "correction": ""
+    },
+    "metadata.publication_place": {
+      "readability": "Not readable",
+      "cause": "absent",
+      "correction": ""
+    },
+    "metadata.date": {
+      "readability": "Readable"
+    },
+    "language": {
+      "readability": "Readable"
+    },
+    "metadata.identifier": {
+      "readability": "Readable"
+    },
+    "metadata.iiif_manifest": {
+      "readability": "Readable"
+    },
+    "ark": {
+      "readability": "Readable"
+    }
+  },
+  "language": "fr (French)"
+}

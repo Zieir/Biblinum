@@ -1,0 +1,55 @@
+{
+  "metadata": {
+    "title": "LES THÉORIES MODERNES DE LA CHIMIE",
+    "title_complement": "ET LEUR APPLICATION A LA MÉCANIQUE CHIMIQUE",
+    "volume_number": "PREMIER VOLUME",
+    "authors": "Lothar MEYER",
+    "publisher": "GEORGES CARRÉ, ÉDITEUR",
+    "publication_place": "PARIS",
+    "date": "1887",
+    "identifier": "http://gallica.bnf.fr/ark:/12148/bpt6k91871s",
+    "iiif_manifest": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k91871s/manifest.json"
+  },
+  "ark": "bpt6k91871s",
+  "typographie": {
+    "category": "Display",
+    "subtype": "Victorian / Ornamental"
+  },
+  "_annotations": {
+    "metadata.title": {
+      "readability": "Readable"
+    },
+    "metadata.title_complement": {
+      "readability": "Readable"
+    },
+    "metadata.volume_number": {
+      "readability": "Readable"
+    },
+    "metadata.authors": {
+      "readability": "Readable",
+      "correction": "Lothar MEYER"
+    },
+    "metadata.publisher": {
+      "readability": "Readable"
+    },
+    "metadata.publication_place": {
+      "readability": "Readable"
+    },
+    "metadata.date": {
+      "readability": "Readable"
+    },
+    "language": {
+      "readability": "Readable"
+    },
+    "metadata.identifier": {
+      "readability": "Readable"
+    },
+    "metadata.iiif_manifest": {
+      "readability": "Readable"
+    },
+    "ark": {
+      "readability": "Readable"
+    }
+  },
+  "language": "fr (French)"
+}
