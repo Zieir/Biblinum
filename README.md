@@ -31,22 +31,13 @@ NB: See an example [here](https://gallica.bnf.fr/ark:/12148/bpt6k90402m) and see
 Qwen? 
 
 ```bash
-├── images/                  # Source images (JPEG/PNG), one per document
-├── jsons_qwen/              # Raw extractions produced by VLM
-└── jsons_corriges/          # Manually annotated and corrected JSON files
+├── gallica/                  # Annotations found on the Gallica portal
+├── vlm/              # Raw extractions produced by VLM
+└── manual/          # Manually annotated and corrected JSON files
  ```
 
 ## TODO Issues to Resolve
 - [ ] Check content: 792 annotations; mais 792 Gemma_outputs; why ground_truth 815 ?
-- [ ] I have modified URLs manually in the "identifier" field, for example:
-    https://gallica.bnf.fr/ark:/12148/bpt6k91972d/f2.item
-    to avoid retrieving a placeholder title page. Is it ok ?
-- [ ] Multiple authors: determine whether ; or , should be used as a separator and apply the chosen convention consistently.
-- [ ] Rename dirs: ground_truth —> rename in gallica; annotated_data —> rename in manual; Gemma_outputs —> gemma or vlm  
-- [ ] “Non lisible”, “recouvert” etc. à traduire en anglais
-- [ ] “À revoir” comments à check et retirer 
-- [ ] Manque des annotations “fraktur” ? e.g. bpt6k905037  / je pensais que l'on précisait les fontes latines vs fraktur ? / e.g. avec un champ `latin` true/false (false dès que une partie du texte n’est pas en format latin)
-- [ ] Vérifier pourquoi il y a autant de documents marqués comme illisibles en français, probablement une erreur systématique ? 
 - [ ] share script for downloading the data, in addition to the annotations.  
 - [ ] light check : FAIR principles (Findable, Accessible, Interoperable, Reusable), / guidelines of the Datasheets for Datasets model.
 
@@ -137,48 +128,64 @@ Each file in jsons_corriges/ corresponds to one image and follows this structure
 
 ```json
 {
-    "metadata": {
-        "title": "ELEMENTS OF CHEMISTRY",
-        "title_complement": "THEORETICAL AND PRACTICAL",
-        "volume_number": "",
-        "authors": "D. B. REID",
-        "publisher": "MACLACHLAN, STEWART & CO.",
-        "publication_place": "EDINBURGH",
-        "date": "1839",
-        "identifier": "http://gallica.bnf.fr/ark:/12148/bpt6k90051q",
-        "iiif_manifest": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k90051q/manifest.json"
+  "metadata": {
+    "title": "ÉTUDES DE CHIMIE ORGANIQUE",
+    "title_complement": "faites en vue des applications physiologiques et médicales",
+    "volume_number": "PREMIÈRE PARTIE",
+    "authors": "E. Millon",
+    "publisher": "L. DANEL",
+    "publication_place": "LILLE",
+    "date": "1819",
+    "identifier": "http://gallica.bnf.fr/ark:/12148/bpt6k83734k",
+    "iiif_manifest": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k83734k/manifest.json"
+  },
+  "ark": "bpt6k83734k",
+  "typographie": {
+    "category": "Serif/Roman",
+    "subtype": "Modern (Didone)"
+  },
+  "_annotations": {
+    "metadata.title": {
+      "readability": "Readable"
     },
-    "langue": "en (English)",
-    "_annotations": {
-        "metadata.title": {
-            "lisibilite": "Lisible"
-        },
-        "metadata.title_complement": {
-            "lisibilite": "Lisible"
-        },
-        "metadata.volume_number": {
-            "lisibilite": "Non lisible",
-            "cause": "absent"
-        },
-        "metadata.authors": {
-            "lisibilite": "Lisible"
-        },
-        "metadata.publisher": {
-            "lisibilite": "Lisible"
-        },
-        "metadata.publication_place": {
-            "lisibilite": "Lisible"
-        },
-        "metadata.date": {
-            "lisibilite": "Lisible"
-        },
-        "langue": {
-            "lisibilite": "Lisible"
-        }
+    "metadata.title_complement": {
+      "readability": "Readable"
     },
-    "ark": "bpt6k90051q"
+    "metadata.volume_number": {
+      "readability": "Readable"
+    },
+    "metadata.authors": {
+      "readability": "Readable",
+      "correction": "E. Millon"
+    },
+    "metadata.publisher": {
+      "readability": "Readable",
+      "correction": "L. Danel"
+    },
+    "metadata.publication_place": {
+      "readability": "Readable",
+      "correction": "Lille"
+    },
+    "metadata.date": {
+      "readability": "Readable",
+      "correction": "1819"
+    },
+    "language": {
+      "readability": "Readable"
+    },
+    "metadata.identifier": {
+      "readability": "Readable"
+    },
+    "metadata.iiif_manifest": {
+      "readability": "Readable"
+    },
+    "ark": {
+      "readability": "Readable"
+    }
+  },
+  "language": "fr (French)"
 }
-```
+'''
 
 
 ## Dataset Statistics
