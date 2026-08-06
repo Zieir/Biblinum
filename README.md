@@ -182,11 +182,95 @@ Each file in jsons_corriges/ corresponds to one image and follows this structure
 
 ## Dataset Statistics
 
-TODO: add figures from the paper
-* statistics on languages
-* statistics on the presence of each field;
-* statistics on the legibility of each field;
-* statistics on the languages represented in the documents.
+BibliNum currently aggregates **792 image–human-annotation pairs** from Gallica/BnF and Numaclay, covering 19th- and early 20th-century scientific title pages from the *Maison de la Chimie* collection.
+
+### Language distribution
+
+The corpus spans **10 languages**, dominated by French:
+
+| Language | Share | Documents |
+|---|---|---|
+| French | 74.7% | 592 |
+| English | 11.2% | 89 |
+| German | 8.5% | 67 |
+| Swedish | 1.6% | 13 |
+| Spanish | 1.3% | 10 |
+| Russian | 1.0% | 8 |
+| Italian | 0.8% | 6 |
+| Portuguese | 0.4% | 3 |
+| Dutch | 0.1% | 1 |
+| Bulgarian | 0.1% | 1 |
+
+BibliNum is best characterised as a **French-dominant, multilingual-inclusive benchmark** rather than a balanced multilingual corpus. Results for languages with small sample sizes (n ≤ 13) should be read as indicative rather than statistically robust.
+
+### Field availability
+
+Field availability is a first source of difficulty, independent of image quality:
+
+| Field | Present in |
+|---|---|
+| title | 100% (792/792) |
+| authors | 95.8% |
+| publisher | 94.3% |
+| publication_place | 91.5% |
+| date | 87.1% |
+| title_complement | 63.0% |
+| volume_number | 44.6% |
+
+### Legibility per field
+
+Each field was annotated for legibility (legible / non-legible), with a cause specified when non-legible (absent, quality, covered, or handwritten). Legibility varies substantially by field:
+
+| Field | Legibility rate | Illegibility rate |
+|---|---|---|
+| title | 94.3% | 5.7% |
+| authors | 90.4% | 9.6% |
+| publisher | 89.4% | 10.6% |
+| publication_place | 89.1% | 10.9% |
+| date | 80.8% | 19.2% |
+| title_complement | 60.1% | 39.9% |
+| volume_number | 43.7% | 56.3% |
+
+**Causes of illegibility** (aggregated across all fields, n=1,205 non-legible instances):
+
+| Cause | Share |
+|---|---|
+| Absent (field doesn't exist on the document) | 80.9% |
+| Quality (blurred, over/under-exposed, low-resolution) | 11.2% |
+| Covered (stamp, sticker, physical occlusion) | 7.3% |
+| Handwritten (illegible or ambiguous handwriting) | 0.6% |
+
+The dominant cause is **structural absence** rather than optical degradation — a distinction that motivates reporting legibility and cause alongside raw extraction accuracy, since a pure OCR-quality metric would not capture it.
+
+Legibility also varies by language for higher-count languages (n > 5): e.g. `date` is legible on 87.6% of English documents vs. 52.5% of French and only 7.7% of Swedish documents. See the paper (Figure 2, bottom) for the full per-language breakdown.
+
+### Typography
+
+- **93%** of documents use **Serif/Roman** typefaces, with *Didone (Modern)* the dominant sub-type (57.1% of all documents).
+- The remaining 7% comprises a long tail of Script, Blackletter, Sans-serif, and other categories, each individually below 2%.
+- Blackletter/Fraktur typefaces (typically German-language printing) are present but marginal, despite 67 German-language documents in the corpus — suggesting German documents largely follow Antiqua (Roman) conventions rather than Fraktur.
+- Over 30 fine-grained typographic sub-types are represented in total.
+
+### Benchmark results (no fine-tuning)
+
+All systems evaluated on the same 792 documents, using a per-field match-rate metric (exact-normalized match for `date`/`volume_number`, fuzzy string-similarity match at threshold 85/100 for free-text fields).
+
+| Model | authors | date | place | publisher | title | title_compl. | volume_no. | **global** |
+|---|---|---|---|---|---|---|---|---|
+| Gemma-4-31B | **84.1** | 85.4 | **88.0** | 62.3 | 75.6 | 58.5 | **87.4** | **77.3** |
+| Qwen-3.6-35B-Instruct | 82.3 | **88.2** | 86.2 | **62.8** | 71.7 | 57.2 | 82.1 | 75.8 |
+| Qwen3-VL-8B (local) | 60.1 | 85.8 | 85.6 | 46.6 | 74.2 | **64.4** | 79.8 | 70.9 |
+| Qwen2.5-VL-3B (local) | 61.1 | 77.8 | 68.0 | 48.7 | 61.4 | 48.1 | 77.9 | 63.3 |
+| OCR+NLP baseline | 4.9 | 57.0 | 11.6 | 10.0 | 3.3 | 28.7 | 57.3 | 24.7 |
+| Florence-2 (0.77B) | 40.5 | 45.2 | 8.4 | 4.9 | 17.4 | 17.5 | 21.2 | 22.2 |
+
+The two API-served VLMs (Gemma-4-31B, Qwen-3.6-35B-Instruct) lead overall. Among locally-run models, Qwen3-VL-8B outperforms Qwen2.5-VL-3B, both well ahead of Florence-2 and the classical OCR+NLP baseline — confirming this corpus is challenging both for small models and for approaches that don't perform full-page visual field extraction.
+
+Full methodology, per-language and per-typography breakdowns, and error analysis are detailed in the accompanying paper.
+
+---
+
+*For questions about the dataset or annotation pipeline, see the annotation guidelines and tooling included in this repository.*
  
 ## License
 
