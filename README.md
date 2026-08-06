@@ -34,11 +34,6 @@ NB: See an example [here](https://gallica.bnf.fr/ark:/12148/bpt6k90402m) and see
 └── manual/          # Manually annotated and corrected JSON files
  ```
 
-## TODO Issues to Resolve
-- [ ] Check content: 792 annotations; mais 792 Gemma_outputs; why ground_truth 815 ?
-- [ ] light check : FAIR principles (Findable, Accessible, Interoperable, Reusable), / guidelines of the Datasheets for Datasets model.
-
-
 ## Annotation Guidelines
 Instructions for manual annotation.
 
