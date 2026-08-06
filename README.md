@@ -26,9 +26,7 @@ In addition, our annotations concerning the presence and legibility of fields ma
  
 NB: See an example [here](https://gallica.bnf.fr/ark:/12148/bpt6k90402m) and see complete books [here](https://gallica.bnf.fr/services/engine/search/sru?operation=searchRetrieve&exactSearch=false&collapsing=true&version=1.2&query=(((bibliotheque%20adj%20%22Universit%C3%A9%20Paris-Sud%22))%20or%20(provenance%20adj%20%22u-psud%22))) via Gallica portal / Numaclay collection / thanks to a collaboration of the French *Maison de la Chimie* scientific society with Université Paris-Saclay (formerly Université Paris-Sud).
 
-## Dataset Structure [TODO: Update]
-
-Qwen? 
+## Dataset Structure 
 
 ```bash
 ├── gallica/                  # Annotations found on the Gallica portal
@@ -38,7 +36,6 @@ Qwen?
 
 ## TODO Issues to Resolve
 - [ ] Check content: 792 annotations; mais 792 Gemma_outputs; why ground_truth 815 ?
-- [ ] share script for downloading the data, in addition to the annotations.  
 - [ ] light check : FAIR principles (Findable, Accessible, Interoperable, Reusable), / guidelines of the Datasheets for Datasets model.
 
 
@@ -89,8 +86,8 @@ This field is mandatory for every annotated entry.
 
 |Value	      | Meaning                                                       |
 | ----------- | --------------------------------------------------------------|
-|`Lisible`      | The field is visible in the image, and the quality satisfying.|
-|`Non lisible` | The field cannot be read reliably |
+|`Readable`      | The field is visible in the image, and the quality satisfying.|
+|`Not Readable` | The field cannot be read reliably |
 
 __Cause of Illegibility__
 
@@ -98,9 +95,9 @@ This field is present only when lisibilite is set to `Non lisible`.
 
 |Value	      | Meaning                                                       |
 | ----------- | --------------------------------------------------------------|
-|`qualite` | The field is present but is blurred, overexposed, too dark, or displayed at insufficient resolution. |
-|`recouvert` | A stamp, sticker, deletion mark, or another element physically obscures the content. |
-|`manuscrit` | The field is handwritten and is illegible or ambiguous. |
+|`quality` | The field is present but is blurred, overexposed, too dark, or displayed at insufficient resolution. |
+|`covered` | A stamp, sticker, deletion mark, or another element physically obscures the content. |
+|`handwritten` | The field is handwritten and is illegible or ambiguous. |
 |`absent` | The field is not present on the document. |
 
 __Correction__
