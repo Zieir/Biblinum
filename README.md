@@ -185,7 +185,7 @@ Each file in jsons_corriges/ corresponds to one image and follows this structure
   },
   "language": "fr (French)"
 }
-'''
+```
 
 
 ## Dataset Statistics
