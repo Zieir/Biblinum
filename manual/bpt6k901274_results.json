@@ -1,57 +1,58 @@
 {
-    "metadata": {
-        "title": "ЗАПИСКИ О УЗЛОВОЙ ТЕОРІИ",
-        "title_complement": "ХИМИЧЕСКИХЪ СОЕДИНЕНІЙ",
-        "volume_number": "",
-        "authors": "Михаил Николаевич Теплова",
-        "publisher": "ТИНО-ЛИТОГРАФІЯ А. Ф. МАРКОВА",
-        "publication_place": "С.-ПЕТЕРБУРГЪ",
-        "date": "1903",
-        "identifier": "http://gallica.bnf.fr/ark:/12148/bpt6k901274",
-        "iiif_manifest": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k901274/manifest.json"
+  "metadata": {
+    "title": "ЗАПИСКИ О УЗЛОВОЙ ТЕОРІИ",
+    "title_complement": "ХИМИЧЕСКИХЪ СОЕДИНЕНІЙ",
+    "volume_number": "",
+    "authors": "Михаил Николаевич Теплова",
+    "publisher": "ТИНО-ЛИТОГРАФІЯ А. Ф. МАРКОВА",
+    "publication_place": "С.-ПЕТЕРБУРГЪ",
+    "date": "1903",
+    "identifier": "http://gallica.bnf.fr/ark:/12148/bpt6k901274",
+    "iiif_manifest": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k901274/manifest.json"
+  },
+  "ark": "bpt6k901274",
+  "typographie": {
+    "category": "Script",
+    "subtype": "Cursive / Handwriting"
+  },
+  "_annotations": {
+    "metadata.title": {
+      "readability": "Readable"
     },
-    "ark": "bpt6k901274",
-    "typographie": {
-        "category": "Script",
-        "subtype": "Cursive / Handwriting"
+    "metadata.title_complement": {
+      "readability": "Readable"
     },
-    "_annotations": {
-        "metadata.title": {
-            "readability": "Readable"
-        },
-        "metadata.title_complement": {
-            "readability": "Readable"
-        },
-        "metadata.volume_number": {
-            "readability": "Not readable",
-            "cause": "absent"
-        },
-        "metadata.authors": {
-            "readability": "Readable",
-            "correction": "Михаил Николаевич Теплова"
-        },
-        "metadata.publisher": {
-            "readability": "Readable"
-        },
-        "metadata.publication_place": {
-            "readability": "Readable"
-        },
-        "metadata.date": {
-            "readability": "Readable"
-        },
-        "language": {
-            "readability": "Readable"
-        },
-        "_note": "A revoir",
-        "metadata.identifier": {
-            "readability": "Readable"
-        },
-        "metadata.iiif_manifest": {
-            "readability": "Readable"
-        },
-        "ark": {
-            "readability": "Readable"
-        }
+    "metadata.volume_number": {
+      "readability": "Not readable",
+      "cause": "absent"
     },
-    "language": "ru (Russian)"
+    "metadata.authors": {
+      "readability": "Readable",
+      "correction": "Михаил Николаевич Теплова"
+    },
+    "metadata.publisher": {
+      "readability": "Readable"
+    },
+    "metadata.publication_place": {
+      "readability": "Readable"
+    },
+    "metadata.date": {
+      "readability": "Readable"
+    },
+    "language": {
+      "readability": "Readable"
+    },
+    "_note": "A revoir",
+    "metadata.identifier": {
+      "readability": "Readable"
+    },
+    "metadata.iiif_manifest": {
+      "readability": "Readable"
+    },
+    "ark": {
+      "readability": "Readable"
+    }
+  },
+  "language": "ru (Russian)",
+  "page": "f4"
 }

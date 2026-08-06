@@ -1,61 +1,62 @@
 {
-    "metadata": {
-        "title": "ŒUVRES COMPLÈTES  d'Augustin Cauchy",
-        "title_complement": "",
-        "volume_number": "SÉRIE I TOME XII",
-        "authors": "Augustin CAUCHY",
-        "publisher": "GAUTHIER-VILLARS",
-        "publication_place": "PARIS",
-        "date": "1900",
-        "identifier": "http://gallica.bnf.fr/ark:/12148/bpt6k90192k",
-        "iiif_manifest": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k90192k/manifest.json"
+  "metadata": {
+    "title": "ŒUVRES COMPLÈTES  d'Augustin Cauchy",
+    "title_complement": "",
+    "volume_number": "SÉRIE I TOME XII",
+    "authors": "Augustin CAUCHY",
+    "publisher": "GAUTHIER-VILLARS",
+    "publication_place": "PARIS",
+    "date": "1900",
+    "identifier": "http://gallica.bnf.fr/ark:/12148/bpt6k90192k",
+    "iiif_manifest": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k90192k/manifest.json"
+  },
+  "ark": "bpt6k90192k",
+  "typographie": {
+    "category": "Serif/Roman",
+    "subtype": "Didone (Modern)"
+  },
+  "_annotations": {
+    "metadata.title": {
+      "readability": "Readable",
+      "correction": "ŒUVRES COMPLÈTES  d'Augustin Cauchy"
     },
-    "ark": "bpt6k90192k",
-    "typographie": {
-        "category": "Serif/Roman",
-        "subtype": "Didone (Modern)"
+    "metadata.title_complement": {
+      "readability": "Not readable",
+      "cause": "absent"
     },
-    "_annotations": {
-        "metadata.title": {
-            "readability": "Readable",
-            "correction": "ŒUVRES COMPLÈTES  d'Augustin Cauchy"
-        },
-        "metadata.title_complement": {
-            "readability": "Not readable",
-            "cause": "absent"
-        },
-        "metadata.volume_number": {
-            "readability": "Readable",
-            "correction": "SÉRIE I TOME XII"
-        },
-        "metadata.authors": {
-            "readability": "Readable",
-            "correction": "Augustin CAUCHY"
-        },
-        "metadata.publisher": {
-            "readability": "Readable",
-            "correction": "Gauthier-Villars "
-        },
-        "metadata.publication_place": {
-            "readability": "Readable",
-            "correction": "PARIS"
-        },
-        "metadata.date": {
-            "readability": "Readable",
-            "correction": "1900"
-        },
-        "language": {
-            "readability": "Readable"
-        },
-        "metadata.identifier": {
-            "readability": "Readable"
-        },
-        "metadata.iiif_manifest": {
-            "readability": "Readable"
-        },
-        "ark": {
-            "readability": "Readable"
-        }
+    "metadata.volume_number": {
+      "readability": "Readable",
+      "correction": "SÉRIE I TOME XII"
     },
-    "language": "fr (French)"
+    "metadata.authors": {
+      "readability": "Readable",
+      "correction": "Augustin CAUCHY"
+    },
+    "metadata.publisher": {
+      "readability": "Readable",
+      "correction": "Gauthier-Villars "
+    },
+    "metadata.publication_place": {
+      "readability": "Readable",
+      "correction": "PARIS"
+    },
+    "metadata.date": {
+      "readability": "Readable",
+      "correction": "1900"
+    },
+    "language": {
+      "readability": "Readable"
+    },
+    "metadata.identifier": {
+      "readability": "Readable"
+    },
+    "metadata.iiif_manifest": {
+      "readability": "Readable"
+    },
+    "ark": {
+      "readability": "Readable"
+    }
+  },
+  "language": "fr (French)",
+  "page": "f4"
 }
